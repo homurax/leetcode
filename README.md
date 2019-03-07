@@ -41,4 +41,5 @@
 |804|Unique Morse Code Words|Easy|
 |929|Unique Email Addresses|Easy|
 |961|N-Repeated Element in Size 2N Array|Easy|
+|977|Squares of a Sorted Array|Easy|
 
