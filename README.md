@@ -39,6 +39,7 @@
 |561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
+|700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
@@ -51,6 +52,7 @@
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
+|965|[Univalued Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/965.%20Univalued%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
 |1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
