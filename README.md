@@ -36,6 +36,7 @@
 
 |  #  |     Title     |  Level |
 |:---:|:--------------|:------:|
+|561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
@@ -46,7 +47,10 @@
 |852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |905|[Sort Array By Parity](https://github.com/homurax/leetcode-note/blob/master/Algorithms/905.%20Sort%20Array%20By%20Parity%20%5BEasy%5D.java)|Easy|
 |929|[Unique Email Addresses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/929.%20Unique%20Email%20Addresses%20%5BEasy%5D.java)|Easy|
+|933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
+|999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
+|1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
