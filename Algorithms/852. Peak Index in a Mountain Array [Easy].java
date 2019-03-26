@@ -63,16 +63,4 @@ public class PeakIndexInAMountainArray {
         return low;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
 }
