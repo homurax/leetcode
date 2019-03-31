@@ -46,9 +46,11 @@
 |590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
+|682|[Baseball Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/682.%20Baseball%20Game%20%5BEasy%5D.java)|Easy|
 |700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
+|766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
