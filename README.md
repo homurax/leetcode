@@ -36,6 +36,7 @@
 
 |  #  |     Title     |  Level |
 |:---:|:--------------|:------:|
+|104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
 |476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
