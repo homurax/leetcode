@@ -1,5 +1,3 @@
-package com.homurax.algorithm;
-
 /**
  * 1021. Remove Outermost Parentheses
  *
