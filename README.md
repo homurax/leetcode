@@ -48,6 +48,7 @@
 |557|[Reverse Words in a String III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/557.%20Reverse%20Words%20in%20a%20String%20III%20%5BEasy%5D.java)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree%20%5BEasy%5D.java)|Easy|
 |561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
+|566|[Reshape the Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/566.%20Reshape%20the%20Matrix%20%5BEasy%5D.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
