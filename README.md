@@ -58,6 +58,7 @@
 |700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
+|762|[Prime Number of Set Bits in Binary Representation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation%20%5BEasy%5D.java)|Easy|
 |766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
@@ -84,4 +85,5 @@
 |985|[Sum of Even Numbers After Queries](https://github.com/homurax/leetcode-note/blob/master/Algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries%20%5BEasy%5D.java)|Easy|
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
 |1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
+|1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
 |1021|[Remove Outermost Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1021.%20Remove%20Outermost%20Parentheses%20%5BEasy%5D.java)|Easy|
