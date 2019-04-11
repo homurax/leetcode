@@ -40,6 +40,7 @@
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
+|429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
 |463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
 |476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
