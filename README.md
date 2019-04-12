@@ -67,6 +67,7 @@
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
 |821|[Shortest Distance to a Character](https://github.com/homurax/leetcode-note/blob/master/Algorithms/821.%20Shortest%20Distance%20to%20a%20Character%20%5BEasy%5D.java)|Easy|
+|824|[Goat Latin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/824.%20Goat%20Latin%20%5BEasy%5D.java)|Easy|
 |832|[Flipping an Image](https://github.com/homurax/leetcode-note/blob/master/Algorithms/832.%20Flipping%20an%20Image%20%5BEasy%5D.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |867|[Transpose Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/867.%20Transpose%20Matrix%20%5BEasy%5D.java)|Easy|
