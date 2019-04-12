@@ -56,6 +56,7 @@
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
 |669|[Trim a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/669.%20Trim%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |682|[Baseball Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/682.%20Baseball%20Game%20%5BEasy%5D.java)|Easy|
+|693|[Binary Number with Alternating Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/693.%20Binary%20Number%20with%20Alternating%20Bits%20%5BEasy%5D.java)|Easy|
 |700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
