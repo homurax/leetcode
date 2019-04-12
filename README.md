@@ -52,6 +52,7 @@
 |589|[N-ary Tree Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
+|637|[Average of Levels in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
 |669|[Trim a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/669.%20Trim%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |682|[Baseball Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/682.%20Baseball%20Game%20%5BEasy%5D.java)|Easy|
