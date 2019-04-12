@@ -85,6 +85,7 @@
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
 |965|[Univalued Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/965.%20Univalued%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|976|[Largest Perimeter Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/976.%20Largest%20Perimeter%20Triangle%20%5BEasy%5D.java)|Easy|
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |985|[Sum of Even Numbers After Queries](https://github.com/homurax/leetcode-note/blob/master/Algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries%20%5BEasy%5D.java)|Easy|
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
