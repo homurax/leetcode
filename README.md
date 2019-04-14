@@ -64,6 +64,7 @@
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation%20%5BEasy%5D.java)|Easy|
 |766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
+|784|[Letter Case Permutation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/784.%20Letter%20Case%20Permutation%20%5BEasy%5D.java)|Easy|
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
 |821|[Shortest Distance to a Character](https://github.com/homurax/leetcode-note/blob/master/Algorithms/821.%20Shortest%20Distance%20to%20a%20Character%20%5BEasy%5D.java)|Easy|
@@ -85,6 +86,7 @@
 |933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
+|953|[Verifying an Alien Dictionary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/953.%20Verifying%20an%20Alien%20Dictionary%20%5BEasy%5D.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
 |965|[Univalued Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/965.%20Univalued%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |976|[Largest Perimeter Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/976.%20Largest%20Perimeter%20Triangle%20%5BEasy%5D.java)|Easy|
