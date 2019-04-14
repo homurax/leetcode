@@ -39,6 +39,7 @@
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
@@ -67,6 +68,7 @@
 |784|[Letter Case Permutation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/784.%20Letter%20Case%20Permutation%20%5BEasy%5D.java)|Easy|
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
+|812|[Largest Triangle Area](https://github.com/homurax/leetcode-note/blob/master/Algorithms/812.%20Largest%20Triangle%20Area%20%5BEasy%5D.java)|Easy|
 |821|[Shortest Distance to a Character](https://github.com/homurax/leetcode-note/blob/master/Algorithms/821.%20Shortest%20Distance%20to%20a%20Character%20%5BEasy%5D.java)|Easy|
 |824|[Goat Latin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/824.%20Goat%20Latin%20%5BEasy%5D.java)|Easy|
 |832|[Flipping an Image](https://github.com/homurax/leetcode-note/blob/master/Algorithms/832.%20Flipping%20an%20Image%20%5BEasy%5D.java)|Easy|
