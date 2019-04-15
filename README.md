@@ -39,6 +39,7 @@
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|283|[Move Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/283.%20Move%20Zeroes%20%5BEasy%5D.java)|Easy|
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
