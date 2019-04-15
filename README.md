@@ -45,6 +45,7 @@
 |429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
 |463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
 |476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
+|485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
 |557|[Reverse Words in a String III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/557.%20Reverse%20Words%20in%20a%20String%20III%20%5BEasy%5D.java)|Easy|
