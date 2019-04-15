@@ -100,4 +100,5 @@
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
 |1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum%20%5BEasy%5D.java)|Easy|
 |1021|[Remove Outermost Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1021.%20Remove%20Outermost%20Parentheses%20%5BEasy%5D.java)|Easy|
