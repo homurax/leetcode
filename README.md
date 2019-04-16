@@ -55,6 +55,7 @@
 |485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
+|520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
 |557|[Reverse Words in a String III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/557.%20Reverse%20Words%20in%20a%20String%20III%20%5BEasy%5D.java)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree%20%5BEasy%5D.java)|Easy|
 |561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
