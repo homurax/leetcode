@@ -36,6 +36,7 @@
 
 |  #  |     Title     |  Level |
 |:---:|:--------------|:------:|
+|13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |169|[Majority Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/169.%20Majority%20Element%20%5BEasy%5D.java)|Easy|
