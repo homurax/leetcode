@@ -42,6 +42,7 @@
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |169|[Majority Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/169.%20Majority%20Element%20%5BEasy%5D.java)|Easy|
 |206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
+|217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |237|[Delete Node in a Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |242|[Valid Anagram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/242.%20Valid%20Anagram%20%5BEasy%5D.java)|Easy|
