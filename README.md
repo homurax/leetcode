@@ -52,6 +52,7 @@
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |349|[Intersection of Two Arrays](https://github.com/homurax/leetcode-note/blob/master/Algorithms/349.%20Intersection%20of%20Two%20Arrays%20%5BEasy%5D.java)|Easy|
+|371|[Sum of Two Integers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/371.%20Sum%20of%20Two%20Integers%20%5BEasy%5D.java)|Easy|
 |389|[Find the Difference](https://github.com/homurax/leetcode-note/blob/master/Algorithms/389.%20Find%20the%20Difference%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
