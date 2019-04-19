@@ -41,6 +41,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II%20%5BEasy%5D.java)|Easy|
 |136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
 |169|[Majority Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/169.%20Majority%20Element%20%5BEasy%5D.java)|Easy|
+|171|[Excel Sheet Column Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/171.%20Excel%20Sheet%20Column%20Number%20%5BEasy%5D.java)|Easy|
 |206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
