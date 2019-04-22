@@ -132,4 +132,5 @@
 |1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum%20%5BEasy%5D.java)|Easy|
 |1021|[Remove Outermost Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1021.%20Remove%20Outermost%20Parentheses%20%5BEasy%5D.java)|Easy|
+|1029|[Two City Scheduling](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1029.%20Two%20City%20Scheduling%20%5BEasy%5D.java)|Easy|
 |1030|[Matrix Cells in Distance Order](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1030.%20Matrix%20Cells%20in%20Distance%20Order%20%5BEasy%5D.java)|Easy|
