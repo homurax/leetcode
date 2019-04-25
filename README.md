@@ -97,6 +97,7 @@
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/783.%20Minimum%20Distance%20Between%20BST%20Nodes%20%5BEasy%5D.java)|Easy|
 |784|[Letter Case Permutation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/784.%20Letter%20Case%20Permutation%20%5BEasy%5D.java)|Easy|
+|796|[Rotate String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/796.%20Rotate%20String%20%5BEasy%5D.java)|Easy|
 |804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
 |812|[Largest Triangle Area](https://github.com/homurax/leetcode-note/blob/master/Algorithms/812.%20Largest%20Triangle%20Area%20%5BEasy%5D.java)|Easy|
