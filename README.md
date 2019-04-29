@@ -69,6 +69,7 @@
 |485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
 |492|[Construct the Rectangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/492.%20Construct%20the%20Rectangle%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
+|506|[Relative Ranks](https://github.com/homurax/leetcode-note/blob/master/Algorithms/506.%20Relative%20Ranks%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
 |520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST%20%5BEasy%5D.java)|Easy|
