@@ -66,6 +66,7 @@
 |463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
 |476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
 |485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
+|492|[Construct the Rectangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/492.%20Construct%20the%20Rectangle%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
 |520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
