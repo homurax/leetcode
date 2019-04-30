@@ -1,5 +1,3 @@
-package com.homurax.algorithm;
-
 /**
  * 268. Missing Number
  *
