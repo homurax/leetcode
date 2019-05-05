@@ -56,6 +56,7 @@
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |349|[Intersection of Two Arrays](https://github.com/homurax/leetcode-note/blob/master/Algorithms/349.%20Intersection%20of%20Two%20Arrays%20%5BEasy%5D.java)|Easy|
+|350|[Intersection of Two Arrays II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/350.%20Intersection%20of%20Two%20Arrays%20II%20%5BEasy%5D.java)|Easy|
 |371|[Sum of Two Integers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/371.%20Sum%20of%20Two%20Integers%20%5BEasy%5D.java)|Easy|
 |383|[Ransom Note](https://github.com/homurax/leetcode-note/blob/master/Algorithms/383.%20Ransom%20Note%20%5BEasy%5D.java)|Easy|
 |387|[First Unique Character in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/387.%20First%20Unique%20Character%20in%20a%20String%20%5BEasy%5D.java)|Easy|
