@@ -143,6 +143,7 @@
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |985|[Sum of Even Numbers After Queries](https://github.com/homurax/leetcode-note/blob/master/Algorithms/985.%20Sum%20of%20Even%20Numbers%20After%20Queries%20%5BEasy%5D.java)|Easy|
 |993|[Cousins in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/993.%20Cousins%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|994|[Rotting Oranges](https://github.com/homurax/leetcode-note/blob/master/Algorithms/994.%20Rotting%20Oranges%20%5BEasy%5D.java)|Easy|
 |997|[Find the Town Judge](https://github.com/homurax/leetcode-note/blob/master/Algorithms/997.%20Find%20the%20Town%20Judge%20%5BEasy%5D.java)|Easy|
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
 |1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
