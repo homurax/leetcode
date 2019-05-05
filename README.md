@@ -79,6 +79,7 @@
 |520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST%20%5BEasy%5D.java)|Easy|
 |538|[Convert BST to Greater Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/538.%20Convert%20BST%20to%20Greater%20Tree%20%5BEasy%5D.java)|Easy|
+|543|[Diameter of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/543.%20Diameter%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |557|[Reverse Words in a String III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/557.%20Reverse%20Words%20in%20a%20String%20III%20%5BEasy%5D.java)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree%20%5BEasy%5D.java)|Easy|
 |561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
