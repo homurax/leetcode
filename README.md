@@ -120,6 +120,7 @@
 |830|[Positions of Large Groups](https://github.com/homurax/leetcode-note/blob/master/Algorithms/830.%20Positions%20of%20Large%20Groups%20%5BEasy%5D.java)|Easy|
 |832|[Flipping an Image](https://github.com/homurax/leetcode-note/blob/master/Algorithms/832.%20Flipping%20an%20Image%20%5BEasy%5D.java)|Easy|
 |836|[Rectangle Overlap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/836.%20Rectangle%20Overlap%20%5BEasy%5D.java)|Easy|
+|844|[Backspace String Compare](https://github.com/homurax/leetcode-note/blob/master/Algorithms/844.%20Backspace%20String%20Compare%20%5BEasy%5D.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |860|[Lemonade Change](https://github.com/homurax/leetcode-note/blob/master/Algorithms/860.%20Lemonade%20Change%20%5BEasy%5D.java)|Easy|
 |867|[Transpose Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/867.%20Transpose%20Matrix%20%5BEasy%5D.java)|Easy|
