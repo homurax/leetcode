@@ -53,6 +53,7 @@
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |237|[Delete Node in a Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |242|[Valid Anagram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/242.%20Valid%20Anagram%20%5BEasy%5D.java)|Easy|
+|257|[Binary Tree Paths](https://github.com/homurax/leetcode-note/blob/master/Algorithms/257.%20Binary%20Tree%20Paths%20%5BEasy%5D.java)|Easy|
 |258|[Add Digits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/258.%20Add%20Digits%20%5BEasy%5D.java)|Easy|
 |268|[Missing Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/268.%20Missing%20Number%20%5BEasy%5D.java)|Easy|
 |283|[Move Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/283.%20Move%20Zeroes%20%5BEasy%5D.java)|Easy|
