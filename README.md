@@ -38,6 +38,7 @@
 |:---:|:--------------|:------:|
 |13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
 |21|[Merge Two Sorted Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/21.%20Merge%20Two%20Sorted%20Lists%20%5BEasy%5D.java)|Easy|
+|27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
 |100|[Same Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/100.%20Same%20Tree%20%5BEasy%5D.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II%20%5BEasy%5D.java)|Easy|
