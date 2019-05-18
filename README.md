@@ -98,6 +98,7 @@
 |566|[Reshape the Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/566.%20Reshape%20the%20Matrix%20%5BEasy%5D.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
+|594|[Longest Harmonious Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/594.%20Longest%20Harmonious%20Subsequence%20%5BEasy%5D.java)|Easy|
 |598|[Range Addition II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/598.%20Range%20Addition%20II%20%5BEasy%5D.java)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
