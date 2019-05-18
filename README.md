@@ -108,6 +108,7 @@
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
 |661|[Image Smoother](https://github.com/homurax/leetcode-note/blob/master/Algorithms/661.%20Image%20Smoother%20%5BEasy%5D.java)|Easy|
 |669|[Trim a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/669.%20Trim%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence%20%5BEasy%5D.java)|Easy|
 |682|[Baseball Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/682.%20Baseball%20Game%20%5BEasy%5D.java)|Easy|
 |690|[Employee Importance](https://github.com/homurax/leetcode-note/blob/master/Algorithms/690.%20Employee%20Importance%20%5BEasy%5D.java)|Easy|
