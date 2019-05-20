@@ -56,6 +56,7 @@
 |167|[Two Sum II - Input array is sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted%20%5BEasy%5D.java)|Easy|
 |169|[Majority Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/169.%20Majority%20Element%20%5BEasy%5D.java)|Easy|
 |171|[Excel Sheet Column Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/171.%20Excel%20Sheet%20Column%20Number%20%5BEasy%5D.java)|Easy|
+|191|[Number of 1 Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/191.%20Number%20of%201%20Bits%20%5BEasy%5D.java)|Easy|
 |202|[Happy Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/202.%20Happy%20Number%20%5BEasy%5D.java)|Easy|
 |206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
