@@ -43,6 +43,7 @@
 |53|[Maximum Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/53.%20Maximum%20Subarray%20%5BEasy%5D.java)|Easy|
 |70|[Climbing Stairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/70.%20Climbing%20Stairs%20%5BEasy%5D.java)|Easy|
 |100|[Same Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/100.%20Same%20Tree%20%5BEasy%5D.java)|Easy|
+|101|[Symmetric Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/101.%20Symmetric%20Tree%20%5BEasy%5D.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II%20%5BEasy%5D.java)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
