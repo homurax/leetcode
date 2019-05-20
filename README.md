@@ -37,6 +37,7 @@
 |  #  |     Title     |  Level |
 |:---:|:--------------|:------:|
 |1|[Two Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1.%20Two%20Sum%20%5BEasy%5D.java)|Easy|
+|9|[Palindrome Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/9.%20Palindrome%20Number%20%5BEasy%5D.java)|Easy|
 |13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
 |21|[Merge Two Sorted Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/21.%20Merge%20Two%20Sorted%20Lists%20%5BEasy%5D.java)|Easy|
 |27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
