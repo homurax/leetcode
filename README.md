@@ -62,6 +62,7 @@
 |206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|231|[Power of Two](https://github.com/homurax/leetcode-note/blob/master/Algorithms/231.%20Power%20of%20Two%20%5BEasy%5D.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |237|[Delete Node in a Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |242|[Valid Anagram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/242.%20Valid%20Anagram%20%5BEasy%5D.java)|Easy|
