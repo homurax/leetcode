@@ -105,6 +105,7 @@
 |559|[Maximum Depth of N-ary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/559.%20Maximum%20Depth%20of%20N-ary%20Tree%20%5BEasy%5D.java)|Easy|
 |561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
 |566|[Reshape the Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/566.%20Reshape%20the%20Matrix%20%5BEasy%5D.java)|Easy|
+|572|[Subtree of Another Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/572.%20Subtree%20of%20Another%20Tree%20%5BEasy%5D.java)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/589.%20N-ary%20Tree%20Preorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
 |594|[Longest Harmonious Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/594.%20Longest%20Harmonious%20Subsequence%20%5BEasy%5D.java)|Easy|
