@@ -131,6 +131,7 @@
 |706|[Design HashMap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/706.%20Design%20HashMap%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
 |717|[1-bit and 2-bit Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/717.%201-bit%20and%202-bit%20Characters%20%5BEasy%5D.java)|Easy|
+|724|[Find Pivot Index](https://github.com/homurax/leetcode-note/blob/master/Algorithms/724.%20Find%20Pivot%20Index%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
 |733|[Flood Fill](https://github.com/homurax/leetcode-note/blob/master/Algorithms/733.%20Flood%20Fill%20%5BEasy%5D.java)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target%20%5BEasy%5D.java)|Easy|
