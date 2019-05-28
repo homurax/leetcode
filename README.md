@@ -40,6 +40,7 @@
 |9|[Palindrome Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/9.%20Palindrome%20Number%20%5BEasy%5D.java)|Easy|
 |13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
 |21|[Merge Two Sorted Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/21.%20Merge%20Two%20Sorted%20Lists%20%5BEasy%5D.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
 |35|[Search Insert Position](https://github.com/homurax/leetcode-note/blob/master/Algorithms/35.%20Search%20Insert%20Position%20%5BEasy%5D.java)|Easy|
 |53|[Maximum Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/53.%20Maximum%20Subarray%20%5BEasy%5D.java)|Easy|
