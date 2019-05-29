@@ -142,6 +142,7 @@
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
 |733|[Flood Fill](https://github.com/homurax/leetcode-note/blob/master/Algorithms/733.%20Flood%20Fill%20%5BEasy%5D.java)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target%20%5BEasy%5D.java)|Easy|
+|747|[Largest Number At Least Twice of Others](https://github.com/homurax/leetcode-note/blob/master/Algorithms/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others%20%5BEasy%5D.java)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation%20%5BEasy%5D.java)|Easy|
 |766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
