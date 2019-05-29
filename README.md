@@ -96,6 +96,7 @@
 |437|[Path Sum III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/437.%20Path%20Sum%20III%20%5BEasy%5D.java)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
 |455|[Assign Cookies](https://github.com/homurax/leetcode-note/blob/master/Algorithms/455.%20Assign%20Cookies%20%5BEasy%5D.java)|Easy|
+|459|[Repeated Substring Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/459.%20Repeated%20Substring%20Pattern%20%5BEasy%5D.java)|Easy|
 |463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
 |476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
 |482|[License Key Formatting](https://github.com/homurax/leetcode-note/blob/master/Algorithms/482.%20License%20Key%20Formatting%20%5BEasy%5D.java)|Easy|
