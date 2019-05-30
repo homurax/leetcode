@@ -127,6 +127,7 @@
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers%20%5BEasy%5D.java)|Easy|
 |637|[Average of Levels in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|643|[Maximum Average Subarray I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/643.%20Maximum%20Average%20Subarray%20I%20%5BEasy%5D.java)|Easy|
 |645|[Set Mismatch](https://github.com/homurax/leetcode-note/blob/master/Algorithms/645.%20Set%20Mismatch%20%5BEasy%5D.java)|Easy|
 |653|[Two Sum IV - Input is a BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
