@@ -104,6 +104,7 @@
 |485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
 |492|[Construct the Rectangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/492.%20Construct%20the%20Rectangle%20%5BEasy%5D.java)|Easy|
 |496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
+|501|[Find Mode in Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/501.%20Find%20Mode%20in%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |504|[Base 7](https://github.com/homurax/leetcode-note/blob/master/Algorithms/504.%20Base%207%20%5BEasy%5D.java)|Easy|
 |506|[Relative Ranks](https://github.com/homurax/leetcode-note/blob/master/Algorithms/506.%20Relative%20Ranks%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
