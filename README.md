@@ -45,6 +45,7 @@
 |35|[Search Insert Position](https://github.com/homurax/leetcode-note/blob/master/Algorithms/35.%20Search%20Insert%20Position%20%5BEasy%5D.java)|Easy|
 |53|[Maximum Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/53.%20Maximum%20Subarray%20%5BEasy%5D.java)|Easy|
 |66|[Plus One](https://github.com/homurax/leetcode-note/blob/master/Algorithms/66.%20Plus%20One%20%5BEasy%5D.java)|Easy|
+|67|[Add Binary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/67.%20Add%20Binary%20%5BEasy%5D.java)|Easy|
 |70|[Climbing Stairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/70.%20Climbing%20Stairs%20%5BEasy%5D.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List%20%5BEasy%5D.java)|Easy|
 |100|[Same Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/100.%20Same%20Tree%20%5BEasy%5D.java)|Easy|
