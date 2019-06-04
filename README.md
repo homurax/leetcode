@@ -209,3 +209,4 @@
 |1041|[Robot Bounded In Circle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1041.%20Robot%20Bounded%20In%20Circle%20%5BEasy%5D.java)|Easy|
 |1042|[Flower Planting With No Adjacent](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1042.%20Flower%20Planting%20With%20No%20Adjacent%20%5BEasy%5D.java)|Easy|
 |1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
+|1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
