@@ -49,6 +49,7 @@
 |67|[Add Binary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/67.%20Add%20Binary%20%5BEasy%5D.java)|Easy|
 |70|[Climbing Stairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/70.%20Climbing%20Stairs%20%5BEasy%5D.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List%20%5BEasy%5D.java)|Easy|
+|88|[Merge Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/88.%20Merge%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |100|[Same Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/100.%20Same%20Tree%20%5BEasy%5D.java)|Easy|
 |101|[Symmetric Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/101.%20Symmetric%20Tree%20%5BEasy%5D.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
