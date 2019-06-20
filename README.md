@@ -223,3 +223,4 @@
 |1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
 |1078|[Occurrences After Bigram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1078.%20Occurrences%20After%20Bigram%20%5BEasy%5D.java)|Easy|
+|1089|[Duplicate Zeros](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1089.%20Duplicate%20Zeros%20%5BEasy%5D.java)|Easy|
