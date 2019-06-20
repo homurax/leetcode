@@ -74,6 +74,7 @@
 |205|[Isomorphic Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/205.%20Isomorphic%20Strings%20%5BEasy%5D.java)|Easy|
 |206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
 |217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
+|219|[Contains Duplicate II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/219.%20Contains%20Duplicate%20II%20%5BEasy%5D.java)|Easy|
 |226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |231|[Power of Two](https://github.com/homurax/leetcode-note/blob/master/Algorithms/231.%20Power%20of%20Two%20%5BEasy%5D.java)|Easy|
 |234|[Palindrome Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/234.%20Palindrome%20Linked%20List%20%5BEasy%5D.java)|Easy|
