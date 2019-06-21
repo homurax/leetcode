@@ -195,6 +195,7 @@
 |922|[Sort Array By Parity II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/922.%20Sort%20Array%20By%20Parity%20II%20%5BEasy%5D.java)|Easy|
 |929|[Unique Email Addresses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/929.%20Unique%20Email%20Addresses%20%5BEasy%5D.java)|Easy|
 |933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
+|941|[Valid Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/941.%20Valid%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
 |953|[Verifying an Alien Dictionary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/953.%20Verifying%20an%20Alien%20Dictionary%20%5BEasy%5D.java)|Easy|
