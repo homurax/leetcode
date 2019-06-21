@@ -56,6 +56,7 @@
 |107|[Binary Tree Level Order Traversal II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II%20%5BEasy%5D.java)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |110|[Balanced Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/110.%20Balanced%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |112|[Path Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/112.%20Path%20Sum%20%5BEasy%5D.java)|Easy|
 |118|[Pascal's Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/118.%20Pascal%27s%20Triangle%20%5BEasy%5D.java)|Easy|
 |119|[Pascal's Triangle II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/119.%20Pascal%27s%20Triangle%20II%20%5BEasy%5D.java)|Easy|
