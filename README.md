@@ -87,6 +87,7 @@
 |263|[Ugly Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/263.%20Ugly%20Number%20%5BEasy%5D.java)|Easy|
 |268|[Missing Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/268.%20Missing%20Number%20%5BEasy%5D.java)|Easy|
 |283|[Move Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/283.%20Move%20Zeroes%20%5BEasy%5D.java)|Easy|
+|290|[Word Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/290.%20Word%20Pattern%20%5BEasy%5D.java)|Easy|
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |303|[Range Sum Query - Immutable](https://github.com/homurax/leetcode-note/blob/master/Algorithms/303.%20Range%20Sum%20Query%20-%20Immutable%20%5BEasy%5D.java)|Easy|
 |326|[Power of Three](https://github.com/homurax/leetcode-note/blob/master/Algorithms/326.%20Power%20of%20Three%20%5BEasy%5D.java)|Easy|
