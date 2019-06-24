@@ -43,7 +43,7 @@ public class ReverseLinkedList {
             return head;
         }
 
-        ListNode node = reverseList(head.next);
+        ListNode node = reverseList2(head.next);
         head.next.next = head;
         head.next = null;
         return node;
