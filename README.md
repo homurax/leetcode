@@ -145,6 +145,7 @@
 |599|[Minimum Index Sum of Two Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers%20%5BEasy%5D.java)|Easy|
+|633|[Sum of Square Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/633.%20Sum%20of%20Square%20Numbers%20%5BEasy%5D.java)|Easy|
 |637|[Average of Levels in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |643|[Maximum Average Subarray I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/643.%20Maximum%20Average%20Subarray%20I%20%5BEasy%5D.java)|Easy|
 |645|[Set Mismatch](https://github.com/homurax/leetcode-note/blob/master/Algorithms/645.%20Set%20Mismatch%20%5BEasy%5D.java)|Easy|
