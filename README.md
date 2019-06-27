@@ -146,6 +146,7 @@
 |594|[Longest Harmonious Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/594.%20Longest%20Harmonious%20Subsequence%20%5BEasy%5D.java)|Easy|
 |598|[Range Addition II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/598.%20Range%20Addition%20II%20%5BEasy%5D.java)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists%20%5BEasy%5D.java)|Easy|
+|605|[Can Place Flowers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/605.%20Can%20Place%20Flowers%20%5BEasy%5D.java)|Easy|
 |617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers%20%5BEasy%5D.java)|Easy|
 |633|[Sum of Square Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/633.%20Sum%20of%20Square%20Numbers%20%5BEasy%5D.java)|Easy|
