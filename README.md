@@ -92,6 +92,7 @@
 |258|[Add Digits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/258.%20Add%20Digits%20%5BEasy%5D.java)|Easy|
 |263|[Ugly Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/263.%20Ugly%20Number%20%5BEasy%5D.java)|Easy|
 |268|[Missing Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/268.%20Missing%20Number%20%5BEasy%5D.java)|Easy|
+|278|[First Bad Version](https://github.com/homurax/leetcode-note/blob/master/Algorithms/278.%20First%20Bad%20Version%20%5BEasy%5D.java)|Easy|
 |283|[Move Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/283.%20Move%20Zeroes%20%5BEasy%5D.java)|Easy|
 |290|[Word Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/290.%20Word%20Pattern%20%5BEasy%5D.java)|Easy|
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
