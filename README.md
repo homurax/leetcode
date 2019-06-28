@@ -134,6 +134,7 @@
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
 |520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/530.%20Minimum%20Absolute%20Difference%20in%20BST%20%5BEasy%5D.java)|Easy|
+|532|[K-diff Pairs in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/532.%20K-diff%20Pairs%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
 |538|[Convert BST to Greater Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/538.%20Convert%20BST%20to%20Greater%20Tree%20%5BEasy%5D.java)|Easy|
 |541|[Reverse String II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/541.%20Reverse%20String%20II%20%5BEasy%5D.java)|Easy|
 |543|[Diameter of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/543.%20Diameter%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
