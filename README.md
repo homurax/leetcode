@@ -243,3 +243,4 @@
 |1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
 |1078|[Occurrences After Bigram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1078.%20Occurrences%20After%20Bigram%20%5BEasy%5D.java)|Easy|
 |1089|[Duplicate Zeros](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1089.%20Duplicate%20Zeros%20%5BEasy%5D.java)|Easy|
+|1104|[Path In Zigzag Labelled Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
