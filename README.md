@@ -114,6 +114,7 @@
 |405|[Convert a Number to Hexadecimal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/405.%20Convert%20a%20Number%20to%20Hexadecimal%20%5BEasy%5D.java)|Easy|
 |409|[Longest Palindrome](https://github.com/homurax/leetcode-note/blob/master/Algorithms/409.%20Longest%20Palindrome%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
+|414|[Third Maximum Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/414.%20Third%20Maximum%20Number%20%5BEasy%5D.java)|Easy|
 |415|[Add Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/415.%20Add%20Strings%20%5BEasy%5D.java)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
 |434|[Number of Segments in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/434.%20Number%20of%20Segments%20in%20a%20String%20%5BEasy%5D.java)|Easy|
