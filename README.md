@@ -164,6 +164,7 @@
 |653|[Two Sum IV - Input is a BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST%20%5BEasy%5D.java)|Easy|
 |657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
 |661|[Image Smoother](https://github.com/homurax/leetcode-note/blob/master/Algorithms/661.%20Image%20Smoother%20%5BEasy%5D.java)|Easy|
+|665|[Non-decreasing Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/665.%20Non-decreasing%20Array%20%5BEasy%5D.java)|Easy|
 |669|[Trim a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/669.%20Trim%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/674.%20Longest%20Continuous%20Increasing%20Subsequence%20%5BEasy%5D.java)|Easy|
