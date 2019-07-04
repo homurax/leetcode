@@ -37,6 +37,7 @@
 |  #  |     Title     |  Level |
 |:---:|:--------------|:------:|
 |1|[Two Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/1.%20Two%20Sum%20%5BEasy%5D.java)|Easy|
+|7|[Reverse Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/7.%20Reverse%20Integer%20%5BEasy%5D.java)|Easy|
 |9|[Palindrome Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/9.%20Palindrome%20Number%20%5BEasy%5D.java)|Easy|
 |13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
 |14|[Longest Common Prefix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/14.%20Longest%20Common%20Prefix%20%5BEasy%5D.java)|Easy|
