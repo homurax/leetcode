@@ -244,6 +244,7 @@
 |1029|[Two City Scheduling](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1029.%20Two%20City%20Scheduling%20%5BEasy%5D.java)|Easy|
 |1030|[Matrix Cells in Distance Order](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1030.%20Matrix%20Cells%20in%20Distance%20Order%20%5BEasy%5D.java)|Easy|
 |1037|[Valid Boomerang](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1037.%20Valid%20Boomerang%20%5BEasy%5D.java)|Easy|
+|1038|[Binary Search Tree to Greater Sum Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree%20%5BMedium%5D.java)|Medium|
 |1041|[Robot Bounded In Circle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1041.%20Robot%20Bounded%20In%20Circle%20%5BEasy%5D.java)|Easy|
 |1042|[Flower Planting With No Adjacent](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1042.%20Flower%20Planting%20With%20No%20Adjacent%20%5BEasy%5D.java)|Easy|
 |1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
