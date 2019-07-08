@@ -251,6 +251,7 @@
 |1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
 |1078|[Occurrences After Bigram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1078.%20Occurrences%20After%20Bigram%20%5BEasy%5D.java)|Easy|
+|1079|[Letter Tile Possibilities](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1079.%20Letter%20Tile%20Possibilities%20%5BMedium%5D.java)|Medium|
 |1089|[Duplicate Zeros](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1089.%20Duplicate%20Zeros%20%5BEasy%5D.java)|Easy|
 |1103|[Distribute Candies to People](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1103.%20Distribute%20Candies%20to%20People%20%5BEasy%5D.java)|Easy|
 |1104|[Path In Zigzag Labelled Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
