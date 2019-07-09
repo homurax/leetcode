@@ -196,6 +196,7 @@
 |807|[Max Increase to Keep City Skyline](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/807.%20Max%20Increase%20to%20Keep%20City%20Skyline%20%5BMedium%5D.java)|Medium|
 |811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
 |812|[Largest Triangle Area](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/812.%20Largest%20Triangle%20Area%20%5BEasy%5D.java)|Easy|
+|814|[Binary Tree Pruning](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/814.%20Binary%20Tree%20Pruning%20%5BMedium%5D.java)|Medium|
 |819|[Most Common Word](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/819.%20Most%20Common%20Word%20%5BEasy%5D.java)|Easy|
 |821|[Shortest Distance to a Character](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/821.%20Shortest%20Distance%20to%20a%20Character%20%5BEasy%5D.java)|Easy|
 |824|[Goat Latin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/824.%20Goat%20Latin%20%5BEasy%5D.java)|Easy|
