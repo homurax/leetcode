@@ -215,6 +215,7 @@
 |884|[Uncommon Words from Two Sentences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/884.%20Uncommon%20Words%20from%20Two%20Sentences%20%5BEasy%5D.java)|Easy|
 |888|[Fair Candy Swap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/888.%20Fair%20Candy%20Swap%20%5BEasy%5D.java)|Easy|
 |890|[Find and Replace Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/890.%20Find%20and%20Replace%20Pattern%20%5BMedium%5D.java)|Medium|
+|894|[All Possible Full Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/894.%20All%20Possible%20Full%20Binary%20Trees%20%5BMedium%5D.java)|Medium|
 |896|[Monotonic Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/896.%20Monotonic%20Array%20%5BEasy%5D.java)|Easy|
 |897|[Increasing Order Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/897.%20Increasing%20Order%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |905|[Sort Array By Parity](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/905.%20Sort%20Array%20By%20Parity%20%5BEasy%5D.java)|Easy|
