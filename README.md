@@ -223,6 +223,7 @@
 |905|[Sort Array By Parity](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/905.%20Sort%20Array%20By%20Parity%20%5BEasy%5D.java)|Easy|
 |908|[Smallest Range I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/908.%20Smallest%20Range%20I%20%5BEasy%5D.java)|Easy|
 |917|[Reverse Only Letters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/917.%20Reverse%20Only%20Letters%20%5BEasy%5D.java)|Easy|
+|921|[Minimum Add to Make Parentheses Valid](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid%20%5BMedium%5D.java)|Medium|
 |922|[Sort Array By Parity II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/922.%20Sort%20Array%20By%20Parity%20II%20%5BEasy%5D.java)|Easy|
 |929|[Unique Email Addresses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/929.%20Unique%20Email%20Addresses%20%5BEasy%5D.java)|Easy|
 |933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
