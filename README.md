@@ -187,6 +187,7 @@
 |747|[Largest Number At Least Twice of Others](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others%20%5BEasy%5D.java)|Easy|
 |754|[Reach a Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/754.%20Reach%20a%20Number%20%5BEasy%5D.java)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation%20%5BEasy%5D.java)|Easy|
+|763|[Partition Labels](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/763.%20Partition%20Labels%20%5BMedium%5D.java)|Medium|
 |766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes%20%5BEasy%5D.java)|Easy|
