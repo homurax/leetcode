@@ -117,6 +117,7 @@
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
 |414|[Third Maximum Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/414.%20Third%20Maximum%20Number%20%5BEasy%5D.java)|Easy|
 |415|[Add Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/415.%20Add%20Strings%20%5BEasy%5D.java)|Easy|
+|419|[Battleships in a Board](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/419.%20Battleships%20in%20a%20Board%20%5BMedium%5D.java)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
 |434|[Number of Segments in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/434.%20Number%20of%20Segments%20in%20a%20String%20%5BEasy%5D.java)|Easy|
 |437|[Path Sum III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/437.%20Path%20Sum%20III%20%5BEasy%5D.java)|Easy|
