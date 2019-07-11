@@ -101,6 +101,7 @@
 |292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
 |303|[Range Sum Query - Immutable](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/303.%20Range%20Sum%20Query%20-%20Immutable%20%5BEasy%5D.java)|Easy|
 |326|[Power of Three](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/326.%20Power%20of%20Three%20%5BEasy%5D.java)|Easy|
+|338|[Counting Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/338.%20Counting%20Bits%20%5BMedium%5D.java)|Medium|
 |342|[Power of Four](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/342.%20Power%20of%20Four%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |345|[Reverse Vowels of a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/345.%20Reverse%20Vowels%20of%20a%20String%20%5BEasy%5D.java)|Easy|
