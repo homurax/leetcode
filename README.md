@@ -210,6 +210,7 @@
 |852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |859|[Buddy Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/859.%20Buddy%20Strings%20%5BEasy%5D.java)|Easy|
 |860|[Lemonade Change](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/860.%20Lemonade%20Change%20%5BEasy%5D.java)|Easy|
+|861|[Score After Flipping Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/861.%20Score%20After%20Flipping%20Matrix%20%5BMedium%5D.java)|Medium|
 |867|[Transpose Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/867.%20Transpose%20Matrix%20%5BEasy%5D.java)|Easy|
 |872|[Leaf-Similar Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/872.%20Leaf-Similar%20Trees%20%5BEasy%5D.java)|Easy|
 |876|[Middle of the Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/876.%20Middle%20of%20the%20Linked%20List%20%5BEasy%5D.java)|Easy|
