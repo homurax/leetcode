@@ -272,3 +272,4 @@
 |1104|[Path In Zigzag Labelled Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
 |1108|[Defanging an IP Address](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1108.%20Defanging%20an%20IP%20Address%20%5BEasy%5D.java)|Easy|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings%20%5BMedium%5D.java)|Medium|
+|1122|[Relative Sort Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1122.%20Relative%20Sort%20Array%20%5BEasy%5D.java)|Easy|
