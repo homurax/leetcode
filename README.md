@@ -225,6 +225,7 @@
 |897|[Increasing Order Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/897.%20Increasing%20Order%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |905|[Sort Array By Parity](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/905.%20Sort%20Array%20By%20Parity%20%5BEasy%5D.java)|Easy|
 |908|[Smallest Range I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/908.%20Smallest%20Range%20I%20%5BEasy%5D.java)|Easy|
+|912|[Sort an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/912.%20Sort%20an%20Array%20%5BMedium%5D.java)|Medium|
 |917|[Reverse Only Letters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/917.%20Reverse%20Only%20Letters%20%5BEasy%5D.java)|Easy|
 |921|[Minimum Add to Make Parentheses Valid](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid%20%5BMedium%5D.java)|Medium|
 |922|[Sort Array By Parity II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/922.%20Sort%20Array%20By%20Parity%20II%20%5BEasy%5D.java)|Easy|
