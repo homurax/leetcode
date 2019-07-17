@@ -240,6 +240,7 @@
 |953|[Verifying an Alien Dictionary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/953.%20Verifying%20an%20Alien%20Dictionary%20%5BEasy%5D.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
 |965|[Univalued Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/965.%20Univalued%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
+|973|[K Closest Points to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/973.%20K%20Closest%20Points%20to%20Origin%20%5BMedium%5D.java)|Medium|
 |976|[Largest Perimeter Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/976.%20Largest%20Perimeter%20Triangle%20%5BEasy%5D.java)|Easy|
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |979|[Distribute Coins in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/979.%20Distribute%20Coins%20in%20Binary%20Tree%20%5BMedium%5D.java)|Medium|
