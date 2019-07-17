@@ -124,6 +124,7 @@
 |437|[Path Sum III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/437.%20Path%20Sum%20III%20%5BEasy%5D.java)|Easy|
 |438|[Find All Anagrams in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/438.%20Find%20All%20Anagrams%20in%20a%20String%20%5BEasy%5D.java)|Easy|
 |441|[Arranging Coins](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/441.%20Arranging%20Coins%20%5BEasy%5D.java)|Easy|
+|442|[Find All Duplicates in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/442.%20Find%20All%20Duplicates%20in%20an%20Array%20%5BMedium%5D.java)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
 |455|[Assign Cookies](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/455.%20Assign%20Cookies%20%5BEasy%5D.java)|Easy|
 |459|[Repeated Substring Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/459.%20Repeated%20Substring%20Pattern%20%5BEasy%5D.java)|Easy|
