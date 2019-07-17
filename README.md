@@ -218,6 +218,7 @@
 |867|[Transpose Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/867.%20Transpose%20Matrix%20%5BEasy%5D.java)|Easy|
 |872|[Leaf-Similar Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/872.%20Leaf-Similar%20Trees%20%5BEasy%5D.java)|Easy|
 |876|[Middle of the Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/876.%20Middle%20of%20the%20Linked%20List%20%5BEasy%5D.java)|Easy|
+|877|[Stone Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/877.%20Stone%20Game%20%5BMedium%5D.java)|Medium|
 |883|[Projection Area of 3D Shapes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/883.%20Projection%20Area%20of%203D%20Shapes%20%5BEasy%5D.java)|Easy|
 |884|[Uncommon Words from Two Sentences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/884.%20Uncommon%20Words%20from%20Two%20Sentences%20%5BEasy%5D.java)|Easy|
 |888|[Fair Candy Swap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/888.%20Fair%20Candy%20Swap%20%5BEasy%5D.java)|Easy|
