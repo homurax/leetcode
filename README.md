@@ -222,6 +222,7 @@
 |883|[Projection Area of 3D Shapes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/883.%20Projection%20Area%20of%203D%20Shapes%20%5BEasy%5D.java)|Easy|
 |884|[Uncommon Words from Two Sentences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/884.%20Uncommon%20Words%20from%20Two%20Sentences%20%5BEasy%5D.java)|Easy|
 |888|[Fair Candy Swap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/888.%20Fair%20Candy%20Swap%20%5BEasy%5D.java)|Easy|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal%20%5BMedium%5D.java)|Medium|
 |890|[Find and Replace Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/890.%20Find%20and%20Replace%20Pattern%20%5BMedium%5D.java)|Medium|
 |894|[All Possible Full Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/894.%20All%20Possible%20Full%20Binary%20Trees%20%5BMedium%5D.java)|Medium|
 |896|[Monotonic Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/896.%20Monotonic%20Array%20%5BEasy%5D.java)|Easy|
