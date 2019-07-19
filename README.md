@@ -187,6 +187,7 @@
 |724|[Find Pivot Index](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/724.%20Find%20Pivot%20Index%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
 |733|[Flood Fill](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/733.%20Flood%20Fill%20%5BEasy%5D.java)|Easy|
+|739|[Daily Temperatures](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/739.%20Daily%20Temperatures%20%5BMedium%5D.java)|Medium|
 |744|[Find Smallest Letter Greater Than Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target%20%5BEasy%5D.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others%20%5BEasy%5D.java)|Easy|
 |754|[Reach a Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/754.%20Reach%20a%20Number%20%5BEasy%5D.java)|Easy|
