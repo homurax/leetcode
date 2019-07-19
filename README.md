@@ -114,6 +114,7 @@
 |389|[Find the Difference](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/389.%20Find%20the%20Difference%20%5BEasy%5D.java)|Easy|
 |404|[Sum of Left Leaves](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/404.%20Sum%20of%20Left%20Leaves%20%5BEasy%5D.java)|Easy|
 |405|[Convert a Number to Hexadecimal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/405.%20Convert%20a%20Number%20to%20Hexadecimal%20%5BEasy%5D.java)|Easy|
+|406|[Queue Reconstruction by Height](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/406.%20Queue%20Reconstruction%20by%20Height%20%5BEasy%5D.java)|Easy|
 |409|[Longest Palindrome](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/409.%20Longest%20Palindrome%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
 |414|[Third Maximum Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/414.%20Third%20Maximum%20Number%20%5BEasy%5D.java)|Easy|
