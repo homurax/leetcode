@@ -287,3 +287,4 @@
 |1110|[Delete Nodes And Return Forest](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1110.%20Delete%20Nodes%20And%20Return%20Forest%20%5BMedium%5D.java)|Medium|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings%20%5BMedium%5D.java)|Medium|
 |1122|[Relative Sort Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1122.%20Relative%20Sort%20Array%20%5BEasy%5D.java)|Easy|
+|1128|[Number of Equivalent Domino Pairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1128.%20Number%20of%20Equivalent%20Domino%20Pairs%20%5BEasy%5D.java)|Easy|
