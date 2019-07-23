@@ -141,6 +141,7 @@
 |507|[Perfect Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/507.%20Perfect%20Number%20%5BEasy%5D.java)|Easy|
 |509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
 |513|[Find Bottom Left Tree Value](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/513.%20Find%20Bottom%20Left%20Tree%20Value%20%5BMedium%5D.java)|Medium|
+|515|[Find Largest Value in Each Tree Row](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row%20%5BMedium%5D.java)|Medium|
 |520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
 |530|[Minimum Absolute Difference in BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/530.%20Minimum%20Absolute%20Difference%20in%20BST%20%5BEasy%5D.java)|Easy|
 |532|[K-diff Pairs in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/532.%20K-diff%20Pairs%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
