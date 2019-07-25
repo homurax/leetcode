@@ -180,6 +180,7 @@
 |687|[Longest Univalue Path](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/687.%20Longest%20Univalue%20Path%20%5BEasy%5D.java)|Easy|
 |690|[Employee Importance](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/690.%20Employee%20Importance%20%5BEasy%5D.java)|Easy|
 |693|[Binary Number with Alternating Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/693.%20Binary%20Number%20with%20Alternating%20Bits%20%5BEasy%5D.java)|Easy|
+|695|[Max Area of Island](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/695.%20Max%20Area%20of%20Island%20%5BMedium%5D.java)|Medium|
 |700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
 |701|[Insert into a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/701.%20Insert%20into%20a%20Binary%20Search%20Tree%20%5BMedium%5D.java)|Medium|
 |705|[Design HashSet](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/705.%20Design%20HashSet%20%5BEasy%5D.java)|Easy|
