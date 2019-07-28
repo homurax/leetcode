@@ -245,6 +245,7 @@
 |941|[Valid Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/941.%20Valid%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
+|946|[Validate Stack Sequences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/946.%20Validate%20Stack%20Sequences%20%5BMedium%5D.java)|Medium|
 |950|[Reveal Cards In Increasing Order](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/950.%20Reveal%20Cards%20In%20Increasing%20Order%20%5BMedium%5D.java)|Medium|
 |951|[Flip Equivalent Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/951.%20Flip%20Equivalent%20Binary%20Trees%20%5BMedium%5D.java)|Medium|
 |953|[Verifying an Alien Dictionary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/953.%20Verifying%20an%20Alien%20Dictionary%20%5BEasy%5D.java)|Easy|
