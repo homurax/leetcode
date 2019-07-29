@@ -93,6 +93,7 @@
 |242|[Valid Anagram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/242.%20Valid%20Anagram%20%5BEasy%5D.java)|Easy|
 |257|[Binary Tree Paths](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/257.%20Binary%20Tree%20Paths%20%5BEasy%5D.java)|Easy|
 |258|[Add Digits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/258.%20Add%20Digits%20%5BEasy%5D.java)|Easy|
+|260|[Single Number III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/260.%20Single%20Number%20III%20%5BMedium%5D.java)|Medium|
 |263|[Ugly Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/263.%20Ugly%20Number%20%5BEasy%5D.java)|Easy|
 |268|[Missing Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/268.%20Missing%20Number%20%5BEasy%5D.java)|Easy|
 |278|[First Bad Version](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/278.%20First%20Bad%20Version%20%5BEasy%5D.java)|Easy|
