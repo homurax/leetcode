@@ -259,6 +259,7 @@
 |976|[Largest Perimeter Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/976.%20Largest%20Perimeter%20Triangle%20%5BEasy%5D.java)|Easy|
 |977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |979|[Distribute Coins in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/979.%20Distribute%20Coins%20in%20Binary%20Tree%20%5BMedium%5D.java)|Medium|
+|983|[Minimum Cost For Tickets](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/983.%20Minimum%20Cost%20For%20Tickets%20%5BMedium%5D.java)|Medium|
 |985|[Sum of Even Numbers After Queries](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/985.%20Sum%20of%20Even%20Numbers%20After%20Queries%20%5BEasy%5D.java)|Easy|
 |986|[Interval List Intersections](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/986.%20Interval%20List%20Intersections%20%5BMedium%5D.java)|Medium|
 |989|[Add to Array-Form of Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/989.%20Add%20to%20Array-Form%20of%20Integer%20%5BEasy%5D.java)|Easy|
