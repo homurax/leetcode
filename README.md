@@ -291,6 +291,7 @@
 |1078|[Occurrences After Bigram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1078.%20Occurrences%20After%20Bigram%20%5BEasy%5D.java)|Easy|
 |1079|[Letter Tile Possibilities](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1079.%20Letter%20Tile%20Possibilities%20%5BMedium%5D.java)|Medium|
 |1089|[Duplicate Zeros](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1089.%20Duplicate%20Zeros%20%5BEasy%5D.java)|Easy|
+|1090|[Largest Values From Labels](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1090.%20Largest%20Values%20From%20Labels%20%5BMedium%5D.java)|Medium|
 |1094|[Car Pooling](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1094.%20Car%20Pooling%20%5BMedium%5D.java)|Medium|
 |1103|[Distribute Candies to People](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1103.%20Distribute%20Candies%20to%20People%20%5BEasy%5D.java)|Easy|
 |1104|[Path In Zigzag Labelled Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
