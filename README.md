@@ -222,6 +222,7 @@
 |844|[Backspace String Compare](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/844.%20Backspace%20String%20Compare%20%5BEasy%5D.java)|Easy|
 |849|[Maximize Distance to Closest Person](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/849.%20Maximize%20Distance%20to%20Closest%20Person%20%5BEasy%5D.java)|Easy|
 |852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
+|856|[Score of Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/856.%20Score%20of%20Parentheses%20%5BMedium%5D.java)|Medium|
 |859|[Buddy Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/859.%20Buddy%20Strings%20%5BEasy%5D.java)|Easy|
 |860|[Lemonade Change](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/860.%20Lemonade%20Change%20%5BEasy%5D.java)|Easy|
 |861|[Score After Flipping Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/861.%20Score%20After%20Flipping%20Matrix%20%5BMedium%5D.java)|Medium|
