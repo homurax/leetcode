@@ -305,3 +305,4 @@
 |1130|[Minimum Cost Tree From Leaf Values](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values%20%5BMedium%5D.java)|Medium|
 |1137|[N-th Tribonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1137.%20N-th%20Tribonacci%20Number%20%5BEasy%5D.java)|Easy|
 |1143|[Longest Common Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1143.%20Longest%20Common%20Subsequence%20%5BMedium%5D.java)|Medium|
+|1154|[Day of the Year](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1154.%20Day%20of%20the%20Year%20%5BEasy%5D.java)|Easy|
