@@ -46,6 +46,7 @@
 |26|[Remove Duplicates from Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
 |35|[Search Insert Position](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/35.%20Search%20Insert%20Position%20%5BEasy%5D.java)|Easy|
+|46|[Permutations](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/46.%20Permutations%20%5BMedium%5D.java)|Medium|
 |53|[Maximum Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/53.%20Maximum%20Subarray%20%5BEasy%5D.java)|Easy|
 |58|[Length of Last Word](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/58.%20Length%20of%20Last%20Word%20%5BEasy%5D.java)|Easy|
 |66|[Plus One](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/66.%20Plus%20One%20%5BEasy%5D.java)|Easy|
