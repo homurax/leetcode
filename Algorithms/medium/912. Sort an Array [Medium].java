@@ -164,6 +164,53 @@ public class SortAnArray {
     }
 
 
+    /**
+     * 原地归并
+     */
+    public int[] sortArray5InPlace(int[] nums) {
+        sortInPlace(nums, 0, nums.length - 1);
+        return nums;
+    }
+
+    private void sortInPlace(int[] nums, int low, int high) {
+
+        if (low >= high) return;
+
+        int mid = low + ((high - low) >> 1);
+        sortInPlace(nums, low, mid);
+        sortInPlace(nums, mid + 1, high);
+        merge(nums, low, mid, high);
+    }
+
+    private void merge(int[] nums, int low, int mid, int high) {
+        int i = low;
+        int j = mid + 1;
+        while (i < j && j <= high) {
+            while (i < j && nums[i] <= nums[j]) {
+                i++;
+            }
+            int index = j;
+            while (j <= high && nums[j] <= nums[i]) {
+                j++;
+            }
+            // nums[low, i - 1] < nums[i, mid] > nums[mid + 1, j - 1]
+            swap(nums, i, index - 1);
+            swap(nums, index, j - 1);
+            swap(nums, i, j - 1);
+            i += (j - index);
+        }
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        if (i < 0 || i > j) return;
+        for (; i < j; i++, j--) {
+            int temp = nums[j];
+            nums[j] = nums[i];
+            nums[i] = temp;
+        }
+    }
+
+
     /* 不稳定排序 */
 
     /**
@@ -195,8 +242,8 @@ public class SortAnArray {
      * О(n log²n)
      *
      * 步长推荐
-     *  1, 5, 19, 41, 109,...
-     *  1, 9, 34, 182, 836, 4025, 19001, 90358, 428481, 2034035, 9651787, 45806244, 217378076, 1031612713,…
+     * 1, 5, 19, 41, 109,...
+     * 1, 9, 34, 182, 836, 4025, 19001, 90358, 428481, 2034035, 9651787, 45806244, 217378076, 1031612713,…
      */
     public int[] sortArray7(int[] nums) {
 
