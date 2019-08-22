@@ -121,6 +121,7 @@
 |406|[Queue Reconstruction by Height](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/406.%20Queue%20Reconstruction%20by%20Height%20%5BEasy%5D.java)|Easy|
 |409|[Longest Palindrome](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/409.%20Longest%20Palindrome%20%5BEasy%5D.java)|Easy|
 |412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
+|413|[Arithmetic Slices](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/413.%20Arithmetic%20Slices%20%5BMedium%5D.java)|Medium|
 |414|[Third Maximum Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/414.%20Third%20Maximum%20Number%20%5BEasy%5D.java)|Easy|
 |415|[Add Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/415.%20Add%20Strings%20%5BEasy%5D.java)|Easy|
 |419|[Battleships in a Board](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/419.%20Battleships%20in%20a%20Board%20%5BMedium%5D.java)|Medium|
