@@ -109,6 +109,7 @@
 |342|[Power of Four](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/342.%20Power%20of%20Four%20%5BEasy%5D.java)|Easy|
 |344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
 |345|[Reverse Vowels of a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/345.%20Reverse%20Vowels%20of%20a%20String%20%5BEasy%5D.java)|Easy|
+|347|[Top K Frequent Elements](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/347.%20Top%20K%20Frequent%20Elements%20%5BMedium%5D.java)|Medium|
 |349|[Intersection of Two Arrays](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/349.%20Intersection%20of%20Two%20Arrays%20%5BEasy%5D.java)|Easy|
 |350|[Intersection of Two Arrays II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/350.%20Intersection%20of%20Two%20Arrays%20II%20%5BEasy%5D.java)|Easy|
 |367|[Valid Perfect Square](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/367.%20Valid%20Perfect%20Square%20%5BEasy%5D.java)|Easy|
