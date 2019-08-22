@@ -43,6 +43,7 @@
 |14|[Longest Common Prefix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/14.%20Longest%20Common%20Prefix%20%5BEasy%5D.java)|Easy|
 |20|[Valid Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/20.%20Valid%20Parentheses%20%5BEasy%5D.java)|Easy|
 |21|[Merge Two Sorted Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/21.%20Merge%20Two%20Sorted%20Lists%20%5BEasy%5D.java)|Easy|
+|22|[Generate Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/22.%20Generate%20Parentheses%20%5BMedium%5D.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
 |35|[Search Insert Position](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/35.%20Search%20Insert%20Position%20%5BEasy%5D.java)|Easy|
