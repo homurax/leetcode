@@ -210,6 +210,7 @@
 |771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes%20%5BEasy%5D.java)|Easy|
 |784|[Letter Case Permutation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/784.%20Letter%20Case%20Permutation%20%5BEasy%5D.java)|Easy|
+|789|[Escape The Ghosts](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/789.%20Escape%20The%20Ghosts%20%5BMedium%5D.java)|Medium|
 |791|[Custom Sort String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/791.%20Custom%20Sort%20String%20%5BMedium%5D.java)|Medium|
 |796|[Rotate String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/796.%20Rotate%20String%20%5BEasy%5D.java)|Easy|
 |797|[All Paths From Source to Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/797.%20All%20Paths%20From%20Source%20to%20Target%20%5BMedium%5D.java)|Medium|
