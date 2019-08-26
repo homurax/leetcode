@@ -196,6 +196,7 @@
 |705|[Design HashSet](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/705.%20Design%20HashSet%20%5BEasy%5D.java)|Easy|
 |706|[Design HashMap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/706.%20Design%20HashMap%20%5BEasy%5D.java)|Easy|
 |709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
+|712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings%20%5BMedium%5D.java)|Medium|
 |717|[1-bit and 2-bit Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/717.%201-bit%20and%202-bit%20Characters%20%5BEasy%5D.java)|Easy|
 |724|[Find Pivot Index](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/724.%20Find%20Pivot%20Index%20%5BEasy%5D.java)|Easy|
 |728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
