@@ -54,6 +54,7 @@
 |67|[Add Binary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/67.%20Add%20Binary%20%5BEasy%5D.java)|Easy|
 |69|[Sqrt(x)](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/69.%20Sqrt%28x%29%20%5BEasy%5D.java)|Easy|
 |70|[Climbing Stairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/70.%20Climbing%20Stairs%20%5BEasy%5D.java)|Easy|
+|78|[Subsets](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/78.%20Subsets%20%5BMedium%5D.java)|Medium|
 |83|[Remove Duplicates from Sorted List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/83.%20Remove%20Duplicates%20from%20Sorted%20List%20%5BEasy%5D.java)|Easy|
 |88|[Merge Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/88.%20Merge%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
 |94|[Binary Tree Inorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/94.%20Binary%20Tree%20Inorder%20Traversal%20%5BMedium%5D.java)|Medium|
