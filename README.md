@@ -281,6 +281,7 @@
 |997|[Find the Town Judge](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/997.%20Find%20the%20Town%20Judge%20%5BEasy%5D.java)|Easy|
 |999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
 |1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
+|1004|[Max Consecutive Ones III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1004.%20Max%20Consecutive%20Ones%20III%20%5BMedium%5D.java)|Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations%20%5BEasy%5D.java)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal%20%5BMedium%5D.java)|Medium|
 |1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
