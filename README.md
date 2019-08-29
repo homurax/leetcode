@@ -290,6 +290,7 @@
 |1017|[Convert to Base -2](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1017.%20Convert%20to%20Base%20-2%20%5BMedium%5D.java)|Medium|
 |1018|[Binary Prefix Divisible By 5](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1018.%20Binary%20Prefix%20Divisible%20By%205%20%5BEasy%5D.java)|Easy|
 |1019|[Next Greater Node In Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List%20%5BMedium%5D.java)|Medium|
+|1020|[Number of Enclaves](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1020.%20Number%20of%20Enclaves%20%5BMedium%5D.java)|Medium|
 |1021|[Remove Outermost Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1021.%20Remove%20Outermost%20Parentheses%20%5BEasy%5D.java)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers%20%5BEasy%5D.java)|Easy|
 |1023|[Camelcase Matching](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1023.%20Camelcase%20Matching%20%5BMedium%5D.java)|Medium|
