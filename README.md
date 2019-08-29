@@ -286,6 +286,7 @@
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal%20%5BMedium%5D.java)|Medium|
 |1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060%20%5BEasy%5D.java)|Easy|
+|1011|[Capacity To Ship Packages Within D Days](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days%20%5BMedium%5D.java)|Medium|
 |1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum%20%5BEasy%5D.java)|Easy|
 |1016|[Binary String With Substrings Representing 1 To N](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1016.%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N%20%5BMedium%5D.java)|Medium|
 |1017|[Convert to Base -2](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1017.%20Convert%20to%20Base%20-2%20%5BMedium%5D.java)|Medium|
