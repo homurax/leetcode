@@ -305,6 +305,7 @@
 |1041|[Robot Bounded In Circle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1041.%20Robot%20Bounded%20In%20Circle%20%5BEasy%5D.java)|Easy|
 |1042|[Flower Planting With No Adjacent](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1042.%20Flower%20Planting%20With%20No%20Adjacent%20%5BEasy%5D.java)|Easy|
 |1043|[Partition Array for Maximum Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1043.%20Partition%20Array%20for%20Maximum%20Sum%20%5BMedium%5D.java)|Medium|
+|1047|[Remove All Adjacent Duplicates In String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String%20%5BEasy%5D.java)|Easy|
 |1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows%20%5BMedium%5D.java)|Medium|
@@ -324,5 +325,8 @@
 |1137|[N-th Tribonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1137.%20N-th%20Tribonacci%20Number%20%5BEasy%5D.java)|Easy|
 |1143|[Longest Common Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1143.%20Longest%20Common%20Subsequence%20%5BMedium%5D.java)|Medium|
 |1154|[Day of the Year](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1154.%20Day%20of%20the%20Year%20%5BEasy%5D.java)|Easy|
+|1160|[Find Words That Can Be Formed by Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters%20%5BEasy%5D.java)|Easy|
+|1185|[Day of the Week](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1185.%20Day%20of%20the%20Week%20%5BEasy%5D.java)|Easy|
+|1200|[Minimum Absolute Difference](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1200.%20Minimum%20Absolute%20Difference%20%5BEasy%5D.java)|Easy|
 |1207|[Unique Number of Occurrences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1207.%20Unique%20Number%20of%20Occurrences%20%5BEasy%5D.java)|Easy|
 |1221|[Split a String in Balanced Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings%20%5BEasy%5D.java)|Easy|
