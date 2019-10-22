@@ -1,6 +1,6 @@
 # LeetCode Note
 
-自己的刷题记录。
+刷题记录。
 
 ## Database
 
@@ -259,6 +259,7 @@
 |929|[Unique Email Addresses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/929.%20Unique%20Email%20Addresses%20%5BEasy%5D.java)|Easy|
 |931|[Minimum Falling Path Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/931.%20Minimum%20Falling%20Path%20Sum%20%5BMedium%5D.java)|Medium|
 |933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
+|938|[Range Sum of BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/938.%20Range%20Sum%20of%20BST%20%5BEasy%5D.java)|Easy|
 |941|[Valid Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/941.%20Valid%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
 |942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
@@ -323,3 +324,5 @@
 |1137|[N-th Tribonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1137.%20N-th%20Tribonacci%20Number%20%5BEasy%5D.java)|Easy|
 |1143|[Longest Common Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1143.%20Longest%20Common%20Subsequence%20%5BMedium%5D.java)|Medium|
 |1154|[Day of the Year](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1154.%20Day%20of%20the%20Year%20%5BEasy%5D.java)|Easy|
+|1207|[Unique Number of Occurrences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1207.%20Unique%20Number%20of%20Occurrences%20%5BEasy%5D.java)|Easy|
+|1221|[Split a String in Balanced Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings%20%5BEasy%5D.java)|Easy|
