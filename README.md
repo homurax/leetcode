@@ -32,301 +32,301 @@
 
 ## Algorithms
 
-**Algorithms**中为算法题目，JDK版本为`1.8.0_144`。Java源文件命名与上相同，注意仅为方便检索，命名并不规范。
+**Algorithms**中为算法题目。JDK版本为`1.8.0_144`；Python版本为`3.8.0`。
 
-|  #  |     Title     |  Level |
-|:---:|:--------------|:------:|
-|1|[Two Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1.%20Two%20Sum%20%5BEasy%5D.java)|Easy|
-|7|[Reverse Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/7.%20Reverse%20Integer%20%5BEasy%5D.java)|Easy|
-|9|[Palindrome Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/9.%20Palindrome%20Number%20%5BEasy%5D.java)|Easy|
-|13|[Roman to Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/13.%20Roman%20to%20Integer%20%5BEasy%5D.java)|Easy|
-|14|[Longest Common Prefix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/14.%20Longest%20Common%20Prefix%20%5BEasy%5D.java)|Easy|
-|20|[Valid Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/20.%20Valid%20Parentheses%20%5BEasy%5D.java)|Easy|
-|21|[Merge Two Sorted Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/21.%20Merge%20Two%20Sorted%20Lists%20%5BEasy%5D.java)|Easy|
-|22|[Generate Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/22.%20Generate%20Parentheses%20%5BMedium%5D.java)|Medium|
-|26|[Remove Duplicates from Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
-|27|[Remove Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/27.%20Remove%20Element%20%5BEasy%5D.java)|Easy|
-|35|[Search Insert Position](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/35.%20Search%20Insert%20Position%20%5BEasy%5D.java)|Easy|
-|46|[Permutations](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/46.%20Permutations%20%5BMedium%5D.java)|Medium|
-|53|[Maximum Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/53.%20Maximum%20Subarray%20%5BEasy%5D.java)|Easy|
-|58|[Length of Last Word](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/58.%20Length%20of%20Last%20Word%20%5BEasy%5D.java)|Easy|
-|66|[Plus One](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/66.%20Plus%20One%20%5BEasy%5D.java)|Easy|
-|67|[Add Binary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/67.%20Add%20Binary%20%5BEasy%5D.java)|Easy|
-|69|[Sqrt(x)](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/69.%20Sqrt%28x%29%20%5BEasy%5D.java)|Easy|
-|70|[Climbing Stairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/70.%20Climbing%20Stairs%20%5BEasy%5D.java)|Easy|
-|78|[Subsets](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/78.%20Subsets%20%5BMedium%5D.java)|Medium|
-|83|[Remove Duplicates from Sorted List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/83.%20Remove%20Duplicates%20from%20Sorted%20List%20%5BEasy%5D.java)|Easy|
-|88|[Merge Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/88.%20Merge%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
-|94|[Binary Tree Inorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/94.%20Binary%20Tree%20Inorder%20Traversal%20%5BMedium%5D.java)|Medium|
-|100|[Same Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/100.%20Same%20Tree%20%5BEasy%5D.java)|Easy|
-|101|[Symmetric Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/101.%20Symmetric%20Tree%20%5BEasy%5D.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/104.%20Maximum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|107|[Binary Tree Level Order Traversal II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II%20%5BEasy%5D.java)|Easy|
-|108|[Convert Sorted Array to Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|110|[Balanced Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/110.%20Balanced%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|111|[Minimum Depth of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/111.%20Minimum%20Depth%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|112|[Path Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/112.%20Path%20Sum%20%5BEasy%5D.java)|Easy|
-|118|[Pascal's Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/118.%20Pascal%27s%20Triangle%20%5BEasy%5D.java)|Easy|
-|119|[Pascal's Triangle II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/119.%20Pascal%27s%20Triangle%20II%20%5BEasy%5D.java)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%5BEasy%5D.java)|Easy|
-|122|[Best Time to Buy and Sell Stock II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II%20%5BEasy%5D.java)|Easy|
-|136|[Single Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/136.%20Single%20Number%20%5BEasy%5D.java)|Easy|
-|141|[Linked List Cycle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/141.%20Linked%20List%20Cycle%20%5BEasy%5D.java)|Easy|
-|160|[Intersection of Two Linked Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/160.%20Intersection%20of%20Two%20Linked%20Lists%20%5BEasy%5D.java)|Easy|
-|167|[Two Sum II - Input array is sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted%20%5BEasy%5D.java)|Easy|
-|168|[Excel Sheet Column Title](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/168.%20Excel%20Sheet%20Column%20Title%20%5BEasy%5D.java)|Easy|
-|169|[Majority Element](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/169.%20Majority%20Element%20%5BEasy%5D.java)|Easy|
-|171|[Excel Sheet Column Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/171.%20Excel%20Sheet%20Column%20Number%20%5BEasy%5D.java)|Easy|
-|172|[Factorial Trailing Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/172.%20Factorial%20Trailing%20Zeroes%20%5BEasy%5D.java)|Easy|
-|189|[Rotate Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/189.%20Rotate%20Array%20%5BEasy%5D.java)|Easy|
-|190|[Reverse Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/190.%20Reverse%20Bits%20%5BEasy%5D.java)|Easy|
-|191|[Number of 1 Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/191.%20Number%20of%201%20Bits%20%5BEasy%5D.java)|Easy|
-|198|[House Robber](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/198.%20House%20Robber%20%5BEasy%5D.java)|Easy|
-|202|[Happy Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/202.%20Happy%20Number%20%5BEasy%5D.java)|Easy|
-|203|[Remove Linked List Elements](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/203.%20Remove%20Linked%20List%20Elements%20%5BEasy%5D.java)|Easy|
-|204|[Count Primes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/204.%20Count%20Primes%20%5BEasy%5D.java)|Easy|
-|205|[Isomorphic Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/205.%20Isomorphic%20Strings%20%5BEasy%5D.java)|Easy|
-|206|[Reverse Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/206.%20Reverse%20Linked%20List%20%5BEasy%5D.java)|Easy|
-|217|[Contains Duplicate](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/217.%20Contains%20Duplicate%20%5BEasy%5D.java)|Easy|
-|219|[Contains Duplicate II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/219.%20Contains%20Duplicate%20II%20%5BEasy%5D.java)|Easy|
-|226|[Invert Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/226.%20Invert%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|231|[Power of Two](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/231.%20Power%20of%20Two%20%5BEasy%5D.java)|Easy|
-|234|[Palindrome Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/234.%20Palindrome%20Linked%20List%20%5BEasy%5D.java)|Easy|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|237|[Delete Node in a Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/237.%20Delete%20Node%20in%20a%20Linked%20List%20%5BEasy%5D.java)|Easy|
-|238|[Product of Array Except Self](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/238.%20Product%20of%20Array%20Except%20Self%20%5BMedium%5D.java)|Medium|
-|242|[Valid Anagram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/242.%20Valid%20Anagram%20%5BEasy%5D.java)|Easy|
-|257|[Binary Tree Paths](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/257.%20Binary%20Tree%20Paths%20%5BEasy%5D.java)|Easy|
-|258|[Add Digits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/258.%20Add%20Digits%20%5BEasy%5D.java)|Easy|
-|260|[Single Number III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/260.%20Single%20Number%20III%20%5BMedium%5D.java)|Medium|
-|263|[Ugly Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/263.%20Ugly%20Number%20%5BEasy%5D.java)|Easy|
-|268|[Missing Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/268.%20Missing%20Number%20%5BEasy%5D.java)|Easy|
-|278|[First Bad Version](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/278.%20First%20Bad%20Version%20%5BEasy%5D.java)|Easy|
-|283|[Move Zeroes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/283.%20Move%20Zeroes%20%5BEasy%5D.java)|Easy|
-|290|[Word Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/290.%20Word%20Pattern%20%5BEasy%5D.java)|Easy|
-|292|[Nim Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/292.%20Nim%20Game%20%5BEasy%5D.java)|Easy|
-|303|[Range Sum Query - Immutable](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/303.%20Range%20Sum%20Query%20-%20Immutable%20%5BEasy%5D.java)|Easy|
-|326|[Power of Three](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/326.%20Power%20of%20Three%20%5BEasy%5D.java)|Easy|
-|338|[Counting Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/338.%20Counting%20Bits%20%5BMedium%5D.java)|Medium|
-|342|[Power of Four](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/342.%20Power%20of%20Four%20%5BEasy%5D.java)|Easy|
-|344|[Reverse String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/344.%20Reverse%20String%20%5BEasy%5D.java)|Easy|
-|345|[Reverse Vowels of a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/345.%20Reverse%20Vowels%20of%20a%20String%20%5BEasy%5D.java)|Easy|
-|347|[Top K Frequent Elements](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/347.%20Top%20K%20Frequent%20Elements%20%5BMedium%5D.java)|Medium|
-|349|[Intersection of Two Arrays](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/349.%20Intersection%20of%20Two%20Arrays%20%5BEasy%5D.java)|Easy|
-|350|[Intersection of Two Arrays II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/350.%20Intersection%20of%20Two%20Arrays%20II%20%5BEasy%5D.java)|Easy|
-|367|[Valid Perfect Square](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/367.%20Valid%20Perfect%20Square%20%5BEasy%5D.java)|Easy|
-|371|[Sum of Two Integers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/371.%20Sum%20of%20Two%20Integers%20%5BEasy%5D.java)|Easy|
-|383|[Ransom Note](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/383.%20Ransom%20Note%20%5BEasy%5D.java)|Easy|
-|387|[First Unique Character in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/387.%20First%20Unique%20Character%20in%20a%20String%20%5BEasy%5D.java)|Easy|
-|389|[Find the Difference](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/389.%20Find%20the%20Difference%20%5BEasy%5D.java)|Easy|
-|404|[Sum of Left Leaves](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/404.%20Sum%20of%20Left%20Leaves%20%5BEasy%5D.java)|Easy|
-|405|[Convert a Number to Hexadecimal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/405.%20Convert%20a%20Number%20to%20Hexadecimal%20%5BEasy%5D.java)|Easy|
-|406|[Queue Reconstruction by Height](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/406.%20Queue%20Reconstruction%20by%20Height%20%5BEasy%5D.java)|Easy|
-|409|[Longest Palindrome](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/409.%20Longest%20Palindrome%20%5BEasy%5D.java)|Easy|
-|412|[Fizz Buzz](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/412.%20Fizz%20Buzz%20%5BEasy%5D.java)|Easy|
-|413|[Arithmetic Slices](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/413.%20Arithmetic%20Slices%20%5BMedium%5D.java)|Medium|
-|414|[Third Maximum Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/414.%20Third%20Maximum%20Number%20%5BEasy%5D.java)|Easy|
-|415|[Add Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/415.%20Add%20Strings%20%5BEasy%5D.java)|Easy|
-|419|[Battleships in a Board](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/419.%20Battleships%20in%20a%20Board%20%5BMedium%5D.java)|Medium|
-|429|[N-ary Tree Level Order Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/429.%20N-ary%20Tree%20Level%20Order%20Traversal%20%5BEasy%5D.java)|Easy|
-|434|[Number of Segments in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/434.%20Number%20of%20Segments%20in%20a%20String%20%5BEasy%5D.java)|Easy|
-|437|[Path Sum III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/437.%20Path%20Sum%20III%20%5BEasy%5D.java)|Easy|
-|438|[Find All Anagrams in a String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/438.%20Find%20All%20Anagrams%20in%20a%20String%20%5BEasy%5D.java)|Easy|
-|441|[Arranging Coins](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/441.%20Arranging%20Coins%20%5BEasy%5D.java)|Easy|
-|442|[Find All Duplicates in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/442.%20Find%20All%20Duplicates%20in%20an%20Array%20%5BMedium%5D.java)|Medium|
-|448|[Find All Numbers Disappeared in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
-|451|[Sort Characters By Frequency](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/451.%20Sort%20Characters%20By%20Frequency%20%5BMedium%5D.java)|Medium|
-|455|[Assign Cookies](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/455.%20Assign%20Cookies%20%5BEasy%5D.java)|Easy|
-|459|[Repeated Substring Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/459.%20Repeated%20Substring%20Pattern%20%5BEasy%5D.java)|Easy|
-|463|[Island Perimeter](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/463.%20Island%20Perimeter%20%5BEasy%5D.java)|Easy|
-|476|[Number Complement](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/476.%20Number%20Complement%20%5BEasy%5D.java)|Easy|
-|482|[License Key Formatting](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/482.%20License%20Key%20Formatting%20%5BEasy%5D.java)|Easy|
-|485|[Max Consecutive Ones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/485.%20Max%20Consecutive%20Ones%20%5BEasy%5D.java)|Easy|
-|492|[Construct the Rectangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/492.%20Construct%20the%20Rectangle%20%5BEasy%5D.java)|Easy|
-|496|[Next Greater Element I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/496.%20Next%20Greater%20Element%20I%20%5BEasy%5D.java)|Easy|
-|501|[Find Mode in Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/501.%20Find%20Mode%20in%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|504|[Base 7](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/504.%20Base%207%20%5BEasy%5D.java)|Easy|
-|506|[Relative Ranks](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/506.%20Relative%20Ranks%20%5BEasy%5D.java)|Easy|
-|507|[Perfect Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/507.%20Perfect%20Number%20%5BEasy%5D.java)|Easy|
-|508|[Most Frequent Subtree Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/508.%20Most%20Frequent%20Subtree%20Sum%20%5BMedium%5D.java)|Medium|
-|509|[Fibonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/509.%20Fibonacci%20Number%20%5BEasy%5D.java)|Easy|
-|513|[Find Bottom Left Tree Value](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/513.%20Find%20Bottom%20Left%20Tree%20Value%20%5BMedium%5D.java)|Medium|
-|515|[Find Largest Value in Each Tree Row](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row%20%5BMedium%5D.java)|Medium|
-|520|[Detect Capital](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/520.%20Detect%20Capital%20%5BEasy%5D.java)|Easy|
-|530|[Minimum Absolute Difference in BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/530.%20Minimum%20Absolute%20Difference%20in%20BST%20%5BEasy%5D.java)|Easy|
-|532|[K-diff Pairs in an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/532.%20K-diff%20Pairs%20in%20an%20Array%20%5BEasy%5D.java)|Easy|
-|538|[Convert BST to Greater Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/538.%20Convert%20BST%20to%20Greater%20Tree%20%5BEasy%5D.java)|Easy|
-|540|[Single Element in a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/540.%20Single%20Element%20in%20a%20Sorted%20Array%20%5BMedium%5D.java)|Medium|
-|541|[Reverse String II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/541.%20Reverse%20String%20II%20%5BEasy%5D.java)|Easy|
-|543|[Diameter of Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/543.%20Diameter%20of%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|547|[Friend Circles](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/547.%20Friend%20Circles%20%5BMedium%5D.java)|Medium|
-|551|[Student Attendance Record I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/551.%20Student%20Attendance%20Record%20I%20%5BEasy%5D.java)|Easy|
-|557|[Reverse Words in a String III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/557.%20Reverse%20Words%20in%20a%20String%20III%20%5BEasy%5D.java)|Easy|
-|559|[Maximum Depth of N-ary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/559.%20Maximum%20Depth%20of%20N-ary%20Tree%20%5BEasy%5D.java)|Easy|
-|561|[Array Partition I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/561.%20Array%20Partition%20I%20%5BEasy%5D.java)|Easy|
-|566|[Reshape the Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/566.%20Reshape%20the%20Matrix%20%5BEasy%5D.java)|Easy|
-|572|[Subtree of Another Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/572.%20Subtree%20of%20Another%20Tree%20%5BEasy%5D.java)|Easy|
-|581|[Shortest Unsorted Continuous Subarray](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/581.%20Shortest%20Unsorted%20Continuous%20Subarray%20%5BEasy%5D.java)|Easy|
-|589|[N-ary Tree Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/589.%20N-ary%20Tree%20Preorder%20Traversal%20%5BEasy%5D.java)|Easy|
-|590|[N-ary Tree Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/590.%20N-ary%20Tree%20Postorder%20Traversal%20%5BEasy%5D.java)|Easy|
-|594|[Longest Harmonious Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/594.%20Longest%20Harmonious%20Subsequence%20%5BEasy%5D.java)|Easy|
-|598|[Range Addition II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/598.%20Range%20Addition%20II%20%5BEasy%5D.java)|Easy|
-|599|[Minimum Index Sum of Two Lists](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists%20%5BEasy%5D.java)|Easy|
-|605|[Can Place Flowers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/605.%20Can%20Place%20Flowers%20%5BEasy%5D.java)|Easy|
-|617|[Merge Two Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/617.%20Merge%20Two%20Binary%20Trees%20%5BEasy%5D.java)|Easy|
-|628|[Maximum Product of Three Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/628.%20Maximum%20Product%20of%20Three%20Numbers%20%5BEasy%5D.java)|Easy|
-|633|[Sum of Square Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/633.%20Sum%20of%20Square%20Numbers%20%5BEasy%5D.java)|Easy|
-|637|[Average of Levels in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|643|[Maximum Average Subarray I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/643.%20Maximum%20Average%20Subarray%20I%20%5BEasy%5D.java)|Easy|
-|645|[Set Mismatch](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/645.%20Set%20Mismatch%20%5BEasy%5D.java)|Easy|
-|647|[Palindromic Substrings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/647.%20Palindromic%20Substrings%20%5BMedium%5D.java)|Medium|
-|653|[Two Sum IV - Input is a BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST%20%5BEasy%5D.java)|Easy|
-|654|[Maximum Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/654.%20Maximum%20Binary%20Tree%20%5BMedium%5D.java)|Medium|
-|657|[Robot Return to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/657.%20Robot%20Return%20to%20Origin%20%5BEasy%5D.java)|Easy|
-|661|[Image Smoother](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/661.%20Image%20Smoother%20%5BEasy%5D.java)|Easy|
-|665|[Non-decreasing Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/665.%20Non-decreasing%20Array%20%5BEasy%5D.java)|Easy|
-|669|[Trim a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/669.%20Trim%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|671|[Second Minimum Node In a Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|674|[Longest Continuous Increasing Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/674.%20Longest%20Continuous%20Increasing%20Subsequence%20%5BEasy%5D.java)|Easy|
-|680|[Valid Palindrome II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/680.%20Valid%20Palindrome%20II%20%5BEasy%5D.java)|Easy|
-|682|[Baseball Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/682.%20Baseball%20Game%20%5BEasy%5D.java)|Easy|
-|687|[Longest Univalue Path](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/687.%20Longest%20Univalue%20Path%20%5BEasy%5D.java)|Easy|
-|690|[Employee Importance](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/690.%20Employee%20Importance%20%5BEasy%5D.java)|Easy|
-|693|[Binary Number with Alternating Bits](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/693.%20Binary%20Number%20with%20Alternating%20Bits%20%5BEasy%5D.java)|Easy|
-|695|[Max Area of Island](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/695.%20Max%20Area%20of%20Island%20%5BMedium%5D.java)|Medium|
-|700|[Search in a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/700.%20Search%20in%20a%20Binary%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|701|[Insert into a Binary Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/701.%20Insert%20into%20a%20Binary%20Search%20Tree%20%5BMedium%5D.java)|Medium|
-|705|[Design HashSet](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/705.%20Design%20HashSet%20%5BEasy%5D.java)|Easy|
-|706|[Design HashMap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/706.%20Design%20HashMap%20%5BEasy%5D.java)|Easy|
-|709|[To Lower Case](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/709.%20To%20Lower%20Case%20%5BEasy%5D.java)|Easy|
-|712|[Minimum ASCII Delete Sum for Two Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings%20%5BMedium%5D.java)|Medium|
-|717|[1-bit and 2-bit Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/717.%201-bit%20and%202-bit%20Characters%20%5BEasy%5D.java)|Easy|
-|724|[Find Pivot Index](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/724.%20Find%20Pivot%20Index%20%5BEasy%5D.java)|Easy|
-|728|[Self Dividing Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/728.%20Self%20Dividing%20Numbers%20%5BEasy%5D.java)|Easy|
-|733|[Flood Fill](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/733.%20Flood%20Fill%20%5BEasy%5D.java)|Easy|
-|739|[Daily Temperatures](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/739.%20Daily%20Temperatures%20%5BMedium%5D.java)|Medium|
-|744|[Find Smallest Letter Greater Than Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target%20%5BEasy%5D.java)|Easy|
-|747|[Largest Number At Least Twice of Others](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others%20%5BEasy%5D.java)|Easy|
-|754|[Reach a Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/754.%20Reach%20a%20Number%20%5BEasy%5D.java)|Easy|
-|762|[Prime Number of Set Bits in Binary Representation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation%20%5BEasy%5D.java)|Easy|
-|763|[Partition Labels](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/763.%20Partition%20Labels%20%5BMedium%5D.java)|Medium|
-|766|[Toeplitz Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/766.%20Toeplitz%20Matrix%20%5BEasy%5D.java)|Easy|
-|771|[Jewels and Stones](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/771.%20Jewels%20and%20Stones%20%5BEasy%5D.java)|Easy|
-|783|[Minimum Distance Between BST Nodes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes%20%5BEasy%5D.java)|Easy|
-|784|[Letter Case Permutation](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/784.%20Letter%20Case%20Permutation%20%5BEasy%5D.java)|Easy|
-|789|[Escape The Ghosts](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/789.%20Escape%20The%20Ghosts%20%5BMedium%5D.java)|Medium|
-|791|[Custom Sort String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/791.%20Custom%20Sort%20String%20%5BMedium%5D.java)|Medium|
-|796|[Rotate String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/796.%20Rotate%20String%20%5BEasy%5D.java)|Easy|
-|797|[All Paths From Source to Target](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/797.%20All%20Paths%20From%20Source%20to%20Target%20%5BMedium%5D.java)|Medium|
-|804|[Unique Morse Code Words](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/804.%20Unique%20Morse%20Code%20Words%20%5BEasy%5D.java)|Easy|
-|807|[Max Increase to Keep City Skyline](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/807.%20Max%20Increase%20to%20Keep%20City%20Skyline%20%5BMedium%5D.java)|Medium|
-|811|[Subdomain Visit Count](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/811.%20Subdomain%20Visit%20Count%20%5BEasy%5D.java)|Easy|
-|812|[Largest Triangle Area](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/812.%20Largest%20Triangle%20Area%20%5BEasy%5D.java)|Easy|
-|814|[Binary Tree Pruning](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/814.%20Binary%20Tree%20Pruning%20%5BMedium%5D.java)|Medium|
-|819|[Most Common Word](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/819.%20Most%20Common%20Word%20%5BEasy%5D.java)|Easy|
-|821|[Shortest Distance to a Character](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/821.%20Shortest%20Distance%20to%20a%20Character%20%5BEasy%5D.java)|Easy|
-|824|[Goat Latin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/824.%20Goat%20Latin%20%5BEasy%5D.java)|Easy|
-|830|[Positions of Large Groups](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/830.%20Positions%20of%20Large%20Groups%20%5BEasy%5D.java)|Easy|
-|832|[Flipping an Image](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/832.%20Flipping%20an%20Image%20%5BEasy%5D.java)|Easy|
-|836|[Rectangle Overlap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/836.%20Rectangle%20Overlap%20%5BEasy%5D.java)|Easy|
-|841|[Keys and Rooms](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/841.%20Keys%20and%20Rooms%20%5BMedium%5D.java)|Medium|
-|844|[Backspace String Compare](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/844.%20Backspace%20String%20Compare%20%5BEasy%5D.java)|Easy|
-|849|[Maximize Distance to Closest Person](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/849.%20Maximize%20Distance%20to%20Closest%20Person%20%5BEasy%5D.java)|Easy|
-|852|[Peak Index in a Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
-|856|[Score of Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/856.%20Score%20of%20Parentheses%20%5BMedium%5D.java)|Medium|
-|859|[Buddy Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/859.%20Buddy%20Strings%20%5BEasy%5D.java)|Easy|
-|860|[Lemonade Change](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/860.%20Lemonade%20Change%20%5BEasy%5D.java)|Easy|
-|861|[Score After Flipping Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/861.%20Score%20After%20Flipping%20Matrix%20%5BMedium%5D.java)|Medium|
-|865|[Smallest Subtree with all the Deepest Nodes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes%20%5BMedium%5D.java)|Medium|
-|867|[Transpose Matrix](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/867.%20Transpose%20Matrix%20%5BEasy%5D.java)|Easy|
-|872|[Leaf-Similar Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/872.%20Leaf-Similar%20Trees%20%5BEasy%5D.java)|Easy|
-|876|[Middle of the Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/876.%20Middle%20of%20the%20Linked%20List%20%5BEasy%5D.java)|Easy|
-|877|[Stone Game](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/877.%20Stone%20Game%20%5BMedium%5D.java)|Medium|
-|883|[Projection Area of 3D Shapes](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/883.%20Projection%20Area%20of%203D%20Shapes%20%5BEasy%5D.java)|Easy|
-|884|[Uncommon Words from Two Sentences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/884.%20Uncommon%20Words%20from%20Two%20Sentences%20%5BEasy%5D.java)|Easy|
-|888|[Fair Candy Swap](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/888.%20Fair%20Candy%20Swap%20%5BEasy%5D.java)|Easy|
-|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal%20%5BMedium%5D.java)|Medium|
-|890|[Find and Replace Pattern](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/890.%20Find%20and%20Replace%20Pattern%20%5BMedium%5D.java)|Medium|
-|894|[All Possible Full Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/894.%20All%20Possible%20Full%20Binary%20Trees%20%5BMedium%5D.java)|Medium|
-|896|[Monotonic Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/896.%20Monotonic%20Array%20%5BEasy%5D.java)|Easy|
-|897|[Increasing Order Search Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/897.%20Increasing%20Order%20Search%20Tree%20%5BEasy%5D.java)|Easy|
-|905|[Sort Array By Parity](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/905.%20Sort%20Array%20By%20Parity%20%5BEasy%5D.java)|Easy|
-|908|[Smallest Range I](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/908.%20Smallest%20Range%20I%20%5BEasy%5D.java)|Easy|
-|912|[Sort an Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/912.%20Sort%20an%20Array%20%5BMedium%5D.java)|Medium|
-|917|[Reverse Only Letters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/917.%20Reverse%20Only%20Letters%20%5BEasy%5D.java)|Easy|
-|921|[Minimum Add to Make Parentheses Valid](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid%20%5BMedium%5D.java)|Medium|
-|922|[Sort Array By Parity II](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/922.%20Sort%20Array%20By%20Parity%20II%20%5BEasy%5D.java)|Easy|
-|929|[Unique Email Addresses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/929.%20Unique%20Email%20Addresses%20%5BEasy%5D.java)|Easy|
-|931|[Minimum Falling Path Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/931.%20Minimum%20Falling%20Path%20Sum%20%5BMedium%5D.java)|Medium|
-|933|[Number of Recent Calls](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/933.%20Number%20of%20Recent%20Calls%20%5BEasy%5D.java)|Easy|
-|938|[Range Sum of BST](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/938.%20Range%20Sum%20of%20BST%20%5BEasy%5D.java)|Easy|
-|941|[Valid Mountain Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/941.%20Valid%20Mountain%20Array%20%5BEasy%5D.java)|Easy|
-|942|[DI String Match](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/942.%20DI%20String%20Match%20%5BEasy%5D.java)|Easy|
-|944|[Delete Columns to Make Sorted](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/944.%20Delete%20Columns%20to%20Make%20Sorted%20%5BEasy%5D.java)|Easy|
-|946|[Validate Stack Sequences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/946.%20Validate%20Stack%20Sequences%20%5BMedium%5D.java)|Medium|
-|950|[Reveal Cards In Increasing Order](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/950.%20Reveal%20Cards%20In%20Increasing%20Order%20%5BMedium%5D.java)|Medium|
-|951|[Flip Equivalent Binary Trees](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/951.%20Flip%20Equivalent%20Binary%20Trees%20%5BMedium%5D.java)|Medium|
-|953|[Verifying an Alien Dictionary](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/953.%20Verifying%20an%20Alien%20Dictionary%20%5BEasy%5D.java)|Easy|
-|961|[N-Repeated Element in Size 2N Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/961.%20N-Repeated%20Element%20in%20Size%202N%20Array%20%5BEasy%5D.java)|Easy|
-|965|[Univalued Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/965.%20Univalued%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|973|[K Closest Points to Origin](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/973.%20K%20Closest%20Points%20to%20Origin%20%5BMedium%5D.java)|Medium|
-|976|[Largest Perimeter Triangle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/976.%20Largest%20Perimeter%20Triangle%20%5BEasy%5D.java)|Easy|
-|977|[Squares of a Sorted Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/977.%20Squares%20of%20a%20Sorted%20Array%20%5BEasy%5D.java)|Easy|
-|979|[Distribute Coins in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/979.%20Distribute%20Coins%20in%20Binary%20Tree%20%5BMedium%5D.java)|Medium|
-|983|[Minimum Cost For Tickets](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/983.%20Minimum%20Cost%20For%20Tickets%20%5BMedium%5D.java)|Medium|
-|985|[Sum of Even Numbers After Queries](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/985.%20Sum%20of%20Even%20Numbers%20After%20Queries%20%5BEasy%5D.java)|Easy|
-|986|[Interval List Intersections](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/986.%20Interval%20List%20Intersections%20%5BMedium%5D.java)|Medium|
-|989|[Add to Array-Form of Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/989.%20Add%20to%20Array-Form%20of%20Integer%20%5BEasy%5D.java)|Easy|
-|993|[Cousins in Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/993.%20Cousins%20in%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|994|[Rotting Oranges](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/994.%20Rotting%20Oranges%20%5BEasy%5D.java)|Easy|
-|997|[Find the Town Judge](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/997.%20Find%20the%20Town%20Judge%20%5BEasy%5D.java)|Easy|
-|999|[Available Captures for Rook](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/999.%20Available%20Captures%20for%20Rook%20%5BEasy%5D.java)|Easy|
-|1002|[Find Common Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1002.%20Find%20Common%20Characters%20%5BEasy%5D.java)|Easy|
-|1004|[Max Consecutive Ones III](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1004.%20Max%20Consecutive%20Ones%20III%20%5BMedium%5D.java)|Medium|
-|1005|[Maximize Sum Of Array After K Negations](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations%20%5BEasy%5D.java)|Easy|
-|1008|[Construct Binary Search Tree from Preorder Traversal](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal%20%5BMedium%5D.java)|Medium|
-|1009|[Complement of Base 10 Integer](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1009.%20Complement%20of%20Base%2010%20Integer%20%5BEasy%5D.java)|Easy|
-|1010|[Pairs of Songs With Total Durations Divisible by 60](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060%20%5BEasy%5D.java)|Easy|
-|1011|[Capacity To Ship Packages Within D Days](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days%20%5BMedium%5D.java)|Medium|
-|1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum%20%5BEasy%5D.java)|Easy|
-|1016|[Binary String With Substrings Representing 1 To N](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1016.%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N%20%5BMedium%5D.java)|Medium|
-|1017|[Convert to Base -2](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1017.%20Convert%20to%20Base%20-2%20%5BMedium%5D.java)|Medium|
-|1018|[Binary Prefix Divisible By 5](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1018.%20Binary%20Prefix%20Divisible%20By%205%20%5BEasy%5D.java)|Easy|
-|1019|[Next Greater Node In Linked List](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List%20%5BMedium%5D.java)|Medium|
-|1020|[Number of Enclaves](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1020.%20Number%20of%20Enclaves%20%5BMedium%5D.java)|Medium|
-|1021|[Remove Outermost Parentheses](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1021.%20Remove%20Outermost%20Parentheses%20%5BEasy%5D.java)|Easy|
-|1022|[Sum of Root To Leaf Binary Numbers](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers%20%5BEasy%5D.java)|Easy|
-|1023|[Camelcase Matching](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1023.%20Camelcase%20Matching%20%5BMedium%5D.java)|Medium|
-|1026|[Maximum Difference Between Node and Ancestor](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor%20%5BMedium%5D.java)|Medium|
-|1029|[Two City Scheduling](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1029.%20Two%20City%20Scheduling%20%5BEasy%5D.java)|Easy|
-|1030|[Matrix Cells in Distance Order](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1030.%20Matrix%20Cells%20in%20Distance%20Order%20%5BEasy%5D.java)|Easy|
-|1037|[Valid Boomerang](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1037.%20Valid%20Boomerang%20%5BEasy%5D.java)|Easy|
-|1038|[Binary Search Tree to Greater Sum Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree%20%5BMedium%5D.java)|Medium|
-|1041|[Robot Bounded In Circle](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1041.%20Robot%20Bounded%20In%20Circle%20%5BEasy%5D.java)|Easy|
-|1042|[Flower Planting With No Adjacent](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1042.%20Flower%20Planting%20With%20No%20Adjacent%20%5BEasy%5D.java)|Easy|
-|1043|[Partition Array for Maximum Sum](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1043.%20Partition%20Array%20for%20Maximum%20Sum%20%5BMedium%5D.java)|Medium|
-|1047|[Remove All Adjacent Duplicates In String](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String%20%5BEasy%5D.java)|Easy|
-|1051|[Height Checker](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1051.%20Height%20Checker%20%5BEasy%5D.java)|Easy|
-|1071|[Greatest Common Divisor of Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings%20%5BEasy%5D.java)|Easy|
-|1072|[Flip Columns For Maximum Number of Equal Rows](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows%20%5BMedium%5D.java)|Medium|
-|1078|[Occurrences After Bigram](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1078.%20Occurrences%20After%20Bigram%20%5BEasy%5D.java)|Easy|
-|1079|[Letter Tile Possibilities](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1079.%20Letter%20Tile%20Possibilities%20%5BMedium%5D.java)|Medium|
-|1089|[Duplicate Zeros](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1089.%20Duplicate%20Zeros%20%5BEasy%5D.java)|Easy|
-|1090|[Largest Values From Labels](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1090.%20Largest%20Values%20From%20Labels%20%5BMedium%5D.java)|Medium|
-|1094|[Car Pooling](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1094.%20Car%20Pooling%20%5BMedium%5D.java)|Medium|
-|1103|[Distribute Candies to People](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1103.%20Distribute%20Candies%20to%20People%20%5BEasy%5D.java)|Easy|
-|1104|[Path In Zigzag Labelled Binary Tree](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree%20%5BEasy%5D.java)|Easy|
-|1108|[Defanging an IP Address](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1108.%20Defanging%20an%20IP%20Address%20%5BEasy%5D.java)|Easy|
-|1110|[Delete Nodes And Return Forest](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1110.%20Delete%20Nodes%20And%20Return%20Forest%20%5BMedium%5D.java)|Medium|
-|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings%20%5BMedium%5D.java)|Medium|
-|1122|[Relative Sort Array](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1122.%20Relative%20Sort%20Array%20%5BEasy%5D.java)|Easy|
-|1128|[Number of Equivalent Domino Pairs](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1128.%20Number%20of%20Equivalent%20Domino%20Pairs%20%5BEasy%5D.java)|Easy|
-|1130|[Minimum Cost Tree From Leaf Values](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values%20%5BMedium%5D.java)|Medium|
-|1137|[N-th Tribonacci Number](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1137.%20N-th%20Tribonacci%20Number%20%5BEasy%5D.java)|Easy|
-|1143|[Longest Common Subsequence](https://github.com/homurax/leetcode-note/blob/master/Algorithms/medium/1143.%20Longest%20Common%20Subsequence%20%5BMedium%5D.java)|Medium|
-|1154|[Day of the Year](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1154.%20Day%20of%20the%20Year%20%5BEasy%5D.java)|Easy|
-|1160|[Find Words That Can Be Formed by Characters](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters%20%5BEasy%5D.java)|Easy|
-|1185|[Day of the Week](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1185.%20Day%20of%20the%20Week%20%5BEasy%5D.java)|Easy|
-|1200|[Minimum Absolute Difference](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1200.%20Minimum%20Absolute%20Difference%20%5BEasy%5D.java)|Easy|
-|1207|[Unique Number of Occurrences](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1207.%20Unique%20Number%20of%20Occurrences%20%5BEasy%5D.java)|Easy|
-|1221|[Split a String in Balanced Strings](https://github.com/homurax/leetcode-note/blob/master/Algorithms/easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings%20%5BEasy%5D.java)|Easy|
+|  #  |  Title  |  Solution  |  Difficulty  |
+|:---:|:--------|:-----------|:------------:|
+|1|Two Sum |[Java](/Algorithms/easy/0001_Two_Sum_[Easy].java)|Easy|
+|7|Reverse Integer |[Java](/Algorithms/easy/0007_Reverse_Integer_[Easy].java)|Easy|
+|9|Palindrome Number |[Java](/Algorithms/easy/0009_Palindrome_Number_[Easy].java)|Easy|
+|13|Roman to Integer |[Java](/Algorithms/easy/0013_Roman_to_Integer_[Easy].java)|Easy|
+|14|Longest Common Prefix |[Java](/Algorithms/easy/0014_Longest_Common_Prefix_[Easy].java)|Easy|
+|20|Valid Parentheses |[Java](/Algorithms/easy/0020_Valid_Parentheses_[Easy].java)|Easy|
+|21|Merge Two Sorted Lists |[Java](/Algorithms/easy/0021_Merge_Two_Sorted_Lists_[Easy].java)|Easy|
+|22|Generate Parentheses |[Java](/Algorithms/medium/0022_Generate_Parentheses_[Medium].java)|Medium|
+|26|Remove Duplicates from Sorted Array |[Java](/Algorithms/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
+|27|Remove Element |[Java](/Algorithms/easy/0027_Remove_Element_[Easy].java)|Easy|
+|35|Search Insert Position |[Java](/Algorithms/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
+|46|Permutations |[Java](/Algorithms/medium/0046_Permutations_[Medium].java)|Medium|
+|53|Maximum Subarray |[Java](/Algorithms/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
+|58|Length of Last Word |[Java](/Algorithms/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
+|66|Plus One |[Java](/Algorithms/easy/0066_Plus_One_[Easy].java)|Easy|
+|67|Add Binary |[Java](/Algorithms/easy/0067_Add_Binary_[Easy].java)|Easy|
+|69|Sqrt(x) |[Java](/Algorithms/easy/0069_Sqrt(x)_[Easy].java)|Easy|
+|70|Climbing Stairs |[Java](/Algorithms/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
+|78|Subsets |[Java](/Algorithms/medium/0078_Subsets_[Medium].java)|Medium|
+|83|Remove Duplicates from Sorted List |[Java](/Algorithms/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
+|88|Merge Sorted Array |[Java](/Algorithms/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
+|94|Binary Tree Inorder Traversal |[Java](/Algorithms/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
+|100|Same Tree |[Java](/Algorithms/easy/0100_Same_Tree_[Easy].java)|Easy|
+|101|Symmetric Tree |[Java](/Algorithms/easy/0101_Symmetric_Tree_[Easy].java)|Easy|
+|104|Maximum Depth of Binary Tree |[Java](/Algorithms/easy/0104_Maximum_Depth_of_Binary_Tree_[Easy].java)|Easy|
+|107|Binary Tree Level Order Traversal II |[Java](/Algorithms/easy/0107_Binary_Tree_Level_Order_Traversal_II_[Easy].java)|Easy|
+|108|Convert Sorted Array to Binary Search Tree |[Java](/Algorithms/easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree_[Easy].java)|Easy|
+|110|Balanced Binary Tree |[Java](/Algorithms/easy/0110_Balanced_Binary_Tree_[Easy].java)|Easy|
+|111|Minimum Depth of Binary Tree |[Java](/Algorithms/easy/0111_Minimum_Depth_of_Binary_Tree_[Easy].java)|Easy|
+|112|Path Sum |[Java](/Algorithms/easy/0112_Path_Sum_[Easy].java)|Easy|
+|118|Pascal's Triangle |[Java](/Algorithms/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
+|119|Pascal's Triangle II |[Java](/Algorithms/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
+|121|Best Time to Buy and Sell Stock |[Java](/Algorithms/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
+|122|Best Time to Buy and Sell Stock II |[Java](/Algorithms/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
+|136|Single Number |[Java](/Algorithms/easy/0136_Single_Number_[Easy].java)|Easy|
+|141|Linked List Cycle |[Java](/Algorithms/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
+|160|Intersection of Two Linked Lists |[Java](/Algorithms/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
+|167|Two Sum II - Input array is sorted |[Java](/Algorithms/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
+|168|Excel Sheet Column Title |[Java](/Algorithms/easy/0168_Excel_Sheet_Column_Title_[Easy].java)|Easy|
+|169|Majority Element |[Java](/Algorithms/easy/0169_Majority_Element_[Easy].java)|Easy|
+|171|Excel Sheet Column Number |[Java](/Algorithms/easy/0171_Excel_Sheet_Column_Number_[Easy].java)|Easy|
+|172|Factorial Trailing Zeroes |[Java](/Algorithms/easy/0172_Factorial_Trailing_Zeroes_[Easy].java)|Easy|
+|189|Rotate Array |[Java](/Algorithms/easy/0189_Rotate_Array_[Easy].java)|Easy|
+|190|Reverse Bits |[Java](/Algorithms/easy/0190_Reverse_Bits_[Easy].java)|Easy|
+|191|Number of 1 Bits |[Java](/Algorithms/easy/0191_Number_of_1_Bits_[Easy].java)|Easy|
+|198|House Robber |[Java](/Algorithms/easy/0198_House_Robber_[Easy].java)|Easy|
+|202|Happy Number |[Java](/Algorithms/easy/0202_Happy_Number_[Easy].java)|Easy|
+|203|Remove Linked List Elements |[Java](/Algorithms/easy/0203_Remove_Linked_List_Elements_[Easy].java)|Easy|
+|204|Count Primes |[Java](/Algorithms/easy/0204_Count_Primes_[Easy].java)|Easy|
+|205|Isomorphic Strings |[Java](/Algorithms/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
+|206|Reverse Linked List |[Java](/Algorithms/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
+|217|Contains Duplicate |[Java](/Algorithms/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
+|219|Contains Duplicate II |[Java](/Algorithms/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
+|226|Invert Binary Tree |[Java](/Algorithms/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
+|231|Power of Two |[Java](/Algorithms/easy/0231_Power_of_Two_[Easy].java)|Easy|
+|234|Palindrome Linked List |[Java](/Algorithms/easy/0234_Palindrome_Linked_List_[Easy].java)|Easy|
+|235|Lowest Common Ancestor of a Binary Search Tree |[Java](/Algorithms/easy/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree_[Easy].java)|Easy|
+|237|Delete Node in a Linked List |[Java](/Algorithms/easy/0237_Delete_Node_in_a_Linked_List_[Easy].java)|Easy|
+|238|Product of Array Except Self |[Java](/Algorithms/medium/0238_Product_of_Array_Except_Self_[Medium].java)|Medium|
+|242|Valid Anagram |[Java](/Algorithms/easy/0242_Valid_Anagram_[Easy].java)|Easy|
+|257|Binary Tree Paths |[Java](/Algorithms/easy/0257_Binary_Tree_Paths_[Easy].java)|Easy|
+|258|Add Digits |[Java](/Algorithms/easy/0258_Add_Digits_[Easy].java)|Easy|
+|260|Single Number III |[Java](/Algorithms/medium/0260_Single_Number_III_[Medium].java)|Medium|
+|263|Ugly Number |[Java](/Algorithms/easy/0263_Ugly_Number_[Easy].java)|Easy|
+|268|Missing Number |[Java](/Algorithms/easy/0268_Missing_Number_[Easy].java)|Easy|
+|278|First Bad Version |[Java](/Algorithms/easy/0278_First_Bad_Version_[Easy].java)|Easy|
+|283|Move Zeroes |[Java](/Algorithms/easy/0283_Move_Zeroes_[Easy].java)|Easy|
+|290|Word Pattern |[Java](/Algorithms/easy/0290_Word_Pattern_[Easy].java)|Easy|
+|292|Nim Game |[Java](/Algorithms/easy/0292_Nim_Game_[Easy].java)|Easy|
+|303|Range Sum Query - Immutable |[Java](/Algorithms/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
+|326|Power of Three |[Java](/Algorithms/easy/0326_Power_of_Three_[Easy].java)|Easy|
+|338|Counting Bits |[Java](/Algorithms/medium/0338_Counting_Bits_[Medium].java)|Medium|
+|342|Power of Four |[Java](/Algorithms/easy/0342_Power_of_Four_[Easy].java)|Easy|
+|344|Reverse String |[Java](/Algorithms/easy/0344_Reverse_String_[Easy].java)|Easy|
+|345|Reverse Vowels of a String |[Java](/Algorithms/easy/0345_Reverse_Vowels_of_a_String_[Easy].java)|Easy|
+|347|Top K Frequent Elements |[Java](/Algorithms/medium/0347_Top_K_Frequent_Elements_[Medium].java)|Medium|
+|349|Intersection of Two Arrays |[Java](/Algorithms/easy/0349_Intersection_of_Two_Arrays_[Easy].java)|Easy|
+|350|Intersection of Two Arrays II |[Java](/Algorithms/easy/0350_Intersection_of_Two_Arrays_II_[Easy].java)|Easy|
+|367|Valid Perfect Square |[Java](/Algorithms/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
+|371|Sum of Two Integers |[Java](/Algorithms/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
+|383|Ransom Note |[Java](/Algorithms/easy/0383_Ransom_Note_[Easy].java)|Easy|
+|387|First Unique Character in a String |[Java](/Algorithms/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
+|389|Find the Difference |[Java](/Algorithms/easy/0389_Find_the_Difference_[Easy].java)|Easy|
+|404|Sum of Left Leaves |[Java](/Algorithms/easy/0404_Sum_of_Left_Leaves_[Easy].java)|Easy|
+|405|Convert a Number to Hexadecimal |[Java](/Algorithms/easy/0405_Convert_a_Number_to_Hexadecimal_[Easy].java)|Easy|
+|406|Queue Reconstruction by Height |[Java](/Algorithms/easy/0406_Queue_Reconstruction_by_Height_[Easy].java)|Easy|
+|409|Longest Palindrome |[Java](/Algorithms/easy/0409_Longest_Palindrome_[Easy].java)|Easy|
+|412|Fizz Buzz |[Java](/Algorithms/easy/0412_Fizz_Buzz_[Easy].java)|Easy|
+|413|Arithmetic Slices |[Java](/Algorithms/medium/0413_Arithmetic_Slices_[Medium].java)|Medium|
+|414|Third Maximum Number |[Java](/Algorithms/easy/0414_Third_Maximum_Number_[Easy].java)|Easy|
+|415|Add Strings |[Java](/Algorithms/easy/0415_Add_Strings_[Easy].java)|Easy|
+|419|Battleships in a Board |[Java](/Algorithms/medium/0419_Battleships_in_a_Board_[Medium].java)|Medium|
+|429|N-ary Tree Level Order Traversal |[Java](/Algorithms/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
+|434|Number of Segments in a String |[Java](/Algorithms/easy/0434_Number_of_Segments_in_a_String_[Easy].java)|Easy|
+|437|Path Sum III |[Java](/Algorithms/easy/0437_Path_Sum_III_[Easy].java)|Easy|
+|438|Find All Anagrams in a String |[Java](/Algorithms/easy/0438_Find_All_Anagrams_in_a_String_[Easy].java)|Easy|
+|441|Arranging Coins |[Java](/Algorithms/easy/0441_Arranging_Coins_[Easy].java)|Easy|
+|442|Find All Duplicates in an Array |[Java](/Algorithms/medium/0442_Find_All_Duplicates_in_an_Array_[Medium].java)|Medium|
+|448|Find All Numbers Disappeared in an Array |[Java](/Algorithms/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
+|451|Sort Characters By Frequency |[Java](/Algorithms/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
+|455|Assign Cookies |[Java](/Algorithms/easy/0455_Assign_Cookies_[Easy].java)|Easy|
+|459|Repeated Substring Pattern |[Java](/Algorithms/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
+|463|Island Perimeter |[Java](/Algorithms/easy/0463_Island_Perimeter_[Easy].java)|Easy|
+|476|Number Complement |[Java](/Algorithms/easy/0476_Number_Complement_[Easy].java)|Easy|
+|482|License Key Formatting |[Java](/Algorithms/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
+|485|Max Consecutive Ones |[Java](/Algorithms/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
+|492|Construct the Rectangle |[Java](/Algorithms/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
+|496|Next Greater Element I |[Java](/Algorithms/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
+|501|Find Mode in Binary Search Tree |[Java](/Algorithms/easy/0501_Find_Mode_in_Binary_Search_Tree_[Easy].java)|Easy|
+|504|Base 7 |[Java](/Algorithms/easy/0504_Base_7_[Easy].java)|Easy|
+|506|Relative Ranks |[Java](/Algorithms/easy/0506_Relative_Ranks_[Easy].java)|Easy|
+|507|Perfect Number |[Java](/Algorithms/easy/0507_Perfect_Number_[Easy].java)|Easy|
+|508|Most Frequent Subtree Sum |[Java](/Algorithms/medium/0508_Most_Frequent_Subtree_Sum_[Medium].java)|Medium|
+|509|Fibonacci Number |[Java](/Algorithms/easy/0509_Fibonacci_Number_[Easy].java)|Easy|
+|513|Find Bottom Left Tree Value |[Java](/Algorithms/medium/0513_Find_Bottom_Left_Tree_Value_[Medium].java)|Medium|
+|515|Find Largest Value in Each Tree Row |[Java](/Algorithms/medium/0515_Find_Largest_Value_in_Each_Tree_Row_[Medium].java)|Medium|
+|520|Detect Capital |[Java](/Algorithms/easy/0520_Detect_Capital_[Easy].java)|Easy|
+|530|Minimum Absolute Difference in BST |[Java](/Algorithms/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
+|532|K-diff Pairs in an Array |[Java](/Algorithms/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
+|538|Convert BST to Greater Tree |[Java](/Algorithms/easy/0538_Convert_BST_to_Greater_Tree_[Easy].java)|Easy|
+|540|Single Element in a Sorted Array |[Java](/Algorithms/medium/0540_Single_Element_in_a_Sorted_Array_[Medium].java)|Medium|
+|541|Reverse String II |[Java](/Algorithms/easy/0541_Reverse_String_II_[Easy].java)|Easy|
+|543|Diameter of Binary Tree |[Java](/Algorithms/easy/0543_Diameter_of_Binary_Tree_[Easy].java)|Easy|
+|547|Friend Circles |[Java](/Algorithms/medium/0547_Friend_Circles_[Medium].java)|Medium|
+|551|Student Attendance Record I |[Java](/Algorithms/easy/0551_Student_Attendance_Record_I_[Easy].java)|Easy|
+|557|Reverse Words in a String III |[Java](/Algorithms/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
+|559|Maximum Depth of N-ary Tree |[Java](/Algorithms/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
+|561|Array Partition I |[Java](/Algorithms/easy/0561_Array_Partition_I_[Easy].java)|Easy|
+|566|Reshape the Matrix |[Java](/Algorithms/easy/0566_Reshape_the_Matrix_[Easy].java)|Easy|
+|572|Subtree of Another Tree |[Java](/Algorithms/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
+|581|Shortest Unsorted Continuous Subarray |[Java](/Algorithms/easy/0581_Shortest_Unsorted_Continuous_Subarray_[Easy].java)|Easy|
+|589|N-ary Tree Preorder Traversal |[Java](/Algorithms/easy/0589_N-ary_Tree_Preorder_Traversal_[Easy].java)|Easy|
+|590|N-ary Tree Postorder Traversal |[Java](/Algorithms/easy/0590_N-ary_Tree_Postorder_Traversal_[Easy].java)|Easy|
+|594|Longest Harmonious Subsequence |[Java](/Algorithms/easy/0594_Longest_Harmonious_Subsequence_[Easy].java)|Easy|
+|598|Range Addition II |[Java](/Algorithms/easy/0598_Range_Addition_II_[Easy].java)|Easy|
+|599|Minimum Index Sum of Two Lists |[Java](/Algorithms/easy/0599_Minimum_Index_Sum_of_Two_Lists_[Easy].java)|Easy|
+|605|Can Place Flowers |[Java](/Algorithms/easy/0605_Can_Place_Flowers_[Easy].java)|Easy|
+|617|Merge Two Binary Trees |[Java](/Algorithms/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
+|628|Maximum Product of Three Numbers |[Java](/Algorithms/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
+|633|Sum of Square Numbers |[Java](/Algorithms/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
+|637|Average of Levels in Binary Tree |[Java](/Algorithms/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
+|643|Maximum Average Subarray I |[Java](/Algorithms/easy/0643_Maximum_Average_Subarray_I_[Easy].java)|Easy|
+|645|Set Mismatch |[Java](/Algorithms/easy/0645_Set_Mismatch_[Easy].java)|Easy|
+|647|Palindromic Substrings |[Java](/Algorithms/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
+|653|Two Sum IV - Input is a BST |[Java](/Algorithms/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
+|654|Maximum Binary Tree |[Java](/Algorithms/medium/0654_Maximum_Binary_Tree_[Medium].java)|Medium|
+|657|Robot Return to Origin |[Java](/Algorithms/easy/0657_Robot_Return_to_Origin_[Easy].java)|Easy|
+|661|Image Smoother |[Java](/Algorithms/easy/0661_Image_Smoother_[Easy].java)|Easy|
+|665|Non-decreasing Array |[Java](/Algorithms/easy/0665_Non-decreasing_Array_[Easy].java)|Easy|
+|669|Trim a Binary Search Tree |[Java](/Algorithms/easy/0669_Trim_a_Binary_Search_Tree_[Easy].java)|Easy|
+|671|Second Minimum Node In a Binary Tree |[Java](/Algorithms/easy/0671_Second_Minimum_Node_In_a_Binary_Tree_[Easy].java)|Easy|
+|674|Longest Continuous Increasing Subsequence |[Java](/Algorithms/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
+|680|Valid Palindrome II |[Java](/Algorithms/easy/0680_Valid_Palindrome_II_[Easy].java)|Easy|
+|682|Baseball Game |[Java](/Algorithms/easy/0682_Baseball_Game_[Easy].java)|Easy|
+|687|Longest Univalue Path |[Java](/Algorithms/easy/0687_Longest_Univalue_Path_[Easy].java)|Easy|
+|690|Employee Importance |[Java](/Algorithms/easy/0690_Employee_Importance_[Easy].java)|Easy|
+|693|Binary Number with Alternating Bits |[Java](/Algorithms/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
+|695|Max Area of Island |[Java](/Algorithms/medium/0695_Max_Area_of_Island_[Medium].java)|Medium|
+|700|Search in a Binary Search Tree |[Java](/Algorithms/easy/0700_Search_in_a_Binary_Search_Tree_[Easy].java)|Easy|
+|701|Insert into a Binary Search Tree |[Java](/Algorithms/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
+|705|Design HashSet |[Java](/Algorithms/easy/0705_Design_HashSet_[Easy].java)|Easy|
+|706|Design HashMap |[Java](/Algorithms/easy/0706_Design_HashMap_[Easy].java)|Easy|
+|709|To Lower Case |[Java](/Algorithms/easy/0709_To_Lower_Case_[Easy].java)|Easy|
+|712|Minimum ASCII Delete Sum for Two Strings |[Java](/Algorithms/medium/0712_Minimum_ASCII_Delete_Sum_for_Two_Strings_[Medium].java)|Medium|
+|717|1-bit and 2-bit Characters |[Java](/Algorithms/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
+|724|Find Pivot Index |[Java](/Algorithms/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
+|728|Self Dividing Numbers |[Java](/Algorithms/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
+|733|Flood Fill |[Java](/Algorithms/easy/0733_Flood_Fill_[Easy].java)|Easy|
+|739|Daily Temperatures |[Java](/Algorithms/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
+|744|Find Smallest Letter Greater Than Target |[Java](/Algorithms/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
+|747|Largest Number At Least Twice of Others |[Java](/Algorithms/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
+|754|Reach a Number |[Java](/Algorithms/easy/0754_Reach_a_Number_[Easy].java)|Easy|
+|762|Prime Number of Set Bits in Binary Representation |[Java](/Algorithms/easy/0762_Prime_Number_of_Set_Bits_in_Binary_Representation_[Easy].java)|Easy|
+|763|Partition Labels |[Java](/Algorithms/medium/0763_Partition_Labels_[Medium].java)|Medium|
+|766|Toeplitz Matrix |[Java](/Algorithms/easy/0766_Toeplitz_Matrix_[Easy].java)|Easy|
+|771|Jewels and Stones |[Java](/Algorithms/easy/0771_Jewels_and_Stones_[Easy].java)|Easy|
+|783|Minimum Distance Between BST Nodes |[Java](/Algorithms/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
+|784|Letter Case Permutation |[Java](/Algorithms/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
+|789|Escape The Ghosts |[Java](/Algorithms/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
+|791|Custom Sort String |[Java](/Algorithms/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
+|796|Rotate String |[Java](/Algorithms/easy/0796_Rotate_String_[Easy].java)|Easy|
+|797|All Paths From Source to Target |[Java](/Algorithms/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
+|804|Unique Morse Code Words |[Java](/Algorithms/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
+|807|Max Increase to Keep City Skyline |[Java](/Algorithms/medium/0807_Max_Increase_to_Keep_City_Skyline_[Medium].java)|Medium|
+|811|Subdomain Visit Count |[Java](/Algorithms/easy/0811_Subdomain_Visit_Count_[Easy].java)|Easy|
+|812|Largest Triangle Area |[Java](/Algorithms/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
+|814|Binary Tree Pruning |[Java](/Algorithms/medium/0814_Binary_Tree_Pruning_[Medium].java)|Medium|
+|819|Most Common Word |[Java](/Algorithms/easy/0819_Most_Common_Word_[Easy].java)|Easy|
+|821|Shortest Distance to a Character |[Java](/Algorithms/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
+|824|Goat Latin |[Java](/Algorithms/easy/0824_Goat_Latin_[Easy].java)|Easy|
+|830|Positions of Large Groups |[Java](/Algorithms/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
+|832|Flipping an Image |[Java](/Algorithms/easy/0832_Flipping_an_Image_[Easy].java)|Easy|
+|836|Rectangle Overlap |[Java](/Algorithms/easy/0836_Rectangle_Overlap_[Easy].java)|Easy|
+|841|Keys and Rooms |[Java](/Algorithms/medium/0841_Keys_and_Rooms_[Medium].java)|Medium|
+|844|Backspace String Compare |[Java](/Algorithms/easy/0844_Backspace_String_Compare_[Easy].java)|Easy|
+|849|Maximize Distance to Closest Person |[Java](/Algorithms/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
+|852|Peak Index in a Mountain Array |[Java](/Algorithms/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
+|856|Score of Parentheses |[Java](/Algorithms/medium/0856_Score_of_Parentheses_[Medium].java)|Medium|
+|859|Buddy Strings |[Java](/Algorithms/easy/0859_Buddy_Strings_[Easy].java)|Easy|
+|860|Lemonade Change |[Java](/Algorithms/easy/0860_Lemonade_Change_[Easy].java)|Easy|
+|861|Score After Flipping Matrix |[Java](/Algorithms/medium/0861_Score_After_Flipping_Matrix_[Medium].java)|Medium|
+|865|Smallest Subtree with all the Deepest Nodes |[Java](/Algorithms/medium/0865_Smallest_Subtree_with_all_the_Deepest_Nodes_[Medium].java)|Medium|
+|867|Transpose Matrix |[Java](/Algorithms/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
+|872|Leaf-Similar Trees |[Java](/Algorithms/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
+|876|Middle of the Linked List |[Java](/Algorithms/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
+|877|Stone Game |[Java](/Algorithms/medium/0877_Stone_Game_[Medium].java)|Medium|
+|883|Projection Area of 3D Shapes |[Java](/Algorithms/easy/0883_Projection_Area_of_3D_Shapes_[Easy].java)|Easy|
+|884|Uncommon Words from Two Sentences |[Java](/Algorithms/easy/0884_Uncommon_Words_from_Two_Sentences_[Easy].java)|Easy|
+|888|Fair Candy Swap |[Java](/Algorithms/easy/0888_Fair_Candy_Swap_[Easy].java)|Easy|
+|889|Construct Binary Tree from Preorder and Postorder Traversal |[Java](/Algorithms/medium/0889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal_[Medium].java)|Medium|
+|890|Find and Replace Pattern |[Java](/Algorithms/medium/0890_Find_and_Replace_Pattern_[Medium].java)|Medium|
+|894|All Possible Full Binary Trees |[Java](/Algorithms/medium/0894_All_Possible_Full_Binary_Trees_[Medium].java)|Medium|
+|896|Monotonic Array |[Java](/Algorithms/easy/0896_Monotonic_Array_[Easy].java)|Easy|
+|897|Increasing Order Search Tree |[Java](/Algorithms/easy/0897_Increasing_Order_Search_Tree_[Easy].java)|Easy|
+|905|Sort Array By Parity |[Java](/Algorithms/easy/0905_Sort_Array_By_Parity_[Easy].java)|Easy|
+|908|Smallest Range I |[Java](/Algorithms/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
+|912|Sort an Array |[Java](/Algorithms/medium/0912_Sort_an_Array_[Medium].java)|Medium|
+|917|Reverse Only Letters |[Java](/Algorithms/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
+|921|Minimum Add to Make Parentheses Valid |[Java](/Algorithms/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
+|922|Sort Array By Parity II |[Java](/Algorithms/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
+|929|Unique Email Addresses |[Java](/Algorithms/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
+|931|Minimum Falling Path Sum |[Java](/Algorithms/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
+|933|Number of Recent Calls |[Java](/Algorithms/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
+|938|Range Sum of BST |[Java](/Algorithms/easy/0938_Range_Sum_of_BST_[Easy].java)|Easy|
+|941|Valid Mountain Array |[Java](/Algorithms/easy/0941_Valid_Mountain_Array_[Easy].java)|Easy|
+|942|DI String Match |[Java](/Algorithms/easy/0942_DI_String_Match_[Easy].java)|Easy|
+|944|Delete Columns to Make Sorted |[Java](/Algorithms/easy/0944_Delete_Columns_to_Make_Sorted_[Easy].java)|Easy|
+|946|Validate Stack Sequences |[Java](/Algorithms/medium/0946_Validate_Stack_Sequences_[Medium].java)|Medium|
+|950|Reveal Cards In Increasing Order |[Java](/Algorithms/medium/0950_Reveal_Cards_In_Increasing_Order_[Medium].java)|Medium|
+|951|Flip Equivalent Binary Trees |[Java](/Algorithms/medium/0951_Flip_Equivalent_Binary_Trees_[Medium].java)|Medium|
+|953|Verifying an Alien Dictionary |[Java](/Algorithms/easy/0953_Verifying_an_Alien_Dictionary_[Easy].java)|Easy|
+|961|N-Repeated Element in Size 2N Array |[Java](/Algorithms/easy/0961_N-Repeated_Element_in_Size_2N_Array_[Easy].java)|Easy|
+|965|Univalued Binary Tree |[Java](/Algorithms/easy/0965_Univalued_Binary_Tree_[Easy].java)|Easy|
+|973|K Closest Points to Origin |[Java](/Algorithms/medium/0973_K_Closest_Points_to_Origin_[Medium].java)|Medium|
+|976|Largest Perimeter Triangle |[Java](/Algorithms/easy/0976_Largest_Perimeter_Triangle_[Easy].java)|Easy|
+|977|Squares of a Sorted Array |[Java](/Algorithms/easy/0977_Squares_of_a_Sorted_Array_[Easy].java)|Easy|
+|979|Distribute Coins in Binary Tree |[Java](/Algorithms/medium/0979_Distribute_Coins_in_Binary_Tree_[Medium].java)|Medium|
+|983|Minimum Cost For Tickets |[Java](/Algorithms/medium/0983_Minimum_Cost_For_Tickets_[Medium].java)|Medium|
+|985|Sum of Even Numbers After Queries |[Java](/Algorithms/easy/0985_Sum_of_Even_Numbers_After_Queries_[Easy].java)|Easy|
+|986|Interval List Intersections |[Java](/Algorithms/medium/0986_Interval_List_Intersections_[Medium].java)|Medium|
+|989|Add to Array-Form of Integer |[Java](/Algorithms/easy/0989_Add_to_Array-Form_of_Integer_[Easy].java)|Easy|
+|993|Cousins in Binary Tree |[Java](/Algorithms/easy/0993_Cousins_in_Binary_Tree_[Easy].java)|Easy|
+|994|Rotting Oranges |[Java](/Algorithms/easy/0994_Rotting_Oranges_[Easy].java)|Easy|
+|997|Find the Town Judge |[Java](/Algorithms/easy/0997_Find_the_Town_Judge_[Easy].java)|Easy|
+|999|Available Captures for Rook |[Java](/Algorithms/easy/0999_Available_Captures_for_Rook_[Easy].java)|Easy|
+|1002|Find Common Characters |[Java](/Algorithms/easy/1002_Find_Common_Characters_[Easy].java)|Easy|
+|1004|Max Consecutive Ones III |[Java](/Algorithms/medium/1004_Max_Consecutive_Ones_III_[Medium].java)|Medium|
+|1005|Maximize Sum Of Array After K Negations |[Java](/Algorithms/easy/1005_Maximize_Sum_Of_Array_After_K_Negations_[Easy].java)|Easy|
+|1008|Construct Binary Search Tree from Preorder Traversal |[Java](/Algorithms/medium/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal_[Medium].java)|Medium|
+|1009|Complement of Base 10 Integer |[Java](/Algorithms/easy/1009_Complement_of_Base_10_Integer_[Easy].java)|Easy|
+|1010|Pairs of Songs With Total Durations Divisible by 60 |[Java](/Algorithms/easy/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60_[Easy].java)|Easy|
+|1011|Capacity To Ship Packages Within D Days |[Java](/Algorithms/medium/1011_Capacity_To_Ship_Packages_Within_D_Days_[Medium].java)|Medium|
+|1013|Partition Array Into Three Parts With Equal Sum |[Java](/Algorithms/easy/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum_[Easy].java)|Easy|
+|1016|Binary String With Substrings Representing 1 To N |[Java](/Algorithms/medium/1016_Binary_String_With_Substrings_Representing_1_To_N_[Medium].java)|Medium|
+|1017|Convert to Base -2 |[Java](/Algorithms/medium/1017_Convert_to_Base_-2_[Medium].java)|Medium|
+|1018|Binary Prefix Divisible By 5 |[Java](/Algorithms/easy/1018_Binary_Prefix_Divisible_By_5_[Easy].java)|Easy|
+|1019|Next Greater Node In Linked List |[Java](/Algorithms/medium/1019_Next_Greater_Node_In_Linked_List_[Medium].java)|Medium|
+|1020|Number of Enclaves |[Java](/Algorithms/medium/1020_Number_of_Enclaves_[Medium].java)|Medium|
+|1021|Remove Outermost Parentheses |[Java](/Algorithms/easy/1021_Remove_Outermost_Parentheses_[Easy].java)|Easy|
+|1022|Sum of Root To Leaf Binary Numbers |[Java](/Algorithms/easy/1022_Sum_of_Root_To_Leaf_Binary_Numbers_[Easy].java)|Easy|
+|1023|Camelcase Matching |[Java](/Algorithms/medium/1023_Camelcase_Matching_[Medium].java)|Medium|
+|1026|Maximum Difference Between Node and Ancestor |[Java](/Algorithms/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
+|1029|Two City Scheduling |[Java](/Algorithms/easy/1029_Two_City_Scheduling_[Easy].java)|Easy|
+|1030|Matrix Cells in Distance Order |[Java](/Algorithms/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
+|1037|Valid Boomerang |[Java](/Algorithms/easy/1037_Valid_Boomerang_[Easy].java)|Easy|
+|1038|Binary Search Tree to Greater Sum Tree |[Java](/Algorithms/medium/1038_Binary_Search_Tree_to_Greater_Sum_Tree_[Medium].java)|Medium|
+|1041|Robot Bounded In Circle |[Java](/Algorithms/easy/1041_Robot_Bounded_In_Circle_[Easy].java)|Easy|
+|1042|Flower Planting With No Adjacent |[Java](/Algorithms/easy/1042_Flower_Planting_With_No_Adjacent_[Easy].java)|Easy|
+|1043|Partition Array for Maximum Sum |[Java](/Algorithms/medium/1043_Partition_Array_for_Maximum_Sum_[Medium].java)|Medium|
+|1047|Remove All Adjacent Duplicates In String |[Java](/Algorithms/easy/1047_Remove_All_Adjacent_Duplicates_In_String_[Easy].java)|Easy|
+|1051|Height Checker |[Java](/Algorithms/easy/1051_Height_Checker_[Easy].java)|Easy|
+|1071|Greatest Common Divisor of Strings |[Java](/Algorithms/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
+|1072|Flip Columns For Maximum Number of Equal Rows |[Java](/Algorithms/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
+|1078|Occurrences After Bigram |[Java](/Algorithms/easy/1078_Occurrences_After_Bigram_[Easy].java)|Easy|
+|1079|Letter Tile Possibilities |[Java](/Algorithms/medium/1079_Letter_Tile_Possibilities_[Medium].java)|Medium|
+|1089|Duplicate Zeros |[Java](/Algorithms/easy/1089_Duplicate_Zeros_[Easy].java)|Easy|
+|1090|Largest Values From Labels |[Java](/Algorithms/medium/1090_Largest_Values_From_Labels_[Medium].java)|Medium|
+|1094|Car Pooling |[Java](/Algorithms/medium/1094_Car_Pooling_[Medium].java)|Medium|
+|1103|Distribute Candies to People |[Java](/Algorithms/easy/1103_Distribute_Candies_to_People_[Easy].java)|Easy|
+|1104|Path In Zigzag Labelled Binary Tree |[Java](/Algorithms/easy/1104_Path_In_Zigzag_Labelled_Binary_Tree_[Easy].java)|Easy|
+|1108|Defanging an IP Address |[Java](/Algorithms/easy/1108_Defanging_an_IP_Address_[Easy].java)|Easy|
+|1110|Delete Nodes And Return Forest |[Java](/Algorithms/medium/1110_Delete_Nodes_And_Return_Forest_[Medium].java)|Medium|
+|1111|Maximum Nesting Depth of Two Valid Parentheses Strings |[Java](/Algorithms/medium/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings_[Medium].java)|Medium|
+|1122|Relative Sort Array |[Java](/Algorithms/easy/1122_Relative_Sort_Array_[Easy].java)|Easy|
+|1128|Number of Equivalent Domino Pairs |[Java](/Algorithms/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
+|1130|Minimum Cost Tree From Leaf Values |[Java](/Algorithms/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
+|1137|N-th Tribonacci Number |[Java](/Algorithms/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
+|1143|Longest Common Subsequence |[Java](/Algorithms/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
+|1154|Day of the Year |[Java](/Algorithms/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
+|1160|Find Words That Can Be Formed by Characters |[Java](/Algorithms/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
+|1185|Day of the Week |[Java](/Algorithms/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
+|1200|Minimum Absolute Difference |[Java](/Algorithms/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
+|1207|Unique Number of Occurrences |[Java](/Algorithms/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
+|1221|Split a String in Balanced Strings |[Java](/Algorithms/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java)|Easy|
