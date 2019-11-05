@@ -6,27 +6,28 @@
 
 **Database**中为数据库题目，数据库为`MySQL 5.7`。Markdown文件命名对应leetcode中的序号及题目，[]中为题目标注的难度。
 
-|  #  |     Title     |  Level |
-|:---:|:--------------|:------:|
-|175|[Combine Two Tables](https://github.com/homurax/leetcode-note/blob/master/Database/175.%20Combine%20Two%20Tables%20%5BEasy%5D.md)|Easy|
-|176|[Second Highest Salary](https://github.com/homurax/leetcode-note/blob/master/Database/176.%20Second%20Highest%20Salary%20%5BEasy%5D.md)|Easy|
-|177|[Nth Highest Salary](https://github.com/homurax/leetcode-note/blob/master/Database/177.%20Nth%20Highest%20Salary%20%5BMedium%5D.md)|Medium|
-|178|[Rank Scores](https://github.com/homurax/leetcode-note/blob/master/Database/178.%20Rank%20Scores%20%5BMedium%5D.md)|Medium|
-|180|[Consecutive Numbers](https://github.com/homurax/leetcode-note/blob/master/Database/180.%20Consecutive%20Numbers%20%5BMedium%5D.md)|Medium|
-|181|[Employees Earning More Than Their Managers](https://github.com/homurax/leetcode-note/blob/master/Database/181.%20Employees%20Earning%20More%20Than%20Their%20Managers%20%5BEasy%5D.md)|Easy|
-|182|[Duplicate Emails](https://github.com/homurax/leetcode-note/blob/master/Database/182.%20Duplicate%20Emails%20%5BEasy%5D.md)|Easy|
-|183|[Customers Who Never Order](https://github.com/homurax/leetcode-note/blob/master/Database/183.%20Customers%20Who%20Never%20Order%20%5BEasy%5D.md)|Easy|
-|184|[Department Highest Salary](https://github.com/homurax/leetcode-note/blob/master/Database/184.%20Department%20Highest%20Salary%20%5BMedium%5D.md)|Medium|
-|185|[Department Top Three Salaries](https://github.com/homurax/leetcode-note/blob/master/Database/185.%20Department%20Top%20Three%20Salaries%20%5BHard%5D.md)|Hard|
-|196|[Delete Duplicate Emails](https://github.com/homurax/leetcode-note/blob/master/Database/196.%20Delete%20Duplicate%20Emails%20%5BEasy%5D.md)|Easy|
-|197|[Rising Temperature](https://github.com/homurax/leetcode-note/blob/master/Database/197.%20Rising%20Temperature%20%5BEasy%5D.md)|Easy|
-|262|[Trips and Users](https://github.com/homurax/leetcode-note/blob/master/Database/262.%20Trips%20and%20Users%20%5BHard%5D.md)|Hard|
-|595|[Big Countries](https://github.com/homurax/leetcode-note/blob/master/Database/595.%20Big%20Countries%20%5BEasy%5D.md)|Easy|
-|596|[Classes More Than 5 Students](https://github.com/homurax/leetcode-note/blob/master/Database/596.%20Classes%20More%20Than%205%20Students%20%5BEasy%5D.md)|Easy|
-|601|[Human Traffic of Stadium](https://github.com/homurax/leetcode-note/blob/master/Database/601.%20Human%20Traffic%20of%20Stadium%20%5BHard%5D.md)|Hard|
-|620|[Not Boring Movies](https://github.com/homurax/leetcode-note/blob/master/Database/620.%20Not%20Boring%20Movies%20%5BEasy%5D.md)|Easy|
-|626|[Exchange Seats](https://github.com/homurax/leetcode-note/blob/master/Database/626.%20Exchange%20Seats%20%5BMedium%5D.md)|Medium|
-|627|[Swap Salary](https://github.com/homurax/leetcode-note/blob/master/Database/627.%20Swap%20Salary%20%5BEasy%5D.md)|Easy|
+|  #  |     Title     |  Difficulty |
+|:---:|:--------------|:-----------:|
+|175|[Combine Two Tables](/Database/0175_Combine_Two_Tables_[Easy].md)|Easy|
+|176|[Second Highest Salary](/Database/0176_Second_Highest_Salary_[Easy].md)|Easy|
+|177|[Nth Highest Salary](/Database/0177_Nth_Highest_Salary_[Medium].md)|Medium|
+|178|[Rank Scores](/Database/0178_Rank_Scores_[Medium].md)|Medium|
+|180|[Consecutive Numbers](/Database/0180_Consecutive_Numbers_[Medium].md)|Medium|
+|181|[Employees Earning More Than Their Managers](/Database/0181_Employees_Earning_More_Than_Their_Managers_[Easy].md)|Easy|
+|182|[Duplicate Emails](/Database/0182_Duplicate_Emails_[Easy].md)|Easy|
+|183|[Customers Who Never Order](/Database/0183_Customers_Who_Never_Order_[Easy].md)|Easy|
+|184|[Department Highest Salary](/Database/0184_Department_Highest_Salary_[Medium].md)|Medium|
+|185|[Department Top Three Salaries](/Database/0185_Department_Top_Three_Salaries_[Hard].md)|Hard|
+|196|[Delete Duplicate Emails](/Database/0196_Delete_Duplicate_Emails_[Easy].md)|Easy|
+|197|[Rising Temperature](/Database/0197_Rising_Temperature_[Easy].md)|Easy|
+|262|[Trips and Users](/Database/0262_Trips_and_Users_[Hard].md)|Hard|
+|595|[Big Countries](/Database/0595_Big_Countries_[Easy].md)|Easy|
+|596|[Classes More Than 5 Students](/Database/0596_Classes_More_Than_5_Students_[Easy].md)|Easy|
+|601|[Human Traffic of Stadium](/Database/0601_Human_Traffic_of_Stadium_[Hard].md)|Hard|
+|620|[Not Boring Movies](/Database/0620_Not_Boring_Movies_[Easy].md)|Easy|
+|626|[Exchange Seats](/Database/0626_Exchange_Seats_[Medium].md)|Medium|
+|627|[Swap Salary](/Database/0627_Swap_Salary_[Easy].md)|Easy|
+|1179|[Reformat Department Table](/Database/1179_Reformat_Department_Table_[Easy].md)|Easy|
 
 
 
