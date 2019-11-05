@@ -257,6 +257,7 @@
 |917|Reverse Only Letters |[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
 |921|Minimum Add to Make Parentheses Valid |[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II |[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
+|925|Long Pressed Name |[Java](/Algorithms/Java/easy/0925_Long_Pressed_Name_[Easy].java)|Easy|
 |929|Unique Email Addresses |[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
 |931|Minimum Falling Path Sum |[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls |[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
@@ -306,6 +307,7 @@
 |1041|Robot Bounded In Circle |[Java](/Algorithms/Java/easy/1041_Robot_Bounded_In_Circle_[Easy].java)|Easy|
 |1042|Flower Planting With No Adjacent |[Java](/Algorithms/Java/easy/1042_Flower_Planting_With_No_Adjacent_[Easy].java)|Easy|
 |1043|Partition Array for Maximum Sum |[Java](/Algorithms/Java/medium/1043_Partition_Array_for_Maximum_Sum_[Medium].java)|Medium|
+|1046|Last Stone Weight |[Java](/Algorithms/Java/easy/1046_Last_Stone_Weight_[Easy].java)|Easy|
 |1047|Remove All Adjacent Duplicates In String |[Java](/Algorithms/Java/easy/1047_Remove_All_Adjacent_Duplicates_In_String_[Easy].java)|Easy|
 |1051|Height Checker |[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
 |1071|Greatest Common Divisor of Strings |[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
@@ -328,6 +330,7 @@
 |1154|Day of the Year |[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters |[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1185|Day of the Week |[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
+|1189|Maximum Number of Balloons |[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1200|Minimum Absolute Difference |[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences |[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings |[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
