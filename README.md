@@ -198,7 +198,7 @@
 |701|Insert into a Binary Search Tree |[Java](/Algorithms/Java/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
 |705|Design HashSet |[Java](/Algorithms/Java/easy/0705_Design_HashSet_[Easy].java)|Easy|
 |706|Design HashMap |[Java](/Algorithms/Java/easy/0706_Design_HashMap_[Easy].java)|Easy|
-|709|To Lower Case |[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java)|Easy|
+|709|To Lower Case |[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java), [Python](/Algorithms/Python/easy/0709_To_Lower_Case_[Easy].py)|Easy|
 |712|Minimum ASCII Delete Sum for Two Strings |[Java](/Algorithms/Java/medium/0712_Minimum_ASCII_Delete_Sum_for_Two_Strings_[Medium].java)|Medium|
 |717|1-bit and 2-bit Characters |[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |724|Find Pivot Index |[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
@@ -329,4 +329,4 @@
 |1185|Day of the Week |[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
 |1200|Minimum Absolute Difference |[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences |[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
-|1221|Split a String in Balanced Strings |[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java)|Easy|
+|1221|Split a String in Balanced Strings |[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
