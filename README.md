@@ -319,7 +319,7 @@
 |1094|Car Pooling |[Java](/Algorithms/Java/medium/1094_Car_Pooling_[Medium].java)|Medium|
 |1103|Distribute Candies to People |[Java](/Algorithms/Java/easy/1103_Distribute_Candies_to_People_[Easy].java)|Easy|
 |1104|Path In Zigzag Labelled Binary Tree |[Java](/Algorithms/Java/easy/1104_Path_In_Zigzag_Labelled_Binary_Tree_[Easy].java)|Easy|
-|1108|Defanging an IP Address |[Java](/Algorithms/Java/easy/1108_Defanging_an_IP_Address_[Easy].java)|Easy|
+|1108|Defanging an IP Address |[Java](/Algorithms/Java/easy/1108_Defanging_an_IP_Address_[Easy].java), [Python](/Algorithms/Python/easy/1108_Defanging_an_IP_Address_[Easy].py)|Easy|
 |1110|Delete Nodes And Return Forest |[Java](/Algorithms/Java/medium/1110_Delete_Nodes_And_Return_Forest_[Medium].java)|Medium|
 |1111|Maximum Nesting Depth of Two Valid Parentheses Strings |[Java](/Algorithms/Java/medium/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings_[Medium].java)|Medium|
 |1122|Relative Sort Array |[Java](/Algorithms/Java/easy/1122_Relative_Sort_Array_[Easy].java)|Easy|
