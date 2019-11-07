@@ -4,7 +4,7 @@
 
 ## Database
 
-**Database**中为数据库题目，数据库为`MySQL 5.7`。Markdown文件命名对应leetcode中的序号及题目，[]中为题目标注的难度。
+数据库为`MySQL 5.7`。Markdown 文件命名对应 leetcode 中的序号及标题。
 
 |  #  |     Title     |  Difficulty |
 |:---:|:--------------|:-----------:|
@@ -33,7 +33,7 @@
 
 ## Algorithms
 
-**Algorithms**中为算法题目。JDK版本为`1.8.0_144`；Python版本为`3.8.0`。
+JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 
 |  #  |  Title  |  Solution  |  Difficulty  |
 |:---:|:--------|:-----------|:------------:|
@@ -212,7 +212,7 @@
 |762|Prime Number of Set Bits in Binary Representation |[Java](/Algorithms/Java/easy/0762_Prime_Number_of_Set_Bits_in_Binary_Representation_[Easy].java)|Easy|
 |763|Partition Labels |[Java](/Algorithms/Java/medium/0763_Partition_Labels_[Medium].java)|Medium|
 |766|Toeplitz Matrix |[Java](/Algorithms/Java/easy/0766_Toeplitz_Matrix_[Easy].java)|Easy|
-|771|Jewels and Stones |[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java)|Easy|
+|771|Jewels and Stones |[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
 |783|Minimum Distance Between BST Nodes |[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
 |784|Letter Case Permutation |[Java](/Algorithms/Java/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
 |789|Escape The Ghosts |[Java](/Algorithms/Java/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
@@ -261,7 +261,7 @@
 |929|Unique Email Addresses |[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
 |931|Minimum Falling Path Sum |[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls |[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
-|938|Range Sum of BST |[Java](/Algorithms/Java/easy/0938_Range_Sum_of_BST_[Easy].java)|Easy|
+|938|Range Sum of BST |[Java](/Algorithms/Java/easy/0938_Range_Sum_of_BST_[Easy].java), [Python](/Algorithms/Python/easy/0938_Range_Sum_of_BST_[Easy].py)|Easy|
 |941|Valid Mountain Array |[Java](/Algorithms/Java/easy/0941_Valid_Mountain_Array_[Easy].java)|Easy|
 |942|DI String Match |[Java](/Algorithms/Java/easy/0942_DI_String_Match_[Easy].java)|Easy|
 |944|Delete Columns to Make Sorted |[Java](/Algorithms/Java/easy/0944_Delete_Columns_to_Make_Sorted_[Easy].java)|Easy|
