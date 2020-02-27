@@ -91,7 +91,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
-|227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java)|Medium|
+|227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
 |231|Power of Two|[Java](/Algorithms/Java/easy/0231_Power_of_Two_[Easy].java)|Easy|
 |234|Palindrome Linked List|[Java](/Algorithms/Java/easy/0234_Palindrome_Linked_List_[Easy].java)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[Java](/Algorithms/Java/easy/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree_[Easy].java)|Easy|
