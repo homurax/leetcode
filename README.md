@@ -40,6 +40,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1|Two Sum|[Java](/Algorithms/Java/easy/0001_Two_Sum_[Easy].java)|Easy|
 |7|Reverse Integer|[Java](/Algorithms/Java/easy/0007_Reverse_Integer_[Easy].java)|Easy|
 |9|Palindrome Number|[Java](/Algorithms/Java/easy/0009_Palindrome_Number_[Easy].java)|Easy|
+|9|To Lower Case|[Python](/Algorithms/Python/easy/9_To_Lower_Case_[Easy].py)|Easy|
 |13|Roman to Integer|[Java](/Algorithms/Java/easy/0013_Roman_to_Integer_[Easy].java)|Easy|
 |14|Longest Common Prefix|[Java](/Algorithms/Java/easy/0014_Longest_Common_Prefix_[Easy].java)|Easy|
 |20|Valid Parentheses|[Java](/Algorithms/Java/easy/0020_Valid_Parentheses_[Easy].java)|Easy|
@@ -335,7 +336,9 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
+|1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
+|1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
