@@ -351,6 +351,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
+|1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
 |1475|Final Prices With a Special Discount in a Shop|[Java](/Algorithms/Java/easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop_[Easy].java)|Easy|
