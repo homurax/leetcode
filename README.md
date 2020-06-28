@@ -335,12 +335,17 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
+|1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
+|1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
+|1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
+|1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
+|1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
