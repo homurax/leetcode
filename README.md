@@ -347,10 +347,14 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
+|1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
+|1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
+|1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
+|1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
