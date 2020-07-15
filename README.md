@@ -344,8 +344,10 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
+|1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
+|1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
