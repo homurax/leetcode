@@ -249,6 +249,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |888|Fair Candy Swap|[Java](/Algorithms/Java/easy/0888_Fair_Candy_Swap_[Easy].java)|Easy|
 |889|Construct Binary Tree from Preorder and Postorder Traversal|[Java](/Algorithms/Java/medium/0889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal_[Medium].java)|Medium|
 |890|Find and Replace Pattern|[Java](/Algorithms/Java/medium/0890_Find_and_Replace_Pattern_[Medium].java)|Medium|
+|893|Groups of Special-Equivalent Strings|[Java](/Algorithms/Java/easy/893_Groups_of_Special-Equivalent_Strings_[Easy].java)|Easy|
 |894|All Possible Full Binary Trees|[Java](/Algorithms/Java/medium/0894_All_Possible_Full_Binary_Trees_[Medium].java)|Medium|
 |896|Monotonic Array|[Java](/Algorithms/Java/easy/0896_Monotonic_Array_[Easy].java)|Easy|
 |897|Increasing Order Search Tree|[Java](/Algorithms/Java/easy/0897_Increasing_Order_Search_Tree_[Easy].java)|Easy|
@@ -300,6 +301,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1021|Remove Outermost Parentheses|[Java](/Algorithms/Java/easy/1021_Remove_Outermost_Parentheses_[Easy].java)|Easy|
 |1022|Sum of Root To Leaf Binary Numbers|[Java](/Algorithms/Java/easy/1022_Sum_of_Root_To_Leaf_Binary_Numbers_[Easy].java)|Easy|
 |1023|Camelcase Matching|[Java](/Algorithms/Java/medium/1023_Camelcase_Matching_[Medium].java)|Medium|
+|1025|Divisor Game|[Java](/Algorithms/Java/easy/1025_Divisor_Game_[Easy].java)|Easy|
 |1026|Maximum Difference Between Node and Ancestor|[Java](/Algorithms/Java/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
 |1029|Two City Scheduling|[Java](/Algorithms/Java/easy/1029_Two_City_Scheduling_[Easy].java)|Easy|
 |1030|Matrix Cells in Distance Order|[Java](/Algorithms/Java/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
@@ -352,6 +354,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
+|1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
