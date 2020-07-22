@@ -221,6 +221,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
 |804|Unique Morse Code Words|[Java](/Algorithms/Java/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
+|806|Number of Lines To Write String|[Java](/Algorithms/Java/easy/0806_Number_of_Lines_To_Write_String_[Easy].java)|Easy|
 |807|Max Increase to Keep City Skyline|[Java](/Algorithms/Java/medium/0807_Max_Increase_to_Keep_City_Skyline_[Medium].java)|Medium|
 |811|Subdomain Visit Count|[Java](/Algorithms/Java/easy/0811_Subdomain_Visit_Count_[Easy].java)|Easy|
 |812|Largest Triangle Area|[Java](/Algorithms/Java/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
@@ -249,7 +250,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |888|Fair Candy Swap|[Java](/Algorithms/Java/easy/0888_Fair_Candy_Swap_[Easy].java)|Easy|
 |889|Construct Binary Tree from Preorder and Postorder Traversal|[Java](/Algorithms/Java/medium/0889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal_[Medium].java)|Medium|
 |890|Find and Replace Pattern|[Java](/Algorithms/Java/medium/0890_Find_and_Replace_Pattern_[Medium].java)|Medium|
-|893|Groups of Special-Equivalent Strings|[Java](/Algorithms/Java/easy/893_Groups_of_Special-Equivalent_Strings_[Easy].java)|Easy|
+|893|Groups of Special-Equivalent Strings|[Java](/Algorithms/Java/easy/0893_Groups_of_Special-Equivalent_Strings_[Easy].java)|Easy|
 |894|All Possible Full Binary Trees|[Java](/Algorithms/Java/medium/0894_All_Possible_Full_Binary_Trees_[Medium].java)|Medium|
 |896|Monotonic Array|[Java](/Algorithms/Java/easy/0896_Monotonic_Array_[Easy].java)|Easy|
 |897|Increasing Order Search Tree|[Java](/Algorithms/Java/easy/0897_Increasing_Order_Search_Tree_[Easy].java)|Easy|
@@ -356,7 +357,9 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
+|1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
+|1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
@@ -370,3 +373,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
+|1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
