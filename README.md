@@ -169,6 +169,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
 |566|Reshape the Matrix|[Java](/Algorithms/Java/easy/0566_Reshape_the_Matrix_[Easy].java)|Easy|
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
+|575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
 |581|Shortest Unsorted Continuous Subarray|[Java](/Algorithms/Java/easy/0581_Shortest_Unsorted_Continuous_Subarray_[Easy].java)|Easy|
 |589|N-ary Tree Preorder Traversal|[Java](/Algorithms/Java/easy/0589_N-ary_Tree_Preorder_Traversal_[Easy].java)|Easy|
 |590|N-ary Tree Postorder Traversal|[Java](/Algorithms/Java/easy/0590_N-ary_Tree_Postorder_Traversal_[Easy].java)|Easy|
@@ -338,7 +339,9 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
+|1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
+|1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
