@@ -146,6 +146,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
+|500|Keyboard Row|[Java](/Algorithms/Java/easy/0500_Keyboard_Row_[Easy].java)|Easy|
 |501|Find Mode in Binary Search Tree|[Java](/Algorithms/Java/easy/0501_Find_Mode_in_Binary_Search_Tree_[Easy].java)|Easy|
 |504|Base 7|[Java](/Algorithms/Java/easy/0504_Base_7_[Easy].java)|Easy|
 |506|Relative Ranks|[Java](/Algorithms/Java/easy/0506_Relative_Ranks_[Easy].java)|Easy|
@@ -357,6 +358,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
+|1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
@@ -364,6 +366,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
+|1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
