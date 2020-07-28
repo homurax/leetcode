@@ -244,6 +244,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |861|Score After Flipping Matrix|[Java](/Algorithms/Java/medium/0861_Score_After_Flipping_Matrix_[Medium].java)|Medium|
 |865|Smallest Subtree with all the Deepest Nodes|[Java](/Algorithms/Java/medium/0865_Smallest_Subtree_with_all_the_Deepest_Nodes_[Medium].java)|Medium|
 |867|Transpose Matrix|[Java](/Algorithms/Java/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
+|868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
@@ -344,6 +345,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
+|1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1299|Replace Elements with Greatest Element on Right Side|[Java](/Algorithms/Java/easy/1299_Replace_Elements_with_Greatest_Element_on_Right_Side_[Easy].java)|Easy|
@@ -351,6 +353,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
+|1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
