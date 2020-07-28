@@ -156,6 +156,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |513|Find Bottom Left Tree Value|[Java](/Algorithms/Java/medium/0513_Find_Bottom_Left_Tree_Value_[Medium].java)|Medium|
 |515|Find Largest Value in Each Tree Row|[Java](/Algorithms/Java/medium/0515_Find_Largest_Value_in_Each_Tree_Row_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
+|521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
 |532|K-diff Pairs in an Array|[Java](/Algorithms/Java/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
 |538|Convert BST to Greater Tree|[Java](/Algorithms/Java/easy/0538_Convert_BST_to_Greater_Tree_[Easy].java)|Easy|
@@ -336,6 +337,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
+|1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
@@ -353,6 +355,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
+|1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
