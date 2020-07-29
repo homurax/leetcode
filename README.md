@@ -219,6 +219,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |771|Jewels and Stones|[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
 |783|Minimum Distance Between BST Nodes|[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
 |784|Letter Case Permutation|[Java](/Algorithms/Java/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
+|788|Rotated Digits|[Java](/Algorithms/Java/easy/0788_Rotated_Digits_[Easy].java)|Easy|
 |789|Escape The Ghosts|[Java](/Algorithms/Java/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
 |791|Custom Sort String|[Java](/Algorithms/Java/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
