@@ -199,6 +199,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |690|Employee Importance|[Java](/Algorithms/Java/easy/0690_Employee_Importance_[Easy].java)|Easy|
 |693|Binary Number with Alternating Bits|[Java](/Algorithms/Java/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
 |695|Max Area of Island|[Java](/Algorithms/Java/medium/0695_Max_Area_of_Island_[Medium].java)|Medium|
+|696|Count Binary Substrings|[Java](/Algorithms/Java/easy/0696_Count_Binary_Substrings_[Easy].java)|Easy|
 |700|Search in a Binary Search Tree|[Java](/Algorithms/Java/easy/0700_Search_in_a_Binary_Search_Tree_[Easy].java)|Easy|
 |701|Insert into a Binary Search Tree|[Java](/Algorithms/Java/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
 |705|Design HashSet|[Java](/Algorithms/Java/easy/0705_Design_HashSet_[Easy].java)|Easy|
@@ -375,6 +376,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
+|1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
@@ -393,3 +395,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
+|1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
