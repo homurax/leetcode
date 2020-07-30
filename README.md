@@ -212,6 +212,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
 |747|Largest Number At Least Twice of Others|[Java](/Algorithms/Java/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
+|748|Shortest Completing Word|[Java](/Algorithms/Java/easy/0748_Shortest_Completing_Word_[Easy].java)|Easy|
 |754|Reach a Number|[Java](/Algorithms/Java/easy/0754_Reach_a_Number_[Easy].java)|Easy|
 |762|Prime Number of Set Bits in Binary Representation|[Java](/Algorithms/Java/easy/0762_Prime_Number_of_Set_Bits_in_Binary_Representation_[Easy].java)|Easy|
 |763|Partition Labels|[Java](/Algorithms/Java/medium/0763_Partition_Labels_[Medium].java)|Medium|
@@ -355,6 +356,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1304|Find N Unique Integers Sum up to Zero|[Java](/Algorithms/Java/easy/1304_Find_N_Unique_Integers_Sum_up_to_Zero_[Easy].java)|Easy|
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
+|1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
@@ -386,6 +388,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
+|1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
