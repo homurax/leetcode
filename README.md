@@ -271,6 +271,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |929|Unique Email Addresses|[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
 |931|Minimum Falling Path Sum|[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls|[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
+|937|Reorder Data in Log Files|[Java](/Algorithms/Java/easy/0937_Reorder_Data_in_Log_Files_[Easy].java)|Easy|
 |938|Range Sum of BST|[Java](/Algorithms/Java/easy/0938_Range_Sum_of_BST_[Easy].java), [Python](/Algorithms/Python/easy/0938_Range_Sum_of_BST_[Easy].py)|Easy|
 |941|Valid Mountain Array|[Java](/Algorithms/Java/easy/0941_Valid_Mountain_Array_[Easy].java)|Easy|
 |942|DI String Match|[Java](/Algorithms/Java/easy/0942_DI_String_Match_[Easy].java)|Easy|
@@ -341,6 +342,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
+|1184|Distance Between Bus Stops|[Java](/Algorithms/Java/easy/1184_Distance_Between_Bus_Stops_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
@@ -377,6 +379,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
+|1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
