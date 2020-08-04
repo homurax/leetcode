@@ -178,6 +178,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |598|Range Addition II|[Java](/Algorithms/Java/easy/0598_Range_Addition_II_[Easy].java)|Easy|
 |599|Minimum Index Sum of Two Lists|[Java](/Algorithms/Java/easy/0599_Minimum_Index_Sum_of_Two_Lists_[Easy].java)|Easy|
 |605|Can Place Flowers|[Java](/Algorithms/Java/easy/0605_Can_Place_Flowers_[Easy].java)|Easy|
+|606|Construct String from Binary Tree|[Java](/Algorithms/Java/easy/0606_Construct_String_from_Binary_Tree_[Easy].java)|Easy|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
@@ -200,6 +201,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |693|Binary Number with Alternating Bits|[Java](/Algorithms/Java/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
 |695|Max Area of Island|[Java](/Algorithms/Java/medium/0695_Max_Area_of_Island_[Medium].java)|Medium|
 |696|Count Binary Substrings|[Java](/Algorithms/Java/easy/0696_Count_Binary_Substrings_[Easy].java)|Easy|
+|697|Degree of an Array|[Java](/Algorithms/Java/easy/0697_Degree_of_an_Array_[Easy].java)|Easy|
 |700|Search in a Binary Search Tree|[Java](/Algorithms/Java/easy/0700_Search_in_a_Binary_Search_Tree_[Easy].java)|Easy|
 |701|Insert into a Binary Search Tree|[Java](/Algorithms/Java/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
 |705|Design HashSet|[Java](/Algorithms/Java/easy/0705_Design_HashSet_[Easy].java)|Easy|
@@ -351,6 +353,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
+|1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
