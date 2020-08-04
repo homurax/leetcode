@@ -138,6 +138,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |442|Find All Duplicates in an Array|[Java](/Algorithms/Java/medium/0442_Find_All_Duplicates_in_an_Array_[Medium].java)|Medium|
 |448|Find All Numbers Disappeared in an Array|[Java](/Algorithms/Java/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
 |451|Sort Characters By Frequency|[Java](/Algorithms/Java/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
+|453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
 |455|Assign Cookies|[Java](/Algorithms/Java/easy/0455_Assign_Cookies_[Easy].java)|Easy|
 |459|Repeated Substring Pattern|[Java](/Algorithms/Java/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
@@ -204,6 +205,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |697|Degree of an Array|[Java](/Algorithms/Java/easy/0697_Degree_of_an_Array_[Easy].java)|Easy|
 |700|Search in a Binary Search Tree|[Java](/Algorithms/Java/easy/0700_Search_in_a_Binary_Search_Tree_[Easy].java)|Easy|
 |701|Insert into a Binary Search Tree|[Java](/Algorithms/Java/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
+|703|Kth Largest Element in a Stream|[Java](/Algorithms/Java/easy/0703_Kth_Largest_Element_in_a_Stream_[Easy].java)|Easy|
 |705|Design HashSet|[Java](/Algorithms/Java/easy/0705_Design_HashSet_[Easy].java)|Easy|
 |706|Design HashMap|[Java](/Algorithms/Java/easy/0706_Design_HashMap_[Easy].java)|Easy|
 |709|To Lower Case|[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java), [Python](/Algorithms/Python/easy/0709_To_Lower_Case_[Easy].py)|Easy|
@@ -214,6 +216,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
+|746|Min Cost Climbing Stairs|[Java](/Algorithms/Java/easy/0746_Min_Cost_Climbing_Stairs_[Easy].java)|Easy|
 |747|Largest Number At Least Twice of Others|[Java](/Algorithms/Java/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
 |748|Shortest Completing Word|[Java](/Algorithms/Java/easy/0748_Shortest_Completing_Word_[Easy].java)|Easy|
 |754|Reach a Number|[Java](/Algorithms/Java/easy/0754_Reach_a_Number_[Easy].java)|Easy|
