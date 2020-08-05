@@ -93,6 +93,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
 |231|Power of Two|[Java](/Algorithms/Java/easy/0231_Power_of_Two_[Easy].java)|Easy|
+|232|Implement Queue using Stacks|[Java](/Algorithms/Java/easy/0232_Implement_Queue_using_Stacks_[Easy].java)|Easy|
 |234|Palindrome Linked List|[Java](/Algorithms/Java/easy/0234_Palindrome_Linked_List_[Easy].java)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[Java](/Algorithms/Java/easy/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree_[Easy].java)|Easy|
 |237|Delete Node in a Linked List|[Java](/Algorithms/Java/easy/0237_Delete_Node_in_a_Linked_List_[Easy].java)|Easy|
@@ -121,6 +122,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
+|392|Is Subsequence|[Java](/Algorithms/Java/easy/0392_Is_Subsequence_[Easy].java)|Easy|
 |404|Sum of Left Leaves|[Java](/Algorithms/Java/easy/0404_Sum_of_Left_Leaves_[Easy].java)|Easy|
 |405|Convert a Number to Hexadecimal|[Java](/Algorithms/Java/easy/0405_Convert_a_Number_to_Hexadecimal_[Easy].java)|Easy|
 |406|Queue Reconstruction by Height|[Java](/Algorithms/Java/easy/0406_Queue_Reconstruction_by_Height_[Easy].java)|Easy|
@@ -373,6 +375,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
+|1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
