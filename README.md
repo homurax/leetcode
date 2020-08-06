@@ -73,6 +73,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
+|155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
 |167|Two Sum II - Input array is sorted|[Java](/Algorithms/Java/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
 |168|Excel Sheet Column Title|[Java](/Algorithms/Java/easy/0168_Excel_Sheet_Column_Title_[Easy].java)|Easy|
@@ -109,6 +110,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
+|299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
@@ -120,6 +122,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |350|Intersection of Two Arrays II|[Java](/Algorithms/Java/easy/0350_Intersection_of_Two_Arrays_II_[Easy].java)|Easy|
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
+|374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
@@ -323,6 +326,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1026|Maximum Difference Between Node and Ancestor|[Java](/Algorithms/Java/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
 |1029|Two City Scheduling|[Java](/Algorithms/Java/easy/1029_Two_City_Scheduling_[Easy].java)|Easy|
 |1030|Matrix Cells in Distance Order|[Java](/Algorithms/Java/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
+|1033|Moving Stones Until Consecutive|[Java](/Algorithms/Java/easy/1033_Moving_Stones_Until_Consecutive_[Easy].java)|Easy|
 |1037|Valid Boomerang|[Java](/Algorithms/Java/easy/1037_Valid_Boomerang_[Easy].java)|Easy|
 |1038|Binary Search Tree to Greater Sum Tree|[Java](/Algorithms/Java/medium/1038_Binary_Search_Tree_to_Greater_Sum_Tree_[Medium].java)|Medium|
 |1041|Robot Bounded In Circle|[Java](/Algorithms/Java/easy/1041_Robot_Bounded_In_Circle_[Easy].java)|Easy|
