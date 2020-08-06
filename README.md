@@ -90,6 +90,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
+|225|Implement Stack using Queues|[Java](/Algorithms/Java/easy/0225_Implement_Stack_using_Queues_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
 |231|Power of Two|[Java](/Algorithms/Java/easy/0231_Power_of_Two_[Easy].java)|Easy|
@@ -171,6 +172,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |557|Reverse Words in a String III|[Java](/Algorithms/Java/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
 |559|Maximum Depth of N-ary Tree|[Java](/Algorithms/Java/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
+|563|Binary Tree Tilt|[Java](/Algorithms/Java/easy/0563_Binary_Tree_Tilt_[Easy].java)|Easy|
 |566|Reshape the Matrix|[Java](/Algorithms/Java/easy/0566_Reshape_the_Matrix_[Easy].java)|Easy|
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
 |575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
@@ -356,6 +358,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
+|1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
