@@ -47,6 +47,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |22|Generate Parentheses|[Java](/Algorithms/Java/medium/0022_Generate_Parentheses_[Medium].java)|Medium|
 |26|Remove Duplicates from Sorted Array|[Java](/Algorithms/Java/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
+|28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
@@ -277,6 +278,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |905|Sort Array By Parity|[Java](/Algorithms/Java/easy/0905_Sort_Array_By_Parity_[Easy].java)|Easy|
 |908|Smallest Range I|[Java](/Algorithms/Java/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
 |912|Sort an Array|[Java](/Algorithms/Java/medium/0912_Sort_an_Array_[Medium].java)|Medium|
+|914|X of a Kind in a Deck of Cards|[Java](/Algorithms/Java/easy/0914_X_of_a_Kind_in_a_Deck_of_Cards_[Easy].java)|Easy|
 |917|Reverse Only Letters|[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II|[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
@@ -290,6 +292,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |942|DI String Match|[Java](/Algorithms/Java/easy/0942_DI_String_Match_[Easy].java)|Easy|
 |944|Delete Columns to Make Sorted|[Java](/Algorithms/Java/easy/0944_Delete_Columns_to_Make_Sorted_[Easy].java)|Easy|
 |946|Validate Stack Sequences|[Java](/Algorithms/Java/medium/0946_Validate_Stack_Sequences_[Medium].java)|Medium|
+|949|Largest Time for Given Digits|[Java](/Algorithms/Java/easy/0949_Largest_Time_for_Given_Digits_[Easy].java)|Easy|
 |950|Reveal Cards In Increasing Order|[Java](/Algorithms/Java/medium/0950_Reveal_Cards_In_Increasing_Order_[Medium].java)|Medium|
 |951|Flip Equivalent Binary Trees|[Java](/Algorithms/Java/medium/0951_Flip_Equivalent_Binary_Trees_[Medium].java)|Medium|
 |953|Verifying an Alien Dictionary|[Java](/Algorithms/Java/easy/0953_Verifying_an_Alien_Dictionary_[Easy].java)|Easy|
