@@ -142,6 +142,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |438|Find All Anagrams in a String|[Java](/Algorithms/Java/easy/0438_Find_All_Anagrams_in_a_String_[Easy].java)|Easy|
 |441|Arranging Coins|[Java](/Algorithms/Java/easy/0441_Arranging_Coins_[Easy].java)|Easy|
 |442|Find All Duplicates in an Array|[Java](/Algorithms/Java/medium/0442_Find_All_Duplicates_in_an_Array_[Medium].java)|Medium|
+|443|String Compression|[Java](/Algorithms/Java/easy/0443_String_Compression_[Easy].java)|Easy|
 |448|Find All Numbers Disappeared in an Array|[Java](/Algorithms/Java/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
 |451|Sort Characters By Frequency|[Java](/Algorithms/Java/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
@@ -294,6 +295,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |953|Verifying an Alien Dictionary|[Java](/Algorithms/Java/easy/0953_Verifying_an_Alien_Dictionary_[Easy].java)|Easy|
 |961|N-Repeated Element in Size 2N Array|[Java](/Algorithms/Java/easy/0961_N-Repeated_Element_in_Size_2N_Array_[Easy].java)|Easy|
 |965|Univalued Binary Tree|[Java](/Algorithms/Java/easy/0965_Univalued_Binary_Tree_[Easy].java)|Easy|
+|970|Powerful Integers|[Java](/Algorithms/Java/easy/0970_Powerful_Integers_[Easy].java)|Easy|
 |973|K Closest Points to Origin|[Java](/Algorithms/Java/medium/0973_K_Closest_Points_to_Origin_[Medium].java)|Medium|
 |976|Largest Perimeter Triangle|[Java](/Algorithms/Java/easy/0976_Largest_Perimeter_Triangle_[Easy].java)|Easy|
 |977|Squares of a Sorted Array|[Java](/Algorithms/Java/easy/0977_Squares_of_a_Sorted_Array_[Easy].java)|Easy|
@@ -380,6 +382,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
+|1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
