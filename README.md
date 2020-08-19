@@ -378,9 +378,11 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1299|Replace Elements with Greatest Element on Right Side|[Java](/Algorithms/Java/easy/1299_Replace_Elements_with_Greatest_Element_on_Right_Side_[Easy].java)|Easy|
+|1302|Deepest Leaves Sum|[Java](/Algorithms/Java/medium/1302_Deepest_Leaves_Sum_[Medium].java)|Medium|
 |1304|Find N Unique Integers Sum up to Zero|[Java](/Algorithms/Java/easy/1304_Find_N_Unique_Integers_Sum_up_to_Zero_[Easy].java)|Easy|
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
+|1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
@@ -399,6 +401,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
+|1395|Count Number of Teams|[Java](/Algorithms/Java/medium/1395_Count_Number_of_Teams_[Medium].java)|Medium|
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
