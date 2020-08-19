@@ -206,6 +206,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |674|Longest Continuous Increasing Subsequence|[Java](/Algorithms/Java/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
 |680|Valid Palindrome II|[Java](/Algorithms/Java/easy/0680_Valid_Palindrome_II_[Easy].java)|Easy|
 |682|Baseball Game|[Java](/Algorithms/Java/easy/0682_Baseball_Game_[Easy].java)|Easy|
+|686|Repeated String Match|[Java](/Algorithms/Java/easy/0686_Repeated_String_Match_[Easy].java)|Easy|
 |687|Longest Univalue Path|[Java](/Algorithms/Java/easy/0687_Longest_Univalue_Path_[Easy].java)|Easy|
 |690|Employee Importance|[Java](/Algorithms/Java/easy/0690_Employee_Importance_[Easy].java)|Easy|
 |693|Binary Number with Alternating Bits|[Java](/Algorithms/Java/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
@@ -372,6 +373,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
+|1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
@@ -392,6 +394,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
+|1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|[Java](/Algorithms/Java/medium/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree_[Medium].java)|Medium|
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
