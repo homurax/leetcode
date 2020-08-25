@@ -392,6 +392,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
+|1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
@@ -400,6 +401,8 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|[Java](/Algorithms/Java/medium/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree_[Medium].java)|Medium|
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
+|1381|Design a Stack With Increment Operation|[Java](/Algorithms/Java/medium/1381_Design_a_Stack_With_Increment_Operation_[Medium].java)|Medium|
+|1382|Balance a Binary Search Tree|[Java](/Algorithms/Java/medium/1382_Balance_a_Binary_Search_Tree_[Medium].java)|Medium|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
