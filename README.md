@@ -361,6 +361,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
+|1161|Maximum Level Sum of a Binary Tree|[Java](/Algorithms/Java/medium/1161_Maximum_Level_Sum_of_a_Binary_Tree_[Medium].java)|Medium|
 |1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
 |1184|Distance Between Bus Stops|[Java](/Algorithms/Java/easy/1184_Distance_Between_Bus_Stops_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
@@ -374,6 +375,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
+|1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
@@ -388,6 +390,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
+|1325|Delete Leaves With a Given Value|[Java](/Algorithms/Java/medium/1325_Delete_Leaves_With_a_Given_Value_[Medium].java)|Medium|
 |1329|Sort the Matrix Diagonally|[Java](/Algorithms/Java/medium/1329_Sort_the_Matrix_Diagonally_[Medium].java)|Medium|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
