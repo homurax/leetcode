@@ -378,6 +378,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
+|1286|Iterator for Combination|[Java](/Algorithms/Java/medium/1286_Iterator_for_Combination_[Medium].java)|Medium|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
@@ -423,6 +424,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1446|Consecutive Characters|[Java](/Algorithms/Java/easy/1446_Consecutive_Characters_[Easy].java)|Easy|
+|1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
@@ -439,4 +441,5 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
+|1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
