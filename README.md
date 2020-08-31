@@ -410,6 +410,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1381|Design a Stack With Increment Operation|[Java](/Algorithms/Java/medium/1381_Design_a_Stack_With_Increment_Operation_[Medium].java)|Medium|
 |1382|Balance a Binary Search Tree|[Java](/Algorithms/Java/medium/1382_Balance_a_Binary_Search_Tree_[Medium].java)|Medium|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
+|1387|Sort Integers by The Power Value|[Java](/Algorithms/Java/medium/1387_Sort_Integers_by_The_Power_Value_[Medium].java)|Medium|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
 |1395|Count Number of Teams|[Java](/Algorithms/Java/medium/1395_Count_Number_of_Teams_[Medium].java)|Medium|
@@ -418,6 +419,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
+|1415|The k-th Lexicographical String of All Happy Strings of Length n|[Java](/Algorithms/Java/medium/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n_[Medium].java)|Medium|
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
@@ -440,6 +442,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
+|1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
