@@ -370,6 +370,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
+|1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
@@ -387,6 +388,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1304|Find N Unique Integers Sum up to Zero|[Java](/Algorithms/Java/easy/1304_Find_N_Unique_Integers_Sum_up_to_Zero_[Easy].java)|Easy|
 |1305|All Elements in Two Binary Search Trees|[Java](/Algorithms/Java/medium/1305_All_Elements_in_Two_Binary_Search_Trees_[Medium].java)|Medium|
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
+|1310|XOR Queries of a Subarray|[Java](/Algorithms/Java/medium/1310_XOR_Queries_of_a_Subarray_[Medium].java)|Medium|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
@@ -425,6 +427,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
+|1442|Count Triplets That Can Form Two Arrays of Equal XOR|[Java](/Algorithms/Java/medium/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR_[Medium].java)|Medium|
 |1446|Consecutive Characters|[Java](/Algorithms/Java/easy/1446_Consecutive_Characters_[Easy].java)|Easy|
 |1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
