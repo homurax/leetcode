@@ -432,6 +432,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
+|1457|Pseudo-Palindromic Paths in a Binary Tree|[Java](/Algorithms/Java/medium/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree_[Medium].java)|Medium|
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
@@ -439,12 +440,14 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
+|1492|The kth Factor of n|[Java](/Algorithms/Java/medium/1492_The_kth_Factor_of_n_[Medium].java)|Medium|
 |1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
+|1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
