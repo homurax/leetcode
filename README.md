@@ -355,6 +355,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1110|Delete Nodes And Return Forest|[Java](/Algorithms/Java/medium/1110_Delete_Nodes_And_Return_Forest_[Medium].java)|Medium|
 |1111|Maximum Nesting Depth of Two Valid Parentheses Strings|[Java](/Algorithms/Java/medium/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings_[Medium].java)|Medium|
 |1122|Relative Sort Array|[Java](/Algorithms/Java/easy/1122_Relative_Sort_Array_[Easy].java)|Easy|
+|1123|Lowest Common Ancestor of Deepest Leaves|[Java](/Algorithms/Java/medium/1123_Lowest_Common_Ancestor_of_Deepest_Leaves_[Medium].java)|Medium|
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
@@ -398,6 +399,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
+|1338|Reduce Array Size to The Half|[Java](/Algorithms/Java/medium/1338_Reduce_Array_Size_to_The_Half_[Medium].java)|Medium|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
@@ -436,6 +438,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
+|1472|Design Browser History|[Java](/Algorithms/Java/medium/1472_Design_Browser_History_[Medium].java)|Medium|
 |1475|Final Prices With a Special Discount in a Shop|[Java](/Algorithms/Java/easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop_[Easy].java)|Easy|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
