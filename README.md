@@ -370,6 +370,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
+|1219|Path with Maximum Gold|[Java](/Algorithms/Java/medium/1219_Path_with_Maximum_Gold_[Medium].java)|Medium|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
@@ -418,6 +419,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
 |1395|Count Number of Teams|[Java](/Algorithms/Java/medium/1395_Count_Number_of_Teams_[Medium].java)|Medium|
+|1396|Design Underground System|[Java](/Algorithms/Java/medium/1396_Design_Underground_System_[Medium].java)|Medium|
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
@@ -427,6 +429,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
+|1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1442|Count Triplets That Can Form Two Arrays of Equal XOR|[Java](/Algorithms/Java/medium/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR_[Medium].java)|Medium|
