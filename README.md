@@ -359,6 +359,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
+|1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
@@ -377,6 +378,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
+|1268|Search Suggestions System|[Java](/Algorithms/Java/medium/1268_Search_Suggestions_System_[Medium].java)|Medium|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
 |1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
@@ -402,6 +404,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1338|Reduce Array Size to The Half|[Java](/Algorithms/Java/medium/1338_Reduce_Array_Size_to_The_Half_[Medium].java)|Medium|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
+|1343|Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold|[Java](/Algorithms/Java/medium/1343_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold_[Medium].java)|Medium|
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
