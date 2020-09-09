@@ -375,6 +375,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
+|1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
@@ -413,6 +414,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
+|1375|Bulb Switcher III|[Java](/Algorithms/Java/medium/1375_Bulb_Switcher_III_[Medium].java)|Medium|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|[Java](/Algorithms/Java/medium/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree_[Medium].java)|Medium|
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1381|Design a Stack With Increment Operation|[Java](/Algorithms/Java/medium/1381_Design_a_Stack_With_Increment_Operation_[Medium].java)|Medium|
@@ -428,6 +430,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
+|1414|Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[Java](/Algorithms/Java/medium/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K_[Medium].java)|Medium|
 |1415|The k-th Lexicographical String of All Happy Strings of Length n|[Java](/Algorithms/Java/medium/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n_[Medium].java)|Medium|
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
