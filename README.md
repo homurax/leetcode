@@ -368,6 +368,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1184|Distance Between Bus Stops|[Java](/Algorithms/Java/easy/1184_Distance_Between_Bus_Stops_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
+|1190|Reverse Substrings Between Each Pair of Parentheses|[Java](/Algorithms/Java/medium/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses_[Medium].java)|Medium|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
