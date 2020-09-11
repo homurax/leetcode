@@ -407,6 +407,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1338|Reduce Array Size to The Half|[Java](/Algorithms/Java/medium/1338_Reduce_Array_Size_to_The_Half_[Medium].java)|Medium|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
 |1343|Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold|[Java](/Algorithms/Java/medium/1343_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold_[Medium].java)|Medium|
+|1344|Angle Between Hands of a Clock|[Java](/Algorithms/Java/medium/1344_Angle_Between_Hands_of_a_Clock_[Medium].java)|Medium|
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
@@ -438,9 +439,11 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
+|1437|Check If All 1's Are at Least Length K Places Away|[Java](/Algorithms/Java/medium/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away_[Medium].java)|Medium|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1442|Count Triplets That Can Form Two Arrays of Equal XOR|[Java](/Algorithms/Java/medium/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR_[Medium].java)|Medium|
 |1446|Consecutive Characters|[Java](/Algorithms/Java/easy/1446_Consecutive_Characters_[Easy].java)|Easy|
+|1447|Simplified Fractions|[Java](/Algorithms/Java/medium/1447_Simplified_Fractions_[Medium].java)|Medium|
 |1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
