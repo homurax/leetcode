@@ -96,6 +96,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |225|Implement Stack using Queues|[Java](/Algorithms/Java/easy/0225_Implement_Stack_using_Queues_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
+|230|Kth Smallest Element in a BST|[Java](/Algorithms/Java/medium/0230_Kth_Smallest_Element_in_a_BST_[Medium].java)|Medium|
 |231|Power of Two|[Java](/Algorithms/Java/easy/0231_Power_of_Two_[Easy].java)|Easy|
 |232|Implement Queue using Stacks|[Java](/Algorithms/Java/easy/0232_Implement_Queue_using_Stacks_[Easy].java)|Easy|
 |234|Palindrome Linked List|[Java](/Algorithms/Java/easy/0234_Palindrome_Linked_List_[Easy].java)|Easy|
@@ -377,6 +378,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
 |1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
+|1254|Number of Closed Islands|[Java](/Algorithms/Java/medium/1254_Number_of_Closed_Islands_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
@@ -428,6 +430,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1395|Count Number of Teams|[Java](/Algorithms/Java/medium/1395_Count_Number_of_Teams_[Medium].java)|Medium|
 |1396|Design Underground System|[Java](/Algorithms/Java/medium/1396_Design_Underground_System_[Medium].java)|Medium|
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
+|1400|Construct K Palindrome Strings|[Java](/Algorithms/Java/medium/1400_Construct_K_Palindrome_Strings_[Medium].java)|Medium|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
