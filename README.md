@@ -278,6 +278,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |894|All Possible Full Binary Trees|[Java](/Algorithms/Java/medium/0894_All_Possible_Full_Binary_Trees_[Medium].java)|Medium|
 |896|Monotonic Array|[Java](/Algorithms/Java/easy/0896_Monotonic_Array_[Easy].java)|Easy|
 |897|Increasing Order Search Tree|[Java](/Algorithms/Java/easy/0897_Increasing_Order_Search_Tree_[Easy].java)|Easy|
+|901|Online Stock Span|[Java](/Algorithms/Java/medium/0901_Online_Stock_Span_[Medium].java)|Medium|
 |905|Sort Array By Parity|[Java](/Algorithms/Java/easy/0905_Sort_Array_By_Parity_[Easy].java)|Easy|
 |908|Smallest Range I|[Java](/Algorithms/Java/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
 |912|Sort an Array|[Java](/Algorithms/Java/medium/0912_Sort_an_Array_[Medium].java)|Medium|
@@ -377,6 +378,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
+|1247|Minimum Swaps to Make Strings Equal|[Java](/Algorithms/Java/medium/1247_Minimum_Swaps_to_Make_Strings_Equal_[Medium].java)|Medium|
 |1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
 |1254|Number of Closed Islands|[Java](/Algorithms/Java/medium/1254_Number_of_Closed_Islands_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
@@ -395,6 +397,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1302|Deepest Leaves Sum|[Java](/Algorithms/Java/medium/1302_Deepest_Leaves_Sum_[Medium].java)|Medium|
 |1304|Find N Unique Integers Sum up to Zero|[Java](/Algorithms/Java/easy/1304_Find_N_Unique_Integers_Sum_up_to_Zero_[Easy].java)|Easy|
 |1305|All Elements in Two Binary Search Trees|[Java](/Algorithms/Java/medium/1305_All_Elements_in_Two_Binary_Search_Trees_[Medium].java)|Medium|
+|1306|Jump Game III|[Java](/Algorithms/Java/medium/1306_Jump_Game_III_[Medium].java)|Medium|
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1310|XOR Queries of a Subarray|[Java](/Algorithms/Java/medium/1310_XOR_Queries_of_a_Subarray_[Medium].java)|Medium|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
