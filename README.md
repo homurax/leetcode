@@ -420,6 +420,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
+|1371|Find the Longest Substring Containing Vowels in Even Counts|[Java](/Algorithms/Java/medium/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts_[Medium].java)|Medium|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
 |1375|Bulb Switcher III|[Java](/Algorithms/Java/medium/1375_Bulb_Switcher_III_[Medium].java)|Medium|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|[Java](/Algorithms/Java/medium/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree_[Medium].java)|Medium|
@@ -463,6 +464,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
 |1492|The kth Factor of n|[Java](/Algorithms/Java/medium/1492_The_kth_Factor_of_n_[Medium].java)|Medium|
+|1493|Longest Subarray of 1's After Deleting One Element|[Java](/Algorithms/Java/medium/1493_Longest_Subarray_of_1's_After_Deleting_One_Element_[Medium].java)|Medium|
 |1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
@@ -474,3 +476,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
+|1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
