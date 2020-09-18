@@ -56,6 +56,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
 |70|Climbing Stairs|[Java](/Algorithms/Java/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
+|77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
@@ -90,6 +91,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
 |205|Isomorphic Strings|[Java](/Algorithms/Java/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
+|216|Combination Sum III|[Java](/Algorithms/Java/medium/0216_Combination_Sum_III_[Medium].java)|Medium|
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
 |221|Maximal Square|[Java](/Algorithms/Java/medium/0221_Maximal_Square_[Medium].java)|Medium|
@@ -417,6 +419,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
+|1358|Number of Substrings Containing All Three Characters|[Java](/Algorithms/Java/medium/1358_Number_of_Substrings_Containing_All_Three_Characters_[Medium].java)|Medium|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
