@@ -210,6 +210,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |674|Longest Continuous Increasing Subsequence|[Java](/Algorithms/Java/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
 |680|Valid Palindrome II|[Java](/Algorithms/Java/easy/0680_Valid_Palindrome_II_[Easy].java)|Easy|
 |682|Baseball Game|[Java](/Algorithms/Java/easy/0682_Baseball_Game_[Easy].java)|Easy|
+|684|Redundant Connection|[Java](/Algorithms/Java/medium/0684_Redundant_Connection_[Medium].java)|Medium|
 |686|Repeated String Match|[Java](/Algorithms/Java/easy/0686_Repeated_String_Match_[Easy].java)|Easy|
 |687|Longest Univalue Path|[Java](/Algorithms/Java/easy/0687_Longest_Univalue_Path_[Easy].java)|Easy|
 |690|Employee Importance|[Java](/Algorithms/Java/easy/0690_Employee_Importance_[Easy].java)|Easy|
@@ -337,6 +338,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1026|Maximum Difference Between Node and Ancestor|[Java](/Algorithms/Java/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
 |1029|Two City Scheduling|[Java](/Algorithms/Java/easy/1029_Two_City_Scheduling_[Easy].java)|Easy|
 |1030|Matrix Cells in Distance Order|[Java](/Algorithms/Java/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
+|1031|Maximum Sum of Two Non-Overlapping Subarrays|[Java](/Algorithms/Java/medium/1031_Maximum_Sum_of_Two_Non-Overlapping_Subarrays_[Medium].java)|Medium|
 |1033|Moving Stones Until Consecutive|[Java](/Algorithms/Java/easy/1033_Moving_Stones_Until_Consecutive_[Easy].java)|Easy|
 |1037|Valid Boomerang|[Java](/Algorithms/Java/easy/1037_Valid_Boomerang_[Easy].java)|Easy|
 |1038|Binary Search Tree to Greater Sum Tree|[Java](/Algorithms/Java/medium/1038_Binary_Search_Tree_to_Greater_Sum_Tree_[Medium].java)|Medium|
@@ -406,6 +408,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
+|1324|Print Words Vertically|[Java](/Algorithms/Java/medium/1324_Print_Words_Vertically_[Medium].java)|Medium|
 |1325|Delete Leaves With a Given Value|[Java](/Algorithms/Java/medium/1325_Delete_Leaves_With_a_Given_Value_[Medium].java)|Medium|
 |1329|Sort the Matrix Diagonally|[Java](/Algorithms/Java/medium/1329_Sort_the_Matrix_Diagonally_[Medium].java)|Medium|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
