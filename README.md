@@ -50,6 +50,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
+|49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |66|Plus One|[Java](/Algorithms/Java/easy/0066_Plus_One_[Easy].java)|Easy|
@@ -395,7 +396,9 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
 |1286|Iterator for Combination|[Java](/Algorithms/Java/medium/1286_Iterator_for_Combination_[Medium].java)|Medium|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
+|1288|Remove Covered Intervals|[Java](/Algorithms/Java/medium/1288_Remove_Covered_Intervals_[Medium].java)|Medium|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
+|1291|Sequential Digits|[Java](/Algorithms/Java/medium/1291_Sequential_Digits_[Medium].java)|Medium|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1299|Replace Elements with Greatest Element on Right Side|[Java](/Algorithms/Java/easy/1299_Replace_Elements_with_Greatest_Element_on_Right_Side_[Easy].java)|Easy|
 |1302|Deepest Leaves Sum|[Java](/Algorithms/Java/medium/1302_Deepest_Leaves_Sum_[Medium].java)|Medium|
