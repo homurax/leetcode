@@ -201,6 +201,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |643|Maximum Average Subarray I|[Java](/Algorithms/Java/easy/0643_Maximum_Average_Subarray_I_[Easy].java)|Easy|
 |645|Set Mismatch|[Java](/Algorithms/Java/easy/0645_Set_Mismatch_[Easy].java)|Easy|
 |647|Palindromic Substrings|[Java](/Algorithms/Java/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
+|648|Replace Words|[Java](/Algorithms/Java/medium/0648_Replace_Words_[Medium].java)|Medium|
 |653|Two Sum IV - Input is a BST|[Java](/Algorithms/Java/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
 |654|Maximum Binary Tree|[Java](/Algorithms/Java/medium/0654_Maximum_Binary_Tree_[Medium].java)|Medium|
 |657|Robot Return to Origin|[Java](/Algorithms/Java/easy/0657_Robot_Return_to_Origin_[Easy].java)|Easy|
@@ -378,6 +379,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1190|Reverse Substrings Between Each Pair of Parentheses|[Java](/Algorithms/Java/medium/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses_[Medium].java)|Medium|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
+|1209|Remove All Adjacent Duplicates in String II|[Java](/Algorithms/Java/medium/1209_Remove_All_Adjacent_Duplicates_in_String_II_[Medium].java)|Medium|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
 |1219|Path with Maximum Gold|[Java](/Algorithms/Java/medium/1219_Path_with_Maximum_Gold_[Medium].java)|Medium|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
@@ -467,6 +469,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
+|1471|The k Strongest Values in an Array|[Java](/Algorithms/Java/medium/1471_The_k_Strongest_Values_in_an_Array_[Medium].java)|Medium|
 |1472|Design Browser History|[Java](/Algorithms/Java/medium/1472_Design_Browser_History_[Medium].java)|Medium|
 |1475|Final Prices With a Special Discount in a Shop|[Java](/Algorithms/Java/easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop_[Easy].java)|Easy|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
