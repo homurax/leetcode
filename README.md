@@ -49,6 +49,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
+|39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
@@ -83,6 +84,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |169|Majority Element|[Java](/Algorithms/Java/easy/0169_Majority_Element_[Easy].java)|Easy|
 |171|Excel Sheet Column Number|[Java](/Algorithms/Java/easy/0171_Excel_Sheet_Column_Number_[Easy].java)|Easy|
 |172|Factorial Trailing Zeroes|[Java](/Algorithms/Java/easy/0172_Factorial_Trailing_Zeroes_[Easy].java)|Easy|
+|173|Binary Search Tree Iterator|[Java](/Algorithms/Java/medium/0173_Binary_Search_Tree_Iterator_[Medium].java)|Medium|
 |189|Rotate Array|[Java](/Algorithms/Java/easy/0189_Rotate_Array_[Easy].java)|Easy|
 |190|Reverse Bits|[Java](/Algorithms/Java/easy/0190_Reverse_Bits_[Easy].java)|Easy|
 |191|Number of 1 Bits|[Java](/Algorithms/Java/easy/0191_Number_of_1_Bits_[Easy].java)|Easy|
@@ -162,6 +164,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
 |500|Keyboard Row|[Java](/Algorithms/Java/easy/0500_Keyboard_Row_[Easy].java)|Easy|
 |501|Find Mode in Binary Search Tree|[Java](/Algorithms/Java/easy/0501_Find_Mode_in_Binary_Search_Tree_[Easy].java)|Easy|
+|503|Next Greater Element II|[Java](/Algorithms/Java/medium/0503_Next_Greater_Element_II_[Medium].java)|Medium|
 |504|Base 7|[Java](/Algorithms/Java/easy/0504_Base_7_[Easy].java)|Easy|
 |506|Relative Ranks|[Java](/Algorithms/Java/easy/0506_Relative_Ranks_[Easy].java)|Easy|
 |507|Perfect Number|[Java](/Algorithms/Java/easy/0507_Perfect_Number_[Easy].java)|Easy|
