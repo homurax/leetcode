@@ -389,6 +389,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
 |1247|Minimum Swaps to Make Strings Equal|[Java](/Algorithms/Java/medium/1247_Minimum_Swaps_to_Make_Strings_Equal_[Medium].java)|Medium|
+|1248|Count Number of Nice Subarrays|[Java](/Algorithms/Java/medium/1248_Count_Number_of_Nice_Subarrays_[Medium].java)|Medium|
 |1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
 |1254|Number of Closed Islands|[Java](/Algorithms/Java/medium/1254_Number_of_Closed_Islands_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
