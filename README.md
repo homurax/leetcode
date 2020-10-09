@@ -77,6 +77,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
+|144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
 |167|Two Sum II - Input array is sorted|[Java](/Algorithms/Java/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
@@ -271,6 +272,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |859|Buddy Strings|[Java](/Algorithms/Java/easy/0859_Buddy_Strings_[Easy].java)|Easy|
 |860|Lemonade Change|[Java](/Algorithms/Java/easy/0860_Lemonade_Change_[Easy].java)|Easy|
 |861|Score After Flipping Matrix|[Java](/Algorithms/Java/medium/0861_Score_After_Flipping_Matrix_[Medium].java)|Medium|
+|863|All Nodes Distance K in Binary Tree|[Java](/Algorithms/Java/medium/0863_All_Nodes_Distance_K_in_Binary_Tree_[Medium].java)|Medium|
 |865|Smallest Subtree with all the Deepest Nodes|[Java](/Algorithms/Java/medium/0865_Smallest_Subtree_with_all_the_Deepest_Nodes_[Medium].java)|Medium|
 |867|Transpose Matrix|[Java](/Algorithms/Java/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
