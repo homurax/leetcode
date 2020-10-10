@@ -77,6 +77,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
+|142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
@@ -117,11 +118,13 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |268|Missing Number|[Java](/Algorithms/Java/easy/0268_Missing_Number_[Easy].java)|Easy|
 |278|First Bad Version|[Java](/Algorithms/Java/easy/0278_First_Bad_Version_[Easy].java)|Easy|
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
+|287|Find the Duplicate Number|[Java](/Algorithms/Java/medium/0287_Find_the_Duplicate_Number_[Medium].java)|Medium|
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
+|328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
 |344|Reverse String|[Java](/Algorithms/Java/easy/0344_Reverse_String_[Easy].java)|Easy|
