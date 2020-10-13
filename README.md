@@ -191,6 +191,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |559|Maximum Depth of N-ary Tree|[Java](/Algorithms/Java/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
 |563|Binary Tree Tilt|[Java](/Algorithms/Java/easy/0563_Binary_Tree_Tilt_[Easy].java)|Easy|
+|565|Array Nesting|[Java](/Algorithms/Java/medium/0565_Array_Nesting_[Medium].java)|Medium|
 |566|Reshape the Matrix|[Java](/Algorithms/Java/easy/0566_Reshape_the_Matrix_[Easy].java)|Easy|
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
 |575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
@@ -361,6 +362,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1046|Last Stone Weight|[Java](/Algorithms/Java/easy/1046_Last_Stone_Weight_[Easy].java)|Easy|
 |1047|Remove All Adjacent Duplicates In String|[Java](/Algorithms/Java/easy/1047_Remove_All_Adjacent_Duplicates_In_String_[Easy].java)|Easy|
 |1051|Height Checker|[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
+|1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
 |1071|Greatest Common Divisor of Strings|[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
 |1072|Flip Columns For Maximum Number of Equal Rows|[Java](/Algorithms/Java/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
 |1078|Occurrences After Bigram|[Java](/Algorithms/Java/easy/1078_Occurrences_After_Bigram_[Easy].java)|Easy|
@@ -446,6 +448,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1371|Find the Longest Substring Containing Vowels in Even Counts|[Java](/Algorithms/Java/medium/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts_[Medium].java)|Medium|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
 |1375|Bulb Switcher III|[Java](/Algorithms/Java/medium/1375_Bulb_Switcher_III_[Medium].java)|Medium|
+|1376|Time Needed to Inform All Employees|[Java](/Algorithms/Java/medium/1376_Time_Needed_to_Inform_All_Employees_[Medium].java)|Medium|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|[Java](/Algorithms/Java/medium/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree_[Medium].java)|Medium|
 |1380|Lucky Numbers in a Matrix|[Java](/Algorithms/Java/easy/1380_Lucky_Numbers_in_a_Matrix_[Easy].java)|Easy|
 |1381|Design a Stack With Increment Operation|[Java](/Algorithms/Java/medium/1381_Design_a_Stack_With_Increment_Operation_[Medium].java)|Medium|
