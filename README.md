@@ -54,6 +54,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
+|64|Minimum Path Sum|[Java](/Algorithms/Java/medium/0064_Minimum_Path_Sum_[Medium].java)|Medium|
 |66|Plus One|[Java](/Algorithms/Java/easy/0066_Plus_One_[Easy].java)|Easy|
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
@@ -65,6 +66,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
 |101|Symmetric Tree|[Java](/Algorithms/Java/easy/0101_Symmetric_Tree_[Easy].java)|Easy|
+|102|Binary Tree Level Order Traversal|[Java](/Algorithms/Java/medium/0102_Binary_Tree_Level_Order_Traversal_[Medium].java)|Medium|
 |104|Maximum Depth of Binary Tree|[Java](/Algorithms/Java/easy/0104_Maximum_Depth_of_Binary_Tree_[Easy].java)|Easy|
 |107|Binary Tree Level Order Traversal II|[Java](/Algorithms/Java/easy/0107_Binary_Tree_Level_Order_Traversal_II_[Easy].java)|Easy|
 |108|Convert Sorted Array to Binary Search Tree|[Java](/Algorithms/Java/easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree_[Easy].java)|Easy|
@@ -236,6 +238,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |706|Design HashMap|[Java](/Algorithms/Java/easy/0706_Design_HashMap_[Easy].java)|Easy|
 |709|To Lower Case|[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java), [Python](/Algorithms/Python/easy/0709_To_Lower_Case_[Easy].py)|Easy|
 |712|Minimum ASCII Delete Sum for Two Strings|[Java](/Algorithms/Java/medium/0712_Minimum_ASCII_Delete_Sum_for_Two_Strings_[Medium].java)|Medium|
+|714|Best Time to Buy and Sell Stock with Transaction Fee|[Java](/Algorithms/Java/medium/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee_[Medium].java)|Medium|
 |717|1-bit and 2-bit Characters|[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
