@@ -54,6 +54,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
+|59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
 |64|Minimum Path Sum|[Java](/Algorithms/Java/medium/0064_Minimum_Path_Sum_[Medium].java)|Medium|
 |66|Plus One|[Java](/Algorithms/Java/easy/0066_Plus_One_[Easy].java)|Easy|
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
@@ -94,6 +95,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |190|Reverse Bits|[Java](/Algorithms/Java/easy/0190_Reverse_Bits_[Easy].java)|Easy|
 |191|Number of 1 Bits|[Java](/Algorithms/Java/easy/0191_Number_of_1_Bits_[Easy].java)|Easy|
 |198|House Robber|[Java](/Algorithms/Java/easy/0198_House_Robber_[Easy].java)|Easy|
+|199|Binary Tree Right Side View|[Java](/Algorithms/Java/medium/0199_Binary_Tree_Right_Side_View_[Medium].java)|Medium|
 |202|Happy Number|[Java](/Algorithms/Java/easy/0202_Happy_Number_[Easy].java)|Easy|
 |203|Remove Linked List Elements|[Java](/Algorithms/Java/easy/0203_Remove_Linked_List_Elements_[Easy].java)|Easy|
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
@@ -158,6 +160,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |441|Arranging Coins|[Java](/Algorithms/Java/easy/0441_Arranging_Coins_[Easy].java)|Easy|
 |442|Find All Duplicates in an Array|[Java](/Algorithms/Java/medium/0442_Find_All_Duplicates_in_an_Array_[Medium].java)|Medium|
 |443|String Compression|[Java](/Algorithms/Java/easy/0443_String_Compression_[Easy].java)|Easy|
+|445|Add Two Numbers II|[Java](/Algorithms/Java/medium/0445_Add_Two_Numbers_II_[Medium].java)|Medium|
 |448|Find All Numbers Disappeared in an Array|[Java](/Algorithms/Java/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
 |451|Sort Characters By Frequency|[Java](/Algorithms/Java/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
