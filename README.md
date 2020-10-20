@@ -55,6 +55,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
+|62|Unique Paths|[Java](/Algorithms/Java/medium/0062_Unique_Paths_[Medium].java)|Medium|
 |64|Minimum Path Sum|[Java](/Algorithms/Java/medium/0064_Minimum_Path_Sum_[Medium].java)|Medium|
 |66|Plus One|[Java](/Algorithms/Java/easy/0066_Plus_One_[Easy].java)|Easy|
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
@@ -182,6 +183,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |509|Fibonacci Number|[Java](/Algorithms/Java/easy/0509_Fibonacci_Number_[Easy].java)|Easy|
 |513|Find Bottom Left Tree Value|[Java](/Algorithms/Java/medium/0513_Find_Bottom_Left_Tree_Value_[Medium].java)|Medium|
 |515|Find Largest Value in Each Tree Row|[Java](/Algorithms/Java/medium/0515_Find_Largest_Value_in_Each_Tree_Row_[Medium].java)|Medium|
+|516|Longest Palindromic Subsequence|[Java](/Algorithms/Java/medium/0516_Longest_Palindromic_Subsequence_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
@@ -494,6 +496,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1472|Design Browser History|[Java](/Algorithms/Java/medium/1472_Design_Browser_History_[Medium].java)|Medium|
 |1475|Final Prices With a Special Discount in a Shop|[Java](/Algorithms/Java/easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop_[Easy].java)|Easy|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
+|1481|Least Number of Unique Integers after K Removals|[Java](/Algorithms/Java/medium/1481_Least_Number_of_Unique_Integers_after_K_Removals_[Medium].java)|Medium|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
 |1492|The kth Factor of n|[Java](/Algorithms/Java/medium/1492_The_kth_Factor_of_n_[Medium].java)|Medium|

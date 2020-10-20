@@ -38,9 +38,9 @@ public class UncommonWordsFromTwoSentences {
         Map<String, Integer> countMap = new HashMap<>();
 
         for (String word: A.split(" "))
-            countMap.merge(word, 1, (x, y) -> x + y); // countMap.put(word, countMap.getOrDefault(word, 0) + 1);
+            countMap.merge(word, 1, Integer::sum); // countMap.put(word, countMap.getOrDefault(word, 0) + 1);
         for (String word: B.split(" "))
-            countMap.merge(word, 1, (x, y) -> x + y);
+            countMap.merge(word, 1, Integer::sum);
 
         List<String> list = new LinkedList<>();
         for (String word: countMap.keySet())
