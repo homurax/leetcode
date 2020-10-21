@@ -167,6 +167,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
 |455|Assign Cookies|[Java](/Algorithms/Java/easy/0455_Assign_Cookies_[Easy].java)|Easy|
 |459|Repeated Substring Pattern|[Java](/Algorithms/Java/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
+|462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
@@ -226,6 +227,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |669|Trim a Binary Search Tree|[Java](/Algorithms/Java/easy/0669_Trim_a_Binary_Search_Tree_[Easy].java)|Easy|
 |671|Second Minimum Node In a Binary Tree|[Java](/Algorithms/Java/easy/0671_Second_Minimum_Node_In_a_Binary_Tree_[Easy].java)|Easy|
 |674|Longest Continuous Increasing Subsequence|[Java](/Algorithms/Java/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
+|677|Map Sum Pairs|[Java](/Algorithms/Java/medium/0677_Map_Sum_Pairs_[Medium].java)|Medium|
 |680|Valid Palindrome II|[Java](/Algorithms/Java/easy/0680_Valid_Palindrome_II_[Easy].java)|Easy|
 |682|Baseball Game|[Java](/Algorithms/Java/easy/0682_Baseball_Game_[Easy].java)|Easy|
 |684|Redundant Connection|[Java](/Algorithms/Java/medium/0684_Redundant_Connection_[Medium].java)|Medium|
@@ -290,6 +292,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |865|Smallest Subtree with all the Deepest Nodes|[Java](/Algorithms/Java/medium/0865_Smallest_Subtree_with_all_the_Deepest_Nodes_[Medium].java)|Medium|
 |867|Transpose Matrix|[Java](/Algorithms/Java/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
+|869|Reordered Power of 2|[Java](/Algorithms/Java/medium/0869_Reordered_Power_of_2_[Medium].java)|Medium|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
