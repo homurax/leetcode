@@ -253,6 +253,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |717|1-bit and 2-bit Characters|[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
+|725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
 |728|Self Dividing Numbers|[Java](/Algorithms/Java/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
@@ -298,6 +299,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
 |869|Reordered Power of 2|[Java](/Algorithms/Java/medium/0869_Reordered_Power_of_2_[Medium].java)|Medium|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
+|875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
 |883|Projection Area of 3D Shapes|[Java](/Algorithms/Java/easy/0883_Projection_Area_of_3D_Shapes_[Easy].java)|Easy|
@@ -355,6 +357,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1010|Pairs of Songs With Total Durations Divisible by 60|[Java](/Algorithms/Java/easy/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60_[Easy].java)|Easy|
 |1011|Capacity To Ship Packages Within D Days|[Java](/Algorithms/Java/medium/1011_Capacity_To_Ship_Packages_Within_D_Days_[Medium].java)|Medium|
 |1013|Partition Array Into Three Parts With Equal Sum|[Java](/Algorithms/Java/easy/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum_[Easy].java)|Easy|
+|1014|Best Sightseeing Pair|[Java](/Algorithms/Java/medium/1014_Best_Sightseeing_Pair_[Medium].java)|Medium|
 |1016|Binary String With Substrings Representing 1 To N|[Java](/Algorithms/Java/medium/1016_Binary_String_With_Substrings_Representing_1_To_N_[Medium].java)|Medium|
 |1017|Convert to Base -2|[Java](/Algorithms/Java/medium/1017_Convert_to_Base_-2_[Medium].java)|Medium|
 |1018|Binary Prefix Divisible By 5|[Java](/Algorithms/Java/easy/1018_Binary_Prefix_Divisible_By_5_[Easy].java)|Easy|
