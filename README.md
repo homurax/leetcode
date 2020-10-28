@@ -143,6 +143,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
+|386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
 |392|Is Subsequence|[Java](/Algorithms/Java/easy/0392_Is_Subsequence_[Easy].java)|Easy|
@@ -255,6 +256,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
 |725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
 |728|Self Dividing Numbers|[Java](/Algorithms/Java/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
+|729|My Calendar I|[Java](/Algorithms/Java/medium/0729_My_Calendar_I_[Medium].java)|Medium|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
@@ -320,6 +322,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II|[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
 |925|Long Pressed Name|[Java](/Algorithms/Java/easy/0925_Long_Pressed_Name_[Easy].java)|Easy|
+|926|Flip String to Monotone Increasing|[Java](/Algorithms/Java/medium/0926_Flip_String_to_Monotone_Increasing_[Medium].java)|Medium|
 |929|Unique Email Addresses|[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
 |931|Minimum Falling Path Sum|[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls|[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
