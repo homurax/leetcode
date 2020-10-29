@@ -142,6 +142,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
+|382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
 |386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
@@ -222,6 +223,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
 |643|Maximum Average Subarray I|[Java](/Algorithms/Java/easy/0643_Maximum_Average_Subarray_I_[Easy].java)|Easy|
 |645|Set Mismatch|[Java](/Algorithms/Java/easy/0645_Set_Mismatch_[Easy].java)|Easy|
+|646|Maximum Length of Pair Chain|[Java](/Algorithms/Java/medium/0646_Maximum_Length_of_Pair_Chain_[Medium].java)|Medium|
 |647|Palindromic Substrings|[Java](/Algorithms/Java/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
 |648|Replace Words|[Java](/Algorithms/Java/medium/0648_Replace_Words_[Medium].java)|Medium|
 |653|Two Sum IV - Input is a BST|[Java](/Algorithms/Java/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
@@ -239,6 +241,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |686|Repeated String Match|[Java](/Algorithms/Java/easy/0686_Repeated_String_Match_[Easy].java)|Easy|
 |687|Longest Univalue Path|[Java](/Algorithms/Java/easy/0687_Longest_Univalue_Path_[Easy].java)|Easy|
 |690|Employee Importance|[Java](/Algorithms/Java/easy/0690_Employee_Importance_[Easy].java)|Easy|
+|692|Top K Frequent Words|[Java](/Algorithms/Java/medium/0692_Top_K_Frequent_Words_[Medium].java)|Medium|
 |693|Binary Number with Alternating Bits|[Java](/Algorithms/Java/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
 |695|Max Area of Island|[Java](/Algorithms/Java/medium/0695_Max_Area_of_Island_[Medium].java)|Medium|
 |696|Count Binary Substrings|[Java](/Algorithms/Java/easy/0696_Count_Binary_Substrings_[Easy].java)|Easy|
