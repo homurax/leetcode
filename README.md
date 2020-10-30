@@ -130,6 +130,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
+|318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
@@ -196,6 +197,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
 |532|K-diff Pairs in an Array|[Java](/Algorithms/Java/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
 |538|Convert BST to Greater Tree|[Java](/Algorithms/Java/easy/0538_Convert_BST_to_Greater_Tree_[Easy].java)|Easy|
+|539|Minimum Time Difference|[Java](/Algorithms/Java/medium/0539_Minimum_Time_Difference_[Medium].java)|Medium|
 |540|Single Element in a Sorted Array|[Java](/Algorithms/Java/medium/0540_Single_Element_in_a_Sorted_Array_[Medium].java)|Medium|
 |541|Reverse String II|[Java](/Algorithms/Java/easy/0541_Reverse_String_II_[Easy].java)|Easy|
 |543|Diameter of Binary Tree|[Java](/Algorithms/Java/easy/0543_Diameter_of_Binary_Tree_[Easy].java)|Easy|
@@ -339,6 +341,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |950|Reveal Cards In Increasing Order|[Java](/Algorithms/Java/medium/0950_Reveal_Cards_In_Increasing_Order_[Medium].java)|Medium|
 |951|Flip Equivalent Binary Trees|[Java](/Algorithms/Java/medium/0951_Flip_Equivalent_Binary_Trees_[Medium].java)|Medium|
 |953|Verifying an Alien Dictionary|[Java](/Algorithms/Java/easy/0953_Verifying_an_Alien_Dictionary_[Easy].java)|Easy|
+|958|Check Completeness of a Binary Tree|[Java](/Algorithms/Java/medium/0958_Check_Completeness_of_a_Binary_Tree_[Medium].java)|Medium|
 |961|N-Repeated Element in Size 2N Array|[Java](/Algorithms/Java/easy/0961_N-Repeated_Element_in_Size_2N_Array_[Easy].java)|Easy|
 |965|Univalued Binary Tree|[Java](/Algorithms/Java/easy/0965_Univalued_Binary_Tree_[Easy].java)|Easy|
 |970|Powerful Integers|[Java](/Algorithms/Java/easy/0970_Powerful_Integers_[Easy].java)|Easy|
