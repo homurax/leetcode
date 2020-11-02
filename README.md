@@ -46,6 +46,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |20|Valid Parentheses|[Java](/Algorithms/Java/easy/0020_Valid_Parentheses_[Easy].java)|Easy|
 |21|Merge Two Sorted Lists|[Java](/Algorithms/Java/easy/0021_Merge_Two_Sorted_Lists_[Easy].java)|Easy|
 |22|Generate Parentheses|[Java](/Algorithms/Java/medium/0022_Generate_Parentheses_[Medium].java)|Medium|
+|24|Swap Nodes in Pairs|[Java](/Algorithms/Java/medium/0024_Swap_Nodes_in_Pairs_[Medium].java)|Medium|
 |26|Remove Duplicates from Sorted Array|[Java](/Algorithms/Java/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
@@ -526,6 +527,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
+|1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
