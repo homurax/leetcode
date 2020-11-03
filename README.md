@@ -230,6 +230,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |646|Maximum Length of Pair Chain|[Java](/Algorithms/Java/medium/0646_Maximum_Length_of_Pair_Chain_[Medium].java)|Medium|
 |647|Palindromic Substrings|[Java](/Algorithms/Java/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
 |648|Replace Words|[Java](/Algorithms/Java/medium/0648_Replace_Words_[Medium].java)|Medium|
+|652|Find Duplicate Subtrees|[Java](/Algorithms/Java/medium/0652_Find_Duplicate_Subtrees_[Medium].java)|Medium|
 |653|Two Sum IV - Input is a BST|[Java](/Algorithms/Java/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
 |654|Maximum Binary Tree|[Java](/Algorithms/Java/medium/0654_Maximum_Binary_Tree_[Medium].java)|Medium|
 |657|Robot Return to Origin|[Java](/Algorithms/Java/easy/0657_Robot_Return_to_Origin_[Easy].java)|Easy|
@@ -289,6 +290,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |812|Largest Triangle Area|[Java](/Algorithms/Java/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
 |814|Binary Tree Pruning|[Java](/Algorithms/Java/medium/0814_Binary_Tree_Pruning_[Medium].java)|Medium|
 |819|Most Common Word|[Java](/Algorithms/Java/easy/0819_Most_Common_Word_[Easy].java)|Easy|
+|820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
@@ -413,6 +415,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
 |1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
+|1145|Binary Tree Coloring Game|[Java](/Algorithms/Java/medium/1145_Binary_Tree_Coloring_Game_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1161|Maximum Level Sum of a Binary Tree|[Java](/Algorithms/Java/medium/1161_Maximum_Level_Sum_of_a_Binary_Tree_[Medium].java)|Medium|
