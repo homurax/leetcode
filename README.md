@@ -105,6 +105,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
 |205|Isomorphic Strings|[Java](/Algorithms/Java/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
+|213|House Robber II|[Java](/Algorithms/Java/medium/0213_House_Robber_II_[Medium].java)|Medium|
 |216|Combination Sum III|[Java](/Algorithms/Java/medium/0216_Combination_Sum_III_[Medium].java)|Medium|
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
@@ -135,6 +136,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
+|337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
 |344|Reverse String|[Java](/Algorithms/Java/easy/0344_Reverse_String_[Easy].java)|Easy|
@@ -151,6 +153,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
 |392|Is Subsequence|[Java](/Algorithms/Java/easy/0392_Is_Subsequence_[Easy].java)|Easy|
+|394|Decode String|[Java](/Algorithms/Java/medium/0394_Decode_String_[Medium].java)|Medium|
 |404|Sum of Left Leaves|[Java](/Algorithms/Java/easy/0404_Sum_of_Left_Leaves_[Easy].java)|Easy|
 |405|Convert a Number to Hexadecimal|[Java](/Algorithms/Java/easy/0405_Convert_a_Number_to_Hexadecimal_[Easy].java)|Easy|
 |406|Queue Reconstruction by Height|[Java](/Algorithms/Java/easy/0406_Queue_Reconstruction_by_Height_[Easy].java)|Easy|
