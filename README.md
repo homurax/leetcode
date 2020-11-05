@@ -134,6 +134,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
+|322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
@@ -197,6 +198,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |513|Find Bottom Left Tree Value|[Java](/Algorithms/Java/medium/0513_Find_Bottom_Left_Tree_Value_[Medium].java)|Medium|
 |515|Find Largest Value in Each Tree Row|[Java](/Algorithms/Java/medium/0515_Find_Largest_Value_in_Each_Tree_Row_[Medium].java)|Medium|
 |516|Longest Palindromic Subsequence|[Java](/Algorithms/Java/medium/0516_Longest_Palindromic_Subsequence_[Medium].java)|Medium|
+|518|Coin Change 2|[Java](/Algorithms/Java/medium/0518_Coin_Change_2_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
@@ -225,6 +227,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |605|Can Place Flowers|[Java](/Algorithms/Java/easy/0605_Can_Place_Flowers_[Easy].java)|Easy|
 |606|Construct String from Binary Tree|[Java](/Algorithms/Java/easy/0606_Construct_String_from_Binary_Tree_[Easy].java)|Easy|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
+|621|Task Scheduler|[Java](/Algorithms/Java/medium/0621_Task_Scheduler_[Medium].java)|Medium|
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
