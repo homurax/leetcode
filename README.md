@@ -371,6 +371,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1002|Find Common Characters|[Java](/Algorithms/Java/easy/1002_Find_Common_Characters_[Easy].java)|Easy|
 |1004|Max Consecutive Ones III|[Java](/Algorithms/Java/medium/1004_Max_Consecutive_Ones_III_[Medium].java)|Medium|
 |1005|Maximize Sum Of Array After K Negations|[Java](/Algorithms/Java/easy/1005_Maximize_Sum_Of_Array_After_K_Negations_[Easy].java)|Easy|
+|1007|Minimum Domino Rotations For Equal Row|[Java](/Algorithms/Java/medium/1007_Minimum_Domino_Rotations_For_Equal_Row_[Medium].java)|Medium|
 |1008|Construct Binary Search Tree from Preorder Traversal|[Java](/Algorithms/Java/medium/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal_[Medium].java)|Medium|
 |1009|Complement of Base 10 Integer|[Java](/Algorithms/Java/easy/1009_Complement_of_Base_10_Integer_[Easy].java)|Easy|
 |1010|Pairs of Songs With Total Durations Divisible by 60|[Java](/Algorithms/Java/easy/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60_[Easy].java)|Easy|
