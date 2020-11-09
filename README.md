@@ -77,6 +77,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |110|Balanced Binary Tree|[Java](/Algorithms/Java/easy/0110_Balanced_Binary_Tree_[Easy].java)|Easy|
 |111|Minimum Depth of Binary Tree|[Java](/Algorithms/Java/easy/0111_Minimum_Depth_of_Binary_Tree_[Easy].java)|Easy|
 |112|Path Sum|[Java](/Algorithms/Java/easy/0112_Path_Sum_[Easy].java)|Easy|
+|114|Flatten Binary Tree to Linked List|[Java](/Algorithms/Java/medium/0114_Flatten_Binary_Tree_to_Linked_List_[Medium].java)|Medium|
 |118|Pascal's Triangle|[Java](/Algorithms/Java/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
@@ -105,6 +106,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
 |205|Isomorphic Strings|[Java](/Algorithms/Java/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
+|208|Implement Trie (Prefix Tree)|[Java](/Algorithms/Java/medium/0208_Implement_Trie_(Prefix_Tree)_[Medium].java)|Medium|
 |213|House Robber II|[Java](/Algorithms/Java/medium/0213_House_Robber_II_[Medium].java)|Medium|
 |216|Combination Sum III|[Java](/Algorithms/Java/medium/0216_Combination_Sum_III_[Medium].java)|Medium|
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
@@ -140,6 +142,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
+|343|Integer Break|[Java](/Algorithms/Java/medium/0343_Integer_Break_[Medium].java)|Medium|
 |344|Reverse String|[Java](/Algorithms/Java/easy/0344_Reverse_String_[Easy].java)|Easy|
 |345|Reverse Vowels of a String|[Java](/Algorithms/Java/easy/0345_Reverse_Vowels_of_a_String_[Easy].java)|Easy|
 |347|Top K Frequent Elements|[Java](/Algorithms/Java/medium/0347_Top_K_Frequent_Elements_[Medium].java)|Medium|
