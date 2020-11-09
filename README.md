@@ -297,6 +297,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |807|Max Increase to Keep City Skyline|[Java](/Algorithms/Java/medium/0807_Max_Increase_to_Keep_City_Skyline_[Medium].java)|Medium|
 |811|Subdomain Visit Count|[Java](/Algorithms/Java/easy/0811_Subdomain_Visit_Count_[Easy].java)|Easy|
 |812|Largest Triangle Area|[Java](/Algorithms/Java/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
+|813|Largest Sum of Averages|[Java](/Algorithms/Java/medium/0813_Largest_Sum_of_Averages_[Medium].java)|Medium|
 |814|Binary Tree Pruning|[Java](/Algorithms/Java/medium/0814_Binary_Tree_Pruning_[Medium].java)|Medium|
 |819|Most Common Word|[Java](/Algorithms/Java/easy/0819_Most_Common_Word_[Easy].java)|Easy|
 |820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
@@ -391,6 +392,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1023|Camelcase Matching|[Java](/Algorithms/Java/medium/1023_Camelcase_Matching_[Medium].java)|Medium|
 |1025|Divisor Game|[Java](/Algorithms/Java/easy/1025_Divisor_Game_[Easy].java)|Easy|
 |1026|Maximum Difference Between Node and Ancestor|[Java](/Algorithms/Java/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
+|1027|Longest Arithmetic Subsequence|[Java](/Algorithms/Java/medium/1027_Longest_Arithmetic_Subsequence_[Medium].java)|Medium|
 |1029|Two City Scheduling|[Java](/Algorithms/Java/easy/1029_Two_City_Scheduling_[Easy].java)|Easy|
 |1030|Matrix Cells in Distance Order|[Java](/Algorithms/Java/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
 |1031|Maximum Sum of Two Non-Overlapping Subarrays|[Java](/Algorithms/Java/medium/1031_Maximum_Sum_of_Two_Non-Overlapping_Subarrays_[Medium].java)|Medium|
