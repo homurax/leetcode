@@ -82,6 +82,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
+|129|Sum Root to Leaf Numbers|[Java](/Algorithms/Java/medium/0129_Sum_Root_to_Leaf_Numbers_[Medium].java)|Medium|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |137|Single Number II|[Java](/Algorithms/Java/medium/0137_Single_Number_II_[Medium].java)|Medium|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
@@ -233,6 +234,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |606|Construct String from Binary Tree|[Java](/Algorithms/Java/easy/0606_Construct_String_from_Binary_Tree_[Easy].java)|Easy|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
 |621|Task Scheduler|[Java](/Algorithms/Java/medium/0621_Task_Scheduler_[Medium].java)|Medium|
+|623|Add One Row to Tree|[Java](/Algorithms/Java/medium/0623_Add_One_Row_to_Tree_[Medium].java)|Medium|
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
@@ -272,6 +274,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |714|Best Time to Buy and Sell Stock with Transaction Fee|[Java](/Algorithms/Java/medium/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee_[Medium].java)|Medium|
 |717|1-bit and 2-bit Characters|[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
+|721|Accounts Merge|[Java](/Algorithms/Java/medium/0721_Accounts_Merge_[Medium].java)|Medium|
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
 |725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
 |728|Self Dividing Numbers|[Java](/Algorithms/Java/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
