@@ -186,6 +186,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
+|477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
@@ -213,6 +214,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |543|Diameter of Binary Tree|[Java](/Algorithms/Java/easy/0543_Diameter_of_Binary_Tree_[Easy].java)|Easy|
 |547|Friend Circles|[Java](/Algorithms/Java/medium/0547_Friend_Circles_[Medium].java)|Medium|
 |551|Student Attendance Record I|[Java](/Algorithms/Java/easy/0551_Student_Attendance_Record_I_[Easy].java)|Easy|
+|554|Brick Wall|[Java](/Algorithms/Java/medium/0554_Brick_Wall_[Medium].java)|Medium|
 |557|Reverse Words in a String III|[Java](/Algorithms/Java/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
 |559|Maximum Depth of N-ary Tree|[Java](/Algorithms/Java/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
@@ -508,6 +510,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1400|Construct K Palindrome Strings|[Java](/Algorithms/Java/medium/1400_Construct_K_Palindrome_Strings_[Medium].java)|Medium|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
+|1404|Number of Steps to Reduce a Number in Binary Representation to One|[Java](/Algorithms/Java/medium/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One_[Medium].java)|Medium|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
