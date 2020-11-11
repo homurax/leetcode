@@ -218,6 +218,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |554|Brick Wall|[Java](/Algorithms/Java/medium/0554_Brick_Wall_[Medium].java)|Medium|
 |557|Reverse Words in a String III|[Java](/Algorithms/Java/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
 |559|Maximum Depth of N-ary Tree|[Java](/Algorithms/Java/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
+|560|Subarray Sum Equals K|[Java](/Algorithms/Java/medium/0560_Subarray_Sum_Equals_K_[Medium].java)|Medium|
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
 |563|Binary Tree Tilt|[Java](/Algorithms/Java/easy/0563_Binary_Tree_Tilt_[Easy].java)|Easy|
 |565|Array Nesting|[Java](/Algorithms/Java/medium/0565_Array_Nesting_[Medium].java)|Medium|
@@ -279,6 +280,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
 |728|Self Dividing Numbers|[Java](/Algorithms/Java/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
 |729|My Calendar I|[Java](/Algorithms/Java/medium/0729_My_Calendar_I_[Medium].java)|Medium|
+|731|My Calendar II|[Java](/Algorithms/Java/medium/0731_My_Calendar_II_[Medium].java)|Medium|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
@@ -365,6 +367,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |965|Univalued Binary Tree|[Java](/Algorithms/Java/easy/0965_Univalued_Binary_Tree_[Easy].java)|Easy|
 |970|Powerful Integers|[Java](/Algorithms/Java/easy/0970_Powerful_Integers_[Easy].java)|Easy|
 |973|K Closest Points to Origin|[Java](/Algorithms/Java/medium/0973_K_Closest_Points_to_Origin_[Medium].java)|Medium|
+|974|Subarray Sums Divisible by K|[Java](/Algorithms/Java/medium/0974_Subarray_Sums_Divisible_by_K_[Medium].java)|Medium|
 |976|Largest Perimeter Triangle|[Java](/Algorithms/Java/easy/0976_Largest_Perimeter_Triangle_[Easy].java)|Easy|
 |977|Squares of a Sorted Array|[Java](/Algorithms/Java/easy/0977_Squares_of_a_Sorted_Array_[Easy].java)|Easy|
 |979|Distribute Coins in Binary Tree|[Java](/Algorithms/Java/medium/0979_Distribute_Coins_in_Binary_Tree_[Medium].java)|Medium|
