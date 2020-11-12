@@ -51,6 +51,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
+|36|Valid Sudoku|[Java](/Algorithms/Java/medium/0036_Valid_Sudoku_[Medium].java)|Medium|
 |39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
@@ -180,6 +181,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |448|Find All Numbers Disappeared in an Array|[Java](/Algorithms/Java/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
 |449|Serialize and Deserialize BST|[Java](/Algorithms/Java/medium/0449_Serialize_and_Deserialize_BST_[Medium].java)|Medium|
 |451|Sort Characters By Frequency|[Java](/Algorithms/Java/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
+|452|Minimum Number of Arrows to Burst Balloons|[Java](/Algorithms/Java/medium/0452_Minimum_Number_of_Arrows_to_Burst_Balloons_[Medium].java)|Medium|
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
 |454|4Sum II|[Java](/Algorithms/Java/medium/0454_4Sum_II_[Medium].java)|Medium|
 |455|Assign Cookies|[Java](/Algorithms/Java/easy/0455_Assign_Cookies_[Easy].java)|Easy|
@@ -433,6 +435,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
+|1138|Alphabet Board Path|[Java](/Algorithms/Java/medium/1138_Alphabet_Board_Path_[Medium].java)|Medium|
 |1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1145|Binary Tree Coloring Game|[Java](/Algorithms/Java/medium/1145_Binary_Tree_Coloring_Game_[Medium].java)|Medium|
