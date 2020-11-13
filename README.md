@@ -53,6 +53,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
 |36|Valid Sudoku|[Java](/Algorithms/Java/medium/0036_Valid_Sudoku_[Medium].java)|Medium|
 |39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
+|40|Combination Sum II|[Java](/Algorithms/Java/medium/0040_Combination_Sum_II_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
@@ -246,6 +247,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |646|Maximum Length of Pair Chain|[Java](/Algorithms/Java/medium/0646_Maximum_Length_of_Pair_Chain_[Medium].java)|Medium|
 |647|Palindromic Substrings|[Java](/Algorithms/Java/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
 |648|Replace Words|[Java](/Algorithms/Java/medium/0648_Replace_Words_[Medium].java)|Medium|
+|650|2 Keys Keyboard|[Java](/Algorithms/Java/medium/0650_2_Keys_Keyboard_[Medium].java)|Medium|
 |652|Find Duplicate Subtrees|[Java](/Algorithms/Java/medium/0652_Find_Duplicate_Subtrees_[Medium].java)|Medium|
 |653|Two Sum IV - Input is a BST|[Java](/Algorithms/Java/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
 |654|Maximum Binary Tree|[Java](/Algorithms/Java/medium/0654_Maximum_Binary_Tree_[Medium].java)|Medium|
@@ -293,6 +295,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |762|Prime Number of Set Bits in Binary Representation|[Java](/Algorithms/Java/easy/0762_Prime_Number_of_Set_Bits_in_Binary_Representation_[Easy].java)|Easy|
 |763|Partition Labels|[Java](/Algorithms/Java/medium/0763_Partition_Labels_[Medium].java)|Medium|
 |766|Toeplitz Matrix|[Java](/Algorithms/Java/easy/0766_Toeplitz_Matrix_[Easy].java)|Easy|
+|767|Reorganize String|[Java](/Algorithms/Java/medium/0767_Reorganize_String_[Medium].java)|Medium|
 |771|Jewels and Stones|[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
 |783|Minimum Distance Between BST Nodes|[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
 |784|Letter Case Permutation|[Java](/Algorithms/Java/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
