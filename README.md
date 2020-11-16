@@ -57,6 +57,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
+|55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
 |62|Unique Paths|[Java](/Algorithms/Java/medium/0062_Unique_Paths_[Medium].java)|Medium|
@@ -229,6 +230,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
 |575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
 |581|Shortest Unsorted Continuous Subarray|[Java](/Algorithms/Java/easy/0581_Shortest_Unsorted_Continuous_Subarray_[Easy].java)|Easy|
+|583|Delete Operation for Two Strings|[Java](/Algorithms/Java/medium/0583_Delete_Operation_for_Two_Strings_[Medium].java)|Medium|
 |589|N-ary Tree Preorder Traversal|[Java](/Algorithms/Java/easy/0589_N-ary_Tree_Preorder_Traversal_[Easy].java)|Easy|
 |590|N-ary Tree Postorder Traversal|[Java](/Algorithms/Java/easy/0590_N-ary_Tree_Postorder_Traversal_[Easy].java)|Easy|
 |594|Longest Harmonious Subsequence|[Java](/Algorithms/Java/easy/0594_Longest_Harmonious_Subsequence_[Easy].java)|Easy|
@@ -304,6 +306,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |791|Custom Sort String|[Java](/Algorithms/Java/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
+|802|Find Eventual Safe States|[Java](/Algorithms/Java/medium/0802_Find_Eventual_Safe_States_[Medium].java)|Medium|
 |804|Unique Morse Code Words|[Java](/Algorithms/Java/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
 |806|Number of Lines To Write String|[Java](/Algorithms/Java/easy/0806_Number_of_Lines_To_Write_String_[Easy].java)|Easy|
 |807|Max Increase to Keep City Skyline|[Java](/Algorithms/Java/medium/0807_Max_Increase_to_Keep_City_Skyline_[Medium].java)|Medium|
@@ -403,6 +406,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1021|Remove Outermost Parentheses|[Java](/Algorithms/Java/easy/1021_Remove_Outermost_Parentheses_[Easy].java)|Easy|
 |1022|Sum of Root To Leaf Binary Numbers|[Java](/Algorithms/Java/easy/1022_Sum_of_Root_To_Leaf_Binary_Numbers_[Easy].java)|Easy|
 |1023|Camelcase Matching|[Java](/Algorithms/Java/medium/1023_Camelcase_Matching_[Medium].java)|Medium|
+|1024|Video Stitching|[Java](/Algorithms/Java/medium/1024_Video_Stitching_[Medium].java)|Medium|
 |1025|Divisor Game|[Java](/Algorithms/Java/easy/1025_Divisor_Game_[Easy].java)|Easy|
 |1026|Maximum Difference Between Node and Ancestor|[Java](/Algorithms/Java/medium/1026_Maximum_Difference_Between_Node_and_Ancestor_[Medium].java)|Medium|
 |1027|Longest Arithmetic Subsequence|[Java](/Algorithms/Java/medium/1027_Longest_Arithmetic_Subsequence_[Medium].java)|Medium|
