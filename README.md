@@ -74,6 +74,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
 |101|Symmetric Tree|[Java](/Algorithms/Java/easy/0101_Symmetric_Tree_[Easy].java)|Easy|
 |102|Binary Tree Level Order Traversal|[Java](/Algorithms/Java/medium/0102_Binary_Tree_Level_Order_Traversal_[Medium].java)|Medium|
+|103|Binary Tree Zigzag Level Order Traversal|[Java](/Algorithms/Java/medium/0103_Binary_Tree_Zigzag_Level_Order_Traversal_[Medium].java)|Medium|
 |104|Maximum Depth of Binary Tree|[Java](/Algorithms/Java/easy/0104_Maximum_Depth_of_Binary_Tree_[Easy].java)|Easy|
 |107|Binary Tree Level Order Traversal II|[Java](/Algorithms/Java/easy/0107_Binary_Tree_Level_Order_Traversal_II_[Easy].java)|Easy|
 |108|Convert Sorted Array to Binary Search Tree|[Java](/Algorithms/Java/easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree_[Easy].java)|Easy|
@@ -289,6 +290,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |731|My Calendar II|[Java](/Algorithms/Java/medium/0731_My_Calendar_II_[Medium].java)|Medium|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
+|740|Delete and Earn|[Java](/Algorithms/Java/medium/0740_Delete_and_Earn_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
 |746|Min Cost Climbing Stairs|[Java](/Algorithms/Java/easy/0746_Min_Cost_Climbing_Stairs_[Easy].java)|Easy|
 |747|Largest Number At Least Twice of Others|[Java](/Algorithms/Java/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
@@ -321,6 +323,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
 |832|Flipping an Image|[Java](/Algorithms/Java/easy/0832_Flipping_an_Image_[Easy].java)|Easy|
 |836|Rectangle Overlap|[Java](/Algorithms/Java/easy/0836_Rectangle_Overlap_[Easy].java)|Easy|
+|838|Push Dominoes|[Java](/Algorithms/Java/medium/0838_Push_Dominoes_[Medium].java)|Medium|
 |841|Keys and Rooms|[Java](/Algorithms/Java/medium/0841_Keys_and_Rooms_[Medium].java)|Medium|
 |844|Backspace String Compare|[Java](/Algorithms/Java/easy/0844_Backspace_String_Compare_[Easy].java)|Easy|
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
