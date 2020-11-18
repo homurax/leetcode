@@ -197,6 +197,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
+|498|Diagonal Traverse|[Java](/Algorithms/Java/medium/0498_Diagonal_Traverse_[Medium].java)|Medium|
 |500|Keyboard Row|[Java](/Algorithms/Java/easy/0500_Keyboard_Row_[Easy].java)|Easy|
 |501|Find Mode in Binary Search Tree|[Java](/Algorithms/Java/easy/0501_Find_Mode_in_Binary_Search_Tree_[Easy].java)|Easy|
 |503|Next Greater Element II|[Java](/Algorithms/Java/medium/0503_Next_Greater_Element_II_[Medium].java)|Medium|
@@ -239,6 +240,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |599|Minimum Index Sum of Two Lists|[Java](/Algorithms/Java/easy/0599_Minimum_Index_Sum_of_Two_Lists_[Easy].java)|Easy|
 |605|Can Place Flowers|[Java](/Algorithms/Java/easy/0605_Can_Place_Flowers_[Easy].java)|Easy|
 |606|Construct String from Binary Tree|[Java](/Algorithms/Java/easy/0606_Construct_String_from_Binary_Tree_[Easy].java)|Easy|
+|611|Valid Triangle Number|[Java](/Algorithms/Java/medium/0611_Valid_Triangle_Number_[Medium].java)|Medium|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
 |621|Task Scheduler|[Java](/Algorithms/Java/medium/0621_Task_Scheduler_[Medium].java)|Medium|
 |623|Add One Row to Tree|[Java](/Algorithms/Java/medium/0623_Add_One_Row_to_Tree_[Medium].java)|Medium|
@@ -477,6 +479,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
+|1283|Find the Smallest Divisor Given a Threshold|[Java](/Algorithms/Java/medium/1283_Find_the_Smallest_Divisor_Given_a_Threshold_[Medium].java)|Medium|
 |1286|Iterator for Combination|[Java](/Algorithms/Java/medium/1286_Iterator_for_Combination_[Medium].java)|Medium|
 |1287|Element Appearing More Than 25% In Sorted Array|[Java](/Algorithms/Java/easy/1287_Element_Appearing_More_Than_25%_In_Sorted_Array_[Easy].java)|Easy|
 |1288|Remove Covered Intervals|[Java](/Algorithms/Java/medium/1288_Remove_Covered_Intervals_[Medium].java)|Medium|
