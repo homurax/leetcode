@@ -212,6 +212,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |518|Coin Change 2|[Java](/Algorithms/Java/medium/0518_Coin_Change_2_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
+|524|Longest Word in Dictionary through Deleting|[Java](/Algorithms/Java/medium/0524_Longest_Word_in_Dictionary_through_Deleting_[Medium].java)|Medium|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
 |532|K-diff Pairs in an Array|[Java](/Algorithms/Java/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
 |538|Convert BST to Greater Tree|[Java](/Algorithms/Java/easy/0538_Convert_BST_to_Greater_Tree_[Easy].java)|Easy|
@@ -467,6 +468,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
+|1239|Maximum Length of a Concatenated String with Unique Characters|[Java](/Algorithms/Java/medium/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_[Medium].java)|Medium|
 |1247|Minimum Swaps to Make Strings Equal|[Java](/Algorithms/Java/medium/1247_Minimum_Swaps_to_Make_Strings_Equal_[Medium].java)|Medium|
 |1248|Count Number of Nice Subarrays|[Java](/Algorithms/Java/medium/1248_Count_Number_of_Nice_Subarrays_[Medium].java)|Medium|
 |1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
