@@ -18,7 +18,7 @@
  * 1 <= preorder.length <= 100
  * The values of preorder are distinct.
  */
-public class ConstructBinarySearchTreefromPreorderTraversal {
+public class ConstructBinarySearchTreeFromPreorderTraversal {
 
     class TreeNode {
         int val;

@@ -66,6 +66,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
 |70|Climbing Stairs|[Java](/Algorithms/Java/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
+|75|Sort Colors|[Java](/Algorithms/Java/medium/0075_Sort_Colors_[Medium].java)|Medium|
 |77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
@@ -76,6 +77,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |102|Binary Tree Level Order Traversal|[Java](/Algorithms/Java/medium/0102_Binary_Tree_Level_Order_Traversal_[Medium].java)|Medium|
 |103|Binary Tree Zigzag Level Order Traversal|[Java](/Algorithms/Java/medium/0103_Binary_Tree_Zigzag_Level_Order_Traversal_[Medium].java)|Medium|
 |104|Maximum Depth of Binary Tree|[Java](/Algorithms/Java/easy/0104_Maximum_Depth_of_Binary_Tree_[Easy].java)|Easy|
+|106|Construct Binary Tree from Inorder and Postorder Traversal|[Java](/Algorithms/Java/medium/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal_[Medium].java)|Medium|
 |107|Binary Tree Level Order Traversal II|[Java](/Algorithms/Java/easy/0107_Binary_Tree_Level_Order_Traversal_II_[Easy].java)|Easy|
 |108|Convert Sorted Array to Binary Search Tree|[Java](/Algorithms/Java/easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree_[Easy].java)|Easy|
 |110|Balanced Binary Tree|[Java](/Algorithms/Java/easy/0110_Balanced_Binary_Tree_[Easy].java)|Easy|
@@ -475,6 +477,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1254|Number of Closed Islands|[Java](/Algorithms/Java/medium/1254_Number_of_Closed_Islands_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
+|1262|Greatest Sum Divisible by Three|[Java](/Algorithms/Java/medium/1262_Greatest_Sum_Divisible_by_Three_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
 |1268|Search Suggestions System|[Java](/Algorithms/Java/medium/1268_Search_Suggestions_System_[Medium].java)|Medium|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
