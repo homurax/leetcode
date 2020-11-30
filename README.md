@@ -55,6 +55,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
 |40|Combination Sum II|[Java](/Algorithms/Java/medium/0040_Combination_Sum_II_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
+|47|Permutations II|[Java](/Algorithms/Java/medium/0047_Permutations_II_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
@@ -197,6 +198,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
+|486|Predict the Winner|[Java](/Algorithms/Java/medium/0486_Predict_the_Winner_[Medium].java)|Medium|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
 |498|Diagonal Traverse|[Java](/Algorithms/Java/medium/0498_Diagonal_Traverse_[Medium].java)|Medium|
@@ -580,6 +582,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
+|1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
