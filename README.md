@@ -120,6 +120,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
 |221|Maximal Square|[Java](/Algorithms/Java/medium/0221_Maximal_Square_[Medium].java)|Medium|
+|222|Count Complete Tree Nodes|[Java](/Algorithms/Java/medium/0222_Count_Complete_Tree_Nodes_[Medium].java)|Medium|
 |225|Implement Stack using Queues|[Java](/Algorithms/Java/easy/0225_Implement_Stack_using_Queues_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
@@ -137,6 +138,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |263|Ugly Number|[Java](/Algorithms/Java/easy/0263_Ugly_Number_[Easy].java)|Easy|
 |268|Missing Number|[Java](/Algorithms/Java/easy/0268_Missing_Number_[Easy].java)|Easy|
 |278|First Bad Version|[Java](/Algorithms/Java/easy/0278_First_Bad_Version_[Easy].java)|Easy|
+|279|Perfect Squares|[Java](/Algorithms/Java/medium/0279_Perfect_Squares_[Medium].java)|Medium|
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
 |287|Find the Duplicate Number|[Java](/Algorithms/Java/medium/0287_Find_the_Duplicate_Number_[Medium].java)|Medium|
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
@@ -159,6 +161,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
+|380|Insert Delete GetRandom O(1)|[Java](/Algorithms/Java/medium/0380_Insert_Delete_GetRandom_O(1)_[Medium].java)|Medium|
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
 |386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
