@@ -84,6 +84,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |110|Balanced Binary Tree|[Java](/Algorithms/Java/easy/0110_Balanced_Binary_Tree_[Easy].java)|Easy|
 |111|Minimum Depth of Binary Tree|[Java](/Algorithms/Java/easy/0111_Minimum_Depth_of_Binary_Tree_[Easy].java)|Easy|
 |112|Path Sum|[Java](/Algorithms/Java/easy/0112_Path_Sum_[Easy].java)|Easy|
+|113|Path Sum II|[Java](/Algorithms/Java/medium/0113_Path_Sum_II_[Medium].java)|Medium|
 |114|Flatten Binary Tree to Linked List|[Java](/Algorithms/Java/medium/0114_Flatten_Binary_Tree_to_Linked_List_[Medium].java)|Medium|
 |118|Pascal's Triangle|[Java](/Algorithms/Java/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
@@ -181,6 +182,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |421|Maximum XOR of Two Numbers in an Array|[Java](/Algorithms/Java/medium/0421_Maximum_XOR_of_Two_Numbers_in_an_Array_[Medium].java)|Medium|
 |429|N-ary Tree Level Order Traversal|[Java](/Algorithms/Java/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
 |434|Number of Segments in a String|[Java](/Algorithms/Java/easy/0434_Number_of_Segments_in_a_String_[Easy].java)|Easy|
+|436|Find Right Interval|[Java](/Algorithms/Java/medium/0436_Find_Right_Interval_[Medium].java)|Medium|
 |437|Path Sum III|[Java](/Algorithms/Java/easy/0437_Path_Sum_III_[Easy].java)|Easy|
 |438|Find All Anagrams in a String|[Java](/Algorithms/Java/easy/0438_Find_All_Anagrams_in_a_String_[Easy].java)|Easy|
 |441|Arranging Coins|[Java](/Algorithms/Java/easy/0441_Arranging_Coins_[Easy].java)|Easy|
@@ -365,6 +367,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |908|Smallest Range I|[Java](/Algorithms/Java/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
 |912|Sort an Array|[Java](/Algorithms/Java/medium/0912_Sort_an_Array_[Medium].java)|Medium|
 |914|X of a Kind in a Deck of Cards|[Java](/Algorithms/Java/easy/0914_X_of_a_Kind_in_a_Deck_of_Cards_[Easy].java)|Easy|
+|916|Word Subsets|[Java](/Algorithms/Java/medium/0916_Word_Subsets_[Medium].java)|Medium|
 |917|Reverse Only Letters|[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II|[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
