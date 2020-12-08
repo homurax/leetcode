@@ -87,6 +87,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |112|Path Sum|[Java](/Algorithms/Java/easy/0112_Path_Sum_[Easy].java)|Easy|
 |113|Path Sum II|[Java](/Algorithms/Java/medium/0113_Path_Sum_II_[Medium].java)|Medium|
 |114|Flatten Binary Tree to Linked List|[Java](/Algorithms/Java/medium/0114_Flatten_Binary_Tree_to_Linked_List_[Medium].java)|Medium|
+|116|Populating Next Right Pointers in Each Node|[Java](/Algorithms/Java/medium/0116_Populating_Next_Right_Pointers_in_Each_Node_[Medium].java)|Medium|
 |118|Pascal's Triangle|[Java](/Algorithms/Java/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
@@ -353,6 +354,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
 |869|Reordered Power of 2|[Java](/Algorithms/Java/medium/0869_Reordered_Power_of_2_[Medium].java)|Medium|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
+|873|Length of Longest Fibonacci Subsequence|[Java](/Algorithms/Java/medium/0873_Length_of_Longest_Fibonacci_Subsequence_[Medium].java)|Medium|
 |875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
