@@ -149,6 +149,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
+|309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
@@ -183,6 +184,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |415|Add Strings|[Java](/Algorithms/Java/easy/0415_Add_Strings_[Easy].java)|Easy|
 |419|Battleships in a Board|[Java](/Algorithms/Java/medium/0419_Battleships_in_a_Board_[Medium].java)|Medium|
 |421|Maximum XOR of Two Numbers in an Array|[Java](/Algorithms/Java/medium/0421_Maximum_XOR_of_Two_Numbers_in_an_Array_[Medium].java)|Medium|
+|424|Longest Repeating Character Replacement|[Java](/Algorithms/Java/medium/0424_Longest_Repeating_Character_Replacement_[Medium].java)|Medium|
 |429|N-ary Tree Level Order Traversal|[Java](/Algorithms/Java/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
 |434|Number of Segments in a String|[Java](/Algorithms/Java/easy/0434_Number_of_Segments_in_a_String_[Easy].java)|Easy|
 |436|Find Right Interval|[Java](/Algorithms/Java/medium/0436_Find_Right_Interval_[Medium].java)|Medium|
@@ -322,6 +324,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |788|Rotated Digits|[Java](/Algorithms/Java/easy/0788_Rotated_Digits_[Easy].java)|Easy|
 |789|Escape The Ghosts|[Java](/Algorithms/Java/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
 |791|Custom Sort String|[Java](/Algorithms/Java/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
+|792|Number of Matching Subsequences|[Java](/Algorithms/Java/medium/0792_Number_of_Matching_Subsequences_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
 |802|Find Eventual Safe States|[Java](/Algorithms/Java/medium/0802_Find_Eventual_Safe_States_[Medium].java)|Medium|
