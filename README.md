@@ -362,6 +362,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
+|881|Boats to Save People|[Java](/Algorithms/Java/medium/0881_Boats_to_Save_People_[Medium].java)|Medium|
 |883|Projection Area of 3D Shapes|[Java](/Algorithms/Java/easy/0883_Projection_Area_of_3D_Shapes_[Easy].java)|Easy|
 |884|Uncommon Words from Two Sentences|[Java](/Algorithms/Java/easy/0884_Uncommon_Words_from_Two_Sentences_[Easy].java)|Easy|
 |888|Fair Candy Swap|[Java](/Algorithms/Java/easy/0888_Fair_Candy_Swap_[Easy].java)|Easy|
@@ -473,6 +474,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1145|Binary Tree Coloring Game|[Java](/Algorithms/Java/medium/1145_Binary_Tree_Coloring_Game_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1155|Number of Dice Rolls With Target Sum|[Java](/Algorithms/Java/medium/1155_Number_of_Dice_Rolls_With_Target_Sum_[Medium].java)|Medium|
+|1156|Swap For Longest Repeated Character Substring|[Java](/Algorithms/Java/medium/1156_Swap_For_Longest_Repeated_Character_Substring_[Medium].java)|Medium|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1161|Maximum Level Sum of a Binary Tree|[Java](/Algorithms/Java/medium/1161_Maximum_Level_Sum_of_a_Binary_Tree_[Medium].java)|Medium|
 |1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
