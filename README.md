@@ -145,6 +145,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |278|First Bad Version|[Java](/Algorithms/Java/easy/0278_First_Bad_Version_[Easy].java)|Easy|
 |279|Perfect Squares|[Java](/Algorithms/Java/medium/0279_Perfect_Squares_[Medium].java)|Medium|
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
+|284|Peeking Iterator|[Java](/Algorithms/Java/medium/0284_Peeking_Iterator_[Medium].java)|Medium|
 |287|Find the Duplicate Number|[Java](/Algorithms/Java/medium/0287_Find_the_Duplicate_Number_[Medium].java)|Medium|
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
