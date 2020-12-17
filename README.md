@@ -211,6 +211,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
 |486|Predict the Winner|[Java](/Algorithms/Java/medium/0486_Predict_the_Winner_[Medium].java)|Medium|
+|491|Increasing Subsequences|[Java](/Algorithms/Java/medium/0491_Increasing_Subsequences_[Medium].java)|Medium|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
 |498|Diagonal Traverse|[Java](/Algorithms/Java/medium/0498_Diagonal_Traverse_[Medium].java)|Medium|
@@ -327,6 +328,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |789|Escape The Ghosts|[Java](/Algorithms/Java/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
 |791|Custom Sort String|[Java](/Algorithms/Java/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
 |792|Number of Matching Subsequences|[Java](/Algorithms/Java/medium/0792_Number_of_Matching_Subsequences_[Medium].java)|Medium|
+|795|Number of Subarrays with Bounded Maximum|[Java](/Algorithms/Java/medium/0795_Number_of_Subarrays_with_Bounded_Maximum_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
 |802|Find Eventual Safe States|[Java](/Algorithms/Java/medium/0802_Find_Eventual_Safe_States_[Medium].java)|Medium|
@@ -566,6 +568,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1414|Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[Java](/Algorithms/Java/medium/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K_[Medium].java)|Medium|
 |1415|The k-th Lexicographical String of All Happy Strings of Length n|[Java](/Algorithms/Java/medium/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n_[Medium].java)|Medium|
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
+|1419|Minimum Number of Frogs Croaking|[Java](/Algorithms/Java/medium/1419_Minimum_Number_of_Frogs_Croaking_[Medium].java)|Medium|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
