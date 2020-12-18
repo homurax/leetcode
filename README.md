@@ -407,6 +407,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |974|Subarray Sums Divisible by K|[Java](/Algorithms/Java/medium/0974_Subarray_Sums_Divisible_by_K_[Medium].java)|Medium|
 |976|Largest Perimeter Triangle|[Java](/Algorithms/Java/easy/0976_Largest_Perimeter_Triangle_[Easy].java)|Easy|
 |977|Squares of a Sorted Array|[Java](/Algorithms/Java/easy/0977_Squares_of_a_Sorted_Array_[Easy].java)|Easy|
+|978|Longest Turbulent Subarray|[Java](/Algorithms/Java/medium/0978_Longest_Turbulent_Subarray_[Medium].java)|Medium|
 |979|Distribute Coins in Binary Tree|[Java](/Algorithms/Java/medium/0979_Distribute_Coins_in_Binary_Tree_[Medium].java)|Medium|
 |981|Time Based Key-Value Store|[Java](/Algorithms/Java/medium/0981_Time_Based_Key-Value_Store_[Medium].java)|Medium|
 |983|Minimum Cost For Tickets|[Java](/Algorithms/Java/medium/0983_Minimum_Cost_For_Tickets_[Medium].java)|Medium|
@@ -583,6 +584,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
 |1457|Pseudo-Palindromic Paths in a Binary Tree|[Java](/Algorithms/Java/medium/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree_[Medium].java)|Medium|
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
+|1461|Check If a String Contains All Binary Codes of Size K|[Java](/Algorithms/Java/medium/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K_[Medium].java)|Medium|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
 |1471|The k Strongest Values in an Array|[Java](/Algorithms/Java/medium/1471_The_k_Strongest_Values_in_an_Array_[Medium].java)|Medium|
@@ -604,6 +606,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
+|1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
