@@ -394,6 +394,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |941|Valid Mountain Array|[Java](/Algorithms/Java/easy/0941_Valid_Mountain_Array_[Easy].java)|Easy|
 |942|DI String Match|[Java](/Algorithms/Java/easy/0942_DI_String_Match_[Easy].java)|Easy|
 |944|Delete Columns to Make Sorted|[Java](/Algorithms/Java/easy/0944_Delete_Columns_to_Make_Sorted_[Easy].java)|Easy|
+|945|Minimum Increment to Make Array Unique|[Java](/Algorithms/Java/medium/0945_Minimum_Increment_to_Make_Array_Unique_[Medium].java)|Medium|
 |946|Validate Stack Sequences|[Java](/Algorithms/Java/medium/0946_Validate_Stack_Sequences_[Medium].java)|Medium|
 |949|Largest Time for Given Digits|[Java](/Algorithms/Java/easy/0949_Largest_Time_for_Given_Digits_[Easy].java)|Easy|
 |950|Reveal Cards In Increasing Order|[Java](/Algorithms/Java/medium/0950_Reveal_Cards_In_Increasing_Order_[Medium].java)|Medium|
@@ -413,6 +414,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |983|Minimum Cost For Tickets|[Java](/Algorithms/Java/medium/0983_Minimum_Cost_For_Tickets_[Medium].java)|Medium|
 |985|Sum of Even Numbers After Queries|[Java](/Algorithms/Java/easy/0985_Sum_of_Even_Numbers_After_Queries_[Easy].java)|Easy|
 |986|Interval List Intersections|[Java](/Algorithms/Java/medium/0986_Interval_List_Intersections_[Medium].java)|Medium|
+|988|Smallest String Starting From Leaf|[Java](/Algorithms/Java/medium/0988_Smallest_String_Starting_From_Leaf_[Medium].java)|Medium|
 |989|Add to Array-Form of Integer|[Java](/Algorithms/Java/easy/0989_Add_to_Array-Form_of_Integer_[Easy].java)|Easy|
 |993|Cousins in Binary Tree|[Java](/Algorithms/Java/easy/0993_Cousins_in_Binary_Tree_[Easy].java)|Easy|
 |994|Rotting Oranges|[Java](/Algorithms/Java/easy/0994_Rotting_Oranges_[Easy].java)|Easy|
