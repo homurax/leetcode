@@ -360,6 +360,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |867|Transpose Matrix|[Java](/Algorithms/Java/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
 |869|Reordered Power of 2|[Java](/Algorithms/Java/medium/0869_Reordered_Power_of_2_[Medium].java)|Medium|
+|870|Advantage Shuffle|[Java](/Algorithms/Java/medium/0870_Advantage_Shuffle_[Medium].java)|Medium|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
 |873|Length of Longest Fibonacci Subsequence|[Java](/Algorithms/Java/medium/0873_Length_of_Longest_Fibonacci_Subsequence_[Medium].java)|Medium|
 |875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
