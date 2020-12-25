@@ -417,6 +417,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |986|Interval List Intersections|[Java](/Algorithms/Java/medium/0986_Interval_List_Intersections_[Medium].java)|Medium|
 |988|Smallest String Starting From Leaf|[Java](/Algorithms/Java/medium/0988_Smallest_String_Starting_From_Leaf_[Medium].java)|Medium|
 |989|Add to Array-Form of Integer|[Java](/Algorithms/Java/easy/0989_Add_to_Array-Form_of_Integer_[Easy].java)|Easy|
+|991|Broken Calculator|[Java](/Algorithms/Java/medium/0991_Broken_Calculator_[Medium].java)|Medium|
 |993|Cousins in Binary Tree|[Java](/Algorithms/Java/easy/0993_Cousins_in_Binary_Tree_[Easy].java)|Easy|
 |994|Rotting Oranges|[Java](/Algorithms/Java/easy/0994_Rotting_Oranges_[Easy].java)|Easy|
 |997|Find the Town Judge|[Java](/Algorithms/Java/easy/0997_Find_the_Town_Judge_[Easy].java)|Easy|
@@ -535,6 +536,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1329|Sort the Matrix Diagonally|[Java](/Algorithms/Java/medium/1329_Sort_the_Matrix_Diagonally_[Medium].java)|Medium|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
+|1334|Find the City With the Smallest Number of Neighbors at a Threshold Distance|[Java](/Algorithms/Java/medium/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance_[Medium].java)|Medium|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1338|Reduce Array Size to The Half|[Java](/Algorithms/Java/medium/1338_Reduce_Array_Size_to_The_Half_[Medium].java)|Medium|
 |1342|Number of Steps to Reduce a Number to Zero|[Java](/Algorithms/Java/easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero_[Easy].java)|Easy|
