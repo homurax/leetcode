@@ -417,6 +417,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |986|Interval List Intersections|[Java](/Algorithms/Java/medium/0986_Interval_List_Intersections_[Medium].java)|Medium|
 |988|Smallest String Starting From Leaf|[Java](/Algorithms/Java/medium/0988_Smallest_String_Starting_From_Leaf_[Medium].java)|Medium|
 |989|Add to Array-Form of Integer|[Java](/Algorithms/Java/easy/0989_Add_to_Array-Form_of_Integer_[Easy].java)|Easy|
+|990|Satisfiability of Equality Equations|[Java](/Algorithms/Java/medium/0990_Satisfiability_of_Equality_Equations_[Medium].java)|Medium|
 |991|Broken Calculator|[Java](/Algorithms/Java/medium/0991_Broken_Calculator_[Medium].java)|Medium|
 |993|Cousins in Binary Tree|[Java](/Algorithms/Java/easy/0993_Cousins_in_Binary_Tree_[Easy].java)|Easy|
 |994|Rotting Oranges|[Java](/Algorithms/Java/easy/0994_Rotting_Oranges_[Easy].java)|Easy|
@@ -495,6 +496,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1209|Remove All Adjacent Duplicates in String II|[Java](/Algorithms/Java/medium/1209_Remove_All_Adjacent_Duplicates_in_String_II_[Medium].java)|Medium|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
+|1218|Longest Arithmetic Subsequence of Given Difference|[Java](/Algorithms/Java/medium/1218_Longest_Arithmetic_Subsequence_of_Given_Difference_[Medium].java)|Medium|
 |1219|Path with Maximum Gold|[Java](/Algorithms/Java/medium/1219_Path_with_Maximum_Gold_[Medium].java)|Medium|
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
