@@ -43,6 +43,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |11|Container With Most Water|[Java](/Algorithms/Java/medium/0011_Container_With_Most_Water_[Medium].java)|Medium|
 |13|Roman to Integer|[Java](/Algorithms/Java/easy/0013_Roman_to_Integer_[Easy].java)|Easy|
 |14|Longest Common Prefix|[Java](/Algorithms/Java/easy/0014_Longest_Common_Prefix_[Easy].java)|Easy|
+|16|3Sum Closest|[Java](/Algorithms/Java/medium/0016_3Sum_Closest_[Medium].java)|Medium|
 |17|Letter Combinations of a Phone Number|[Java](/Algorithms/Java/medium/0017_Letter_Combinations_of_a_Phone_Number_[Medium].java)|Medium|
 |20|Valid Parentheses|[Java](/Algorithms/Java/easy/0020_Valid_Parentheses_[Easy].java)|Easy|
 |21|Merge Two Sorted Lists|[Java](/Algorithms/Java/easy/0021_Merge_Two_Sorted_Lists_[Easy].java)|Easy|
