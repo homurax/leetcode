@@ -207,6 +207,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |459|Repeated Substring Pattern|[Java](/Algorithms/Java/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
+|470|Implement Rand10() Using Rand7()|[Java](/Algorithms/Java/medium/0470_Implement_Rand10()_Using_Rand7()_[Medium].java)|Medium|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
@@ -382,6 +383,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |908|Smallest Range I|[Java](/Algorithms/Java/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
 |912|Sort an Array|[Java](/Algorithms/Java/medium/0912_Sort_an_Array_[Medium].java)|Medium|
 |914|X of a Kind in a Deck of Cards|[Java](/Algorithms/Java/easy/0914_X_of_a_Kind_in_a_Deck_of_Cards_[Easy].java)|Easy|
+|915|Partition Array into Disjoint Intervals|[Java](/Algorithms/Java/medium/0915_Partition_Array_into_Disjoint_Intervals_[Medium].java)|Medium|
 |916|Word Subsets|[Java](/Algorithms/Java/medium/0916_Word_Subsets_[Medium].java)|Medium|
 |917|Reverse Only Letters|[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
@@ -580,6 +582,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
 |1419|Minimum Number of Frogs Croaking|[Java](/Algorithms/Java/medium/1419_Minimum_Number_of_Frogs_Croaking_[Medium].java)|Medium|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
+|1423|Maximum Points You Can Obtain from Cards|[Java](/Algorithms/Java/medium/1423_Maximum_Points_You_Can_Obtain_from_Cards_[Medium].java)|Medium|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
