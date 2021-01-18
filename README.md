@@ -484,6 +484,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1138|Alphabet Board Path|[Java](/Algorithms/Java/medium/1138_Alphabet_Board_Path_[Medium].java)|Medium|
 |1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
+|1144|Decrease Elements To Make Array Zigzag|[Java](/Algorithms/Java/medium/1144_Decrease_Elements_To_Make_Array_Zigzag_[Medium].java)|Medium|
 |1145|Binary Tree Coloring Game|[Java](/Algorithms/Java/medium/1145_Binary_Tree_Coloring_Game_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1155|Number of Dice Rolls With Target Sum|[Java](/Algorithms/Java/medium/1155_Number_of_Dice_Rolls_With_Target_Sum_[Medium].java)|Medium|
