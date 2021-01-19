@@ -72,6 +72,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |75|Sort Colors|[Java](/Algorithms/Java/medium/0075_Sort_Colors_[Medium].java)|Medium|
 |77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
+|80|Remove Duplicates from Sorted Array II|[Java](/Algorithms/Java/medium/0080_Remove_Duplicates_from_Sorted_Array_II_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
@@ -100,6 +101,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |145|Binary Tree Postorder Traversal|[Java](/Algorithms/Java/medium/0145_Binary_Tree_Postorder_Traversal_[Medium].java)|Medium|
+|153|Find Minimum in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0153_Find_Minimum_in_Rotated_Sorted_Array_[Medium].java)|Medium|
 |155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
 |167|Two Sum II - Input array is sorted|[Java](/Algorithms/Java/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
@@ -169,6 +171,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
+|377|Combination Sum IV|[Java](/Algorithms/Java/medium/0377_Combination_Sum_IV_[Medium].java)|Medium|
 |380|Insert Delete GetRandom O(1)|[Java](/Algorithms/Java/medium/0380_Insert_Delete_GetRandom_O(1)_[Medium].java)|Medium|
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
