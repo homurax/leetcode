@@ -101,6 +101,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |145|Binary Tree Postorder Traversal|[Java](/Algorithms/Java/medium/0145_Binary_Tree_Postorder_Traversal_[Medium].java)|Medium|
+|148|Sort List|[Java](/Algorithms/Java/medium/0148_Sort_List_[Medium].java)|Medium|
 |153|Find Minimum in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0153_Find_Minimum_in_Rotated_Sorted_Array_[Medium].java)|Medium|
 |155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
