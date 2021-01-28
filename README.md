@@ -219,6 +219,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |486|Predict the Winner|[Java](/Algorithms/Java/medium/0486_Predict_the_Winner_[Medium].java)|Medium|
 |491|Increasing Subsequences|[Java](/Algorithms/Java/medium/0491_Increasing_Subsequences_[Medium].java)|Medium|
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
+|494|Target Sum|[Java](/Algorithms/Java/medium/0494_Target_Sum_[Medium].java)|Medium|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
 |498|Diagonal Traverse|[Java](/Algorithms/Java/medium/0498_Diagonal_Traverse_[Medium].java)|Medium|
 |500|Keyboard Row|[Java](/Algorithms/Java/easy/0500_Keyboard_Row_[Easy].java)|Easy|
@@ -544,6 +545,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
 |1324|Print Words Vertically|[Java](/Algorithms/Java/medium/1324_Print_Words_Vertically_[Medium].java)|Medium|
 |1325|Delete Leaves With a Given Value|[Java](/Algorithms/Java/medium/1325_Delete_Leaves_With_a_Given_Value_[Medium].java)|Medium|
+|1328|Break a Palindrome|[Java](/Algorithms/Java/medium/1328_Break_a_Palindrome_[Medium].java)|Medium|
 |1329|Sort the Matrix Diagonally|[Java](/Algorithms/Java/medium/1329_Sort_the_Matrix_Diagonally_[Medium].java)|Medium|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
@@ -588,6 +590,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1419|Minimum Number of Frogs Croaking|[Java](/Algorithms/Java/medium/1419_Minimum_Number_of_Frogs_Croaking_[Medium].java)|Medium|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1423|Maximum Points You Can Obtain from Cards|[Java](/Algorithms/Java/medium/1423_Maximum_Points_You_Can_Obtain_from_Cards_[Medium].java)|Medium|
+|1424|Diagonal Traverse II|[Java](/Algorithms/Java/medium/1424_Diagonal_Traverse_II_[Medium].java)|Medium|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
