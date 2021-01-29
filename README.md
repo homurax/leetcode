@@ -92,6 +92,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |116|Populating Next Right Pointers in Each Node|[Java](/Algorithms/Java/medium/0116_Populating_Next_Right_Pointers_in_Each_Node_[Medium].java)|Medium|
 |118|Pascal's Triangle|[Java](/Algorithms/Java/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
+|120|Triangle|[Java](/Algorithms/Java/medium/0120_Triangle_[Medium].java)|Medium|
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |129|Sum Root to Leaf Numbers|[Java](/Algorithms/Java/medium/0129_Sum_Root_to_Leaf_Numbers_[Medium].java)|Medium|
@@ -299,6 +300,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |695|Max Area of Island|[Java](/Algorithms/Java/medium/0695_Max_Area_of_Island_[Medium].java)|Medium|
 |696|Count Binary Substrings|[Java](/Algorithms/Java/easy/0696_Count_Binary_Substrings_[Easy].java)|Easy|
 |697|Degree of an Array|[Java](/Algorithms/Java/easy/0697_Degree_of_an_Array_[Easy].java)|Easy|
+|698|Partition to K Equal Sum Subsets|[Java](/Algorithms/Java/medium/0698_Partition_to_K_Equal_Sum_Subsets_[Medium].java)|Medium|
 |700|Search in a Binary Search Tree|[Java](/Algorithms/Java/easy/0700_Search_in_a_Binary_Search_Tree_[Easy].java)|Easy|
 |701|Insert into a Binary Search Tree|[Java](/Algorithms/Java/medium/0701_Insert_into_a_Binary_Search_Tree_[Medium].java)|Medium|
 |703|Kth Largest Element in a Stream|[Java](/Algorithms/Java/easy/0703_Kth_Largest_Element_in_a_Stream_[Easy].java)|Easy|
@@ -316,6 +318,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |729|My Calendar I|[Java](/Algorithms/Java/medium/0729_My_Calendar_I_[Medium].java)|Medium|
 |731|My Calendar II|[Java](/Algorithms/Java/medium/0731_My_Calendar_II_[Medium].java)|Medium|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
+|738|Monotone Increasing Digits|[Java](/Algorithms/Java/medium/0738_Monotone_Increasing_Digits_[Medium].java)|Medium|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |740|Delete and Earn|[Java](/Algorithms/Java/medium/0740_Delete_and_Earn_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
