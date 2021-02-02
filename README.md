@@ -204,6 +204,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |445|Add Two Numbers II|[Java](/Algorithms/Java/medium/0445_Add_Two_Numbers_II_[Medium].java)|Medium|
 |448|Find All Numbers Disappeared in an Array|[Java](/Algorithms/Java/easy/0448_Find_All_Numbers_Disappeared_in_an_Array_[Easy].java)|Easy|
 |449|Serialize and Deserialize BST|[Java](/Algorithms/Java/medium/0449_Serialize_and_Deserialize_BST_[Medium].java)|Medium|
+|450|Delete Node in a BST|[Java](/Algorithms/Java/medium/0450_Delete_Node_in_a_BST_[Medium].java)|Medium|
 |451|Sort Characters By Frequency|[Java](/Algorithms/Java/medium/0451_Sort_Characters_By_Frequency_[Medium].java)|Medium|
 |452|Minimum Number of Arrows to Burst Balloons|[Java](/Algorithms/Java/medium/0452_Minimum_Number_of_Arrows_to_Burst_Balloons_[Medium].java)|Medium|
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
@@ -321,6 +322,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |738|Monotone Increasing Digits|[Java](/Algorithms/Java/medium/0738_Monotone_Increasing_Digits_[Medium].java)|Medium|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |740|Delete and Earn|[Java](/Algorithms/Java/medium/0740_Delete_and_Earn_[Medium].java)|Medium|
+|743|Network Delay Time|[Java](/Algorithms/Java/medium/0743_Network_Delay_Time_[Medium].java)|Medium|
 |744|Find Smallest Letter Greater Than Target|[Java](/Algorithms/Java/easy/0744_Find_Smallest_Letter_Greater_Than_Target_[Easy].java)|Easy|
 |746|Min Cost Climbing Stairs|[Java](/Algorithms/Java/easy/0746_Min_Cost_Climbing_Stairs_[Easy].java)|Easy|
 |747|Largest Number At Least Twice of Others|[Java](/Algorithms/Java/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
