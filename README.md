@@ -270,6 +270,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |611|Valid Triangle Number|[Java](/Algorithms/Java/medium/0611_Valid_Triangle_Number_[Medium].java)|Medium|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
 |621|Task Scheduler|[Java](/Algorithms/Java/medium/0621_Task_Scheduler_[Medium].java)|Medium|
+|622|Design Circular Queue|[Java](/Algorithms/Java/medium/0622_Design_Circular_Queue_[Medium].java)|Medium|
 |623|Add One Row to Tree|[Java](/Algorithms/Java/medium/0623_Add_One_Row_to_Tree_[Medium].java)|Medium|
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
@@ -471,6 +472,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1043|Partition Array for Maximum Sum|[Java](/Algorithms/Java/medium/1043_Partition_Array_for_Maximum_Sum_[Medium].java)|Medium|
 |1046|Last Stone Weight|[Java](/Algorithms/Java/easy/1046_Last_Stone_Weight_[Easy].java)|Easy|
 |1047|Remove All Adjacent Duplicates In String|[Java](/Algorithms/Java/easy/1047_Remove_All_Adjacent_Duplicates_In_String_[Easy].java)|Easy|
+|1049|Last Stone Weight II|[Java](/Algorithms/Java/medium/1049_Last_Stone_Weight_II_[Medium].java)|Medium|
 |1051|Height Checker|[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
 |1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
 |1071|Greatest Common Divisor of Strings|[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
@@ -637,3 +639,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
+|1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|

@@ -182,12 +182,15 @@ public class DeleteNodeInABST {
         } else if (key < root.val) {
             root.left = deleteNode3(root.left, key);
         } else {
+            // target 单子树直接返回子树
             if (root.left == null) {
                 return root.right;
             }
             if (root.right == null) {
                 return root.left;
             }
+            // target 左右子树均不空
+            // 用 target 的前驱代替 target 在删除前驱
             TreeNode prev = root.left;
             while (prev.right != null) {
                 prev = prev.right;
