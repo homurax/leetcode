@@ -288,6 +288,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |661|Image Smoother|[Java](/Algorithms/Java/easy/0661_Image_Smoother_[Easy].java)|Easy|
 |665|Non-decreasing Array|[Java](/Algorithms/Java/easy/0665_Non-decreasing_Array_[Easy].java)|Easy|
 |669|Trim a Binary Search Tree|[Java](/Algorithms/Java/easy/0669_Trim_a_Binary_Search_Tree_[Easy].java)|Easy|
+|670|Maximum Swap|[Java](/Algorithms/Java/easy/0670_Maximum_Swap_[Easy].java)|Easy|
 |671|Second Minimum Node In a Binary Tree|[Java](/Algorithms/Java/easy/0671_Second_Minimum_Node_In_a_Binary_Tree_[Easy].java)|Easy|
 |674|Longest Continuous Increasing Subsequence|[Java](/Algorithms/Java/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
 |677|Map Sum Pairs|[Java](/Algorithms/Java/medium/0677_Map_Sum_Pairs_[Medium].java)|Medium|
@@ -362,6 +363,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |838|Push Dominoes|[Java](/Algorithms/Java/medium/0838_Push_Dominoes_[Medium].java)|Medium|
 |841|Keys and Rooms|[Java](/Algorithms/Java/medium/0841_Keys_and_Rooms_[Medium].java)|Medium|
 |844|Backspace String Compare|[Java](/Algorithms/Java/easy/0844_Backspace_String_Compare_[Easy].java)|Easy|
+|848|Shifting Letters|[Java](/Algorithms/Java/easy/0848_Shifting_Letters_[Easy].java)|Easy|
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
 |852|Peak Index in a Mountain Array|[Java](/Algorithms/Java/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
 |856|Score of Parentheses|[Java](/Algorithms/Java/medium/0856_Score_of_Parentheses_[Medium].java)|Medium|
@@ -382,6 +384,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |881|Boats to Save People|[Java](/Algorithms/Java/medium/0881_Boats_to_Save_People_[Medium].java)|Medium|
 |883|Projection Area of 3D Shapes|[Java](/Algorithms/Java/easy/0883_Projection_Area_of_3D_Shapes_[Easy].java)|Easy|
 |884|Uncommon Words from Two Sentences|[Java](/Algorithms/Java/easy/0884_Uncommon_Words_from_Two_Sentences_[Easy].java)|Easy|
+|886|Possible Bipartition|[Java](/Algorithms/Java/easy/0886_Possible_Bipartition_[Easy].java)|Easy|
 |888|Fair Candy Swap|[Java](/Algorithms/Java/easy/0888_Fair_Candy_Swap_[Easy].java)|Easy|
 |889|Construct Binary Tree from Preorder and Postorder Traversal|[Java](/Algorithms/Java/medium/0889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal_[Medium].java)|Medium|
 |890|Find and Replace Pattern|[Java](/Algorithms/Java/medium/0890_Find_and_Replace_Pattern_[Medium].java)|Medium|
