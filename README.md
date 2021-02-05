@@ -584,6 +584,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
 |1387|Sort Integers by The Power Value|[Java](/Algorithms/Java/medium/1387_Sort_Integers_by_The_Power_Value_[Medium].java)|Medium|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
+|1391|Check if There is a Valid Path in a Grid|[Java](/Algorithms/Java/medium/1391_Check_if_There_is_a_Valid_Path_in_a_Grid_[Medium].java)|Medium|
 |1394|Find Lucky Integer in an Array|[Java](/Algorithms/Java/easy/1394_Find_Lucky_Integer_in_an_Array_[Easy].java)|Easy|
 |1395|Count Number of Teams|[Java](/Algorithms/Java/medium/1395_Count_Number_of_Teams_[Medium].java)|Medium|
 |1396|Design Underground System|[Java](/Algorithms/Java/medium/1396_Design_Underground_System_[Medium].java)|Medium|
