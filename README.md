@@ -190,6 +190,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |413|Arithmetic Slices|[Java](/Algorithms/Java/medium/0413_Arithmetic_Slices_[Medium].java)|Medium|
 |414|Third Maximum Number|[Java](/Algorithms/Java/easy/0414_Third_Maximum_Number_[Easy].java)|Easy|
 |415|Add Strings|[Java](/Algorithms/Java/easy/0415_Add_Strings_[Easy].java)|Easy|
+|416|Partition Equal Subset Sum|[Java](/Algorithms/Java/medium/0416_Partition_Equal_Subset_Sum_[Medium].java)|Medium|
 |419|Battleships in a Board|[Java](/Algorithms/Java/medium/0419_Battleships_in_a_Board_[Medium].java)|Medium|
 |421|Maximum XOR of Two Numbers in an Array|[Java](/Algorithms/Java/medium/0421_Maximum_XOR_of_Two_Numbers_in_an_Array_[Medium].java)|Medium|
 |424|Longest Repeating Character Replacement|[Java](/Algorithms/Java/medium/0424_Longest_Repeating_Character_Replacement_[Medium].java)|Medium|
