@@ -257,6 +257,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |563|Binary Tree Tilt|[Java](/Algorithms/Java/easy/0563_Binary_Tree_Tilt_[Easy].java)|Easy|
 |565|Array Nesting|[Java](/Algorithms/Java/medium/0565_Array_Nesting_[Medium].java)|Medium|
 |566|Reshape the Matrix|[Java](/Algorithms/Java/easy/0566_Reshape_the_Matrix_[Easy].java)|Easy|
+|567|Permutation in String|[Java](/Algorithms/Java/medium/0567_Permutation_in_String_[Medium].java)|Medium|
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
 |575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
 |581|Shortest Unsorted Continuous Subarray|[Java](/Algorithms/Java/easy/0581_Shortest_Unsorted_Continuous_Subarray_[Easy].java)|Easy|
@@ -406,6 +407,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |925|Long Pressed Name|[Java](/Algorithms/Java/easy/0925_Long_Pressed_Name_[Easy].java)|Easy|
 |926|Flip String to Monotone Increasing|[Java](/Algorithms/Java/medium/0926_Flip_String_to_Monotone_Increasing_[Medium].java)|Medium|
 |929|Unique Email Addresses|[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
+|930|Binary Subarrays With Sum|[Java](/Algorithms/Java/medium/0930_Binary_Subarrays_With_Sum_[Medium].java)|Medium|
 |931|Minimum Falling Path Sum|[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls|[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
 |937|Reorder Data in Log Files|[Java](/Algorithms/Java/easy/0937_Reorder_Data_in_Log_Files_[Easy].java)|Easy|
