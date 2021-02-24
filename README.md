@@ -69,6 +69,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
 |70|Climbing Stairs|[Java](/Algorithms/Java/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
+|73|Set Matrix Zeroes|[Java](/Algorithms/Java/medium/0073_Set_Matrix_Zeroes_[Medium].java)|Medium|
 |75|Sort Colors|[Java](/Algorithms/Java/medium/0075_Sort_Colors_[Medium].java)|Medium|
 |77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
@@ -572,6 +573,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
+|1352|Product of the Last K Numbers|[Java](/Algorithms/Java/medium/1352_Product_of_the_Last_K_Numbers_[Medium].java)|Medium|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
 |1358|Number of Substrings Containing All Three Characters|[Java](/Algorithms/Java/medium/1358_Number_of_Substrings_Containing_All_Three_Characters_[Medium].java)|Medium|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
@@ -610,6 +612,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1437|Check If All 1's Are at Least Length K Places Away|[Java](/Algorithms/Java/medium/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away_[Medium].java)|Medium|
+|1438|Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|[Java](/Algorithms/Java/medium/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit_[Medium].java)|Medium|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1442|Count Triplets That Can Form Two Arrays of Equal XOR|[Java](/Algorithms/Java/medium/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR_[Medium].java)|Medium|
 |1446|Consecutive Characters|[Java](/Algorithms/Java/easy/1446_Consecutive_Characters_[Easy].java)|Easy|
