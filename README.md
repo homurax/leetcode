@@ -156,6 +156,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
+|300|Longest Increasing Subsequence|[Java](/Algorithms/Java/medium/0300_Longest_Increasing_Subsequence_[Medium].java)|Medium|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
@@ -483,6 +484,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1049|Last Stone Weight II|[Java](/Algorithms/Java/medium/1049_Last_Stone_Weight_II_[Medium].java)|Medium|
 |1051|Height Checker|[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
 |1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
+|1054|Distant Barcodes|[Java](/Algorithms/Java/medium/1054_Distant_Barcodes_[Medium].java)|Medium|
 |1071|Greatest Common Divisor of Strings|[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
 |1072|Flip Columns For Maximum Number of Equal Rows|[Java](/Algorithms/Java/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
 |1078|Occurrences After Bigram|[Java](/Algorithms/Java/easy/1078_Occurrences_After_Bigram_[Easy].java)|Easy|
