@@ -198,6 +198,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |424|Longest Repeating Character Replacement|[Java](/Algorithms/Java/medium/0424_Longest_Repeating_Character_Replacement_[Medium].java)|Medium|
 |429|N-ary Tree Level Order Traversal|[Java](/Algorithms/Java/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
 |434|Number of Segments in a String|[Java](/Algorithms/Java/easy/0434_Number_of_Segments_in_a_String_[Easy].java)|Easy|
+|435|Non-overlapping Intervals|[Java](/Algorithms/Java/medium/0435_Non-overlapping_Intervals_[Medium].java)|Medium|
 |436|Find Right Interval|[Java](/Algorithms/Java/medium/0436_Find_Right_Interval_[Medium].java)|Medium|
 |437|Path Sum III|[Java](/Algorithms/Java/easy/0437_Path_Sum_III_[Easy].java)|Easy|
 |438|Find All Anagrams in a String|[Java](/Algorithms/Java/easy/0438_Find_All_Anagrams_in_a_String_[Easy].java)|Easy|
@@ -370,6 +371,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |848|Shifting Letters|[Java](/Algorithms/Java/easy/0848_Shifting_Letters_[Easy].java)|Easy|
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
 |852|Peak Index in a Mountain Array|[Java](/Algorithms/Java/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
+|853|Car Fleet|[Java](/Algorithms/Java/medium/0853_Car_Fleet_[Medium].java)|Medium|
 |856|Score of Parentheses|[Java](/Algorithms/Java/medium/0856_Score_of_Parentheses_[Medium].java)|Medium|
 |859|Buddy Strings|[Java](/Algorithms/Java/easy/0859_Buddy_Strings_[Easy].java)|Easy|
 |860|Lemonade Change|[Java](/Algorithms/Java/easy/0860_Lemonade_Change_[Easy].java)|Easy|
@@ -521,6 +523,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1202|Smallest String With Swaps|[Java](/Algorithms/Java/medium/1202_Smallest_String_With_Swaps_[Medium].java)|Medium|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
+|1208|Get Equal Substrings Within Budget|[Java](/Algorithms/Java/medium/1208_Get_Equal_Substrings_Within_Budget_[Medium].java)|Medium|
 |1209|Remove All Adjacent Duplicates in String II|[Java](/Algorithms/Java/medium/1209_Remove_All_Adjacent_Duplicates_in_String_II_[Medium].java)|Medium|
 |1217|Play with Chips|[Java](/Algorithms/Java/easy/1217_Play_with_Chips_[Easy].java)|Easy|
 |1218|Longest Arithmetic Subsequence of Given Difference|[Java](/Algorithms/Java/medium/1218_Longest_Arithmetic_Subsequence_of_Given_Difference_[Medium].java)|Medium|
