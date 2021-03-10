@@ -218,6 +218,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
 |470|Implement Rand10() Using Rand7()|[Java](/Algorithms/Java/medium/0470_Implement_Rand10()_Using_Rand7()_[Medium].java)|Medium|
+|474|Ones and Zeroes|[Java](/Algorithms/Java/medium/0474_Ones_and_Zeroes_[Medium].java)|Medium|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
