@@ -75,6 +75,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
 |80|Remove Duplicates from Sorted Array II|[Java](/Algorithms/Java/medium/0080_Remove_Duplicates_from_Sorted_Array_II_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
+|86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
@@ -653,6 +654,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
+|1536|Minimum Swaps to Arrange a Binary Grid|[Java](/Algorithms/Java/medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
