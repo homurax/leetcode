@@ -199,6 +199,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |421|Maximum XOR of Two Numbers in an Array|[Java](/Algorithms/Java/medium/0421_Maximum_XOR_of_Two_Numbers_in_an_Array_[Medium].java)|Medium|
 |424|Longest Repeating Character Replacement|[Java](/Algorithms/Java/medium/0424_Longest_Repeating_Character_Replacement_[Medium].java)|Medium|
 |429|N-ary Tree Level Order Traversal|[Java](/Algorithms/Java/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
+|433|Minimum Genetic Mutation|[Java](/Algorithms/Java/medium/0433_Minimum_Genetic_Mutation_[Medium].java)|Medium|
 |434|Number of Segments in a String|[Java](/Algorithms/Java/easy/0434_Number_of_Segments_in_a_String_[Easy].java)|Easy|
 |435|Non-overlapping Intervals|[Java](/Algorithms/Java/medium/0435_Non-overlapping_Intervals_[Medium].java)|Medium|
 |436|Find Right Interval|[Java](/Algorithms/Java/medium/0436_Find_Right_Interval_[Medium].java)|Medium|
@@ -330,6 +331,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |729|My Calendar I|[Java](/Algorithms/Java/medium/0729_My_Calendar_I_[Medium].java)|Medium|
 |731|My Calendar II|[Java](/Algorithms/Java/medium/0731_My_Calendar_II_[Medium].java)|Medium|
 |733|Flood Fill|[Java](/Algorithms/Java/easy/0733_Flood_Fill_[Easy].java)|Easy|
+|735|Asteroid Collision|[Java](/Algorithms/Java/medium/0735_Asteroid_Collision_[Medium].java)|Medium|
 |738|Monotone Increasing Digits|[Java](/Algorithms/Java/medium/0738_Monotone_Increasing_Digits_[Medium].java)|Medium|
 |739|Daily Temperatures|[Java](/Algorithms/Java/medium/0739_Daily_Temperatures_[Medium].java)|Medium|
 |740|Delete and Earn|[Java](/Algorithms/Java/medium/0740_Delete_and_Earn_[Medium].java)|Medium|
@@ -376,6 +378,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
 |852|Peak Index in a Mountain Array|[Java](/Algorithms/Java/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
 |853|Car Fleet|[Java](/Algorithms/Java/medium/0853_Car_Fleet_[Medium].java)|Medium|
+|855|Exam Room|[Java](/Algorithms/Java/medium/0855_Exam_Room_[Medium].java)|Medium|
 |856|Score of Parentheses|[Java](/Algorithms/Java/medium/0856_Score_of_Parentheses_[Medium].java)|Medium|
 |859|Buddy Strings|[Java](/Algorithms/Java/easy/0859_Buddy_Strings_[Easy].java)|Easy|
 |860|Lemonade Change|[Java](/Algorithms/Java/easy/0860_Lemonade_Change_[Easy].java)|Easy|
