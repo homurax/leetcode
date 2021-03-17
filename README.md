@@ -148,6 +148,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |258|Add Digits|[Java](/Algorithms/Java/easy/0258_Add_Digits_[Easy].java)|Easy|
 |260|Single Number III|[Java](/Algorithms/Java/medium/0260_Single_Number_III_[Medium].java)|Medium|
 |263|Ugly Number|[Java](/Algorithms/Java/easy/0263_Ugly_Number_[Easy].java)|Easy|
+|264|Ugly Number II|[Java](/Algorithms/Java/medium/0264_Ugly_Number_II_[Medium].java)|Medium|
 |268|Missing Number|[Java](/Algorithms/Java/easy/0268_Missing_Number_[Easy].java)|Easy|
 |278|First Bad Version|[Java](/Algorithms/Java/easy/0278_First_Bad_Version_[Easy].java)|Easy|
 |279|Perfect Squares|[Java](/Algorithms/Java/medium/0279_Perfect_Squares_[Medium].java)|Medium|
@@ -560,6 +561,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1291|Sequential Digits|[Java](/Algorithms/Java/medium/1291_Sequential_Digits_[Medium].java)|Medium|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1299|Replace Elements with Greatest Element on Right Side|[Java](/Algorithms/Java/easy/1299_Replace_Elements_with_Greatest_Element_on_Right_Side_[Easy].java)|Easy|
+|1300|Sum of Mutated Array Closest to Target|[Java](/Algorithms/Java/medium/1300_Sum_of_Mutated_Array_Closest_to_Target_[Medium].java)|Medium|
 |1302|Deepest Leaves Sum|[Java](/Algorithms/Java/medium/1302_Deepest_Leaves_Sum_[Medium].java)|Medium|
 |1304|Find N Unique Integers Sum up to Zero|[Java](/Algorithms/Java/easy/1304_Find_N_Unique_Integers_Sum_up_to_Zero_[Easy].java)|Easy|
 |1305|All Elements in Two Binary Search Trees|[Java](/Algorithms/Java/medium/1305_All_Elements_in_Two_Binary_Search_Trees_[Medium].java)|Medium|
@@ -658,6 +660,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
 |1536|Minimum Swaps to Arrange a Binary Grid|[Java](/Algorithms/Java/medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid_[Medium].java)|Medium|
+|1541|Minimum Insertions to Balance a Parentheses String|[Java](/Algorithms/Java/medium/1541_Minimum_Insertions_to_Balance_a_Parentheses_String_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
