@@ -349,6 +349,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |766|Toeplitz Matrix|[Java](/Algorithms/Java/easy/0766_Toeplitz_Matrix_[Easy].java)|Easy|
 |767|Reorganize String|[Java](/Algorithms/Java/medium/0767_Reorganize_String_[Medium].java)|Medium|
 |771|Jewels and Stones|[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
+|775|Global and Local Inversions|[Java](/Algorithms/Java/medium/0775_Global_and_Local_Inversions_[Medium].java)|Medium|
 |783|Minimum Distance Between BST Nodes|[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
 |784|Letter Case Permutation|[Java](/Algorithms/Java/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
 |785|Is Graph Bipartite|[Java](/Algorithms/Java/medium/0785_Is_Graph_Bipartite_[Medium].java)|Medium|
@@ -612,6 +613,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1396|Design Underground System|[Java](/Algorithms/Java/medium/1396_Design_Underground_System_[Medium].java)|Medium|
 |1399|Count Largest Group|[Java](/Algorithms/Java/easy/1399_Count_Largest_Group_[Easy].java)|Easy|
 |1400|Construct K Palindrome Strings|[Java](/Algorithms/Java/medium/1400_Construct_K_Palindrome_Strings_[Medium].java)|Medium|
+|1401|Circle and Rectangle Overlapping|[Java](/Algorithms/Java/medium/1401_Circle_and_Rectangle_Overlapping_[Medium].java)|Medium|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1404|Number of Steps to Reduce a Number in Binary Representation to One|[Java](/Algorithms/Java/medium/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One_[Medium].java)|Medium|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
@@ -669,3 +671,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
+|1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
