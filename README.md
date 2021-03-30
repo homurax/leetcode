@@ -93,6 +93,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |113|Path Sum II|[Java](/Algorithms/Java/medium/0113_Path_Sum_II_[Medium].java)|Medium|
 |114|Flatten Binary Tree to Linked List|[Java](/Algorithms/Java/medium/0114_Flatten_Binary_Tree_to_Linked_List_[Medium].java)|Medium|
 |116|Populating Next Right Pointers in Each Node|[Java](/Algorithms/Java/medium/0116_Populating_Next_Right_Pointers_in_Each_Node_[Medium].java)|Medium|
+|117|Populating Next Right Pointers in Each Node II|[Java](/Algorithms/Java/medium/0117_Populating_Next_Right_Pointers_in_Each_Node_II_[Medium].java)|Medium|
 |118|Pascal's Triangle|[Java](/Algorithms/Java/easy/0118_Pascal's_Triangle_[Easy].java)|Easy|
 |119|Pascal's Triangle II|[Java](/Algorithms/Java/easy/0119_Pascal's_Triangle_II_[Easy].java)|Easy|
 |120|Triangle|[Java](/Algorithms/Java/medium/0120_Triangle_[Medium].java)|Medium|
@@ -178,6 +179,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
+|376|Wiggle Subsequence|[Java](/Algorithms/Java/medium/0376_Wiggle_Subsequence_[Medium].java)|Medium|
 |377|Combination Sum IV|[Java](/Algorithms/Java/medium/0377_Combination_Sum_IV_[Medium].java)|Medium|
 |380|Insert Delete GetRandom O(1)|[Java](/Algorithms/Java/medium/0380_Insert_Delete_GetRandom_O(1)_[Medium].java)|Medium|
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
@@ -672,3 +674,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
+|1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
