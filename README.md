@@ -102,6 +102,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |129|Sum Root to Leaf Numbers|[Java](/Algorithms/Java/medium/0129_Sum_Root_to_Leaf_Numbers_[Medium].java)|Medium|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |137|Single Number II|[Java](/Algorithms/Java/medium/0137_Single_Number_II_[Medium].java)|Medium|
+|139|Word Break|[Java](/Algorithms/Java/medium/0139_Word_Break_[Medium].java)|Medium|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
 |142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
@@ -661,6 +662,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
+|1513|Number of Substrings With Only 1s|[Java](/Algorithms/Java/medium/1513_Number_of_Substrings_With_Only_1s_[Medium].java)|Medium|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
@@ -674,5 +676,6 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
+|1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
