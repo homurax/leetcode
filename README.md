@@ -550,6 +550,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1247|Minimum Swaps to Make Strings Equal|[Java](/Algorithms/Java/medium/1247_Minimum_Swaps_to_Make_Strings_Equal_[Medium].java)|Medium|
 |1248|Count Number of Nice Subarrays|[Java](/Algorithms/Java/medium/1248_Count_Number_of_Nice_Subarrays_[Medium].java)|Medium|
 |1249|Minimum Remove to Make Valid Parentheses|[Java](/Algorithms/Java/medium/1249_Minimum_Remove_to_Make_Valid_Parentheses_[Medium].java)|Medium|
+|1253|Reconstruct a 2-Row Binary Matrix|[Java](/Algorithms/Java/medium/1253_Reconstruct_a_2-Row_Binary_Matrix_[Medium].java)|Medium|
 |1254|Number of Closed Islands|[Java](/Algorithms/Java/medium/1254_Number_of_Closed_Islands_[Medium].java)|Medium|
 |1260|Shift 2D Grid|[Java](/Algorithms/Java/easy/1260_Shift_2D_Grid_[Easy].java)|Easy|
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
