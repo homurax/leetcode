@@ -100,6 +100,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |129|Sum Root to Leaf Numbers|[Java](/Algorithms/Java/medium/0129_Sum_Root_to_Leaf_Numbers_[Medium].java)|Medium|
+|134|Gas Station|[Java](/Algorithms/Java/medium/0134_Gas_Station_[Medium].java)|Medium|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |137|Single Number II|[Java](/Algorithms/Java/medium/0137_Single_Number_II_[Medium].java)|Medium|
 |139|Word Break|[Java](/Algorithms/Java/medium/0139_Word_Break_[Medium].java)|Medium|
@@ -117,6 +118,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |171|Excel Sheet Column Number|[Java](/Algorithms/Java/easy/0171_Excel_Sheet_Column_Number_[Easy].java)|Easy|
 |172|Factorial Trailing Zeroes|[Java](/Algorithms/Java/easy/0172_Factorial_Trailing_Zeroes_[Easy].java)|Easy|
 |173|Binary Search Tree Iterator|[Java](/Algorithms/Java/medium/0173_Binary_Search_Tree_Iterator_[Medium].java)|Medium|
+|187|Repeated DNA Sequences|[Java](/Algorithms/Java/medium/0187_Repeated_DNA_Sequences_[Medium].java)|Medium|
 |189|Rotate Array|[Java](/Algorithms/Java/easy/0189_Rotate_Array_[Easy].java)|Easy|
 |190|Reverse Bits|[Java](/Algorithms/Java/easy/0190_Reverse_Bits_[Easy].java)|Easy|
 |191|Number of 1 Bits|[Java](/Algorithms/Java/easy/0191_Number_of_1_Bits_[Easy].java)|Easy|
@@ -531,6 +533,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1161|Maximum Level Sum of a Binary Tree|[Java](/Algorithms/Java/medium/1161_Maximum_Level_Sum_of_a_Binary_Tree_[Medium].java)|Medium|
 |1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
+|1171|Remove Zero Sum Consecutive Nodes from Linked List|[Java](/Algorithms/Java/medium/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List_[Medium].java)|Medium|
 |1184|Distance Between Bus Stops|[Java](/Algorithms/Java/easy/1184_Distance_Between_Bus_Stops_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
