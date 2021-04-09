@@ -61,6 +61,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
+|56|Merge Intervals|[Java](/Algorithms/Java/medium/0056_Merge_Intervals_[Medium].java)|Medium|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
 |62|Unique Paths|[Java](/Algorithms/Java/medium/0062_Unique_Paths_[Medium].java)|Medium|
@@ -103,6 +104,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |134|Gas Station|[Java](/Algorithms/Java/medium/0134_Gas_Station_[Medium].java)|Medium|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
 |137|Single Number II|[Java](/Algorithms/Java/medium/0137_Single_Number_II_[Medium].java)|Medium|
+|138|Copy List with Random Pointer|[Java](/Algorithms/Java/medium/0138_Copy_List_with_Random_Pointer_[Medium].java)|Medium|
 |139|Word Break|[Java](/Algorithms/Java/medium/0139_Word_Break_[Medium].java)|Medium|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
 |142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
@@ -170,6 +172,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
+|331|Verify Preorder Serialization of a Binary Tree|[Java](/Algorithms/Java/medium/0331_Verify_Preorder_Serialization_of_a_Binary_Tree_[Medium].java)|Medium|
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
