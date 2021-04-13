@@ -108,6 +108,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |139|Word Break|[Java](/Algorithms/Java/medium/0139_Word_Break_[Medium].java)|Medium|
 |141|Linked List Cycle|[Java](/Algorithms/Java/easy/0141_Linked_List_Cycle_[Easy].java)|Easy|
 |142|Linked List Cycle II|[Java](/Algorithms/Java/medium/0142_Linked_List_Cycle_II_[Medium].java)|Medium|
+|143|Reorder List|[Java](/Algorithms/Java/medium/0143_Reorder_List_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |145|Binary Tree Postorder Traversal|[Java](/Algorithms/Java/medium/0145_Binary_Tree_Postorder_Traversal_[Medium].java)|Medium|
 |148|Sort List|[Java](/Algorithms/Java/medium/0148_Sort_List_[Medium].java)|Medium|
