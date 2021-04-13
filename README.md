@@ -607,6 +607,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1358|Number of Substrings Containing All Three Characters|[Java](/Algorithms/Java/medium/1358_Number_of_Substrings_Containing_All_Three_Characters_[Medium].java)|Medium|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
+|1367|Linked List in Binary Tree|[Java](/Algorithms/Java/medium/1367_Linked_List_in_Binary_Tree_[Medium].java)|Medium|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1371|Find the Longest Substring Containing Vowels in Even Counts|[Java](/Algorithms/Java/medium/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts_[Medium].java)|Medium|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
