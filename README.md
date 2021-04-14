@@ -429,6 +429,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |917|Reverse Only Letters|[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II|[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
+|923|3Sum With Multiplicity|[Java](/Algorithms/Java/medium/0923_3Sum_With_Multiplicity_[Medium].java)|Medium|
 |925|Long Pressed Name|[Java](/Algorithms/Java/easy/0925_Long_Pressed_Name_[Easy].java)|Easy|
 |926|Flip String to Monotone Increasing|[Java](/Algorithms/Java/medium/0926_Flip_String_to_Monotone_Increasing_[Medium].java)|Medium|
 |929|Unique Email Addresses|[Java](/Algorithms/Java/easy/0929_Unique_Email_Addresses_[Easy].java)|Easy|
@@ -672,6 +673,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
 |1513|Number of Substrings With Only 1s|[Java](/Algorithms/Java/medium/1513_Number_of_Substrings_With_Only_1s_[Medium].java)|Medium|
+|1514|Path with Maximum Probability|[Java](/Algorithms/Java/medium/1514_Path_with_Maximum_Probability_[Medium].java)|Medium|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
