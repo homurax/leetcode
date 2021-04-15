@@ -174,6 +174,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |331|Verify Preorder Serialization of a Binary Tree|[Java](/Algorithms/Java/medium/0331_Verify_Preorder_Serialization_of_a_Binary_Tree_[Medium].java)|Medium|
+|334|Increasing Triplet Subsequence|[Java](/Algorithms/Java/medium/0334_Increasing_Triplet_Subsequence_[Medium].java)|Medium|
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
@@ -689,4 +690,5 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
+|1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
