@@ -78,6 +78,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
+|92|Reverse Linked List II|[Java](/Algorithms/Java/medium/0092_Reverse_Linked_List_II_[Medium].java)|Medium|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
 |95|Unique Binary Search Trees II|[Java](/Algorithms/Java/medium/0095_Unique_Binary_Search_Trees_II_[Medium].java)|Medium|
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
@@ -689,6 +690,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
+|1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
