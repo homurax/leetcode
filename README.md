@@ -135,6 +135,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |205|Isomorphic Strings|[Java](/Algorithms/Java/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
 |208|Implement Trie (Prefix Tree)|[Java](/Algorithms/Java/medium/0208_Implement_Trie_(Prefix_Tree)_[Medium].java)|Medium|
+|211|Design Add and Search Words Data Structure|[Java](/Algorithms/Java/medium/0211_Design_Add_and_Search_Words_Data_Structure_[Medium].java)|Medium|
 |213|House Robber II|[Java](/Algorithms/Java/medium/0213_House_Robber_II_[Medium].java)|Medium|
 |216|Combination Sum III|[Java](/Algorithms/Java/medium/0216_Combination_Sum_III_[Medium].java)|Medium|
 |217|Contains Duplicate|[Java](/Algorithms/Java/easy/0217_Contains_Duplicate_[Easy].java)|Easy|
@@ -336,6 +337,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |706|Design HashMap|[Java](/Algorithms/Java/easy/0706_Design_HashMap_[Easy].java)|Easy|
 |709|To Lower Case|[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java), [Python](/Algorithms/Python/easy/0709_To_Lower_Case_[Easy].py)|Easy|
 |712|Minimum ASCII Delete Sum for Two Strings|[Java](/Algorithms/Java/medium/0712_Minimum_ASCII_Delete_Sum_for_Two_Strings_[Medium].java)|Medium|
+|713|Subarray Product Less Than K|[Java](/Algorithms/Java/medium/0713_Subarray_Product_Less_Than_K_[Medium].java)|Medium|
 |714|Best Time to Buy and Sell Stock with Transaction Fee|[Java](/Algorithms/Java/medium/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee_[Medium].java)|Medium|
 |717|1-bit and 2-bit Characters|[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
