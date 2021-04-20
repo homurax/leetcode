@@ -672,6 +672,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1492|The kth Factor of n|[Java](/Algorithms/Java/medium/1492_The_kth_Factor_of_n_[Medium].java)|Medium|
 |1493|Longest Subarray of 1's After Deleting One Element|[Java](/Algorithms/Java/medium/1493_Longest_Subarray_of_1's_After_Deleting_One_Element_[Medium].java)|Medium|
 |1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
+|1497|Check If Array Pairs Are Divisible by k|[Java](/Algorithms/Java/medium/1497_Check_If_Array_Pairs_Are_Divisible_by_k_[Medium].java)|Medium|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
@@ -680,6 +681,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1514|Path with Maximum Probability|[Java](/Algorithms/Java/medium/1514_Path_with_Maximum_Probability_[Medium].java)|Medium|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
+|1524|Number of Sub-arrays With Odd Sum|[Java](/Algorithms/Java/medium/1524_Number_of_Sub-arrays_With_Odd_Sum_[Medium].java)|Medium|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
