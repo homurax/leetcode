@@ -130,6 +130,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |198|House Robber|[Java](/Algorithms/Java/easy/0198_House_Robber_[Easy].java)|Easy|
 |199|Binary Tree Right Side View|[Java](/Algorithms/Java/medium/0199_Binary_Tree_Right_Side_View_[Medium].java)|Medium|
 |200|Number of Islands|[Java](/Algorithms/Java/medium/0200_Number_of_Islands_[Medium].java)|Medium|
+|201|Bitwise AND of Numbers Range|[Java](/Algorithms/Java/medium/0201_Bitwise_AND_of_Numbers_Range_[Medium].java)|Medium|
 |202|Happy Number|[Java](/Algorithms/Java/easy/0202_Happy_Number_[Easy].java)|Easy|
 |203|Remove Linked List Elements|[Java](/Algorithms/Java/easy/0203_Remove_Linked_List_Elements_[Easy].java)|Easy|
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
@@ -314,6 +315,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |657|Robot Return to Origin|[Java](/Algorithms/Java/easy/0657_Robot_Return_to_Origin_[Easy].java)|Easy|
 |658|Find K Closest Elements|[Java](/Algorithms/Java/medium/0658_Find_K_Closest_Elements_[Medium].java)|Medium|
 |661|Image Smoother|[Java](/Algorithms/Java/easy/0661_Image_Smoother_[Easy].java)|Easy|
+|662|Maximum Width of Binary Tree|[Java](/Algorithms/Java/medium/0662_Maximum_Width_of_Binary_Tree_[Medium].java)|Medium|
 |665|Non-decreasing Array|[Java](/Algorithms/Java/easy/0665_Non-decreasing_Array_[Easy].java)|Easy|
 |669|Trim a Binary Search Tree|[Java](/Algorithms/Java/easy/0669_Trim_a_Binary_Search_Tree_[Easy].java)|Easy|
 |670|Maximum Swap|[Java](/Algorithms/Java/easy/0670_Maximum_Swap_[Easy].java)|Easy|
