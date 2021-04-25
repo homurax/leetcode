@@ -75,6 +75,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
 |80|Remove Duplicates from Sorted Array II|[Java](/Algorithms/Java/medium/0080_Remove_Duplicates_from_Sorted_Array_II_[Medium].java)|Medium|
+|82|Remove Duplicates from Sorted List II|[Java](/Algorithms/Java/medium/0082_Remove_Duplicates_from_Sorted_List_II_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
@@ -174,6 +175,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |300|Longest Increasing Subsequence|[Java](/Algorithms/Java/medium/0300_Longest_Increasing_Subsequence_[Medium].java)|Medium|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
+|316|Remove Duplicate Letters|[Java](/Algorithms/Java/medium/0316_Remove_Duplicate_Letters_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
