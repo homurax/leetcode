@@ -310,6 +310,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |646|Maximum Length of Pair Chain|[Java](/Algorithms/Java/medium/0646_Maximum_Length_of_Pair_Chain_[Medium].java)|Medium|
 |647|Palindromic Substrings|[Java](/Algorithms/Java/medium/0647_Palindromic_Substrings_[Medium].java)|Medium|
 |648|Replace Words|[Java](/Algorithms/Java/medium/0648_Replace_Words_[Medium].java)|Medium|
+|649|Dota2 Senate|[Java](/Algorithms/Java/medium/0649_Dota2_Senate_[Medium].java)|Medium|
 |650|2 Keys Keyboard|[Java](/Algorithms/Java/medium/0650_2_Keys_Keyboard_[Medium].java)|Medium|
 |652|Find Duplicate Subtrees|[Java](/Algorithms/Java/medium/0652_Find_Duplicate_Subtrees_[Medium].java)|Medium|
 |653|Two Sum IV - Input is a BST|[Java](/Algorithms/Java/easy/0653_Two_Sum_IV_-_Input_is_a_BST_[Easy].java)|Easy|
@@ -393,6 +394,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
+|826|Most Profit Assigning Work|[Java](/Algorithms/Java/medium/0826_Most_Profit_Assigning_Work_[Medium].java)|Medium|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
 |832|Flipping an Image|[Java](/Algorithms/Java/easy/0832_Flipping_an_Image_[Easy].java)|Easy|
 |836|Rectangle Overlap|[Java](/Algorithms/Java/easy/0836_Rectangle_Overlap_[Easy].java)|Easy|
