@@ -149,6 +149,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |225|Implement Stack using Queues|[Java](/Algorithms/Java/easy/0225_Implement_Stack_using_Queues_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
+|229|Majority Element II|[Java](/Algorithms/Java/medium/0229_Majority_Element_II_[Medium].java)|Medium|
 |230|Kth Smallest Element in a BST|[Java](/Algorithms/Java/medium/0230_Kth_Smallest_Element_in_a_BST_[Medium].java)|Medium|
 |231|Power of Two|[Java](/Algorithms/Java/easy/0231_Power_of_Two_[Easy].java)|Easy|
 |232|Implement Queue using Stacks|[Java](/Algorithms/Java/easy/0232_Implement_Queue_using_Stacks_[Easy].java)|Easy|
@@ -554,6 +555,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1171|Remove Zero Sum Consecutive Nodes from Linked List|[Java](/Algorithms/Java/medium/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List_[Medium].java)|Medium|
 |1184|Distance Between Bus Stops|[Java](/Algorithms/Java/easy/1184_Distance_Between_Bus_Stops_[Easy].java)|Easy|
 |1185|Day of the Week|[Java](/Algorithms/Java/easy/1185_Day_of_the_Week_[Easy].java)|Easy|
+|1186|Maximum Subarray Sum with One Deletion|[Java](/Algorithms/Java/medium/1186_Maximum_Subarray_Sum_with_One_Deletion_[Medium].java)|Medium|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1190|Reverse Substrings Between Each Pair of Parentheses|[Java](/Algorithms/Java/medium/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses_[Medium].java)|Medium|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
