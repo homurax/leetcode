@@ -383,6 +383,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |795|Number of Subarrays with Bounded Maximum|[Java](/Algorithms/Java/medium/0795_Number_of_Subarrays_with_Bounded_Maximum_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
+|801|Minimum Swaps To Make Sequences Increasing|[Java](/Algorithms/Java/medium/0801_Minimum_Swaps_To_Make_Sequences_Increasing_[Medium].java)|Medium|
 |802|Find Eventual Safe States|[Java](/Algorithms/Java/medium/0802_Find_Eventual_Safe_States_[Medium].java)|Medium|
 |804|Unique Morse Code Words|[Java](/Algorithms/Java/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
 |806|Number of Lines To Write String|[Java](/Algorithms/Java/easy/0806_Number_of_Lines_To_Write_String_[Easy].java)|Easy|
@@ -684,6 +685,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1493|Longest Subarray of 1's After Deleting One Element|[Java](/Algorithms/Java/medium/1493_Longest_Subarray_of_1's_After_Deleting_One_Element_[Medium].java)|Medium|
 |1496|Path Crossing|[Java](/Algorithms/Java/easy/1496_Path_Crossing_[Easy].java)|Easy|
 |1497|Check If Array Pairs Are Divisible by k|[Java](/Algorithms/Java/medium/1497_Check_If_Array_Pairs_Are_Divisible_by_k_[Medium].java)|Medium|
+|1498|Number of Subsequences That Satisfy the Given Sum Condition|[Java](/Algorithms/Java/medium/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition_[Medium].java)|Medium|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
