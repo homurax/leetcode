@@ -71,6 +71,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
 |70|Climbing Stairs|[Java](/Algorithms/Java/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
 |73|Set Matrix Zeroes|[Java](/Algorithms/Java/medium/0073_Set_Matrix_Zeroes_[Medium].java)|Medium|
+|74|Search a 2D Matrix|[Java](/Algorithms/Java/medium/0074_Search_a_2D_Matrix_[Medium].java)|Medium|
 |75|Sort Colors|[Java](/Algorithms/Java/medium/0075_Sort_Colors_[Medium].java)|Medium|
 |77|Combinations|[Java](/Algorithms/Java/medium/0077_Combinations_[Medium].java)|Medium|
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
@@ -183,6 +184,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |331|Verify Preorder Serialization of a Binary Tree|[Java](/Algorithms/Java/medium/0331_Verify_Preorder_Serialization_of_a_Binary_Tree_[Medium].java)|Medium|
+|332|Reconstruct Itinerary|[Java](/Algorithms/Java/medium/0332_Reconstruct_Itinerary_[Medium].java)|Medium|
 |334|Increasing Triplet Subsequence|[Java](/Algorithms/Java/medium/0334_Increasing_Triplet_Subsequence_[Medium].java)|Medium|
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
@@ -243,6 +245,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
 |470|Implement Rand10() Using Rand7()|[Java](/Algorithms/Java/medium/0470_Implement_Rand10()_Using_Rand7()_[Medium].java)|Medium|
+|473|Matchsticks to Square|[Java](/Algorithms/Java/medium/0473_Matchsticks_to_Square_[Medium].java)|Medium|
 |474|Ones and Zeroes|[Java](/Algorithms/Java/medium/0474_Ones_and_Zeroes_[Medium].java)|Medium|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
