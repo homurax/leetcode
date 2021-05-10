@@ -81,6 +81,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
 |92|Reverse Linked List II|[Java](/Algorithms/Java/medium/0092_Reverse_Linked_List_II_[Medium].java)|Medium|
+|93|Restore IP Addresses|[Java](/Algorithms/Java/medium/0093_Restore_IP_Addresses_[Medium].java)|Medium|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
 |95|Unique Binary Search Trees II|[Java](/Algorithms/Java/medium/0095_Unique_Binary_Search_Trees_II_[Medium].java)|Medium|
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
@@ -711,6 +712,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
+|1577|Number of Ways Where Square of Number Is Equal to Product of Two Numbers|[Java](/Algorithms/Java/medium/1577_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
