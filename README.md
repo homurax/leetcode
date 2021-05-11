@@ -52,6 +52,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |26|Remove Duplicates from Sorted Array|[Java](/Algorithms/Java/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
+|34|Find First and Last Position of Element in Sorted Array|[Java](/Algorithms/Java/medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array_[Medium].java)|Medium|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
 |36|Valid Sudoku|[Java](/Algorithms/Java/medium/0036_Valid_Sudoku_[Medium].java)|Medium|
 |39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
@@ -271,6 +272,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |515|Find Largest Value in Each Tree Row|[Java](/Algorithms/Java/medium/0515_Find_Largest_Value_in_Each_Tree_Row_[Medium].java)|Medium|
 |516|Longest Palindromic Subsequence|[Java](/Algorithms/Java/medium/0516_Longest_Palindromic_Subsequence_[Medium].java)|Medium|
 |518|Coin Change 2|[Java](/Algorithms/Java/medium/0518_Coin_Change_2_[Medium].java)|Medium|
+|519|Random Flip Matrix|[Java](/Algorithms/Java/medium/0519_Random_Flip_Matrix_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
 |524|Longest Word in Dictionary through Deleting|[Java](/Algorithms/Java/medium/0524_Longest_Word_in_Dictionary_through_Deleting_[Medium].java)|Medium|
@@ -626,6 +628,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1344|Angle Between Hands of a Clock|[Java](/Algorithms/Java/medium/1344_Angle_Between_Hands_of_a_Clock_[Medium].java)|Medium|
 |1346|Check If N and Its Double Exist|[Java](/Algorithms/Java/easy/1346_Check_If_N_and_Its_Double_Exist_[Easy].java)|Easy|
 |1347|Minimum Number of Steps to Make Two Strings Anagram|[Java](/Algorithms/Java/medium/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_[Medium].java)|Medium|
+|1348|Tweet Counts Per Frequency|[Java](/Algorithms/Java/medium/1348_Tweet_Counts_Per_Frequency_[Medium].java)|Medium|
 |1351|Count Negative Numbers in a Sorted Matrix|[Java](/Algorithms/Java/easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix_[Easy].java)|Easy|
 |1352|Product of the Last K Numbers|[Java](/Algorithms/Java/medium/1352_Product_of_the_Last_K_Numbers_[Medium].java)|Medium|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
