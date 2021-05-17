@@ -180,6 +180,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
 |300|Longest Increasing Subsequence|[Java](/Algorithms/Java/medium/0300_Longest_Increasing_Subsequence_[Medium].java)|Medium|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
+|307|Range Sum Query - Mutable|[Java](/Algorithms/Java/medium/0307_Range_Sum_Query_-_Mutable_[Medium].java)|Medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
 |316|Remove Duplicate Letters|[Java](/Algorithms/Java/medium/0316_Remove_Duplicate_Letters_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
@@ -716,6 +717,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
+|1567|Maximum Length of Subarray With Positive Product|[Java](/Algorithms/Java/medium/1567_Maximum_Length_of_Subarray_With_Positive_Product_[Medium].java)|Medium|
 |1577|Number of Ways Where Square of Number Is Equal to Product of Two Numbers|[Java](/Algorithms/Java/medium/1577_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
