@@ -61,6 +61,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |47|Permutations II|[Java](/Algorithms/Java/medium/0047_Permutations_II_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
+|54|Spiral Matrix|[Java](/Algorithms/Java/medium/0054_Spiral_Matrix_[Medium].java)|Medium|
 |55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
 |56|Merge Intervals|[Java](/Algorithms/Java/medium/0056_Merge_Intervals_[Medium].java)|Medium|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
@@ -412,6 +413,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |836|Rectangle Overlap|[Java](/Algorithms/Java/easy/0836_Rectangle_Overlap_[Easy].java)|Easy|
 |838|Push Dominoes|[Java](/Algorithms/Java/medium/0838_Push_Dominoes_[Medium].java)|Medium|
 |841|Keys and Rooms|[Java](/Algorithms/Java/medium/0841_Keys_and_Rooms_[Medium].java)|Medium|
+|842|Split Array into Fibonacci Sequence|[Java](/Algorithms/Java/medium/0842_Split_Array_into_Fibonacci_Sequence_[Medium].java)|Medium|
 |844|Backspace String Compare|[Java](/Algorithms/Java/easy/0844_Backspace_String_Compare_[Easy].java)|Easy|
 |845|Longest Mountain in Array|[Java](/Algorithms/Java/medium/0845_Longest_Mountain_in_Array_[Medium].java)|Medium|
 |848|Shifting Letters|[Java](/Algorithms/Java/easy/0848_Shifting_Letters_[Easy].java)|Easy|
