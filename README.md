@@ -119,6 +119,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |143|Reorder List|[Java](/Algorithms/Java/medium/0143_Reorder_List_[Medium].java)|Medium|
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |145|Binary Tree Postorder Traversal|[Java](/Algorithms/Java/medium/0145_Binary_Tree_Postorder_Traversal_[Medium].java)|Medium|
+|146|LRU Cache|[Java](/Algorithms/Java/medium/0146_LRU_Cache_[Medium].java)|Medium|
 |148|Sort List|[Java](/Algorithms/Java/medium/0148_Sort_List_[Medium].java)|Medium|
 |150|Evaluate Reverse Polish Notation|[Java](/Algorithms/Java/medium/0150_Evaluate_Reverse_Polish_Notation_[Medium].java)|Medium|
 |153|Find Minimum in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0153_Find_Minimum_in_Rotated_Sorted_Array_[Medium].java)|Medium|
@@ -560,6 +561,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1144|Decrease Elements To Make Array Zigzag|[Java](/Algorithms/Java/medium/1144_Decrease_Elements_To_Make_Array_Zigzag_[Medium].java)|Medium|
 |1145|Binary Tree Coloring Game|[Java](/Algorithms/Java/medium/1145_Binary_Tree_Coloring_Game_[Medium].java)|Medium|
+|1146|Snapshot Array|[Java](/Algorithms/Java/medium/1146_Snapshot_Array_[Medium].java)|Medium|
 |1154|Day of the Year|[Java](/Algorithms/Java/easy/1154_Day_of_the_Year_[Easy].java)|Easy|
 |1155|Number of Dice Rolls With Target Sum|[Java](/Algorithms/Java/medium/1155_Number_of_Dice_Rolls_With_Target_Sum_[Medium].java)|Medium|
 |1156|Swap For Longest Repeated Character Substring|[Java](/Algorithms/Java/medium/1156_Swap_For_Longest_Repeated_Character_Substring_[Medium].java)|Medium|
