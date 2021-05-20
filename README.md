@@ -52,6 +52,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |26|Remove Duplicates from Sorted Array|[Java](/Algorithms/Java/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
+|33|Search in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0033_Search_in_Rotated_Sorted_Array_[Medium].java)|Medium|
 |34|Find First and Last Position of Element in Sorted Array|[Java](/Algorithms/Java/medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array_[Medium].java)|Medium|
 |35|Search Insert Position|[Java](/Algorithms/Java/easy/0035_Search_Insert_Position_[Easy].java)|Easy|
 |36|Valid Sudoku|[Java](/Algorithms/Java/medium/0036_Valid_Sudoku_[Medium].java)|Medium|
@@ -652,6 +653,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1381|Design a Stack With Increment Operation|[Java](/Algorithms/Java/medium/1381_Design_a_Stack_With_Increment_Operation_[Medium].java)|Medium|
 |1382|Balance a Binary Search Tree|[Java](/Algorithms/Java/medium/1382_Balance_a_Binary_Search_Tree_[Medium].java)|Medium|
 |1385|Find the Distance Value Between Two Arrays|[Java](/Algorithms/Java/easy/1385_Find_the_Distance_Value_Between_Two_Arrays_[Easy].java)|Easy|
+|1386|Cinema Seat Allocation|[Java](/Algorithms/Java/medium/1386_Cinema_Seat_Allocation_[Medium].java)|Medium|
 |1387|Sort Integers by The Power Value|[Java](/Algorithms/Java/medium/1387_Sort_Integers_by_The_Power_Value_[Medium].java)|Medium|
 |1389|Create Target Array in the Given Order|[Java](/Algorithms/Java/easy/1389_Create_Target_Array_in_the_Given_Order_[Easy].java)|Easy|
 |1391|Check if There is a Valid Path in a Grid|[Java](/Algorithms/Java/medium/1391_Check_if_There_is_a_Valid_Path_in_a_Grid_[Medium].java)|Medium|
