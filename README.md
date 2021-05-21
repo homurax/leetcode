@@ -302,6 +302,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |567|Permutation in String|[Java](/Algorithms/Java/medium/0567_Permutation_in_String_[Medium].java)|Medium|
 |572|Subtree of Another Tree|[Java](/Algorithms/Java/easy/0572_Subtree_of_Another_Tree_[Easy].java)|Easy|
 |575|Distribute Candies|[Java](/Algorithms/Java/easy/0575_Distribute_Candies_[Easy].java)|Easy|
+|576|Out of Boundary Paths|[Java](/Algorithms/Java/medium/0576_Out_of_Boundary_Paths_[Medium].java)|Medium|
 |581|Shortest Unsorted Continuous Subarray|[Java](/Algorithms/Java/easy/0581_Shortest_Unsorted_Continuous_Subarray_[Easy].java)|Easy|
 |583|Delete Operation for Two Strings|[Java](/Algorithms/Java/medium/0583_Delete_Operation_for_Two_Strings_[Medium].java)|Medium|
 |589|N-ary Tree Preorder Traversal|[Java](/Algorithms/Java/easy/0589_N-ary_Tree_Preorder_Traversal_[Easy].java)|Easy|
