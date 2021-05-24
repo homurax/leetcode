@@ -38,6 +38,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |  #  |  Title  |  Solution  |  Difficulty  |
 |:---:|:--------|:-----------|:------------:|
 |1|Two Sum|[Java](/Algorithms/Java/easy/0001_Two_Sum_[Easy].java)|Easy|
+|2|Add Two Numbers|[Java](/Algorithms/Java/medium/0002_Add_Two_Numbers_[Medium].java)|Medium|
 |7|Reverse Integer|[Java](/Algorithms/Java/easy/0007_Reverse_Integer_[Easy].java)|Easy|
 |9|Palindrome Number|[Java](/Algorithms/Java/easy/0009_Palindrome_Number_[Easy].java)|Easy|
 |11|Container With Most Water|[Java](/Algorithms/Java/medium/0011_Container_With_Most_Water_[Medium].java)|Medium|
