@@ -67,6 +67,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |54|Spiral Matrix|[Java](/Algorithms/Java/medium/0054_Spiral_Matrix_[Medium].java)|Medium|
 |55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
 |56|Merge Intervals|[Java](/Algorithms/Java/medium/0056_Merge_Intervals_[Medium].java)|Medium|
+|57|Insert Interval|[Java](/Algorithms/Java/medium/0057_Insert_Interval_[Medium].java)|Medium|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
 |62|Unique Paths|[Java](/Algorithms/Java/medium/0062_Unique_Paths_[Medium].java)|Medium|
