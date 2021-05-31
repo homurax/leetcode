@@ -47,6 +47,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |15|3Sum|[Java](/Algorithms/Java/medium/0015_3Sum_[Medium].java)|Medium|
 |16|3Sum Closest|[Java](/Algorithms/Java/medium/0016_3Sum_Closest_[Medium].java)|Medium|
 |17|Letter Combinations of a Phone Number|[Java](/Algorithms/Java/medium/0017_Letter_Combinations_of_a_Phone_Number_[Medium].java)|Medium|
+|18|4Sum|[Java](/Algorithms/Java/medium/0018_4Sum_[Medium].java)|Medium|
 |19|Remove Nth Node From End of List|[Java](/Algorithms/Java/medium/0019_Remove_Nth_Node_From_End_of_List_[Medium].java)|Medium|
 |20|Valid Parentheses|[Java](/Algorithms/Java/easy/0020_Valid_Parentheses_[Easy].java)|Easy|
 |21|Merge Two Sorted Lists|[Java](/Algorithms/Java/easy/0021_Merge_Two_Sorted_Lists_[Easy].java)|Easy|
