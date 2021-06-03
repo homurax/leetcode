@@ -62,6 +62,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |36|Valid Sudoku|[Java](/Algorithms/Java/medium/0036_Valid_Sudoku_[Medium].java)|Medium|
 |39|Combination Sum|[Java](/Algorithms/Java/medium/0039_Combination_Sum_[Medium].java)|Medium|
 |40|Combination Sum II|[Java](/Algorithms/Java/medium/0040_Combination_Sum_II_[Medium].java)|Medium|
+|43|Multiply Strings|[Java](/Algorithms/Java/medium/0043_Multiply_Strings_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |47|Permutations II|[Java](/Algorithms/Java/medium/0047_Permutations_II_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
