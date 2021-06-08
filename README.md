@@ -80,6 +80,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |67|Add Binary|[Java](/Algorithms/Java/easy/0067_Add_Binary_[Easy].java)|Easy|
 |69|Sqrt(x)|[Java](/Algorithms/Java/easy/0069_Sqrt(x)_[Easy].java)|Easy|
 |70|Climbing Stairs|[Java](/Algorithms/Java/easy/0070_Climbing_Stairs_[Easy].java)|Easy|
+|71|Simplify Path|[Java](/Algorithms/Java/medium/0071_Simplify_Path_[Medium].java)|Medium|
 |73|Set Matrix Zeroes|[Java](/Algorithms/Java/medium/0073_Set_Matrix_Zeroes_[Medium].java)|Medium|
 |74|Search a 2D Matrix|[Java](/Algorithms/Java/medium/0074_Search_a_2D_Matrix_[Medium].java)|Medium|
 |75|Sort Colors|[Java](/Algorithms/Java/medium/0075_Sort_Colors_[Medium].java)|Medium|
