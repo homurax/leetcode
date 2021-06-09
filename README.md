@@ -193,6 +193,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |307|Range Sum Query - Mutable|[Java](/Algorithms/Java/medium/0307_Range_Sum_Query_-_Mutable_[Medium].java)|Medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
+|310|Minimum Height Trees|[Java](/Algorithms/Java/medium/0310_Minimum_Height_Trees_[Medium].java)|Medium|
 |316|Remove Duplicate Letters|[Java](/Algorithms/Java/medium/0316_Remove_Duplicate_Letters_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
