@@ -89,6 +89,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |78|Subsets|[Java](/Algorithms/Java/medium/0078_Subsets_[Medium].java)|Medium|
 |79|Word Search|[Java](/Algorithms/Java/medium/0079_Word_Search_[Medium].java)|Medium|
 |80|Remove Duplicates from Sorted Array II|[Java](/Algorithms/Java/medium/0080_Remove_Duplicates_from_Sorted_Array_II_[Medium].java)|Medium|
+|81|Search in Rotated Sorted Array II|[Java](/Algorithms/Java/medium/0081_Search_in_Rotated_Sorted_Array_II_[Medium].java)|Medium|
 |82|Remove Duplicates from Sorted List II|[Java](/Algorithms/Java/medium/0082_Remove_Duplicates_from_Sorted_List_II_[Medium].java)|Medium|
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
