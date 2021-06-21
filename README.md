@@ -752,3 +752,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
+|1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
