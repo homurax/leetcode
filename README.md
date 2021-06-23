@@ -751,6 +751,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
+|1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
 |1881|Maximum Value after Insertion|[Java](/Algorithms/Java/medium/1881_Maximum_Value_after_Insertion_[Medium].java)|Medium|
