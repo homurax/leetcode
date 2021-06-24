@@ -754,4 +754,5 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
+|1877|Minimize Maximum Pair Sum in Array|[Java](/Algorithms/Java/medium/1877_Minimize_Maximum_Pair_Sum_in_Array_[Medium].java)|Medium|
 |1881|Maximum Value after Insertion|[Java](/Algorithms/Java/medium/1881_Maximum_Value_after_Insertion_[Medium].java)|Medium|
