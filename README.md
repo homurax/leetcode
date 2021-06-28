@@ -743,6 +743,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1577|Number of Ways Where Square of Number Is Equal to Product of Two Numbers|[Java](/Algorithms/Java/medium/1577_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1589|Maximum Sum Obtained of Any Permutation|[Java](/Algorithms/Java/medium/1589_Maximum_Sum_Obtained_of_Any_Permutation_[Medium].java)|Medium|
+|1605|Find Valid Matrix Given Row and Column Sums|[Java](/Algorithms/Java/medium/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums_[Medium].java)|Medium|
 |1616|Split Two Strings to Make Palindrome|[Java](/Algorithms/Java/medium/1616_Split_Two_Strings_to_Make_Palindrome_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
