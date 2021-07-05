@@ -747,6 +747,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1616|Split Two Strings to Make Palindrome|[Java](/Algorithms/Java/medium/1616_Split_Two_Strings_to_Make_Palindrome_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
 |1630|Arithmetic Subarrays|[Java](/Algorithms/Java/medium/1630_Arithmetic_Subarrays_[Medium].java)|Medium|
+|1641|Count Sorted Vowel Strings|[Java](/Algorithms/Java/medium/1641_Count_Sorted_Vowel_Strings_[Medium].java)|Medium|
 |1669|Merge In Between Linked Lists|[Java](/Algorithms/Java/medium/1669_Merge_In_Between_Linked_Lists_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
