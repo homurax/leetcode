@@ -631,6 +631,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1310|XOR Queries of a Subarray|[Java](/Algorithms/Java/medium/1310_XOR_Queries_of_a_Subarray_[Medium].java)|Medium|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
+|1314|Matrix Block Sum|[Java](/Algorithms/Java/medium/1314_Matrix_Block_Sum_[Medium].java)|Medium|
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
