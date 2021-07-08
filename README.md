@@ -763,3 +763,4 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
 |1877|Minimize Maximum Pair Sum in Array|[Java](/Algorithms/Java/medium/1877_Minimize_Maximum_Pair_Sum_in_Array_[Medium].java)|Medium|
 |1881|Maximum Value after Insertion|[Java](/Algorithms/Java/medium/1881_Maximum_Value_after_Insertion_[Medium].java)|Medium|
+|1884|Egg Drop With 2 Eggs and N Floors|[Java](/Algorithms/Java/medium/1884_Egg_Drop_With_2_Eggs_and_N_Floors_[Medium].java)|Medium|
