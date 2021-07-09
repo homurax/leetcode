@@ -753,6 +753,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
+|1721|Swapping Nodes in a Linked List|[Java](/Algorithms/Java/medium/1721_Swapping_Nodes_in_a_Linked_List_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
