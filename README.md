@@ -599,6 +599,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1221|Split a String in Balanced Strings|[Java](/Algorithms/Java/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].java), [Python](/Algorithms/Python/easy/1221_Split_a_String_in_Balanced_Strings_[Easy].py)|Easy|
 |1222|Queens That Can Attack the King|[Java](/Algorithms/Java/medium/1222_Queens_That_Can_Attack_the_King_[Medium].java)|Medium|
 |1232|Check If It Is a Straight Line|[Java](/Algorithms/Java/easy/1232_Check_If_It_Is_a_Straight_Line_[Easy].java)|Easy|
+|1233|Remove Sub-Folders from the Filesystem|[Java](/Algorithms/Java/medium/1233_Remove_Sub-Folders_from_the_Filesystem_[Medium].java)|Medium|
 |1234|Replace the Substring for Balanced String|[Java](/Algorithms/Java/medium/1234_Replace_the_Substring_for_Balanced_String_[Medium].java)|Medium|
 |1239|Maximum Length of a Concatenated String with Unique Characters|[Java](/Algorithms/Java/medium/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters_[Medium].java)|Medium|
 |1247|Minimum Swaps to Make Strings Equal|[Java](/Algorithms/Java/medium/1247_Minimum_Swaps_to_Make_Strings_Equal_[Medium].java)|Medium|
