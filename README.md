@@ -740,6 +740,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
+|1558|Minimum Numbers of Function Calls to Make Target Array|[Java](/Algorithms/Java/medium/1558_Minimum_Numbers_of_Function_Calls_to_Make_Target_Array_[Medium].java)|Medium|
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1567|Maximum Length of Subarray With Positive Product|[Java](/Algorithms/Java/medium/1567_Maximum_Length_of_Subarray_With_Positive_Product_[Medium].java)|Medium|
 |1574|Shortest Subarray to be Removed to Make Array Sorted|[Java](/Algorithms/Java/medium/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted_[Medium].java)|Medium|
