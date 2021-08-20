@@ -66,6 +66,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |43|Multiply Strings|[Java](/Algorithms/Java/medium/0043_Multiply_Strings_[Medium].java)|Medium|
 |46|Permutations|[Java](/Algorithms/Java/medium/0046_Permutations_[Medium].java)|Medium|
 |47|Permutations II|[Java](/Algorithms/Java/medium/0047_Permutations_II_[Medium].java)|Medium|
+|48|Rotate Image|[Java](/Algorithms/Java/medium/0048_Rotate_Image_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |54|Spiral Matrix|[Java](/Algorithms/Java/medium/0054_Spiral_Matrix_[Medium].java)|Medium|
