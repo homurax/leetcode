@@ -294,6 +294,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
 |524|Longest Word in Dictionary through Deleting|[Java](/Algorithms/Java/medium/0524_Longest_Word_in_Dictionary_through_Deleting_[Medium].java)|Medium|
 |525|Contiguous Array|[Java](/Algorithms/Java/medium/0525_Contiguous_Array_[Medium].java)|Medium|
+|526|Beautiful Arrangement|[Java](/Algorithms/Java/medium/0526_Beautiful_Arrangement_[Medium].java)|Medium|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
 |532|K-diff Pairs in an Array|[Java](/Algorithms/Java/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
 |538|Convert BST to Greater Tree|[Java](/Algorithms/Java/easy/0538_Convert_BST_to_Greater_Tree_[Easy].java)|Easy|
