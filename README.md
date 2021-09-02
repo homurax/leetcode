@@ -710,6 +710,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1460|Make Two Arrays Equal by Reversing Sub-arrays|[Java](/Algorithms/Java/easy/1460_Make_Two_Arrays_Equal_by_Reversing_Sub-arrays_[Easy].java)|Easy|
 |1461|Check If a String Contains All Binary Codes of Size K|[Java](/Algorithms/Java/medium/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K_[Medium].java)|Medium|
 |1464|Maximum Product of Two Elements in an Array|[Java](/Algorithms/Java/easy/1464_Maximum_Product_of_Two_Elements_in_an_Array_[Easy].java)|Easy|
+|1466|Reorder Routes to Make All Paths Lead to the City Zero|[Java](/Algorithms/Java/medium/1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero_[Medium].java)|Medium|
 |1470|Shuffle the Array|[Java](/Algorithms/Java/easy/1470_Shuffle_the_Array_[Easy].java)|Easy|
 |1471|The k Strongest Values in an Array|[Java](/Algorithms/Java/medium/1471_The_k_Strongest_Values_in_an_Array_[Medium].java)|Medium|
 |1472|Design Browser History|[Java](/Algorithms/Java/medium/1472_Design_Browser_History_[Medium].java)|Medium|
