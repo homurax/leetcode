@@ -190,6 +190,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
 |284|Peeking Iterator|[Java](/Algorithms/Java/medium/0284_Peeking_Iterator_[Medium].java)|Medium|
 |287|Find the Duplicate Number|[Java](/Algorithms/Java/medium/0287_Find_the_Duplicate_Number_[Medium].java)|Medium|
+|289|Game of Life|[Java](/Algorithms/Java/medium/0289_Game_of_Life_[Medium].java)|Medium|
 |290|Word Pattern|[Java](/Algorithms/Java/easy/0290_Word_Pattern_[Easy].java)|Easy|
 |292|Nim Game|[Java](/Algorithms/Java/easy/0292_Nim_Game_[Easy].java)|Easy|
 |299|Bulls and Cows|[Java](/Algorithms/Java/easy/0299_Bulls_and_Cows_[Easy].java)|Easy|
