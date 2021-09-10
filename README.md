@@ -730,6 +730,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1497|Check If Array Pairs Are Divisible by k|[Java](/Algorithms/Java/medium/1497_Check_If_Array_Pairs_Are_Divisible_by_k_[Medium].java)|Medium|
 |1498|Number of Subsequences That Satisfy the Given Sum Condition|[Java](/Algorithms/Java/medium/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition_[Medium].java)|Medium|
 |1502|Can Make Arithmetic Progression From Sequence|[Java](/Algorithms/Java/easy/1502_Can_Make_Arithmetic_Progression_From_Sequence_[Easy].java)|Easy|
+|1504|Count Submatrices With All Ones|[Java](/Algorithms/Java/medium/1504_Count_Submatrices_With_All_Ones_[Medium].java)|Medium|
 |1507|Reformat Date|[Java](/Algorithms/Java/easy/1507_Reformat_Date_[Easy].java)|Easy|
 |1509|Minimum Difference Between Largest and Smallest Value in Three Moves|[Java](/Algorithms/Java/medium/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_[Medium].java)|Medium|
 |1512|Number of Good Pairs|[Java](/Algorithms/Java/easy/1512_Number_of_Good_Pairs_[Easy].java)|Easy|
