@@ -662,6 +662,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
 |1358|Number of Substrings Containing All Three Characters|[Java](/Algorithms/Java/medium/1358_Number_of_Substrings_Containing_All_Three_Characters_[Medium].java)|Medium|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
+|1362|Closest Divisors|[Java](/Algorithms/Java/medium/1362_Closest_Divisors_[Medium].java)|Medium|
 |1365|How Many Numbers Are Smaller Than the Current Number|[Java](/Algorithms/Java/easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number_[Easy].java)|Easy|
 |1367|Linked List in Binary Tree|[Java](/Algorithms/Java/medium/1367_Linked_List_in_Binary_Tree_[Medium].java)|Medium|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
