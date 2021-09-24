@@ -771,6 +771,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
 |1721|Swapping Nodes in a Linked List|[Java](/Algorithms/Java/medium/1721_Swapping_Nodes_in_a_Linked_List_[Medium].java)|Medium|
 |1726|Tuple with Same Product|[Java](/Algorithms/Java/medium/1726_Tuple_with_Same_Product_[Medium].java)|Medium|
+|1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
 |1738|Find Kth Largest XOR Coordinate Value|[Java](/Algorithms/Java/medium/1738_Find_Kth_Largest_XOR_Coordinate_Value_[Medium].java)|Medium|
 |1743|Restore the Array From Adjacent Pairs|[Java](/Algorithms/Java/medium/1743_Restore_the_Array_From_Adjacent_Pairs_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
