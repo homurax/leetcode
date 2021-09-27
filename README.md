@@ -222,6 +222,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
 |376|Wiggle Subsequence|[Java](/Algorithms/Java/medium/0376_Wiggle_Subsequence_[Medium].java)|Medium|
 |377|Combination Sum IV|[Java](/Algorithms/Java/medium/0377_Combination_Sum_IV_[Medium].java)|Medium|
+|378|Kth Smallest Element in a Sorted Matrix|[Java](/Algorithms/Java/medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix_[Medium].java)|Medium|
 |380|Insert Delete GetRandom O(1)|[Java](/Algorithms/Java/medium/0380_Insert_Delete_GetRandom_O(1)_[Medium].java)|Medium|
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
