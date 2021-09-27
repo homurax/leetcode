@@ -648,6 +648,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1329|Sort the Matrix Diagonally|[Java](/Algorithms/Java/medium/1329_Sort_the_Matrix_Diagonally_[Medium].java)|Medium|
 |1331|Rank Transform of an Array|[Java](/Algorithms/Java/easy/1331_Rank_Transform_of_an_Array_[Easy].java)|Easy|
 |1332|Remove Palindromic Subsequences|[Java](/Algorithms/Java/easy/1332_Remove_Palindromic_Subsequences_[Easy].java)|Easy|
+|1333|Filter Restaurants by Vegan-Friendly, Price and Distance|[Java](/Algorithms/Java/medium/1333_Filter_Restaurants_by_Vegan-Friendly,_Price_and_Distance_[Medium].java)|Medium|
 |1334|Find the City With the Smallest Number of Neighbors at a Threshold Distance|[Java](/Algorithms/Java/medium/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance_[Medium].java)|Medium|
 |1337|The K Weakest Rows in a Matrix|[Java](/Algorithms/Java/easy/1337_The_K_Weakest_Rows_in_a_Matrix_[Easy].java)|Easy|
 |1338|Reduce Array Size to The Half|[Java](/Algorithms/Java/medium/1338_Reduce_Array_Size_to_The_Half_[Medium].java)|Medium|
