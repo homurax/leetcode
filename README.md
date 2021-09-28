@@ -744,6 +744,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1524|Number of Sub-arrays With Odd Sum|[Java](/Algorithms/Java/medium/1524_Number_of_Sub-arrays_With_Odd_Sum_[Medium].java)|Medium|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
+|1530|Number of Good Leaf Nodes Pairs|[Java](/Algorithms/Java/medium/1530_Number_of_Good_Leaf_Nodes_Pairs_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
 |1536|Minimum Swaps to Arrange a Binary Grid|[Java](/Algorithms/Java/medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid_[Medium].java)|Medium|
 |1541|Minimum Insertions to Balance a Parentheses String|[Java](/Algorithms/Java/medium/1541_Minimum_Insertions_to_Balance_a_Parentheses_String_[Medium].java)|Medium|
