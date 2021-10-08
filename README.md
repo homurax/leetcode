@@ -798,5 +798,6 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1884|Egg Drop With 2 Eggs and N Floors|[Java](/Algorithms/Java/medium/1884_Egg_Drop_With_2_Eggs_and_N_Floors_[Medium].java)|Medium|
 |1887|Reduction Operations to Make the Array Elements Equal|[Java](/Algorithms/Java/medium/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal_[Medium].java)|Medium|
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
+|1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
