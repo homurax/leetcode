@@ -616,6 +616,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1261|Find Elements in a Contaminated Binary Tree|[Java](/Algorithms/Java/medium/1261_Find_Elements_in_a_Contaminated_Binary_Tree_[Medium].java)|Medium|
 |1262|Greatest Sum Divisible by Three|[Java](/Algorithms/Java/medium/1262_Greatest_Sum_Divisible_by_Three_[Medium].java)|Medium|
 |1266|Minimum Time Visiting All Points|[Java](/Algorithms/Java/easy/1266_Minimum_Time_Visiting_All_Points_[Easy].java)|Easy|
+|1267|Count Servers that Communicate|[Java](/Algorithms/Java/medium/1267_Count_Servers_that_Communicate_[Medium].java)|Medium|
 |1268|Search Suggestions System|[Java](/Algorithms/Java/medium/1268_Search_Suggestions_System_[Medium].java)|Medium|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
 |1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
