@@ -784,6 +784,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1753|Maximum Score From Removing Stones|[Java](/Algorithms/Java/medium/1753_Maximum_Score_From_Removing_Stones_[Medium].java)|Medium|
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
 |1759|Count Number of Homogenous Substrings|[Java](/Algorithms/Java/medium/1759_Count_Number_of_Homogenous_Substrings_[Medium].java)|Medium|
+|1765|Map of Highest Peak|[Java](/Algorithms/Java/medium/1765_Map_of_Highest_Peak_[Medium].java)|Medium|
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
 |1780|Check if Number is a Sum of Powers of Three|[Java](/Algorithms/Java/medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three_[Medium].java)|Medium|
 |1781|Sum of Beauty of All Substrings|[Java](/Algorithms/Java/medium/1781_Sum_of_Beauty_of_All_Substrings_[Medium].java)|Medium|
