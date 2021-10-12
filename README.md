@@ -566,6 +566,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1094|Car Pooling|[Java](/Algorithms/Java/medium/1094_Car_Pooling_[Medium].java)|Medium|
 |1103|Distribute Candies to People|[Java](/Algorithms/Java/easy/1103_Distribute_Candies_to_People_[Easy].java)|Easy|
 |1104|Path In Zigzag Labelled Binary Tree|[Java](/Algorithms/Java/easy/1104_Path_In_Zigzag_Labelled_Binary_Tree_[Easy].java)|Easy|
+|1105|Filling Bookcase Shelves|[Java](/Algorithms/Java/medium/1105_Filling_Bookcase_Shelves_[Medium].java)|Medium|
 |1108|Defanging an IP Address|[Java](/Algorithms/Java/easy/1108_Defanging_an_IP_Address_[Easy].java), [Python](/Algorithms/Python/easy/1108_Defanging_an_IP_Address_[Easy].py)|Easy|
 |1109|Corporate Flight Bookings|[Java](/Algorithms/Java/medium/1109_Corporate_Flight_Bookings_[Medium].java)|Medium|
 |1110|Delete Nodes And Return Forest|[Java](/Algorithms/Java/medium/1110_Delete_Nodes_And_Return_Forest_[Medium].java)|Medium|
