@@ -209,6 +209,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |334|Increasing Triplet Subsequence|[Java](/Algorithms/Java/medium/0334_Increasing_Triplet_Subsequence_[Medium].java)|Medium|
 |337|House Robber III|[Java](/Algorithms/Java/medium/0337_House_Robber_III_[Medium].java)|Medium|
 |338|Counting Bits|[Java](/Algorithms/Java/medium/0338_Counting_Bits_[Medium].java)|Medium|
+|341|Flatten Nested List Iterator|[Java](/Algorithms/Java/medium/0341_Flatten_Nested_List_Iterator_[Medium].java)|Medium|
 |342|Power of Four|[Java](/Algorithms/Java/easy/0342_Power_of_Four_[Easy].java)|Easy|
 |343|Integer Break|[Java](/Algorithms/Java/medium/0343_Integer_Break_[Medium].java)|Medium|
 |344|Reverse String|[Java](/Algorithms/Java/easy/0344_Reverse_String_[Easy].java)|Easy|
