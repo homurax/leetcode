@@ -402,6 +402,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |763|Partition Labels|[Java](/Algorithms/Java/medium/0763_Partition_Labels_[Medium].java)|Medium|
 |766|Toeplitz Matrix|[Java](/Algorithms/Java/easy/0766_Toeplitz_Matrix_[Easy].java)|Easy|
 |767|Reorganize String|[Java](/Algorithms/Java/medium/0767_Reorganize_String_[Medium].java)|Medium|
+|769|Max Chunks To Make Sorted|[Java](/Algorithms/Java/medium/0769_Max_Chunks_To_Make_Sorted_[Medium].java)|Medium|
 |771|Jewels and Stones|[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
 |775|Global and Local Inversions|[Java](/Algorithms/Java/medium/0775_Global_and_Local_Inversions_[Medium].java)|Medium|
 |783|Minimum Distance Between BST Nodes|[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
