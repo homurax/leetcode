@@ -338,6 +338,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
+|641|Design Circular Deque|[Java](/Algorithms/Java/medium/0641_Design_Circular_Deque_[Medium].java)|Medium|
 |643|Maximum Average Subarray I|[Java](/Algorithms/Java/easy/0643_Maximum_Average_Subarray_I_[Easy].java)|Easy|
 |645|Set Mismatch|[Java](/Algorithms/Java/easy/0645_Set_Mismatch_[Easy].java)|Easy|
 |646|Maximum Length of Pair Chain|[Java](/Algorithms/Java/medium/0646_Maximum_Length_of_Pair_Chain_[Medium].java)|Medium|
