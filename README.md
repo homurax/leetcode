@@ -558,6 +558,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1043|Partition Array for Maximum Sum|[Java](/Algorithms/Java/medium/1043_Partition_Array_for_Maximum_Sum_[Medium].java)|Medium|
 |1046|Last Stone Weight|[Java](/Algorithms/Java/easy/1046_Last_Stone_Weight_[Easy].java)|Easy|
 |1047|Remove All Adjacent Duplicates In String|[Java](/Algorithms/Java/easy/1047_Remove_All_Adjacent_Duplicates_In_String_[Easy].java)|Easy|
+|1048|Longest String Chain|[Java](/Algorithms/Java/medium/1048_Longest_String_Chain_[Medium].java)|Medium|
 |1049|Last Stone Weight II|[Java](/Algorithms/Java/medium/1049_Last_Stone_Weight_II_[Medium].java)|Medium|
 |1051|Height Checker|[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
 |1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
