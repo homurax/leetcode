@@ -678,6 +678,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1367|Linked List in Binary Tree|[Java](/Algorithms/Java/medium/1367_Linked_List_in_Binary_Tree_[Medium].java)|Medium|
 |1370|Increasing Decreasing String|[Java](/Algorithms/Java/easy/1370_Increasing_Decreasing_String_[Easy].java)|Easy|
 |1371|Find the Longest Substring Containing Vowels in Even Counts|[Java](/Algorithms/Java/medium/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts_[Medium].java)|Medium|
+|1372|Longest ZigZag Path in a Binary Tree|[Java](/Algorithms/Java/medium/1372_Longest_ZigZag_Path_in_a_Binary_Tree_[Medium].java)|Medium|
 |1374|Generate a String With Characters That Have Odd Counts|[Java](/Algorithms/Java/easy/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts_[Easy].java)|Easy|
 |1375|Bulb Switcher III|[Java](/Algorithms/Java/medium/1375_Bulb_Switcher_III_[Medium].java)|Medium|
 |1376|Time Needed to Inform All Employees|[Java](/Algorithms/Java/medium/1376_Time_Needed_to_Inform_All_Employees_[Medium].java)|Medium|
