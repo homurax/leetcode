@@ -99,6 +99,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |93|Restore IP Addresses|[Java](/Algorithms/Java/medium/0093_Restore_IP_Addresses_[Medium].java)|Medium|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
 |95|Unique Binary Search Trees II|[Java](/Algorithms/Java/medium/0095_Unique_Binary_Search_Trees_II_[Medium].java)|Medium|
+|96|Unique Binary Search Trees|[Java](/Algorithms/Java/medium/0096_Unique_Binary_Search_Trees_[Medium].java)|Medium|
 |100|Same Tree|[Java](/Algorithms/Java/easy/0100_Same_Tree_[Easy].java)|Easy|
 |101|Symmetric Tree|[Java](/Algorithms/Java/easy/0101_Symmetric_Tree_[Easy].java)|Easy|
 |102|Binary Tree Level Order Traversal|[Java](/Algorithms/Java/medium/0102_Binary_Tree_Level_Order_Traversal_[Medium].java)|Medium|
