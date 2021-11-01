@@ -650,6 +650,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|[Java](/Algorithms/Java/easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers_[Easy].java)|Easy|
 |1318|Minimum Flips to Make a OR b Equal to c|[Java](/Algorithms/Java/medium/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_[Medium].java)|Medium|
+|1319|Number of Operations to Make Network Connected|[Java](/Algorithms/Java/medium/1319_Number_of_Operations_to_Make_Network_Connected_[Medium].java)|Medium|
 |1323|Maximum 69 Number|[Java](/Algorithms/Java/easy/1323_Maximum_69_Number_[Easy].java)|Easy|
 |1324|Print Words Vertically|[Java](/Algorithms/Java/medium/1324_Print_Words_Vertically_[Medium].java)|Medium|
 |1325|Delete Leaves With a Given Value|[Java](/Algorithms/Java/medium/1325_Delete_Leaves_With_a_Given_Value_[Medium].java)|Medium|
