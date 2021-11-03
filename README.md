@@ -725,6 +725,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
 |1450|Number of Students Doing Homework at a Given Time|[Java](/Algorithms/Java/easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time_[Easy].java)|Easy|
 |1451|Rearrange Words in a Sentence|[Java](/Algorithms/Java/medium/1451_Rearrange_Words_in_a_Sentence_[Medium].java)|Medium|
+|1452|People Whose List of Favorite Companies Is Not a Subset of Another List|[Java](/Algorithms/Java/medium/1452_People_Whose_List_of_Favorite_Companies_Is_Not_a_Subset_of_Another_List_[Medium].java)|Medium|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|[Java](/Algorithms/Java/easy/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence_[Easy].java)|Easy|
 |1456|Maximum Number of Vowels in a Substring of Given Length|[Java](/Algorithms/Java/medium/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length_[Medium].java)|Medium|
 |1457|Pseudo-Palindromic Paths in a Binary Tree|[Java](/Algorithms/Java/medium/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree_[Medium].java)|Medium|
