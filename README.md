@@ -228,6 +228,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |380|Insert Delete GetRandom O(1)|[Java](/Algorithms/Java/medium/0380_Insert_Delete_GetRandom_O(1)_[Medium].java)|Medium|
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
+|384|Shuffle an Array|[Java](/Algorithms/Java/medium/0384_Shuffle_an_Array_[Medium].java)|Medium|
 |386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
