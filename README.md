@@ -121,6 +121,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |121|Best Time to Buy and Sell Stock|[Java](/Algorithms/Java/easy/0121_Best_Time_to_Buy_and_Sell_Stock_[Easy].java)|Easy|
 |122|Best Time to Buy and Sell Stock II|[Java](/Algorithms/Java/easy/0122_Best_Time_to_Buy_and_Sell_Stock_II_[Easy].java)|Easy|
 |129|Sum Root to Leaf Numbers|[Java](/Algorithms/Java/medium/0129_Sum_Root_to_Leaf_Numbers_[Medium].java)|Medium|
+|131|Palindrome Partitioning|[Java](/Algorithms/Java/medium/0131_Palindrome_Partitioning_[Medium].java)|Medium|
 |133|Clone Graph|[Java](/Algorithms/Java/medium/0133_Clone_Graph_[Medium].java)|Medium|
 |134|Gas Station|[Java](/Algorithms/Java/medium/0134_Gas_Station_[Medium].java)|Medium|
 |136|Single Number|[Java](/Algorithms/Java/easy/0136_Single_Number_[Easy].java)|Easy|
