@@ -443,6 +443,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |842|Split Array into Fibonacci Sequence|[Java](/Algorithms/Java/medium/0842_Split_Array_into_Fibonacci_Sequence_[Medium].java)|Medium|
 |844|Backspace String Compare|[Java](/Algorithms/Java/easy/0844_Backspace_String_Compare_[Easy].java)|Easy|
 |845|Longest Mountain in Array|[Java](/Algorithms/Java/medium/0845_Longest_Mountain_in_Array_[Medium].java)|Medium|
+|846|Hand of Straights|[Java](/Algorithms/Java/medium/0846_Hand_of_Straights_[Medium].java)|Medium|
 |848|Shifting Letters|[Java](/Algorithms/Java/easy/0848_Shifting_Letters_[Easy].java)|Easy|
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
 |852|Peak Index in a Mountain Array|[Java](/Algorithms/Java/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
