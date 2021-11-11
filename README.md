@@ -800,6 +800,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
 |1738|Find Kth Largest XOR Coordinate Value|[Java](/Algorithms/Java/medium/1738_Find_Kth_Largest_XOR_Coordinate_Value_[Medium].java)|Medium|
 |1743|Restore the Array From Adjacent Pairs|[Java](/Algorithms/Java/medium/1743_Restore_the_Array_From_Adjacent_Pairs_[Medium].java)|Medium|
+|1749|Maximum Absolute Sum of Any Subarray|[Java](/Algorithms/Java/medium/1749_Maximum_Absolute_Sum_of_Any_Subarray_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1753|Maximum Score From Removing Stones|[Java](/Algorithms/Java/medium/1753_Maximum_Score_From_Removing_Stones_[Medium].java)|Medium|
 |1754|Largest Merge Of Two Strings|[Java](/Algorithms/Java/medium/1754_Largest_Merge_Of_Two_Strings_[Medium].java)|Medium|
