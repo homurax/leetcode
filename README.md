@@ -725,6 +725,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1438|Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|[Java](/Algorithms/Java/medium/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit_[Medium].java)|Medium|
 |1441|Build an Array With Stack Operations|[Java](/Algorithms/Java/easy/1441_Build_an_Array_With_Stack_Operations_[Easy].java)|Easy|
 |1442|Count Triplets That Can Form Two Arrays of Equal XOR|[Java](/Algorithms/Java/medium/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR_[Medium].java)|Medium|
+|1443|Minimum Time to Collect All Apples in a Tree|[Java](/Algorithms/Java/medium/1443_Minimum_Time_to_Collect_All_Apples_in_a_Tree_[Medium].java)|Medium|
 |1446|Consecutive Characters|[Java](/Algorithms/Java/easy/1446_Consecutive_Characters_[Easy].java)|Easy|
 |1447|Simplified Fractions|[Java](/Algorithms/Java/medium/1447_Simplified_Fractions_[Medium].java)|Medium|
 |1448|Count Good Nodes in Binary Tree|[Java](/Algorithms/Java/medium/1448_Count_Good_Nodes_in_Binary_Tree_[Medium].java)|Medium|
