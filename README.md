@@ -402,6 +402,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |746|Min Cost Climbing Stairs|[Java](/Algorithms/Java/easy/0746_Min_Cost_Climbing_Stairs_[Easy].java)|Easy|
 |747|Largest Number At Least Twice of Others|[Java](/Algorithms/Java/easy/0747_Largest_Number_At_Least_Twice_of_Others_[Easy].java)|Easy|
 |748|Shortest Completing Word|[Java](/Algorithms/Java/easy/0748_Shortest_Completing_Word_[Easy].java)|Easy|
+|752|Open the Lock|[Java](/Algorithms/Java/medium/0752_Open_the_Lock_[Medium].java)|Medium|
 |754|Reach a Number|[Java](/Algorithms/Java/easy/0754_Reach_a_Number_[Easy].java)|Easy|
 |762|Prime Number of Set Bits in Binary Representation|[Java](/Algorithms/Java/easy/0762_Prime_Number_of_Set_Bits_in_Binary_Representation_[Easy].java)|Easy|
 |763|Partition Labels|[Java](/Algorithms/Java/medium/0763_Partition_Labels_[Medium].java)|Medium|
