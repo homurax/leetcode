@@ -788,6 +788,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1630|Arithmetic Subarrays|[Java](/Algorithms/Java/medium/1630_Arithmetic_Subarrays_[Medium].java)|Medium|
 |1641|Count Sorted Vowel Strings|[Java](/Algorithms/Java/medium/1641_Count_Sorted_Vowel_Strings_[Medium].java)|Medium|
 |1647|Minimum Deletions to Make Character Frequencies Unique|[Java](/Algorithms/Java/medium/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique_[Medium].java)|Medium|
+|1657|Determine if Two Strings Are Close|[Java](/Algorithms/Java/medium/1657_Determine_if_Two_Strings_Are_Close_[Medium].java)|Medium|
 |1663|Smallest String With A Given Numeric Value|[Java](/Algorithms/Java/medium/1663_Smallest_String_With_A_Given_Numeric_Value_[Medium].java)|Medium|
 |1664|Ways to Make a Fair Array|[Java](/Algorithms/Java/medium/1664_Ways_to_Make_a_Fair_Array_[Medium].java)|Medium|
 |1669|Merge In Between Linked Lists|[Java](/Algorithms/Java/medium/1669_Merge_In_Between_Linked_Lists_[Medium].java)|Medium|
