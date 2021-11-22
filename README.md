@@ -709,6 +709,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1401|Circle and Rectangle Overlapping|[Java](/Algorithms/Java/medium/1401_Circle_and_Rectangle_Overlapping_[Medium].java)|Medium|
 |1403|Minimum Subsequence in Non-Increasing Order|[Java](/Algorithms/Java/easy/1403_Minimum_Subsequence_in_Non-Increasing_Order_[Easy].java)|Easy|
 |1404|Number of Steps to Reduce a Number in Binary Representation to One|[Java](/Algorithms/Java/medium/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One_[Medium].java)|Medium|
+|1405|Longest Happy String|[Java](/Algorithms/Java/medium/1405_Longest_Happy_String_[Medium].java)|Medium|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
