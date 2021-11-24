@@ -832,5 +832,6 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
 |1901|Find a Peak Element II|[Java](/Algorithms/Java/medium/1901_Find_a_Peak_Element_II_[Medium].java)|Medium|
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
+|1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
