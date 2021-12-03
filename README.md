@@ -441,6 +441,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |826|Most Profit Assigning Work|[Java](/Algorithms/Java/medium/0826_Most_Profit_Assigning_Work_[Medium].java)|Medium|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
 |832|Flipping an Image|[Java](/Algorithms/Java/easy/0832_Flipping_an_Image_[Easy].java)|Easy|
+|833|Find And Replace in String|[Java](/Algorithms/Java/medium/0833_Find_And_Replace_in_String_[Medium].java)|Medium|
 |836|Rectangle Overlap|[Java](/Algorithms/Java/easy/0836_Rectangle_Overlap_[Easy].java)|Easy|
 |838|Push Dominoes|[Java](/Algorithms/Java/medium/0838_Push_Dominoes_[Medium].java)|Medium|
 |841|Keys and Rooms|[Java](/Algorithms/Java/medium/0841_Keys_and_Rooms_[Medium].java)|Medium|
