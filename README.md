@@ -803,6 +803,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1679|Max Number of K-Sum Pairs|[Java](/Algorithms/Java/medium/1679_Max_Number_of_K-Sum_Pairs_[Medium].java)|Medium|
 |1685|Sum of Absolute Differences in a Sorted Array|[Java](/Algorithms/Java/medium/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array_[Medium].java)|Medium|
+|1686|Stone Game VI|[Java](/Algorithms/Java/medium/1686_Stone_Game_VI_[Medium].java)|Medium|
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
