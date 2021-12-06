@@ -500,6 +500,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |933|Number of Recent Calls|[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
 |937|Reorder Data in Log Files|[Java](/Algorithms/Java/easy/0937_Reorder_Data_in_Log_Files_[Easy].java)|Easy|
 |938|Range Sum of BST|[Java](/Algorithms/Java/easy/0938_Range_Sum_of_BST_[Easy].java), [Python](/Algorithms/Python/easy/0938_Range_Sum_of_BST_[Easy].py)|Easy|
+|939|Minimum Area Rectangle|[Java](/Algorithms/Java/medium/0939_Minimum_Area_Rectangle_[Medium].java)|Medium|
 |941|Valid Mountain Array|[Java](/Algorithms/Java/easy/0941_Valid_Mountain_Array_[Easy].java)|Easy|
 |942|DI String Match|[Java](/Algorithms/Java/easy/0942_DI_String_Match_[Easy].java)|Easy|
 |944|Delete Columns to Make Sorted|[Java](/Algorithms/Java/easy/0944_Delete_Columns_to_Make_Sorted_[Easy].java)|Easy|
