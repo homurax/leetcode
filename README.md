@@ -803,6 +803,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1670|Design Front Middle Back Queue|[Java](/Algorithms/Java/medium/1670_Design_Front_Middle_Back_Queue_[Medium].java)|Medium|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1679|Max Number of K-Sum Pairs|[Java](/Algorithms/Java/medium/1679_Max_Number_of_K-Sum_Pairs_[Medium].java)|Medium|
+|1680|Concatenation of Consecutive Binary Numbers|[Java](/Algorithms/Java/medium/1680_Concatenation_of_Consecutive_Binary_Numbers_[Medium].java)|Medium|
 |1685|Sum of Absolute Differences in a Sorted Array|[Java](/Algorithms/Java/medium/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array_[Medium].java)|Medium|
 |1686|Stone Game VI|[Java](/Algorithms/Java/medium/1686_Stone_Game_VI_[Medium].java)|Medium|
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|

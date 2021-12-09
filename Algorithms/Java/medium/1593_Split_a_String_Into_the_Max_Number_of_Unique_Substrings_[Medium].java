@@ -47,9 +47,6 @@ public class SplitAStringIntoTheMaxNumberOfUniqueSubstrings {
     private void backtrack(int index, int split, String s, Set<String> set) {
         if (index == s.length()) {
             max = Math.max(max, split);
-            if (max == 11) {
-                System.out.println(set);
-            }
             return;
         }
         for (int i = index; i < s.length(); i++) {
