@@ -790,6 +790,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1589|Maximum Sum Obtained of Any Permutation|[Java](/Algorithms/Java/medium/1589_Maximum_Sum_Obtained_of_Any_Permutation_[Medium].java)|Medium|
 |1593|Split a String Into the Max Number of Unique Substrings|[Java](/Algorithms/Java/medium/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings_[Medium].java)|Medium|
 |1605|Find Valid Matrix Given Row and Column Sums|[Java](/Algorithms/Java/medium/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums_[Medium].java)|Medium|
+|1609|Even Odd Tree|[Java](/Algorithms/Java/medium/1609_Even_Odd_Tree_[Medium].java)|Medium|
 |1616|Split Two Strings to Make Palindrome|[Java](/Algorithms/Java/medium/1616_Split_Two_Strings_to_Make_Palindrome_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
 |1630|Arithmetic Subarrays|[Java](/Algorithms/Java/medium/1630_Arithmetic_Subarrays_[Medium].java)|Medium|
