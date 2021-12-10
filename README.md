@@ -574,6 +574,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1049|Last Stone Weight II|[Java](/Algorithms/Java/medium/1049_Last_Stone_Weight_II_[Medium].java)|Medium|
 |1051|Height Checker|[Java](/Algorithms/Java/easy/1051_Height_Checker_[Easy].java)|Easy|
 |1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
+|1053|Previous Permutation With One Swap|[Java](/Algorithms/Java/medium/1053_Previous_Permutation_With_One_Swap_[Medium].java)|Medium|
 |1054|Distant Barcodes|[Java](/Algorithms/Java/medium/1054_Distant_Barcodes_[Medium].java)|Medium|
 |1071|Greatest Common Divisor of Strings|[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
 |1072|Flip Columns For Maximum Number of Equal Rows|[Java](/Algorithms/Java/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
