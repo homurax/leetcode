@@ -810,6 +810,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1685|Sum of Absolute Differences in a Sorted Array|[Java](/Algorithms/Java/medium/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array_[Medium].java)|Medium|
 |1686|Stone Game VI|[Java](/Algorithms/Java/medium/1686_Stone_Game_VI_[Medium].java)|Medium|
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|
+|1695|Maximum Erasure Value|[Java](/Algorithms/Java/medium/1695_Maximum_Erasure_Value_[Medium].java)|Medium|
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
