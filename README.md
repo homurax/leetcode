@@ -649,6 +649,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1288|Remove Covered Intervals|[Java](/Algorithms/Java/medium/1288_Remove_Covered_Intervals_[Medium].java)|Medium|
 |1290|Convert Binary Number in a Linked List to Integer|[Java](/Algorithms/Java/easy/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer_[Easy].java)|Easy|
 |1291|Sequential Digits|[Java](/Algorithms/Java/medium/1291_Sequential_Digits_[Medium].java)|Medium|
+|1292|Maximum Side Length of a Square with Sum Less than or Equal to Threshold|[Java](/Algorithms/Java/medium/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold_[Medium].java)|Medium|
 |1295|Find Numbers with Even Number of Digits|[Java](/Algorithms/Java/easy/1295_Find_Numbers_with_Even_Number_of_Digits_[Easy].java)|Easy|
 |1296|Divide Array in Sets of K Consecutive Numbers|[Java](/Algorithms/Java/medium/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers_[Medium].java)|Medium|
 |1297|Maximum Number of Occurrences of a Substring|[Java](/Algorithms/Java/medium/1297_Maximum_Number_of_Occurrences_of_a_Substring_[Medium].java)|Medium|
