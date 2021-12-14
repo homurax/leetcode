@@ -498,6 +498,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |930|Binary Subarrays With Sum|[Java](/Algorithms/Java/medium/0930_Binary_Subarrays_With_Sum_[Medium].java)|Medium|
 |931|Minimum Falling Path Sum|[Java](/Algorithms/Java/medium/0931_Minimum_Falling_Path_Sum_[Medium].java)|Medium|
 |933|Number of Recent Calls|[Java](/Algorithms/Java/easy/0933_Number_of_Recent_Calls_[Easy].java)|Easy|
+|934|Shortest Bridge|[Java](/Algorithms/Java/medium/0934_Shortest_Bridge_[Medium].java)|Medium|
 |937|Reorder Data in Log Files|[Java](/Algorithms/Java/easy/0937_Reorder_Data_in_Log_Files_[Easy].java)|Easy|
 |938|Range Sum of BST|[Java](/Algorithms/Java/easy/0938_Range_Sum_of_BST_[Easy].java), [Python](/Algorithms/Python/easy/0938_Range_Sum_of_BST_[Easy].py)|Easy|
 |939|Minimum Area Rectangle|[Java](/Algorithms/Java/medium/0939_Minimum_Area_Rectangle_[Medium].java)|Medium|
