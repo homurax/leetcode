@@ -834,6 +834,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
 |1780|Check if Number is a Sum of Powers of Three|[Java](/Algorithms/Java/medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three_[Medium].java)|Medium|
 |1781|Sum of Beauty of All Substrings|[Java](/Algorithms/Java/medium/1781_Sum_of_Beauty_of_All_Substrings_[Medium].java)|Medium|
+|1797|Design Authentication Manager|[Java](/Algorithms/Java/medium/1797_Design_Authentication_Manager_[Medium].java)|Medium|
 |1807|Evaluate the Bracket Pairs of a String|[Java](/Algorithms/Java/medium/1807_Evaluate_the_Bracket_Pairs_of_a_String_[Medium].java)|Medium|
 |1817|Finding the Users Active Minutes|[Java](/Algorithms/Java/medium/1817_Finding_the_Users_Active_Minutes_[Medium].java)|Medium|
 |1823|Find the Winner of the Circular Game|[Java](/Algorithms/Java/medium/1823_Find_the_Winner_of_the_Circular_Game_[Medium].java)|Medium|
