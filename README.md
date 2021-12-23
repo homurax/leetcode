@@ -371,6 +371,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |684|Redundant Connection|[Java](/Algorithms/Java/medium/0684_Redundant_Connection_[Medium].java)|Medium|
 |686|Repeated String Match|[Java](/Algorithms/Java/easy/0686_Repeated_String_Match_[Easy].java)|Easy|
 |687|Longest Univalue Path|[Java](/Algorithms/Java/easy/0687_Longest_Univalue_Path_[Easy].java)|Easy|
+|688|Knight Probability in Chessboard|[Java](/Algorithms/Java/medium/0688_Knight_Probability_in_Chessboard_[Medium].java)|Medium|
 |690|Employee Importance|[Java](/Algorithms/Java/easy/0690_Employee_Importance_[Easy].java)|Easy|
 |692|Top K Frequent Words|[Java](/Algorithms/Java/medium/0692_Top_K_Frequent_Words_[Medium].java)|Medium|
 |693|Binary Number with Alternating Bits|[Java](/Algorithms/Java/easy/0693_Binary_Number_with_Alternating_Bits_[Easy].java)|Easy|
