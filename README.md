@@ -834,6 +834,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1764|Form Array by Concatenating Subarrays of Another Array|[Java](/Algorithms/Java/medium/1764_Form_Array_by_Concatenating_Subarrays_of_Another_Array_[Medium].java)|Medium|
 |1765|Map of Highest Peak|[Java](/Algorithms/Java/medium/1765_Map_of_Highest_Peak_[Medium].java)|Medium|
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
+|1775|Equal Sum Arrays With Minimum Number of Operations|[Java](/Algorithms/Java/medium/1775_Equal_Sum_Arrays_With_Minimum_Number_of_Operations_[Medium].java)|Medium|
 |1780|Check if Number is a Sum of Powers of Three|[Java](/Algorithms/Java/medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three_[Medium].java)|Medium|
 |1781|Sum of Beauty of All Substrings|[Java](/Algorithms/Java/medium/1781_Sum_of_Beauty_of_All_Substrings_[Medium].java)|Medium|
 |1797|Design Authentication Manager|[Java](/Algorithms/Java/medium/1797_Design_Authentication_Manager_[Medium].java)|Medium|
