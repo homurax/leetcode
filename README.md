@@ -599,6 +599,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1123|Lowest Common Ancestor of Deepest Leaves|[Java](/Algorithms/Java/medium/1123_Lowest_Common_Ancestor_of_Deepest_Leaves_[Medium].java)|Medium|
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
+|1131|Maximum of Absolute Value Expression|[Java](/Algorithms/Java/medium/1131_Maximum_of_Absolute_Value_Expression_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
 |1138|Alphabet Board Path|[Java](/Algorithms/Java/medium/1138_Alphabet_Board_Path_[Medium].java)|Medium|
 |1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
