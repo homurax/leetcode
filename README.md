@@ -644,6 +644,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1267|Count Servers that Communicate|[Java](/Algorithms/Java/medium/1267_Count_Servers_that_Communicate_[Medium].java)|Medium|
 |1268|Search Suggestions System|[Java](/Algorithms/Java/medium/1268_Search_Suggestions_System_[Medium].java)|Medium|
 |1275|Find Winner on a Tic Tac Toe Game|[Java](/Algorithms/Java/easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game_[Easy].java)|Easy|
+|1276|Number of Burgers with No Waste of Ingredients|[Java](/Algorithms/Java/medium/1276_Number_of_Burgers_with_No_Waste_of_Ingredients_[Medium].java)|Medium|
 |1277|Count Square Submatrices with All Ones|[Java](/Algorithms/Java/medium/1277_Count_Square_Submatrices_with_All_Ones_[Medium].java)|Medium|
 |1281|Subtract the Product and Sum of Digits of an Integer|[Java](/Algorithms/Java/easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_[Easy].java)|Easy|
 |1282|Group the People Given the Group Size They Belong To|[Java](/Algorithms/Java/medium/1282_Group_the_People_Given_the_Group_Size_They_Belong_To_[Medium].java)|Medium|
