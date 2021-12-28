@@ -822,6 +822,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
+|1718|Construct the Lexicographically Largest Valid Sequence|[Java](/Algorithms/Java/medium/1718_Construct_the_Lexicographically_Largest_Valid_Sequence_[Medium].java)|Medium|
 |1721|Swapping Nodes in a Linked List|[Java](/Algorithms/Java/medium/1721_Swapping_Nodes_in_a_Linked_List_[Medium].java)|Medium|
 |1726|Tuple with Same Product|[Java](/Algorithms/Java/medium/1726_Tuple_with_Same_Product_[Medium].java)|Medium|
 |1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
