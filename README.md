@@ -841,6 +841,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1775|Equal Sum Arrays With Minimum Number of Operations|[Java](/Algorithms/Java/medium/1775_Equal_Sum_Arrays_With_Minimum_Number_of_Operations_[Medium].java)|Medium|
 |1780|Check if Number is a Sum of Powers of Three|[Java](/Algorithms/Java/medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three_[Medium].java)|Medium|
 |1781|Sum of Beauty of All Substrings|[Java](/Algorithms/Java/medium/1781_Sum_of_Beauty_of_All_Substrings_[Medium].java)|Medium|
+|1792|Maximum Average Pass Ratio|[Java](/Algorithms/Java/medium/1792_Maximum_Average_Pass_Ratio_[Medium].java)|Medium|
 |1797|Design Authentication Manager|[Java](/Algorithms/Java/medium/1797_Design_Authentication_Manager_[Medium].java)|Medium|
 |1798|Maximum Number of Consecutive Values You Can Make|[Java](/Algorithms/Java/medium/1798_Maximum_Number_of_Consecutive_Values_You_Can_Make_[Medium].java)|Medium|
 |1807|Evaluate the Bracket Pairs of a String|[Java](/Algorithms/Java/medium/1807_Evaluate_the_Bracket_Pairs_of_a_String_[Medium].java)|Medium|
