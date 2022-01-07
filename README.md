@@ -603,6 +603,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1131|Maximum of Absolute Value Expression|[Java](/Algorithms/Java/medium/1131_Maximum_of_Absolute_Value_Expression_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
 |1138|Alphabet Board Path|[Java](/Algorithms/Java/medium/1138_Alphabet_Board_Path_[Medium].java)|Medium|
+|1139|Largest 1-Bordered Square|[Java](/Algorithms/Java/medium/1139_Largest_1-Bordered_Square_[Medium].java)|Medium|
 |1140|Stone Game II|[Java](/Algorithms/Java/medium/1140_Stone_Game_II_[Medium].java)|Medium|
 |1143|Longest Common Subsequence|[Java](/Algorithms/Java/medium/1143_Longest_Common_Subsequence_[Medium].java)|Medium|
 |1144|Decrease Elements To Make Array Zigzag|[Java](/Algorithms/Java/medium/1144_Decrease_Elements_To_Make_Array_Zigzag_[Medium].java)|Medium|
