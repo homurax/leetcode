@@ -870,4 +870,5 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
 |2024|Maximize the Confusion of an Exam|[Java](/Algorithms/Java/medium/2024_Maximize_the_Confusion_of_an_Exam_[Medium].java)|Medium|
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[Java](/Algorithms/Java/medium/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color_[Medium].java)|Medium|
+|2055|Plates Between Candles|[Java](/Algorithms/Java/medium/2055_Plates_Between_Candles_[Medium].java)|Medium|
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
