@@ -69,9 +69,6 @@ public class PlatesBetweenCandles {
                 ans[i] = plates[r] - plates[l];
             }
         }
-        System.out.println(Arrays.toString(leftCandles));
-        System.out.println(Arrays.toString(rightCandles));
-        System.out.println(Arrays.toString(plates));
         return ans;
     }
 
