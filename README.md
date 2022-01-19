@@ -855,6 +855,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1833|Maximum Ice Cream Bars|[Java](/Algorithms/Java/medium/1833_Maximum_Ice_Cream_Bars_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
 |1846|Maximum Element After Decreasing and Rearranging|[Java](/Algorithms/Java/medium/1846_Maximum_Element_After_Decreasing_and_Rearranging_[Medium].java)|Medium|
+|1855|Maximum Distance Between a Pair of Values|[Java](/Algorithms/Java/medium/1855_Maximum_Distance_Between_a_Pair_of_Values_[Medium].java)|Medium|
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
 |1860|Incremental Memory Leak|[Java](/Algorithms/Java/medium/1860_Incremental_Memory_Leak_[Medium].java)|Medium|
 |1861|Rotating the Box|[Java](/Algorithms/Java/medium/1861_Rotating_the_Box_[Medium].java)|Medium|
