@@ -137,6 +137,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |144|Binary Tree Preorder Traversal|[Java](/Algorithms/Java/medium/0144_Binary_Tree_Preorder_Traversal_[Medium].java)|Medium|
 |145|Binary Tree Postorder Traversal|[Java](/Algorithms/Java/medium/0145_Binary_Tree_Postorder_Traversal_[Medium].java)|Medium|
 |146|LRU Cache|[Java](/Algorithms/Java/medium/0146_LRU_Cache_[Medium].java)|Medium|
+|147|Insertion Sort List|[Java](/Algorithms/Java/medium/0147_Insertion_Sort_List_[Medium].java)|Medium|
 |148|Sort List|[Java](/Algorithms/Java/medium/0148_Sort_List_[Medium].java)|Medium|
 |150|Evaluate Reverse Polish Notation|[Java](/Algorithms/Java/medium/0150_Evaluate_Reverse_Polish_Notation_[Medium].java)|Medium|
 |153|Find Minimum in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0153_Find_Minimum_in_Rotated_Sorted_Array_[Medium].java)|Medium|
