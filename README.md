@@ -871,6 +871,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1930|Unique Length-3 Palindromic Subsequences|[Java](/Algorithms/Java/medium/1930_Unique_Length-3_Palindromic_Subsequences_[Medium].java)|Medium|
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
+|1968|Array With Elements Not Equal to Average of Neighbors|[Java](/Algorithms/Java/medium/1968_Array_With_Elements_Not_Equal_to_Average_of_Neighbors_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
