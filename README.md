@@ -517,6 +517,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |945|Minimum Increment to Make Array Unique|[Java](/Algorithms/Java/medium/0945_Minimum_Increment_to_Make_Array_Unique_[Medium].java)|Medium|
 |946|Validate Stack Sequences|[Java](/Algorithms/Java/medium/0946_Validate_Stack_Sequences_[Medium].java)|Medium|
 |947|Most Stones Removed with Same Row or Column|[Java](/Algorithms/Java/medium/0947_Most_Stones_Removed_with_Same_Row_or_Column_[Medium].java)|Medium|
+|948|Bag of Tokens|[Java](/Algorithms/Java/medium/0948_Bag_of_Tokens_[Medium].java)|Medium|
 |949|Largest Time for Given Digits|[Java](/Algorithms/Java/easy/0949_Largest_Time_for_Given_Digits_[Easy].java)|Easy|
 |950|Reveal Cards In Increasing Order|[Java](/Algorithms/Java/medium/0950_Reveal_Cards_In_Increasing_Order_[Medium].java)|Medium|
 |951|Flip Equivalent Binary Trees|[Java](/Algorithms/Java/medium/0951_Flip_Equivalent_Binary_Trees_[Medium].java)|Medium|
