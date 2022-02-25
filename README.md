@@ -797,6 +797,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1536|Minimum Swaps to Arrange a Binary Grid|[Java](/Algorithms/Java/medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid_[Medium].java)|Medium|
 |1541|Minimum Insertions to Balance a Parentheses String|[Java](/Algorithms/Java/medium/1541_Minimum_Insertions_to_Balance_a_Parentheses_String_[Medium].java)|Medium|
 |1545|Find Kth Bit in Nth Binary String|[Java](/Algorithms/Java/medium/1545_Find_Kth_Bit_in_Nth_Binary_String_[Medium].java)|Medium|
+|1546|Maximum Number of Non-Overlapping Subarrays With Sum Equals Target|[Java](/Algorithms/Java/medium/1546_Maximum_Number_of_Non-Overlapping_Subarrays_With_Sum_Equals_Target_[Medium].java)|Medium|
 |1551|Minimum Operations to Make Array Equal|[Java](/Algorithms/Java/medium/1551_Minimum_Operations_to_Make_Array_Equal_[Medium].java)|Medium|
 |1552|Magnetic Force Between Two Balls|[Java](/Algorithms/Java/medium/1552_Magnetic_Force_Between_Two_Balls_[Medium].java)|Medium|
 |1557|Minimum Number of Vertices to Reach All Nodes|[Java](/Algorithms/Java/medium/1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes_[Medium].java)|Medium|
