@@ -888,6 +888,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |2033|Minimum Operations to Make a Uni-Value Grid|[Java](/Algorithms/Java/medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid_[Medium].java)|Medium|
 |2034|Stock Price Fluctuation|[Java](/Algorithms/Java/medium/2034_Stock_Price_Fluctuation_[Medium].java)|Medium|
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[Java](/Algorithms/Java/medium/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color_[Medium].java)|Medium|
+|2049|Count Nodes With the Highest Score|[Java](/Algorithms/Java/medium/2049_Count_Nodes_With_the_Highest_Score_[Medium].java)|Medium|
 |2055|Plates Between Candles|[Java](/Algorithms/Java/medium/2055_Plates_Between_Candles_[Medium].java)|Medium|
 |2070|Most Beautiful Item for Each Query|[Java](/Algorithms/Java/medium/2070_Most_Beautiful_Item_for_Each_Query_[Medium].java)|Medium|
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
