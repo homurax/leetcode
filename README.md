@@ -143,6 +143,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |153|Find Minimum in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0153_Find_Minimum_in_Rotated_Sorted_Array_[Medium].java)|Medium|
 |155|Min Stack|[Java](/Algorithms/Java/easy/0155_Min_Stack_[Easy].java)|Easy|
 |160|Intersection of Two Linked Lists|[Java](/Algorithms/Java/easy/0160_Intersection_of_Two_Linked_Lists_[Easy].java)|Easy|
+|162|Find Peak Element|[Java](/Algorithms/Java/medium/0162_Find_Peak_Element_[Medium].java)|Medium|
 |167|Two Sum II - Input array is sorted|[Java](/Algorithms/Java/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
 |168|Excel Sheet Column Title|[Java](/Algorithms/Java/easy/0168_Excel_Sheet_Column_Title_[Easy].java)|Easy|
 |169|Majority Element|[Java](/Algorithms/Java/easy/0169_Majority_Element_[Easy].java)|Easy|
