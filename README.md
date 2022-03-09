@@ -363,6 +363,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |654|Maximum Binary Tree|[Java](/Algorithms/Java/medium/0654_Maximum_Binary_Tree_[Medium].java)|Medium|
 |657|Robot Return to Origin|[Java](/Algorithms/Java/easy/0657_Robot_Return_to_Origin_[Easy].java)|Easy|
 |658|Find K Closest Elements|[Java](/Algorithms/Java/medium/0658_Find_K_Closest_Elements_[Medium].java)|Medium|
+|659|Split Array into Consecutive Subsequences|[Java](/Algorithms/Java/medium/0659_Split_Array_into_Consecutive_Subsequences_[Medium].java)|Medium|
 |661|Image Smoother|[Java](/Algorithms/Java/easy/0661_Image_Smoother_[Easy].java)|Easy|
 |662|Maximum Width of Binary Tree|[Java](/Algorithms/Java/medium/0662_Maximum_Width_of_Binary_Tree_[Medium].java)|Medium|
 |665|Non-decreasing Array|[Java](/Algorithms/Java/easy/0665_Non-decreasing_Array_[Easy].java)|Easy|
