@@ -1,10 +1,10 @@
 # LeetCode Note
 
-刷题记录。
+LeetCode 练习记录。
 
 ## Database
 
-数据库为`MySQL 5.7`。Markdown 文件命名对应 leetcode 中的序号及标题。
+数据库为 `MySQL 5.7`。Markdown 文件命名对应 leetcode 中的序号及标题。
 
 |  #  |     Title     |  Difficulty |
 |:---:|:--------------|:-----------:|
@@ -33,7 +33,7 @@
 
 ## Algorithms
 
-JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
+JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 
 |  #  |  Title  |  Solution  |  Difficulty  |
 |:---:|:--------|:-----------|:------------:|
@@ -878,6 +878,7 @@ JDK 版本为`1.8.0_144`。Python 版本为`3.8.0`。
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
 |1901|Find a Peak Element II|[Java](/Algorithms/Java/medium/1901_Find_a_Peak_Element_II_[Medium].java)|Medium|
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
+|1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
 |1927|Sum Game|[Java](/Algorithms/Java/medium/1927_Sum_Game_[Medium].java)|Medium|
 |1930|Unique Length-3 Palindromic Subsequences|[Java](/Algorithms/Java/medium/1930_Unique_Length-3_Palindromic_Subsequences_[Medium].java)|Medium|
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
