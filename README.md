@@ -812,6 +812,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1589|Maximum Sum Obtained of Any Permutation|[Java](/Algorithms/Java/medium/1589_Maximum_Sum_Obtained_of_Any_Permutation_[Medium].java)|Medium|
 |1593|Split a String Into the Max Number of Unique Substrings|[Java](/Algorithms/Java/medium/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings_[Medium].java)|Medium|
+|1603|Design Parking System|[Go](/Algorithms/Go/easy/1603_Design_Parking_System_[Easy].go)|Easy|
 |1605|Find Valid Matrix Given Row and Column Sums|[Java](/Algorithms/Java/medium/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums_[Medium].java)|Medium|
 |1609|Even Odd Tree|[Java](/Algorithms/Java/medium/1609_Even_Odd_Tree_[Medium].java)|Medium|
 |1616|Split Two Strings to Make Palindrome|[Java](/Algorithms/Java/medium/1616_Split_Two_Strings_to_Make_Palindrome_[Medium].java)|Medium|
@@ -826,6 +827,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1664|Ways to Make a Fair Array|[Java](/Algorithms/Java/medium/1664_Ways_to_Make_a_Fair_Array_[Medium].java)|Medium|
 |1669|Merge In Between Linked Lists|[Java](/Algorithms/Java/medium/1669_Merge_In_Between_Linked_Lists_[Medium].java)|Medium|
 |1670|Design Front Middle Back Queue|[Java](/Algorithms/Java/medium/1670_Design_Front_Middle_Back_Queue_[Medium].java)|Medium|
+|1672|Richest Customer Wealth|[Go](/Algorithms/Go/easy/1672_Richest_Customer_Wealth_[Easy].go)|Easy|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
 |1679|Max Number of K-Sum Pairs|[Java](/Algorithms/Java/medium/1679_Max_Number_of_K-Sum_Pairs_[Medium].java)|Medium|
 |1680|Concatenation of Consecutive Binary Numbers|[Java](/Algorithms/Java/medium/1680_Concatenation_of_Consecutive_Binary_Numbers_[Medium].java)|Medium|
@@ -837,6 +839,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
 |1718|Construct the Lexicographically Largest Valid Sequence|[Java](/Algorithms/Java/medium/1718_Construct_the_Lexicographically_Largest_Valid_Sequence_[Medium].java)|Medium|
+|1720|Decode XORed Array|[Go](/Algorithms/Go/easy/1720_Decode_XORed_Array_[Easy].go)|Easy|
 |1721|Swapping Nodes in a Linked List|[Java](/Algorithms/Java/medium/1721_Swapping_Nodes_in_a_Linked_List_[Medium].java)|Medium|
 |1726|Tuple with Same Product|[Java](/Algorithms/Java/medium/1726_Tuple_with_Same_Product_[Medium].java)|Medium|
 |1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
@@ -880,6 +883,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
 |1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
 |1927|Sum Game|[Java](/Algorithms/Java/medium/1927_Sum_Game_[Medium].java)|Medium|
+|1929|Concatenation of Array|[Go](/Algorithms/Go/easy/1929_Concatenation_of_Array_[Easy].go)|Easy|
 |1930|Unique Length-3 Palindromic Subsequences|[Java](/Algorithms/Java/medium/1930_Unique_Length-3_Palindromic_Subsequences_[Medium].java)|Medium|
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
@@ -887,6 +891,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
+|2011|Final Value of Variable After Performing Operations|[Go](/Algorithms/Go/easy/2011_Final_Value_of_Variable_After_Performing_Operations_[Easy].go)|Easy|
 |2012|Sum of Beauty in the Array|[Java](/Algorithms/Java/medium/2012_Sum_of_Beauty_in_the_Array_[Medium].java)|Medium|
 |2024|Maximize the Confusion of an Exam|[Java](/Algorithms/Java/medium/2024_Maximize_the_Confusion_of_an_Exam_[Medium].java)|Medium|
 |2033|Minimum Operations to Make a Uni-Value Grid|[Java](/Algorithms/Java/medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid_[Medium].java)|Medium|
@@ -900,5 +905,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2087|Minimum Cost Homecoming of a Robot in a Grid|[Java](/Algorithms/Java/medium/2087_Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid_[Medium].java)|Medium|
 |2096|Step-By-Step Directions From a Binary Tree Node to Another|[Java](/Algorithms/Java/medium/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another_[Medium].java)|Medium|
 |2100|Find Good Days to Rob the Bank|[Java](/Algorithms/Java/medium/2100_Find_Good_Days_to_Rob_the_Bank_[Medium].java)|Medium|
+|2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
+|2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
