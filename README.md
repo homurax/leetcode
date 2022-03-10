@@ -887,6 +887,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
+|2012|Sum of Beauty in the Array|[Java](/Algorithms/Java/medium/2012_Sum_of_Beauty_in_the_Array_[Medium].java)|Medium|
 |2024|Maximize the Confusion of an Exam|[Java](/Algorithms/Java/medium/2024_Maximize_the_Confusion_of_an_Exam_[Medium].java)|Medium|
 |2033|Minimum Operations to Make a Uni-Value Grid|[Java](/Algorithms/Java/medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid_[Medium].java)|Medium|
 |2034|Stock Price Fluctuation|[Java](/Algorithms/Java/medium/2034_Stock_Price_Fluctuation_[Medium].java)|Medium|
