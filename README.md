@@ -836,6 +836,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|
 |1695|Maximum Erasure Value|[Java](/Algorithms/Java/medium/1695_Maximum_Erasure_Value_[Medium].java)|Medium|
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
+|1702|Maximum Binary String After Change|[Go](/Algorithms/Go/medium/1702_Maximum_Binary_String_After_Change_[Medium].go), [Java](/Algorithms/Java/medium/1702_Maximum_Binary_String_After_Change_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
 |1718|Construct the Lexicographically Largest Valid Sequence|[Java](/Algorithms/Java/medium/1718_Construct_the_Lexicographically_Largest_Valid_Sequence_[Medium].java)|Medium|
@@ -902,7 +903,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2059|Minimum Operations to Convert Number|[Java](/Algorithms/Java/medium/2059_Minimum_Operations_to_Convert_Number_[Medium].java)|Medium|
 |2070|Most Beautiful Item for Each Query|[Java](/Algorithms/Java/medium/2070_Most_Beautiful_Item_for_Each_Query_[Medium].java)|Medium|
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
-|2086|Minimum Number of Buckets Required to Collect Rainwater from Houses|[Java](/Algorithms/Java/medium/2086_Minimum_Number_of_Buckets_Required_to_Collect_Rainwater_from_Houses_[Medium].java)|Medium|
+|2086|Minimum Number of Buckets Required to Collect Rainwater from Houses|[Go](/Algorithms/Go/medium/2086_Minimum_Number_of_Buckets_Required_to_Collect_Rainwater_from_Houses_[Medium].go), [Java](/Algorithms/Java/medium/2086_Minimum_Number_of_Buckets_Required_to_Collect_Rainwater_from_Houses_[Medium].java)|Medium|
 |2087|Minimum Cost Homecoming of a Robot in a Grid|[Java](/Algorithms/Java/medium/2087_Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid_[Medium].java)|Medium|
 |2096|Step-By-Step Directions From a Binary Tree Node to Another|[Java](/Algorithms/Java/medium/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another_[Medium].java)|Medium|
 |2100|Find Good Days to Rob the Bank|[Java](/Algorithms/Java/medium/2100_Find_Good_Days_to_Rob_the_Bank_[Medium].java)|Medium|
