@@ -793,6 +793,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1524|Number of Sub-arrays With Odd Sum|[Java](/Algorithms/Java/medium/1524_Number_of_Sub-arrays_With_Odd_Sum_[Medium].java)|Medium|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
+|1528|Shuffle String|[Go](/Algorithms/Go/easy/1528_Shuffle_String_[Easy].go)|Easy|
 |1529|Bulb Switcher IV|[Java](/Algorithms/Java/medium/1529_Bulb_Switcher_IV_[Medium].java)|Medium|
 |1530|Number of Good Leaf Nodes Pairs|[Java](/Algorithms/Java/medium/1530_Number_of_Good_Leaf_Nodes_Pairs_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
@@ -829,6 +830,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1670|Design Front Middle Back Queue|[Java](/Algorithms/Java/medium/1670_Design_Front_Middle_Back_Queue_[Medium].java)|Medium|
 |1672|Richest Customer Wealth|[Go](/Algorithms/Go/easy/1672_Richest_Customer_Wealth_[Easy].go)|Easy|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
+|1678|Goal Parser Interpretation|[Go](/Algorithms/Go/easy/1678_Goal_Parser_Interpretation_[Easy].go)|Easy|
 |1679|Max Number of K-Sum Pairs|[Java](/Algorithms/Java/medium/1679_Max_Number_of_K-Sum_Pairs_[Medium].java)|Medium|
 |1680|Concatenation of Consecutive Binary Numbers|[Java](/Algorithms/Java/medium/1680_Concatenation_of_Consecutive_Binary_Numbers_[Medium].java)|Medium|
 |1685|Sum of Absolute Differences in a Sorted Array|[Java](/Algorithms/Java/medium/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array_[Medium].java)|Medium|
