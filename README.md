@@ -821,6 +821,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1630|Arithmetic Subarrays|[Java](/Algorithms/Java/medium/1630_Arithmetic_Subarrays_[Medium].java)|Medium|
 |1631|Path With Minimum Effort|[Java](/Algorithms/Java/medium/1631_Path_With_Minimum_Effort_[Medium].java)|Medium|
 |1641|Count Sorted Vowel Strings|[Java](/Algorithms/Java/medium/1641_Count_Sorted_Vowel_Strings_[Medium].java)|Medium|
+|1642|Furthest Building You Can Reach|[Go](/Algorithms/Go/medium/1642_Furthest_Building_You_Can_Reach_[Medium].go), [Java](/Algorithms/Java/medium/1642_Furthest_Building_You_Can_Reach_[Medium].java)|Medium|
 |1647|Minimum Deletions to Make Character Frequencies Unique|[Java](/Algorithms/Java/medium/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique_[Medium].java)|Medium|
 |1653|Minimum Deletions to Make String Balanced|[Java](/Algorithms/Java/medium/1653_Minimum_Deletions_to_Make_String_Balanced_[Medium].java)|Medium|
 |1657|Determine if Two Strings Are Close|[Java](/Algorithms/Java/medium/1657_Determine_if_Two_Strings_Are_Close_[Medium].java)|Medium|
