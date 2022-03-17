@@ -163,6 +163,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |204|Count Primes|[Java](/Algorithms/Java/easy/0204_Count_Primes_[Easy].java)|Easy|
 |205|Isomorphic Strings|[Java](/Algorithms/Java/easy/0205_Isomorphic_Strings_[Easy].java)|Easy|
 |206|Reverse Linked List|[Java](/Algorithms/Java/easy/0206_Reverse_Linked_List_[Easy].java)|Easy|
+|207|Course Schedule|[Go](/Algorithms/Go/medium/0207_Course_Schedule_[Medium].go), [Java](/Algorithms/Java/medium/0207_Course_Schedule_[Medium].java)|Medium|
 |208|Implement Trie (Prefix Tree)|[Java](/Algorithms/Java/medium/0208_Implement_Trie_(Prefix_Tree)_[Medium].java)|Medium|
 |209|Minimum Size Subarray Sum|[Java](/Algorithms/Java/medium/0209_Minimum_Size_Subarray_Sum_[Medium].java)|Medium|
 |210|Course Schedule II|[Java](/Algorithms/Java/medium/0210_Course_Schedule_II_[Medium].java)|Medium|
