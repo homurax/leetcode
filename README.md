@@ -859,6 +859,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1764|Form Array by Concatenating Subarrays of Another Array|[Java](/Algorithms/Java/medium/1764_Form_Array_by_Concatenating_Subarrays_of_Another_Array_[Medium].java)|Medium|
 |1765|Map of Highest Peak|[Java](/Algorithms/Java/medium/1765_Map_of_Highest_Peak_[Medium].java)|Medium|
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[Java](/Algorithms/Java/medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box_[Medium].java)|Medium|
+|1773|Count Items Matching a Rule|[Go](/Algorithms/Go/easy/1773_Count_Items_Matching_a_Rule_[Easy].go)|Easy|
 |1774|Closest Dessert Cost|[Java](/Algorithms/Java/medium/1774_Closest_Dessert_Cost_[Medium].java)|Medium|
 |1775|Equal Sum Arrays With Minimum Number of Operations|[Java](/Algorithms/Java/medium/1775_Equal_Sum_Arrays_With_Minimum_Number_of_Operations_[Medium].java)|Medium|
 |1780|Check if Number is a Sum of Powers of Three|[Java](/Algorithms/Java/medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three_[Medium].java)|Medium|
@@ -916,3 +917,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
+|2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
