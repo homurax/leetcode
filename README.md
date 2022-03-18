@@ -894,6 +894,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
 |1968|Array With Elements Not Equal to Average of Neighbors|[Java](/Algorithms/Java/medium/1968_Array_With_Elements_Not_Equal_to_Average_of_Neighbors_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
+|1985|Find the Kth Largest Integer in the Array|[Go](/Algorithms/Go/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].go), [Java](/Algorithms/Java/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].java)|Medium|
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
 |2011|Final Value of Variable After Performing Operations|[Go](/Algorithms/Go/easy/2011_Final_Value_of_Variable_After_Performing_Operations_[Easy].go)|Easy|
