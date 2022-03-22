@@ -34,7 +34,7 @@
  *
  * 1. n == matrix.length == matrix[i].length
  * 2. 2 <= n <= 250
- * 3. -105 <= matrix[i][j] <= 10^5
+ * 3. -10^5 <= matrix[i][j] <= 10^5
  */
 public class MaximumMatrixSum {
 
@@ -44,12 +44,12 @@ public class MaximumMatrixSum {
         long sum = 0;
         int min = Integer.MAX_VALUE, count = 0;
         for (int[] ints : matrix) {
-            for (int i = 0; i < matrix.length; i++) {
-                sum += Math.abs(ints[i]);
-                if (ints[i] < 0) {
+            for (int num : ints) {
+                sum += Math.abs(num);
+                if (num < 0) {
                     count++;
                 }
-                min = Math.min(min, Math.abs(ints[i]));
+                min = Math.min(min, Math.abs(num));
             }
         }
         if (count % 2 == 1) {

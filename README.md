@@ -894,7 +894,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
 |1968|Array With Elements Not Equal to Average of Neighbors|[Java](/Algorithms/Java/medium/1968_Array_With_Elements_Not_Equal_to_Average_of_Neighbors_[Medium].java)|Medium|
-|1975|Maximum Matrix Sum|[Java](/Algorithms/Java/medium/1975_Maximum_Matrix_Sum_[Medium].java)|Medium|
+|1975|Maximum Matrix Sum|[Go](/Algorithms/Go/medium/1975_Maximum_Matrix_Sum_[Medium].go), [Java](/Algorithms/Java/medium/1975_Maximum_Matrix_Sum_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
 |1985|Find the Kth Largest Integer in the Array|[Go](/Algorithms/Go/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].go), [Java](/Algorithms/Java/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].java)|Medium|
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
@@ -917,5 +917,6 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
+|2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
