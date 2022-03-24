@@ -318,6 +318,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |539|Minimum Time Difference|[Java](/Algorithms/Java/medium/0539_Minimum_Time_Difference_[Medium].java)|Medium|
 |540|Single Element in a Sorted Array|[Java](/Algorithms/Java/medium/0540_Single_Element_in_a_Sorted_Array_[Medium].java)|Medium|
 |541|Reverse String II|[Java](/Algorithms/Java/easy/0541_Reverse_String_II_[Easy].java)|Easy|
+|542|01 Matrix|[Go](/Algorithms/Go/medium/0542_01_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/0542_01_Matrix_[Medium].java)|Medium|
 |543|Diameter of Binary Tree|[Java](/Algorithms/Java/easy/0543_Diameter_of_Binary_Tree_[Easy].java)|Easy|
 |547|Friend Circles|[Java](/Algorithms/Java/medium/0547_Friend_Circles_[Medium].java)|Medium|
 |551|Student Attendance Record I|[Java](/Algorithms/Java/easy/0551_Student_Attendance_Record_I_[Easy].java)|Easy|
