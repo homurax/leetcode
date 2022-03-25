@@ -449,6 +449,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |819|Most Common Word|[Java](/Algorithms/Java/easy/0819_Most_Common_Word_[Easy].java)|Easy|
 |820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
+|823|Binary Trees With Factors|[Java](/Algorithms/Java/medium/0823_Binary_Trees_With_Factors_[Medium].java)|Medium|
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
 |826|Most Profit Assigning Work|[Java](/Algorithms/Java/medium/0826_Most_Profit_Assigning_Work_[Medium].java)|Medium|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
@@ -888,6 +889,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
 |1901|Find a Peak Element II|[Java](/Algorithms/Java/medium/1901_Find_a_Peak_Element_II_[Medium].java)|Medium|
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
+|1915|Number of Wonderful Substrings|[Go](/Algorithms/Go/medium/1915_Number_of_Wonderful_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/1915_Number_of_Wonderful_Substrings_[Medium].java)|Medium|
 |1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
 |1927|Sum Game|[Java](/Algorithms/Java/medium/1927_Sum_Game_[Medium].java)|Medium|
 |1929|Concatenation of Array|[Go](/Algorithms/Go/easy/1929_Concatenation_of_Array_[Easy].go)|Easy|
