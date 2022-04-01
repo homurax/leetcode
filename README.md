@@ -889,6 +889,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1887|Reduction Operations to Make the Array Elements Equal|[Java](/Algorithms/Java/medium/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal_[Medium].java)|Medium|
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
 |1901|Find a Peak Element II|[Java](/Algorithms/Java/medium/1901_Find_a_Peak_Element_II_[Medium].java)|Medium|
+|1906|Minimum Absolute Difference Queries|[Go](/Algorithms/Go/medium/1906_Minimum_Absolute_Difference_Queries_[Medium].go), [Java](/Algorithms/Java/medium/1906_Minimum_Absolute_Difference_Queries_[Medium].java)|Medium|
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
 |1915|Number of Wonderful Substrings|[Go](/Algorithms/Go/medium/1915_Number_of_Wonderful_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/1915_Number_of_Wonderful_Substrings_[Medium].java)|Medium|
 |1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
