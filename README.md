@@ -927,3 +927,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
+|2216|Minimum Deletions to Make Array Beautiful|[Go](/Algorithms/Go/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].java)|Medium|
