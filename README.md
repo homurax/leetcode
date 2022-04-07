@@ -842,6 +842,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1686|Stone Game VI|[Java](/Algorithms/Java/medium/1686_Stone_Game_VI_[Medium].java)|Medium|
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|
 |1695|Maximum Erasure Value|[Java](/Algorithms/Java/medium/1695_Maximum_Erasure_Value_[Medium].java)|Medium|
+|1696|Jump Game VI|[Go](/Algorithms/Go/medium/1696_Jump_Game_VI_[Medium].go), [Java](/Algorithms/Java/medium/1696_Jump_Game_VI_[Medium].java)|Medium|
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
 |1702|Maximum Binary String After Change|[Go](/Algorithms/Go/medium/1702_Maximum_Binary_String_After_Change_[Medium].go), [Java](/Algorithms/Java/medium/1702_Maximum_Binary_String_After_Change_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
