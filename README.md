@@ -925,6 +925,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2096|Step-By-Step Directions From a Binary Tree Node to Another|[Java](/Algorithms/Java/medium/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another_[Medium].java)|Medium|
 |2100|Find Good Days to Rob the Bank|[Java](/Algorithms/Java/medium/2100_Find_Good_Days_to_Rob_the_Bank_[Medium].java)|Medium|
 |2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
+|2115|Find All Possible Recipes from Given Supplies|[Go](/Algorithms/Go/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].go), [Java](/Algorithms/Java/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].java)|Medium|
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
