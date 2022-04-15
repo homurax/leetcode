@@ -882,6 +882,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1846|Maximum Element After Decreasing and Rearranging|[Java](/Algorithms/Java/medium/1846_Maximum_Element_After_Decreasing_and_Rearranging_[Medium].java)|Medium|
 |1855|Maximum Distance Between a Pair of Values|[Java](/Algorithms/Java/medium/1855_Maximum_Distance_Between_a_Pair_of_Values_[Medium].java)|Medium|
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
+|1859|Sorting the Sentence|[Go](/Algorithms/Go/easy/1859_Sorting_the_Sentence_[Easy].go)|Easy|
 |1860|Incremental Memory Leak|[Java](/Algorithms/Java/medium/1860_Incremental_Memory_Leak_[Medium].java)|Medium|
 |1861|Rotating the Box|[Java](/Algorithms/Java/medium/1861_Rotating_the_Box_[Medium].java)|Medium|
 |1865|Finding Pairs With a Certain Sum|[Java](/Algorithms/Java/medium/1865_Finding_Pairs_With_a_Certain_Sum_[Medium].java)|Medium|
@@ -935,3 +936,5 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
 |2208|Minimum Operations to Halve Array Sum|[Go](/Algorithms/Go/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].java)|Medium|
 |2216|Minimum Deletions to Make Array Beautiful|[Go](/Algorithms/Go/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].java)|Medium|
+|2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
+|2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
