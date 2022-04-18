@@ -545,6 +545,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |979|Distribute Coins in Binary Tree|[Java](/Algorithms/Java/medium/0979_Distribute_Coins_in_Binary_Tree_[Medium].java)|Medium|
 |981|Time Based Key-Value Store|[Java](/Algorithms/Java/medium/0981_Time_Based_Key-Value_Store_[Medium].java)|Medium|
 |983|Minimum Cost For Tickets|[Java](/Algorithms/Java/medium/0983_Minimum_Cost_For_Tickets_[Medium].java)|Medium|
+|984|String Without AAA or BBB|[Go](/Algorithms/Go/medium/0984_String_Without_AAA_or_BBB_[Medium].go), [Java](/Algorithms/Java/medium/0984_String_Without_AAA_or_BBB_[Medium].java)|Medium|
 |985|Sum of Even Numbers After Queries|[Java](/Algorithms/Java/easy/0985_Sum_of_Even_Numbers_After_Queries_[Easy].java)|Easy|
 |986|Interval List Intersections|[Java](/Algorithms/Java/medium/0986_Interval_List_Intersections_[Medium].java)|Medium|
 |988|Smallest String Starting From Leaf|[Java](/Algorithms/Java/medium/0988_Smallest_String_Starting_From_Leaf_[Medium].java)|Medium|
