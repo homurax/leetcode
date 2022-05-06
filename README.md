@@ -615,6 +615,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1122|Relative Sort Array|[Java](/Algorithms/Java/easy/1122_Relative_Sort_Array_[Easy].java)|Easy|
 |1123|Lowest Common Ancestor of Deepest Leaves|[Java](/Algorithms/Java/medium/1123_Lowest_Common_Ancestor_of_Deepest_Leaves_[Medium].java)|Medium|
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
+|1129|Shortest Path with Alternating Colors|[Go](/Algorithms/Go/medium/1129_Shortest_Path_with_Alternating_Colors_[Medium].go), [Java](/Algorithms/Java/medium/1129_Shortest_Path_with_Alternating_Colors_[Medium].java)|Medium|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
 |1131|Maximum of Absolute Value Expression|[Java](/Algorithms/Java/medium/1131_Maximum_of_Absolute_Value_Expression_[Medium].java)|Medium|
 |1137|N-th Tribonacci Number|[Java](/Algorithms/Java/easy/1137_N-th_Tribonacci_Number_[Easy].java)|Easy|
