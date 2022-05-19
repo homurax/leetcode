@@ -946,3 +946,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2216|Minimum Deletions to Make Array Beautiful|[Go](/Algorithms/Go/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].java)|Medium|
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
+|2270|Number of Ways to Split Array|[Go](/Algorithms/Go/medium/2270_Number_of_Ways_to_Split_Array_[Medium].go), [Java](/Algorithms/Java/medium/2270_Number_of_Ways_to_Split_Array_[Medium].java)|Medium|
