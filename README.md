@@ -900,7 +900,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1911|Maximum Alternating Subsequence Sum|[Java](/Algorithms/Java/medium/1911_Maximum_Alternating_Subsequence_Sum_[Medium].java)|Medium|
 |1915|Number of Wonderful Substrings|[Go](/Algorithms/Go/medium/1915_Number_of_Wonderful_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/1915_Number_of_Wonderful_Substrings_[Medium].java)|Medium|
 |1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
-|1926|Nearest Exit from Entrance in Maze|[Java](/Algorithms/Java/medium/1926_Nearest_Exit_from_Entrance_in_Maze_[Medium].java)|Medium|
+|1926|Nearest Exit from Entrance in Maze|[Go](/Algorithms/Go/medium/1926_Nearest_Exit_from_Entrance_in_Maze_[Medium].go), [Java](/Algorithms/Java/medium/1926_Nearest_Exit_from_Entrance_in_Maze_[Medium].java)|Medium|
 |1927|Sum Game|[Java](/Algorithms/Java/medium/1927_Sum_Game_[Medium].java)|Medium|
 |1929|Concatenation of Array|[Go](/Algorithms/Go/easy/1929_Concatenation_of_Array_[Easy].go)|Easy|
 |1930|Unique Length-3 Palindromic Subsequences|[Java](/Algorithms/Java/medium/1930_Unique_Length-3_Palindromic_Subsequences_[Medium].java)|Medium|
