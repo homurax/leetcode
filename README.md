@@ -933,6 +933,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
 |2086|Minimum Number of Buckets Required to Collect Rainwater from Houses|[Go](/Algorithms/Go/medium/2086_Minimum_Number_of_Buckets_Required_to_Collect_Rainwater_from_Houses_[Medium].go), [Java](/Algorithms/Java/medium/2086_Minimum_Number_of_Buckets_Required_to_Collect_Rainwater_from_Houses_[Medium].java)|Medium|
 |2087|Minimum Cost Homecoming of a Robot in a Grid|[Java](/Algorithms/Java/medium/2087_Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid_[Medium].java)|Medium|
+|2090|K Radius Subarray Averages|[Go](/Algorithms/Go/medium/2090_K_Radius_Subarray_Averages_[Medium].go), [Java](/Algorithms/Java/medium/2090_K_Radius_Subarray_Averages_[Medium].java)|Medium|
 |2096|Step-By-Step Directions From a Binary Tree Node to Another|[Java](/Algorithms/Java/medium/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another_[Medium].java)|Medium|
 |2100|Find Good Days to Rob the Bank|[Java](/Algorithms/Java/medium/2100_Find_Good_Days_to_Rob_the_Bank_[Medium].java)|Medium|
 |2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
