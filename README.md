@@ -881,6 +881,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1823|Find the Winner of the Circular Game|[Java](/Algorithms/Java/medium/1823_Find_the_Winner_of_the_Circular_Game_[Medium].java)|Medium|
 |1824|Minimum Sideway Jumps|[Java](/Algorithms/Java/medium/1824_Minimum_Sideway_Jumps_[Medium].java)|Medium|
 |1833|Maximum Ice Cream Bars|[Java](/Algorithms/Java/medium/1833_Maximum_Ice_Cream_Bars_[Medium].java)|Medium|
+|1834|Single-Threaded CPU|[Go](/Algorithms/Go/medium/1834_Single-Threaded_CPU_[Medium].go), [Java](/Algorithms/Java/medium/1834_Single-Threaded_CPU_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
 |1839|Longest Substring Of All Vowels in Order|[Java](/Algorithms/Java/medium/1839_Longest_Substring_Of_All_Vowels_in_Order_[Medium].java)|Medium|
 |1846|Maximum Element After Decreasing and Rearranging|[Java](/Algorithms/Java/medium/1846_Maximum_Element_After_Decreasing_and_Rearranging_[Medium].java)|Medium|
