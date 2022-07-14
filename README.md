@@ -942,6 +942,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2115|Find All Possible Recipes from Given Supplies|[Go](/Algorithms/Go/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].go), [Java](/Algorithms/Java/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].java)|Medium|
 |2121|Intervals Between Identical Elements|[Go](/Algorithms/Go/medium/2121_Intervals_Between_Identical_Elements_[Medium].go), [Java](/Algorithms/Java/medium/2121_Intervals_Between_Identical_Elements_[Medium].java)|Medium|
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
+|2135|Count Words Obtained After Adding a Letter|[Go](/Algorithms/Go/medium/2135_Count_Words_Obtained_After_Adding_a_Letter_[Medium].go), [Java](/Algorithms/Java/medium/2135_Count_Words_Obtained_After_Adding_a_Letter_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
