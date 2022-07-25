@@ -951,6 +951,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
 |2208|Minimum Operations to Halve Array Sum|[Go](/Algorithms/Go/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].java)|Medium|
+|2211|Count Collisions on a Road|[Go](/Algorithms/Go/medium/2211_Count_Collisions_on_a_Road_[Medium].go), [Java](/Algorithms/Java/medium/2211_Count_Collisions_on_a_Road_[Medium].java)|Medium|
 |2216|Minimum Deletions to Make Array Beautiful|[Go](/Algorithms/Go/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].java)|Medium|
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
