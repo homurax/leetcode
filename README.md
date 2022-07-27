@@ -229,6 +229,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |349|Intersection of Two Arrays|[Java](/Algorithms/Java/easy/0349_Intersection_of_Two_Arrays_[Easy].java)|Easy|
 |350|Intersection of Two Arrays II|[Java](/Algorithms/Java/easy/0350_Intersection_of_Two_Arrays_II_[Easy].java)|Easy|
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
+|368|Largest Divisible Subset|[Go](/Algorithms/Go/medium/0368_Largest_Divisible_Subset_[Medium].go), [Java](/Algorithms/Java/medium/0368_Largest_Divisible_Subset_[Medium].java)|Medium|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |373|Find K Pairs with Smallest Sums|[Java](/Algorithms/Java/medium/0373_Find_K_Pairs_with_Smallest_Sums_[Medium].java)|Medium|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
