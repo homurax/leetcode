@@ -894,6 +894,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1859|Sorting the Sentence|[Go](/Algorithms/Go/easy/1859_Sorting_the_Sentence_[Easy].go)|Easy|
 |1860|Incremental Memory Leak|[Java](/Algorithms/Java/medium/1860_Incremental_Memory_Leak_[Medium].java)|Medium|
 |1861|Rotating the Box|[Java](/Algorithms/Java/medium/1861_Rotating_the_Box_[Medium].java)|Medium|
+|1864|Minimum Number of Swaps to Make the Binary String Alternating|[Go](/Algorithms/Go/medium/1864_Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating_[Medium].go), [Java](/Algorithms/Java/medium/1864_Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating_[Medium].java)|Medium|
 |1865|Finding Pairs With a Certain Sum|[Java](/Algorithms/Java/medium/1865_Finding_Pairs_With_a_Certain_Sum_[Medium].java)|Medium|
 |1877|Minimize Maximum Pair Sum in Array|[Java](/Algorithms/Java/medium/1877_Minimize_Maximum_Pair_Sum_in_Array_[Medium].java)|Medium|
 |1881|Maximum Value after Insertion|[Java](/Algorithms/Java/medium/1881_Maximum_Value_after_Insertion_[Medium].java)|Medium|
