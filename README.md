@@ -912,6 +912,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1929|Concatenation of Array|[Go](/Algorithms/Go/easy/1929_Concatenation_of_Array_[Easy].go)|Easy|
 |1930|Unique Length-3 Palindromic Subsequences|[Java](/Algorithms/Java/medium/1930_Unique_Length-3_Palindromic_Subsequences_[Medium].java)|Medium|
 |1936|Add Minimum Number of Rungs|[Go](/Algorithms/Go/medium/1936_Add_Minimum_Number_of_Rungs_[Medium].go), [Java](/Algorithms/Java/medium/1936_Add_Minimum_Number_of_Rungs_[Medium].java)|Medium|
+|1942|The Number of the Smallest Unoccupied Chair|[Go](/Algorithms/Go/medium/1942_The_Number_of_the_Smallest_Unoccupied_Chair_[Medium].go), [Java](/Algorithms/Java/medium/1942_The_Number_of_the_Smallest_Unoccupied_Chair_[Medium].java)|Medium|
 |1959|Minimum Total Space Wasted With K Resizing Operations|[Java](/Algorithms/Java/medium/1959_Minimum_Total_Space_Wasted_With_K_Resizing_Operations_[Medium].java)|Medium|
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
