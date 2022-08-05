@@ -898,6 +898,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1865|Finding Pairs With a Certain Sum|[Java](/Algorithms/Java/medium/1865_Finding_Pairs_With_a_Certain_Sum_[Medium].java)|Medium|
 |1877|Minimize Maximum Pair Sum in Array|[Java](/Algorithms/Java/medium/1877_Minimize_Maximum_Pair_Sum_in_Array_[Medium].java)|Medium|
 |1881|Maximum Value after Insertion|[Java](/Algorithms/Java/medium/1881_Maximum_Value_after_Insertion_[Medium].java)|Medium|
+|1882|Process Tasks Using Servers|[Java](/Algorithms/Java/medium/1882_Process_Tasks_Using_Servers_[Medium].java)|Medium|
 |1884|Egg Drop With 2 Eggs and N Floors|[Java](/Algorithms/Java/medium/1884_Egg_Drop_With_2_Eggs_and_N_Floors_[Medium].java)|Medium|
 |1887|Reduction Operations to Make the Array Elements Equal|[Java](/Algorithms/Java/medium/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal_[Medium].java)|Medium|
 |1894|Find the Student that Will Replace the Chalk|[Go](/Algorithms/Go/medium/1894_Find_the_Student_that_Will_Replace_the_Chalk_[Medium].go), [Java](/Algorithms/Java/medium/1894_Find_the_Student_that_Will_Replace_the_Chalk_[Medium].java)|Medium|
