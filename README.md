@@ -928,6 +928,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1993|Operations on Tree|[Go](/Algorithms/Go/medium/1993_Operations_on_Tree_[Medium].go), [Java](/Algorithms/Java/medium/1993_Operations_on_Tree_[Medium].java)|Medium|
 |2001|Number of Pairs of Interchangeable Rectangles|[Go](/Algorithms/Go/medium/2001_Number_of_Pairs_of_Interchangeable_Rectangles_[Medium].go), [Java](/Algorithms/Java/medium/2001_Number_of_Pairs_of_Interchangeable_Rectangles_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
+|2007|Find Original Array From Doubled Array|[Go](/Algorithms/Go/medium/2007_Find_Original_Array_From_Doubled_Array_[Medium].go), [Java](/Algorithms/Java/medium/2007_Find_Original_Array_From_Doubled_Array_[Medium].java)|Medium|
 |2008|Maximum Earnings From Taxi|[Go](/Algorithms/Go/medium/2008_Maximum_Earnings_From_Taxi_[Medium].go), [Java](/Algorithms/Java/medium/2008_Maximum_Earnings_From_Taxi_[Medium].java)|Medium|
 |2011|Final Value of Variable After Performing Operations|[Go](/Algorithms/Go/easy/2011_Final_Value_of_Variable_After_Performing_Operations_[Easy].go)|Easy|
 |2012|Sum of Beauty in the Array|[Java](/Algorithms/Java/medium/2012_Sum_of_Beauty_in_the_Array_[Medium].java)|Medium|
