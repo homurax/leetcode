@@ -65,9 +65,8 @@ public class MinimumMovesToMakeArrayComplementary {
         int n = nums.length;
         for (int i = 0; i < n / 2; i++) {
             int a = nums[i], b = nums[n - 1 - i];
-            int l = 2, r = 2 * limit;
-            diff[l] += 2;
-            diff[r + 1] -= 2;
+            diff[2] += 2;
+            diff[2 * limit + 1] -= 2;
             diff[1 + Math.min(a, b)] -= 1;
             diff[limit + Math.max(a, b) + 1] -= -1;
             diff[a + b] -= 1;

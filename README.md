@@ -845,7 +845,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1670|Design Front Middle Back Queue|[Java](/Algorithms/Java/medium/1670_Design_Front_Middle_Back_Queue_[Medium].java)|Medium|
 |1672|Richest Customer Wealth|[Go](/Algorithms/Go/easy/1672_Richest_Customer_Wealth_[Easy].go)|Easy|
 |1673|Find the Most Competitive Subsequence|[Java](/Algorithms/Java/medium/1673_Find_the_Most_Competitive_Subsequence_[Medium].java)|Medium|
-|1674|Minimum Moves to Make Array Complementary|[Java](/Algorithms/Java/medium/1674_Minimum_Moves_to_Make_Array_Complementary_[Medium].java)|Medium|
+|1674|Minimum Moves to Make Array Complementary|[Go](/Algorithms/Go/medium/1674_Minimum_Moves_to_Make_Array_Complementary_[Medium].go), [Java](/Algorithms/Java/medium/1674_Minimum_Moves_to_Make_Array_Complementary_[Medium].java)|Medium|
 |1678|Goal Parser Interpretation|[Go](/Algorithms/Go/easy/1678_Goal_Parser_Interpretation_[Easy].go)|Easy|
 |1679|Max Number of K-Sum Pairs|[Java](/Algorithms/Java/medium/1679_Max_Number_of_K-Sum_Pairs_[Medium].java)|Medium|
 |1680|Concatenation of Consecutive Binary Numbers|[Java](/Algorithms/Java/medium/1680_Concatenation_of_Consecutive_Binary_Numbers_[Medium].java)|Medium|
