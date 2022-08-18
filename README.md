@@ -482,6 +482,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |870|Advantage Shuffle|[Java](/Algorithms/Java/medium/0870_Advantage_Shuffle_[Medium].java)|Medium|
 |872|Leaf-Similar Trees|[Java](/Algorithms/Java/easy/0872_Leaf-Similar_Trees_[Easy].java)|Easy|
 |873|Length of Longest Fibonacci Subsequence|[Java](/Algorithms/Java/medium/0873_Length_of_Longest_Fibonacci_Subsequence_[Medium].java)|Medium|
+|874|Walking Robot Simulation|[Go](/Algorithms/Go/medium/0874_Walking_Robot_Simulation_[Medium].go), [Java](/Algorithms/Java/medium/0874_Walking_Robot_Simulation_[Medium].java)|Medium|
 |875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
