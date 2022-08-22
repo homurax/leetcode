@@ -284,6 +284,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |459|Repeated Substring Pattern|[Java](/Algorithms/Java/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
+|467|Unique Substrings in Wraparound String|[Go](/Algorithms/Go/medium/0467_Unique_Substrings_in_Wraparound_String_[Medium].go), [Java](/Algorithms/Java/medium/0467_Unique_Substrings_in_Wraparound_String_[Medium].java)|Medium|
 |470|Implement Rand10() Using Rand7()|[Java](/Algorithms/Java/medium/0470_Implement_Rand10()_Using_Rand7()_[Medium].java)|Medium|
 |473|Matchsticks to Square|[Java](/Algorithms/Java/medium/0473_Matchsticks_to_Square_[Medium].java)|Medium|
 |474|Ones and Zeroes|[Java](/Algorithms/Java/medium/0474_Ones_and_Zeroes_[Medium].java)|Medium|
