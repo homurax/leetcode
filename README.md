@@ -510,6 +510,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |915|Partition Array into Disjoint Intervals|[Java](/Algorithms/Java/medium/0915_Partition_Array_into_Disjoint_Intervals_[Medium].java)|Medium|
 |916|Word Subsets|[Java](/Algorithms/Java/medium/0916_Word_Subsets_[Medium].java)|Medium|
 |917|Reverse Only Letters|[Java](/Algorithms/Java/easy/0917_Reverse_Only_Letters_[Easy].java)|Easy|
+|918|Maximum Sum Circular Subarray|[Go](/Algorithms/Go/medium/0918_Maximum_Sum_Circular_Subarray_[Medium].go), [Java](/Algorithms/Java/medium/0918_Maximum_Sum_Circular_Subarray_[Medium].java)|Medium|
 |921|Minimum Add to Make Parentheses Valid|[Java](/Algorithms/Java/medium/0921_Minimum_Add_to_Make_Parentheses_Valid_[Medium].java)|Medium|
 |922|Sort Array By Parity II|[Java](/Algorithms/Java/easy/0922_Sort_Array_By_Parity_II_[Easy].java)|Easy|
 |923|3Sum With Multiplicity|[Java](/Algorithms/Java/medium/0923_3Sum_With_Multiplicity_[Medium].java)|Medium|
