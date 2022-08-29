@@ -844,6 +844,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1647|Minimum Deletions to Make Character Frequencies Unique|[Java](/Algorithms/Java/medium/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique_[Medium].java)|Medium|
 |1653|Minimum Deletions to Make String Balanced|[Java](/Algorithms/Java/medium/1653_Minimum_Deletions_to_Make_String_Balanced_[Medium].java)|Medium|
 |1657|Determine if Two Strings Are Close|[Java](/Algorithms/Java/medium/1657_Determine_if_Two_Strings_Are_Close_[Medium].java)|Medium|
+|1658|Minimum Operations to Reduce X to Zero|[Go](/Algorithms/Go/medium/1658_Minimum_Operations_to_Reduce_X_to_Zero_[Medium].go), [Java](/Algorithms/Java/medium/1658_Minimum_Operations_to_Reduce_X_to_Zero_[Medium].java)|Medium|
 |1663|Smallest String With A Given Numeric Value|[Java](/Algorithms/Java/medium/1663_Smallest_String_With_A_Given_Numeric_Value_[Medium].java)|Medium|
 |1664|Ways to Make a Fair Array|[Java](/Algorithms/Java/medium/1664_Ways_to_Make_a_Fair_Array_[Medium].java)|Medium|
 |1669|Merge In Between Linked Lists|[Java](/Algorithms/Java/medium/1669_Merge_In_Between_Linked_Lists_[Medium].java)|Medium|
