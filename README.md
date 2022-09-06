@@ -499,6 +499,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |894|All Possible Full Binary Trees|[Java](/Algorithms/Java/medium/0894_All_Possible_Full_Binary_Trees_[Medium].java)|Medium|
 |896|Monotonic Array|[Java](/Algorithms/Java/easy/0896_Monotonic_Array_[Easy].java)|Easy|
 |897|Increasing Order Search Tree|[Java](/Algorithms/Java/easy/0897_Increasing_Order_Search_Tree_[Easy].java)|Easy|
+|898|Bitwise ORs of Subarrays|[Go](/Algorithms/Go/medium/0898_Bitwise_ORs_of_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/0898_Bitwise_ORs_of_Subarrays_[Medium].java)|Medium|
 |900|RLE Iterator|[Java](/Algorithms/Java/medium/0900_RLE_Iterator_[Medium].java)|Medium|
 |901|Online Stock Span|[Java](/Algorithms/Java/medium/0901_Online_Stock_Span_[Medium].java)|Medium|
 |904|Fruit Into Baskets|[Go](/Algorithms/Go/medium/0904_Fruit_Into_Baskets_[Medium].go), [Java](/Algorithms/Java/medium/0904_Fruit_Into_Baskets_[Medium].java)|Medium|
