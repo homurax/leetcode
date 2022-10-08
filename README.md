@@ -938,6 +938,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1986|Minimum Number of Work Sessions to Finish the Tasks|[Java](/Algorithms/Java/medium/1986_Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_[Medium].java)|Medium|
 |1993|Operations on Tree|[Go](/Algorithms/Go/medium/1993_Operations_on_Tree_[Medium].go), [Java](/Algorithms/Java/medium/1993_Operations_on_Tree_[Medium].java)|Medium|
 |1996|The Number of Weak Characters in the Game|[Go](/Algorithms/Go/medium/1996_The_Number_of_Weak_Characters_in_the_Game_[Medium].go), [Java](/Algorithms/Java/medium/1996_The_Number_of_Weak_Characters_in_the_Game_[Medium].java)|Medium|
+|1997|First Day Where You Have Been in All the Rooms|[Go](/Algorithms/Go/medium/1997_First_Day_Where_You_Have_Been_in_All_the_Rooms_[Medium].go), [Java](/Algorithms/Java/medium/1997_First_Day_Where_You_Have_Been_in_All_the_Rooms_[Medium].java)|Medium|
 |2001|Number of Pairs of Interchangeable Rectangles|[Go](/Algorithms/Go/medium/2001_Number_of_Pairs_of_Interchangeable_Rectangles_[Medium].go), [Java](/Algorithms/Java/medium/2001_Number_of_Pairs_of_Interchangeable_Rectangles_[Medium].java)|Medium|
 |2002|Maximum Product of the Length of Two Palindromic Subsequences|[Java](/Algorithms/Java/medium/2002_Maximum_Product_of_the_Length_of_Two_Palindromic_Subsequences_[Medium].java)|Medium|
 |2007|Find Original Array From Doubled Array|[Go](/Algorithms/Go/medium/2007_Find_Original_Array_From_Doubled_Array_[Medium].go), [Java](/Algorithms/Java/medium/2007_Find_Original_Array_From_Doubled_Array_[Medium].java)|Medium|
