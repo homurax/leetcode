@@ -984,6 +984,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
 |2270|Number of Ways to Split Array|[Go](/Algorithms/Go/medium/2270_Number_of_Ways_to_Split_Array_[Medium].go), [Java](/Algorithms/Java/medium/2270_Number_of_Ways_to_Split_Array_[Medium].java)|Medium|
+|2311|Longest Binary Subsequence Less Than or Equal to K|[Go](/Algorithms/Go/medium/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K_[Medium].go), [Java](/Algorithms/Java/medium/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K_[Medium].java)|Medium|
 |2316|Count Unreachable Pairs of Nodes in an Undirected Graph|[Go](/Algorithms/Go/medium/2316_Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph_[Medium].go), [Java](/Algorithms/Java/medium/2316_Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph_[Medium].java)|Medium|
 |2364|Count Number of Bad Pairs|[Go](/Algorithms/Go/medium/2364_Count_Number_of_Bad_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2364_Count_Number_of_Bad_Pairs_[Medium].java)|Medium|
 |2370|Longest Ideal Subsequence|[Go](/Algorithms/Go/medium/2370_Longest_Ideal_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2370_Longest_Ideal_Subsequence_[Medium].java)|Medium|
