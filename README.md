@@ -76,6 +76,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |57|Insert Interval|[Java](/Algorithms/Java/medium/0057_Insert_Interval_[Medium].java)|Medium|
 |58|Length of Last Word|[Java](/Algorithms/Java/easy/0058_Length_of_Last_Word_[Easy].java)|Easy|
 |59|Spiral Matrix II|[Java](/Algorithms/Java/medium/0059_Spiral_Matrix_II_[Medium].java)|Medium|
+|61|Rotate List|[Go](/Algorithms/Go/medium/0061_Rotate_List_[Medium].go), [Java](/Algorithms/Java/medium/0061_Rotate_List_[Medium].java)|Medium|
 |62|Unique Paths|[Java](/Algorithms/Java/medium/0062_Unique_Paths_[Medium].java)|Medium|
 |63|Unique Paths II|[Java](/Algorithms/Java/medium/0063_Unique_Paths_II_[Medium].java)|Medium|
 |64|Minimum Path Sum|[Java](/Algorithms/Java/medium/0064_Minimum_Path_Sum_[Medium].java)|Medium|
