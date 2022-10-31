@@ -627,6 +627,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1111|Maximum Nesting Depth of Two Valid Parentheses Strings|[Java](/Algorithms/Java/medium/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings_[Medium].java)|Medium|
 |1122|Relative Sort Array|[Java](/Algorithms/Java/easy/1122_Relative_Sort_Array_[Easy].java)|Easy|
 |1123|Lowest Common Ancestor of Deepest Leaves|[Java](/Algorithms/Java/medium/1123_Lowest_Common_Ancestor_of_Deepest_Leaves_[Medium].java)|Medium|
+|1124|Longest Well-Performing Interval|[Go](/Algorithms/Go/medium/1124_Longest_Well-Performing_Interval_[Medium].go), [Java](/Algorithms/Java/medium/1124_Longest_Well-Performing_Interval_[Medium].java)|Medium|
 |1128|Number of Equivalent Domino Pairs|[Java](/Algorithms/Java/easy/1128_Number_of_Equivalent_Domino_Pairs_[Easy].java)|Easy|
 |1129|Shortest Path with Alternating Colors|[Go](/Algorithms/Go/medium/1129_Shortest_Path_with_Alternating_Colors_[Medium].go), [Java](/Algorithms/Java/medium/1129_Shortest_Path_with_Alternating_Colors_[Medium].java)|Medium|
 |1130|Minimum Cost Tree From Leaf Values|[Java](/Algorithms/Java/medium/1130_Minimum_Cost_Tree_From_Leaf_Values_[Medium].java)|Medium|
