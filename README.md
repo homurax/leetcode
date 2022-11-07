@@ -508,6 +508,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |901|Online Stock Span|[Java](/Algorithms/Java/medium/0901_Online_Stock_Span_[Medium].java)|Medium|
 |904|Fruit Into Baskets|[Go](/Algorithms/Go/medium/0904_Fruit_Into_Baskets_[Medium].go), [Java](/Algorithms/Java/medium/0904_Fruit_Into_Baskets_[Medium].java)|Medium|
 |905|Sort Array By Parity|[Java](/Algorithms/Java/easy/0905_Sort_Array_By_Parity_[Easy].java)|Easy|
+|907|Sum of Subarray Minimums|[Go](/Algorithms/Go/medium/0907_Sum_of_Subarray_Minimums_[Medium].go), [Java](/Algorithms/Java/medium/0907_Sum_of_Subarray_Minimums_[Medium].java)|Medium|
 |908|Smallest Range I|[Java](/Algorithms/Java/easy/0908_Smallest_Range_I_[Easy].java)|Easy|
 |910|Smallest Range II|[Go](/Algorithms/Go/medium/0910_Smallest_Range_II_[Medium].go), [Java](/Algorithms/Java/medium/0910_Smallest_Range_II_[Medium].java)|Medium|
 |911|Online Election|[Java](/Algorithms/Java/medium/0911_Online_Election_[Medium].java)|Medium|
