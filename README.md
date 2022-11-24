@@ -154,6 +154,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |171|Excel Sheet Column Number|[Java](/Algorithms/Java/easy/0171_Excel_Sheet_Column_Number_[Easy].java)|Easy|
 |172|Factorial Trailing Zeroes|[Java](/Algorithms/Java/easy/0172_Factorial_Trailing_Zeroes_[Easy].java)|Easy|
 |173|Binary Search Tree Iterator|[Java](/Algorithms/Java/medium/0173_Binary_Search_Tree_Iterator_[Medium].java)|Medium|
+|179|Largest Number|[Go](/Algorithms/Go/medium/0179_Largest_Number_[Medium].go), [Java](/Algorithms/Java/medium/0179_Largest_Number_[Medium].java)|Medium|
 |187|Repeated DNA Sequences|[Java](/Algorithms/Java/medium/0187_Repeated_DNA_Sequences_[Medium].java)|Medium|
 |189|Rotate Array|[Java](/Algorithms/Java/easy/0189_Rotate_Array_[Easy].java)|Easy|
 |190|Reverse Bits|[Java](/Algorithms/Java/easy/0190_Reverse_Bits_[Easy].java)|Easy|
