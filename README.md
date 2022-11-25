@@ -386,6 +386,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |674|Longest Continuous Increasing Subsequence|[Java](/Algorithms/Java/easy/0674_Longest_Continuous_Increasing_Subsequence_[Easy].java)|Easy|
 |676|Implement Magic Dictionary|[Java](/Algorithms/Java/medium/0676_Implement_Magic_Dictionary_[Medium].java)|Medium|
 |677|Map Sum Pairs|[Java](/Algorithms/Java/medium/0677_Map_Sum_Pairs_[Medium].java)|Medium|
+|678|Valid Parenthesis String|[Go](/Algorithms/Go/medium/0678_Valid_Parenthesis_String_[Medium].go), [Java](/Algorithms/Java/medium/0678_Valid_Parenthesis_String_[Medium].java)|Medium|
 |680|Valid Palindrome II|[Java](/Algorithms/Java/easy/0680_Valid_Palindrome_II_[Easy].java)|Easy|
 |682|Baseball Game|[Java](/Algorithms/Java/easy/0682_Baseball_Game_[Easy].java)|Easy|
 |684|Redundant Connection|[Java](/Algorithms/Java/medium/0684_Redundant_Connection_[Medium].java)|Medium|
