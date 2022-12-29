@@ -901,6 +901,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1797|Design Authentication Manager|[Java](/Algorithms/Java/medium/1797_Design_Authentication_Manager_[Medium].java)|Medium|
 |1798|Maximum Number of Consecutive Values You Can Make|[Java](/Algorithms/Java/medium/1798_Maximum_Number_of_Consecutive_Values_You_Can_Make_[Medium].java)|Medium|
 |1807|Evaluate the Bracket Pairs of a String|[Java](/Algorithms/Java/medium/1807_Evaluate_the_Bracket_Pairs_of_a_String_[Medium].java)|Medium|
+|1813|Sentence Similarity III|[Go](/Algorithms/Go/medium/1813_Sentence_Similarity_III_[Medium].go), [Java](/Algorithms/Java/medium/1813_Sentence_Similarity_III_[Medium].java)|Medium|
 |1817|Finding the Users Active Minutes|[Java](/Algorithms/Java/medium/1817_Finding_the_Users_Active_Minutes_[Medium].java)|Medium|
 |1823|Find the Winner of the Circular Game|[Java](/Algorithms/Java/medium/1823_Find_the_Winner_of_the_Circular_Game_[Medium].java)|Medium|
 |1824|Minimum Sideway Jumps|[Java](/Algorithms/Java/medium/1824_Minimum_Sideway_Jumps_[Medium].java)|Medium|
