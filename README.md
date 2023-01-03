@@ -844,6 +844,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
 |1589|Maximum Sum Obtained of Any Permutation|[Java](/Algorithms/Java/medium/1589_Maximum_Sum_Obtained_of_Any_Permutation_[Medium].java)|Medium|
 |1593|Split a String Into the Max Number of Unique Substrings|[Java](/Algorithms/Java/medium/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings_[Medium].java)|Medium|
+|1594|Maximum Non Negative Product in a Matrix|[Go](/Algorithms/Go/medium/1594_Maximum_Non_Negative_Product_in_a_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/1594_Maximum_Non_Negative_Product_in_a_Matrix_[Medium].java)|Medium|
 |1603|Design Parking System|[Go](/Algorithms/Go/easy/1603_Design_Parking_System_[Easy].go)|Easy|
 |1605|Find Valid Matrix Given Row and Column Sums|[Java](/Algorithms/Java/medium/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums_[Medium].java)|Medium|
 |1609|Even Odd Tree|[Java](/Algorithms/Java/medium/1609_Even_Odd_Tree_[Medium].java)|Medium|
