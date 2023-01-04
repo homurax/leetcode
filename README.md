@@ -219,6 +219,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |316|Remove Duplicate Letters|[Java](/Algorithms/Java/medium/0316_Remove_Duplicate_Letters_[Medium].java)|Medium|
 |318|Maximum Product of Word Lengths|[Java](/Algorithms/Java/medium/0318_Maximum_Product_of_Word_Lengths_[Medium].java)|Medium|
 |322|Coin Change|[Java](/Algorithms/Java/medium/0322_Coin_Change_[Medium].java)|Medium|
+|324|Wiggle Sort II|[Go](/Algorithms/Go/medium/0324_Wiggle_Sort_II_[Medium].go), [Java](/Algorithms/Java/medium/0324_Wiggle_Sort_II_[Medium].java)|Medium|
 |326|Power of Three|[Java](/Algorithms/Java/easy/0326_Power_of_Three_[Easy].java)|Easy|
 |328|Odd Even Linked List|[Java](/Algorithms/Java/medium/0328_Odd_Even_Linked_List_[Medium].java)|Medium|
 |331|Verify Preorder Serialization of a Binary Tree|[Java](/Algorithms/Java/medium/0331_Verify_Preorder_Serialization_of_a_Binary_Tree_[Medium].java)|Medium|
