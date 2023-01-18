@@ -914,6 +914,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
 |1839|Longest Substring Of All Vowels in Order|[Java](/Algorithms/Java/medium/1839_Longest_Substring_Of_All_Vowels_in_Order_[Medium].java)|Medium|
 |1846|Maximum Element After Decreasing and Rearranging|[Java](/Algorithms/Java/medium/1846_Maximum_Element_After_Decreasing_and_Rearranging_[Medium].java)|Medium|
+|1849|Splitting a String Into Descending Consecutive Values|[Go](/Algorithms/Go/medium/1849_Splitting_a_String_Into_Descending_Consecutive_Values_[Medium].go), [Java](/Algorithms/Java/medium/1849_Splitting_a_String_Into_Descending_Consecutive_Values_[Medium].java)|Medium|
 |1855|Maximum Distance Between a Pair of Values|[Java](/Algorithms/Java/medium/1855_Maximum_Distance_Between_a_Pair_of_Values_[Medium].java)|Medium|
 |1856|Maximum Subarray Min-Product|[Java](/Algorithms/Java/medium/1856_Maximum_Subarray_Min-Product_[Medium].java)|Medium|
 |1859|Sorting the Sentence|[Go](/Algorithms/Go/easy/1859_Sorting_the_Sentence_[Easy].go)|Easy|
