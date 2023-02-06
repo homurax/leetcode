@@ -99,6 +99,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
 |90|Subsets II|[Java](/Algorithms/Java/medium/0090_Subsets_II_[Medium].java)|Medium|
+|91|Decode Ways|[Go](/Algorithms/Go/medium/0091_Decode_Ways_[Medium].go), [Java](/Algorithms/Java/medium/0091_Decode_Ways_[Medium].java)|Medium|
 |92|Reverse Linked List II|[Java](/Algorithms/Java/medium/0092_Reverse_Linked_List_II_[Medium].java)|Medium|
 |93|Restore IP Addresses|[Java](/Algorithms/Java/medium/0093_Restore_IP_Addresses_[Medium].java)|Medium|
 |94|Binary Tree Inorder Traversal|[Java](/Algorithms/Java/medium/0094_Binary_Tree_Inorder_Traversal_[Medium].java)|Medium|
