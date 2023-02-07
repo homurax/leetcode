@@ -289,6 +289,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |453|Minimum Moves to Equal Array Elements|[Java](/Algorithms/Java/easy/0453_Minimum_Moves_to_Equal_Array_Elements_[Easy].java)|Easy|
 |454|4Sum II|[Java](/Algorithms/Java/medium/0454_4Sum_II_[Medium].java)|Medium|
 |455|Assign Cookies|[Java](/Algorithms/Java/easy/0455_Assign_Cookies_[Easy].java)|Easy|
+|457|Circular Array Loop|[Go](/Algorithms/Go/medium/0457_Circular_Array_Loop_[Medium].go), [Java](/Algorithms/Java/medium/0457_Circular_Array_Loop_[Medium].java)|Medium|
 |459|Repeated Substring Pattern|[Java](/Algorithms/Java/easy/0459_Repeated_Substring_Pattern_[Easy].java)|Easy|
 |462|Minimum Moves to Equal Array Elements II|[Java](/Algorithms/Java/medium/0462_Minimum_Moves_to_Equal_Array_Elements_II_[Medium].java)|Medium|
 |463|Island Perimeter|[Java](/Algorithms/Java/easy/0463_Island_Perimeter_[Easy].java)|Easy|
