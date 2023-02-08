@@ -843,6 +843,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1561|Maximum Number of Coins You Can Get|[Java](/Algorithms/Java/medium/1561_Maximum_Number_of_Coins_You_Can_Get_[Medium].java)|Medium|
 |1562|Find Latest Group of Size M|[Go](/Algorithms/Go/medium/1562_Find_Latest_Group_of_Size_M_[Medium].go), [Java](/Algorithms/Java/medium/1562_Find_Latest_Group_of_Size_M_[Medium].java)|Medium|
 |1567|Maximum Length of Subarray With Positive Product|[Java](/Algorithms/Java/medium/1567_Maximum_Length_of_Subarray_With_Positive_Product_[Medium].java)|Medium|
+|1573|Number of Ways to Split a String|[Go](/Algorithms/Go/medium/1573_Number_of_Ways_to_Split_a_String_[Medium].go), [Java](/Algorithms/Java/medium/1573_Number_of_Ways_to_Split_a_String_[Medium].java)|Medium|
 |1574|Shortest Subarray to be Removed to Make Array Sorted|[Java](/Algorithms/Java/medium/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted_[Medium].java)|Medium|
 |1577|Number of Ways Where Square of Number Is Equal to Product of Two Numbers|[Java](/Algorithms/Java/medium/1577_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers_[Medium].java)|Medium|
 |1578|Minimum Deletion Cost to Avoid Repeating Letters|[Java](/Algorithms/Java/medium/1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters_[Medium].java)|Medium|
