@@ -40,6 +40,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1|Two Sum|[Java](/Algorithms/Java/easy/0001_Two_Sum_[Easy].java)|Easy|
 |2|Add Two Numbers|[Java](/Algorithms/Java/medium/0002_Add_Two_Numbers_[Medium].java)|Medium|
 |3|Longest Substring Without Repeating Characters|[Go](/Algorithms/Go/medium/0003_Longest_Substring_Without_Repeating_Characters_[Medium].go), [Java](/Algorithms/Java/medium/0003_Longest_Substring_Without_Repeating_Characters_[Medium].java)|Medium|
+|5|Longest Palindromic Substring|[Go](/Algorithms/Go/medium/0005_Longest_Palindromic_Substring_[Medium].go), [Java](/Algorithms/Java/medium/0005_Longest_Palindromic_Substring_[Medium].java)|Medium|
 |7|Reverse Integer|[Java](/Algorithms/Java/easy/0007_Reverse_Integer_[Easy].java)|Easy|
 |9|Palindrome Number|[Java](/Algorithms/Java/easy/0009_Palindrome_Number_[Easy].java)|Easy|
 |11|Container With Most Water|[Java](/Algorithms/Java/medium/0011_Container_With_Most_Water_[Medium].java)|Medium|
