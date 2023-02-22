@@ -1000,6 +1000,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2145|Count the Hidden Sequences|[Go](/Algorithms/Go/medium/2145_Count_the_Hidden_Sequences_[Medium].go), [Java](/Algorithms/Java/medium/2145_Count_the_Hidden_Sequences_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
+|2166|Design Bitset|[Go](/Algorithms/Go/medium/2166_Design_Bitset_[Medium].go), [Java](/Algorithms/Java/medium/2166_Design_Bitset_[Medium].java)|Medium|
 |2171|Removing Minimum Number of Magic Beans|[Go](/Algorithms/Go/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].go), [Java](/Algorithms/Java/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].java)|Medium|
 |2187|Minimum Time to Complete Trips|[Go](/Algorithms/Go/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].go), [Java](/Algorithms/Java/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].java)|Medium|
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
