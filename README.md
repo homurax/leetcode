@@ -958,6 +958,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1963|Minimum Number of Swaps to Make the String Balanced|[Java](/Algorithms/Java/medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced_[Medium].java)|Medium|
 |1968|Array With Elements Not Equal to Average of Neighbors|[Java](/Algorithms/Java/medium/1968_Array_With_Elements_Not_Equal_to_Average_of_Neighbors_[Medium].java)|Medium|
 |1975|Maximum Matrix Sum|[Go](/Algorithms/Go/medium/1975_Maximum_Matrix_Sum_[Medium].go), [Java](/Algorithms/Java/medium/1975_Maximum_Matrix_Sum_[Medium].java)|Medium|
+|1976|Number of Ways to Arrive at Destination|[Java](/Algorithms/Java/medium/1976_Number_of_Ways_to_Arrive_at_Destination_[Medium].java)|Medium|
 |1980|Find Unique Binary String|[Java](/Algorithms/Java/medium/1980_Find_Unique_Binary_String_[Medium].java)|Medium|
 |1981|Minimize the Difference Between Target and Chosen Elements|[Go](/Algorithms/Go/medium/1981_Minimize_the_Difference_Between_Target_and_Chosen_Elements_[Medium].go), [Java](/Algorithms/Java/medium/1981_Minimize_the_Difference_Between_Target_and_Chosen_Elements_[Medium].java)|Medium|
 |1985|Find the Kth Largest Integer in the Array|[Go](/Algorithms/Go/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].go), [Java](/Algorithms/Java/medium/1985_Find_the_Kth_Largest_Integer_in_the_Array_[Medium].java)|Medium|
