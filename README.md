@@ -993,6 +993,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2101|Detonate the Maximum Bombs|[Go](/Algorithms/Go/medium/2101_Detonate_the_Maximum_Bombs_[Medium].go), [Java](/Algorithms/Java/medium/2101_Detonate_the_Maximum_Bombs_[Medium].java)|Medium|
 |2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
 |2115|Find All Possible Recipes from Given Supplies|[Go](/Algorithms/Go/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].go), [Java](/Algorithms/Java/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].java)|Medium|
+|2116|Check if a Parentheses String Can Be Valid|[Go](/Algorithms/Go/medium/2116_Check_if_a_Parentheses_String_Can_Be_Valid_[Medium].go), [Java](/Algorithms/Java/medium/2116_Check_if_a_Parentheses_String_Can_Be_Valid_[Medium].java)|Medium|
 |2121|Intervals Between Identical Elements|[Go](/Algorithms/Go/medium/2121_Intervals_Between_Identical_Elements_[Medium].go), [Java](/Algorithms/Java/medium/2121_Intervals_Between_Identical_Elements_[Medium].java)|Medium|
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2131|Longest Palindrome by Concatenating Two Letter Words|[Go](/Algorithms/Go/medium/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words_[Medium].go), [Java](/Algorithms/Java/medium/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words_[Medium].java)|Medium|
