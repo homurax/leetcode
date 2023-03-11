@@ -217,6 +217,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |300|Longest Increasing Subsequence|[Java](/Algorithms/Java/medium/0300_Longest_Increasing_Subsequence_[Medium].java)|Medium|
 |303|Range Sum Query - Immutable|[Java](/Algorithms/Java/easy/0303_Range_Sum_Query_-_Immutable_[Easy].java)|Easy|
 |304|Range Sum Query 2D - Immutable|[Java](/Algorithms/Java/medium/0304_Range_Sum_Query_2D_-_Immutable_[Medium].java)|Medium|
+|306|Additive Number|[Java](/Algorithms/Java/medium/0306_Additive_Number_[Medium].java)|Medium|
 |307|Range Sum Query - Mutable|[Java](/Algorithms/Java/medium/0307_Range_Sum_Query_-_Mutable_[Medium].java)|Medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|[Java](/Algorithms/Java/medium/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_[Medium].java)|Medium|
 |310|Minimum Height Trees|[Java](/Algorithms/Java/medium/0310_Minimum_Height_Trees_[Medium].java)|Medium|
