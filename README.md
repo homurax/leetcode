@@ -260,6 +260,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |395|Longest Substring with At Least K Repeating Characters|[Java](/Algorithms/Java/medium/0395_Longest_Substring_with_At_Least_K_Repeating_Characters_[Medium].java)|Medium|
 |396|Rotate Function|[Go](/Algorithms/Go/medium/0396_Rotate_Function_[Medium].go), [Java](/Algorithms/Java/medium/0396_Rotate_Function_[Medium].java)|Medium|
 |397|Integer Replacement|[Go](/Algorithms/Go/medium/0397_Integer_Replacement_[Medium].go), [Java](/Algorithms/Java/medium/0397_Integer_Replacement_[Medium].java)|Medium|
+|402|Remove K Digits|[Go](/Algorithms/Go/medium/0402_Remove_K_Digits_[Medium].go), [Java](/Algorithms/Java/medium/0402_Remove_K_Digits_[Medium].java)|Medium|
 |404|Sum of Left Leaves|[Java](/Algorithms/Java/easy/0404_Sum_of_Left_Leaves_[Easy].java)|Easy|
 |405|Convert a Number to Hexadecimal|[Java](/Algorithms/Java/easy/0405_Convert_a_Number_to_Hexadecimal_[Easy].java)|Easy|
 |406|Queue Reconstruction by Height|[Java](/Algorithms/Java/easy/0406_Queue_Reconstruction_by_Height_[Easy].java)|Easy|
