@@ -917,6 +917,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1807|Evaluate the Bracket Pairs of a String|[Java](/Algorithms/Java/medium/1807_Evaluate_the_Bracket_Pairs_of_a_String_[Medium].java)|Medium|
 |1813|Sentence Similarity III|[Go](/Algorithms/Go/medium/1813_Sentence_Similarity_III_[Medium].go), [Java](/Algorithms/Java/medium/1813_Sentence_Similarity_III_[Medium].java)|Medium|
 |1817|Finding the Users Active Minutes|[Java](/Algorithms/Java/medium/1817_Finding_the_Users_Active_Minutes_[Medium].java)|Medium|
+|1818|Minimum Absolute Sum Difference|[Java](/Algorithms/Java/medium/1818_Minimum_Absolute_Sum_Difference_[Medium].java)|Medium|
 |1823|Find the Winner of the Circular Game|[Java](/Algorithms/Java/medium/1823_Find_the_Winner_of_the_Circular_Game_[Medium].java)|Medium|
 |1824|Minimum Sideway Jumps|[Java](/Algorithms/Java/medium/1824_Minimum_Sideway_Jumps_[Medium].java)|Medium|
 |1833|Maximum Ice Cream Bars|[Java](/Algorithms/Java/medium/1833_Maximum_Ice_Cream_Bars_[Medium].java)|Medium|
