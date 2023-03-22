@@ -888,6 +888,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1701|Average Waiting Time|[Java](/Algorithms/Java/medium/1701_Average_Waiting_Time_[Medium].java)|Medium|
 |1702|Maximum Binary String After Change|[Go](/Algorithms/Go/medium/1702_Maximum_Binary_String_After_Change_[Medium].go), [Java](/Algorithms/Java/medium/1702_Maximum_Binary_String_After_Change_[Medium].java)|Medium|
 |1705|Maximum Number of Eaten Apples|[Java](/Algorithms/Java/medium/1705_Maximum_Number_of_Eaten_Apples_[Medium].java)|Medium|
+|1711|Count Good Meals|[Go](/Algorithms/Go/medium/1711_Count_Good_Meals_[Medium].go), [Java](/Algorithms/Java/medium/1711_Count_Good_Meals_[Medium].java)|Medium|
 |1712|Ways to Split Array Into Three Subarrays|[Go](/Algorithms/Go/medium/1712_Ways_to_Split_Array_Into_Three_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/1712_Ways_to_Split_Array_Into_Three_Subarrays_[Medium].java)|Medium|
 |1717|Maximum Score From Removing Substrings|[Java](/Algorithms/Java/medium/1717_Maximum_Score_From_Removing_Substrings_[Medium].java)|Medium|
 |1718|Construct the Lexicographically Largest Valid Sequence|[Java](/Algorithms/Java/medium/1718_Construct_the_Lexicographically_Largest_Valid_Sequence_[Medium].java)|Medium|
