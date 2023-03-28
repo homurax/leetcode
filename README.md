@@ -670,6 +670,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1190|Reverse Substrings Between Each Pair of Parentheses|[Java](/Algorithms/Java/medium/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses_[Medium].java)|Medium|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
+|1201|Ugly Number III|[Go](/Algorithms/Go/medium/1201_Ugly_Number_III_[Medium].go), [Java](/Algorithms/Java/medium/1201_Ugly_Number_III_[Medium].java)|Medium|
 |1202|Smallest String With Swaps|[Java](/Algorithms/Java/medium/1202_Smallest_String_With_Swaps_[Medium].java)|Medium|
 |1207|Unique Number of Occurrences|[Java](/Algorithms/Java/easy/1207_Unique_Number_of_Occurrences_[Easy].java)|Easy|
 |1208|Get Equal Substrings Within Budget|[Java](/Algorithms/Java/medium/1208_Get_Equal_Substrings_Within_Budget_[Medium].java)|Medium|
