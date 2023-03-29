@@ -1041,3 +1041,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2555|Maximize Win From Two Segments|[Go](/Algorithms/Go/medium/2555_Maximize_Win_From_Two_Segments_[Medium].go), [Java](/Algorithms/Java/medium/2555_Maximize_Win_From_Two_Segments_[Medium].java)|Medium|
 |2563|Count the Number of Fair Pairs|[Go](/Algorithms/Go/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].java)|Medium|
 |2575|Find the Divisibility Array of a String|[Go](/Algorithms/Go/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].java)|Medium|
+|2597|The Number of Beautiful Subsets|[Go](/Algorithms/Go/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].go), [Java](/Algorithms/Java/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].java)|Medium|
