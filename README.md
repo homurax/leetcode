@@ -329,6 +329,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |519|Random Flip Matrix|[Java](/Algorithms/Java/medium/0519_Random_Flip_Matrix_[Medium].java)|Medium|
 |520|Detect Capital|[Java](/Algorithms/Java/easy/0520_Detect_Capital_[Easy].java)|Easy|
 |521|Longest Uncommon Subsequence I|[Java](/Algorithms/Java/easy/0521_Longest_Uncommon_Subsequence_I_[Easy].java)|Easy|
+|523|Continuous Subarray Sum|[Go](/Algorithms/Go/medium/0523_Continuous_Subarray_Sum_[Medium].go), [Java](/Algorithms/Java/medium/0523_Continuous_Subarray_Sum_[Medium].java)|Medium|
 |524|Longest Word in Dictionary through Deleting|[Java](/Algorithms/Java/medium/0524_Longest_Word_in_Dictionary_through_Deleting_[Medium].java)|Medium|
 |525|Contiguous Array|[Java](/Algorithms/Java/medium/0525_Contiguous_Array_[Medium].java)|Medium|
 |526|Beautiful Arrangement|[Java](/Algorithms/Java/medium/0526_Beautiful_Arrangement_[Medium].java)|Medium|
