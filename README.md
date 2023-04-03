@@ -507,6 +507,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |875|Koko Eating Bananas|[Java](/Algorithms/Java/medium/0875_Koko_Eating_Bananas_[Medium].java)|Medium|
 |876|Middle of the Linked List|[Java](/Algorithms/Java/easy/0876_Middle_of_the_Linked_List_[Easy].java)|Easy|
 |877|Stone Game|[Java](/Algorithms/Java/medium/0877_Stone_Game_[Medium].java)|Medium|
+|880|Decoded String at Index|[Go](/Algorithms/Go/medium/0880_Decoded_String_at_Index_[Medium].go), [Java](/Algorithms/Java/medium/0880_Decoded_String_at_Index_[Medium].java)|Medium|
 |881|Boats to Save People|[Java](/Algorithms/Java/medium/0881_Boats_to_Save_People_[Medium].java)|Medium|
 |883|Projection Area of 3D Shapes|[Java](/Algorithms/Java/easy/0883_Projection_Area_of_3D_Shapes_[Easy].java)|Easy|
 |884|Uncommon Words from Two Sentences|[Java](/Algorithms/Java/easy/0884_Uncommon_Words_from_Two_Sentences_[Easy].java)|Easy|
