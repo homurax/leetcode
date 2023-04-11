@@ -417,6 +417,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |703|Kth Largest Element in a Stream|[Java](/Algorithms/Java/easy/0703_Kth_Largest_Element_in_a_Stream_[Easy].java)|Easy|
 |705|Design HashSet|[Java](/Algorithms/Java/easy/0705_Design_HashSet_[Easy].java)|Easy|
 |706|Design HashMap|[Java](/Algorithms/Java/easy/0706_Design_HashMap_[Easy].java)|Easy|
+|707|Design Linked List|[Java](/Algorithms/Java/medium/0707_Design_Linked_List_[Medium].java)|Medium|
 |709|To Lower Case|[Java](/Algorithms/Java/easy/0709_To_Lower_Case_[Easy].java), [Python](/Algorithms/Python/easy/0709_To_Lower_Case_[Easy].py)|Easy|
 |712|Minimum ASCII Delete Sum for Two Strings|[Java](/Algorithms/Java/medium/0712_Minimum_ASCII_Delete_Sum_for_Two_Strings_[Medium].java)|Medium|
 |713|Subarray Product Less Than K|[Java](/Algorithms/Java/medium/0713_Subarray_Product_Less_Than_K_[Medium].java)|Medium|
