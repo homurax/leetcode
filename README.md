@@ -821,6 +821,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1481|Least Number of Unique Integers after K Removals|[Java](/Algorithms/Java/medium/1481_Least_Number_of_Unique_Integers_after_K_Removals_[Medium].java)|Medium|
 |1482|Minimum Number of Days to Make m Bouquets|[Java](/Algorithms/Java/medium/1482_Minimum_Number_of_Days_to_Make_m_Bouquets_[Medium].java)|Medium|
 |1486|XOR Operation in an Array|[Java](/Algorithms/Java/easy/1486_XOR_Operation_in_an_Array_[Easy].java)|Easy|
+|1488|Avoid Flood in The City|[Java](/Algorithms/Java/medium/1488_Avoid_Flood_in_The_City_[Medium].java)|Medium|
 |1491|Average Salary Excluding the Minimum and Maximum Salary|[Java](/Algorithms/Java/easy/1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary_[Easy].java)|Easy|
 |1492|The kth Factor of n|[Java](/Algorithms/Java/medium/1492_The_kth_Factor_of_n_[Medium].java)|Medium|
 |1493|Longest Subarray of 1's After Deleting One Element|[Java](/Algorithms/Java/medium/1493_Longest_Subarray_of_1's_After_Deleting_One_Element_[Medium].java)|Medium|
