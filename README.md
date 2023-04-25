@@ -889,6 +889,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1680|Concatenation of Consecutive Binary Numbers|[Java](/Algorithms/Java/medium/1680_Concatenation_of_Consecutive_Binary_Numbers_[Medium].java)|Medium|
 |1685|Sum of Absolute Differences in a Sorted Array|[Java](/Algorithms/Java/medium/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array_[Medium].java)|Medium|
 |1686|Stone Game VI|[Java](/Algorithms/Java/medium/1686_Stone_Game_VI_[Medium].java)|Medium|
+|1689|Partitioning Into Minimum Number Of Deci-Binary Numbers|[Go](/Algorithms/Go/medium/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers_[Medium].java)|Medium|
 |1690|Stone Game VII|[Java](/Algorithms/Java/medium/1690_Stone_Game_VII_[Medium].java)|Medium|
 |1695|Maximum Erasure Value|[Java](/Algorithms/Java/medium/1695_Maximum_Erasure_Value_[Medium].java)|Medium|
 |1696|Jump Game VI|[Go](/Algorithms/Go/medium/1696_Jump_Game_VI_[Medium].go), [Java](/Algorithms/Java/medium/1696_Jump_Game_VI_[Medium].java)|Medium|
