@@ -817,6 +817,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1471|The k Strongest Values in an Array|[Java](/Algorithms/Java/medium/1471_The_k_Strongest_Values_in_an_Array_[Medium].java)|Medium|
 |1472|Design Browser History|[Java](/Algorithms/Java/medium/1472_Design_Browser_History_[Medium].java)|Medium|
 |1475|Final Prices With a Special Discount in a Shop|[Java](/Algorithms/Java/easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop_[Easy].java)|Easy|
+|1476|Subrectangle Queries|[Go](/Algorithms/Go/medium/1476_Subrectangle_Queries_[Medium].go), [Java](/Algorithms/Java/medium/1476_Subrectangle_Queries_[Medium].java)|Medium|
 |1477|Find Two Non-overlapping Sub-arrays Each With Target Sum|[Java](/Algorithms/Java/medium/1477_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum_[Medium].java)|Medium|
 |1480|Running Sum of 1d Array|[Java](/Algorithms/Java/easy/1480_Running_Sum_of_1d_Array_[Easy].java)|Easy|
 |1481|Least Number of Unique Integers after K Removals|[Java](/Algorithms/Java/medium/1481_Least_Number_of_Unique_Integers_after_K_Removals_[Medium].java)|Medium|
