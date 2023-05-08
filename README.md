@@ -1062,5 +1062,6 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2563|Count the Number of Fair Pairs|[Go](/Algorithms/Go/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].java)|Medium|
 |2575|Find the Divisibility Array of a String|[Go](/Algorithms/Go/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].java)|Medium|
 |2597|The Number of Beautiful Subsets|[Go](/Algorithms/Go/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].go), [Java](/Algorithms/Java/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].java)|Medium|
+|2610|Convert an Array Into a 2D Array With Conditions|[Go](/Algorithms/Go/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].go), [Java](/Algorithms/Java/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].java)|Medium|
 |2615|Sum of Distances|[Go](/Algorithms/Go/medium/2615_Sum_of_Distances_[Medium].go), [Java](/Algorithms/Java/medium/2615_Sum_of_Distances_[Medium].java)|Medium|
 |2616|Minimize the Maximum Difference of Pairs|[Go](/Algorithms/Go/medium/2616_Minimize_the_Maximum_Difference_of_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2616_Minimize_the_Maximum_Difference_of_Pairs_[Medium].java)|Medium|
