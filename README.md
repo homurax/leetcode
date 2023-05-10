@@ -1037,6 +1037,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
 |2250|Count Number of Rectangles Containing Each Point|[Go](/Algorithms/Go/medium/2250_Count_Number_of_Rectangles_Containing_Each_Point_[Medium].go), [Java](/Algorithms/Java/medium/2250_Count_Number_of_Rectangles_Containing_Each_Point_[Medium].java)|Medium|
 |2256|Minimum Average Difference|[Go](/Algorithms/Go/medium/2256_Minimum_Average_Difference_[Medium].go), [Java](/Algorithms/Java/medium/2256_Minimum_Average_Difference_[Medium].java)|Medium|
+|2265|Count Nodes Equal to Average of Subtree|[Go](/Algorithms/Go/medium/2265_Count_Nodes_Equal_to_Average_of_Subtree_[Medium].go), [Java](/Algorithms/Java/medium/2265_Count_Nodes_Equal_to_Average_of_Subtree_[Medium].java)|Medium|
 |2270|Number of Ways to Split Array|[Go](/Algorithms/Go/medium/2270_Number_of_Ways_to_Split_Array_[Medium].go), [Java](/Algorithms/Java/medium/2270_Number_of_Ways_to_Split_Array_[Medium].java)|Medium|
 |2271|Maximum White Tiles Covered by a Carpet|[Go](/Algorithms/Go/medium/2271_Maximum_White_Tiles_Covered_by_a_Carpet_[Medium].go), [Java](/Algorithms/Java/medium/2271_Maximum_White_Tiles_Covered_by_a_Carpet_[Medium].java)|Medium|
 |2289|Steps to Make Array Non-decreasing|[Java](/Algorithms/Java/medium/2289_Steps_to_Make_Array_Non-decreasing_[Medium].java)|Medium|
