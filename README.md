@@ -1019,6 +1019,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2145|Count the Hidden Sequences|[Go](/Algorithms/Go/medium/2145_Count_the_Hidden_Sequences_[Medium].go), [Java](/Algorithms/Java/medium/2145_Count_the_Hidden_Sequences_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
+|2161|Partition Array According to Given Pivot|[Go](/Algorithms/Go/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].go), [Java](/Algorithms/Java/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].java)|Medium|
 |2166|Design Bitset|[Go](/Algorithms/Go/medium/2166_Design_Bitset_[Medium].go), [Java](/Algorithms/Java/medium/2166_Design_Bitset_[Medium].java)|Medium|
 |2171|Removing Minimum Number of Magic Beans|[Go](/Algorithms/Go/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].go), [Java](/Algorithms/Java/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].java)|Medium|
 |2181|Merge Nodes in Between Zeros|[Go](/Algorithms/Go/medium/2181_Merge_Nodes_in_Between_Zeros_[Medium].go), [Java](/Algorithms/Java/medium/2181_Merge_Nodes_in_Between_Zeros_[Medium].java)|Medium|
