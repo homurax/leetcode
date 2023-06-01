@@ -1038,6 +1038,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2208|Minimum Operations to Halve Array Sum|[Go](/Algorithms/Go/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].java)|Medium|
 |2211|Count Collisions on a Road|[Go](/Algorithms/Go/medium/2211_Count_Collisions_on_a_Road_[Medium].go), [Java](/Algorithms/Java/medium/2211_Count_Collisions_on_a_Road_[Medium].java)|Medium|
 |2216|Minimum Deletions to Make Array Beautiful|[Go](/Algorithms/Go/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2216_Minimum_Deletions_to_Make_Array_Beautiful_[Medium].java)|Medium|
+|2221|Find Triangular Sum of an Array|[Go](/Algorithms/Go/medium/2221_Find_Triangular_Sum_of_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2221_Find_Triangular_Sum_of_an_Array_[Medium].java)|Medium|
 |2226|Maximum Candies Allocated to K Children|[Go](/Algorithms/Go/medium/2226_Maximum_Candies_Allocated_to_K_Children_[Medium].go), [Java](/Algorithms/Java/medium/2226_Maximum_Candies_Allocated_to_K_Children_[Medium].java)|Medium|
 |2233|Maximum Product After K Increments|[Go](/Algorithms/Go/medium/2233_Maximum_Product_After_K_Increments_[Medium].go), [Java](/Algorithms/Java/medium/2233_Maximum_Product_After_K_Increments_[Medium].java)|Medium|
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
