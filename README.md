@@ -934,6 +934,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1823|Find the Winner of the Circular Game|[Java](/Algorithms/Java/medium/1823_Find_the_Winner_of_the_Circular_Game_[Medium].java)|Medium|
 |1824|Minimum Sideway Jumps|[Java](/Algorithms/Java/medium/1824_Minimum_Sideway_Jumps_[Medium].java)|Medium|
 |1828|Queries on Number of Points Inside a Circle|[Go](/Algorithms/Go/medium/1828_Queries_on_Number_of_Points_Inside_a_Circle_[Medium].go), [Java](/Algorithms/Java/medium/1828_Queries_on_Number_of_Points_Inside_a_Circle_[Medium].java)|Medium|
+|1829|Maximum XOR for Each Query|[Go](/Algorithms/Go/medium/1829_Maximum_XOR_for_Each_Query_[Medium].go), [Java](/Algorithms/Java/medium/1829_Maximum_XOR_for_Each_Query_[Medium].java)|Medium|
 |1833|Maximum Ice Cream Bars|[Java](/Algorithms/Java/medium/1833_Maximum_Ice_Cream_Bars_[Medium].java)|Medium|
 |1834|Single-Threaded CPU|[Go](/Algorithms/Go/medium/1834_Single-Threaded_CPU_[Medium].go), [Java](/Algorithms/Java/medium/1834_Single-Threaded_CPU_[Medium].java)|Medium|
 |1838|Frequency of the Most Frequent Element|[Java](/Algorithms/Java/medium/1838_Frequency_of_the_Most_Frequent_Element_[Medium].java)|Medium|
