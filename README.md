@@ -630,6 +630,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1052|Grumpy Bookstore Owner|[Java](/Algorithms/Java/medium/1052_Grumpy_Bookstore_Owner_[Medium].java)|Medium|
 |1053|Previous Permutation With One Swap|[Java](/Algorithms/Java/medium/1053_Previous_Permutation_With_One_Swap_[Medium].java)|Medium|
 |1054|Distant Barcodes|[Java](/Algorithms/Java/medium/1054_Distant_Barcodes_[Medium].java)|Medium|
+|1061|Lexicographically Smallest Equivalent String|[Go](/Algorithms/Go/medium/1061_Lexicographically_Smallest_Equivalent_String_[Medium].go), [Java](/Algorithms/Java/medium/1061_Lexicographically_Smallest_Equivalent_String_[Medium].java)|Medium|
 |1071|Greatest Common Divisor of Strings|[Java](/Algorithms/Java/easy/1071_Greatest_Common_Divisor_of_Strings_[Easy].java)|Easy|
 |1072|Flip Columns For Maximum Number of Equal Rows|[Java](/Algorithms/Java/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
 |1078|Occurrences After Bigram|[Java](/Algorithms/Java/easy/1078_Occurrences_After_Bigram_[Easy].java)|Easy|
