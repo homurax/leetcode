@@ -1065,6 +1065,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2359|Find Closest Node to Given Two Nodes|[Go](/Algorithms/Go/medium/2359_Find_Closest_Node_to_Given_Two_Nodes_[Medium].go), [Java](/Algorithms/Java/medium/2359_Find_Closest_Node_to_Given_Two_Nodes_[Medium].java)|Medium|
 |2364|Count Number of Bad Pairs|[Go](/Algorithms/Go/medium/2364_Count_Number_of_Bad_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2364_Count_Number_of_Bad_Pairs_[Medium].java)|Medium|
 |2370|Longest Ideal Subsequence|[Go](/Algorithms/Go/medium/2370_Longest_Ideal_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2370_Longest_Ideal_Subsequence_[Medium].java)|Medium|
+|2375|Construct Smallest Number From DI String|[Go](/Algorithms/Go/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].go), [Java](/Algorithms/Java/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].java)|Medium|
 |2381|Shifting Letters II|[Go](/Algorithms/Go/medium/2381_Shifting_Letters_II_[Medium].go), [Java](/Algorithms/Java/medium/2381_Shifting_Letters_II_[Medium].java)|Medium|
 |2384|Largest Palindromic Number|[Go](/Algorithms/Go/medium/2384_Largest_Palindromic_Number_[Medium].go), [Java](/Algorithms/Java/medium/2384_Largest_Palindromic_Number_[Medium].java)|Medium|
 |2391|Minimum Amount of Time to Collect Garbage|[Go](/Algorithms/Go/medium/2391_Minimum_Amount_of_Time_to_Collect_Garbage_[Medium].go), [Java](/Algorithms/Java/medium/2391_Minimum_Amount_of_Time_to_Collect_Garbage_[Medium].java)|Medium|
