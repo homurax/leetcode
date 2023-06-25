@@ -790,6 +790,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1414|Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[Java](/Algorithms/Java/medium/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K_[Medium].java)|Medium|
 |1415|The k-th Lexicographical String of All Happy Strings of Length n|[Java](/Algorithms/Java/medium/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n_[Medium].java)|Medium|
 |1417|Reformat The String|[Java](/Algorithms/Java/easy/1417_Reformat_The_String_[Easy].java)|Easy|
+|1418|Display Table of Food Orders in a Restaurant|[Go](/Algorithms/Go/medium/1418_Display_Table_of_Food_Orders_in_a_Restaurant_[Medium].go), [Java](/Algorithms/Java/medium/1418_Display_Table_of_Food_Orders_in_a_Restaurant_[Medium].java)|Medium|
 |1419|Minimum Number of Frogs Croaking|[Java](/Algorithms/Java/medium/1419_Minimum_Number_of_Frogs_Croaking_[Medium].java)|Medium|
 |1422|Maximum Score After Splitting a String|[Java](/Algorithms/Java/easy/1422_Maximum_Score_After_Splitting_a_String_[Easy].java)|Easy|
 |1423|Maximum Points You Can Obtain from Cards|[Java](/Algorithms/Java/medium/1423_Maximum_Points_You_Can_Obtain_from_Cards_[Medium].java)|Medium|
