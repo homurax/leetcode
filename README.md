@@ -995,6 +995,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2011|Final Value of Variable After Performing Operations|[Go](/Algorithms/Go/easy/2011_Final_Value_of_Variable_After_Performing_Operations_[Easy].go)|Easy|
 |2012|Sum of Beauty in the Array|[Java](/Algorithms/Java/medium/2012_Sum_of_Beauty_in_the_Array_[Medium].java)|Medium|
 |2017|Grid Game|[Go](/Algorithms/Go/medium/2017_Grid_Game_[Medium].go), [Java](/Algorithms/Java/medium/2017_Grid_Game_[Medium].java)|Medium|
+|2023|Number of Pairs of Strings With Concatenation Equal to Target|[Go](/Algorithms/Go/medium/2023_Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target_[Medium].go), [Java](/Algorithms/Java/medium/2023_Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target_[Medium].java)|Medium|
 |2024|Maximize the Confusion of an Exam|[Java](/Algorithms/Java/medium/2024_Maximize_the_Confusion_of_an_Exam_[Medium].java)|Medium|
 |2028|Find Missing Observations|[Go](/Algorithms/Go/medium/2028_Find_Missing_Observations_[Medium].go), [Java](/Algorithms/Java/medium/2028_Find_Missing_Observations_[Medium].java)|Medium|
 |2033|Minimum Operations to Make a Uni-Value Grid|[Java](/Algorithms/Java/medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid_[Medium].java)|Medium|
