@@ -1070,6 +1070,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2375|Construct Smallest Number From DI String|[Go](/Algorithms/Go/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].go), [Java](/Algorithms/Java/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].java)|Medium|
 |2381|Shifting Letters II|[Go](/Algorithms/Go/medium/2381_Shifting_Letters_II_[Medium].go), [Java](/Algorithms/Java/medium/2381_Shifting_Letters_II_[Medium].java)|Medium|
 |2384|Largest Palindromic Number|[Go](/Algorithms/Go/medium/2384_Largest_Palindromic_Number_[Medium].go), [Java](/Algorithms/Java/medium/2384_Largest_Palindromic_Number_[Medium].java)|Medium|
+|2390|Removing Stars From a String|[Go](/Algorithms/Go/medium/2390_Removing_Stars_From_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2390_Removing_Stars_From_a_String_[Medium].java)|Medium|
 |2391|Minimum Amount of Time to Collect Garbage|[Go](/Algorithms/Go/medium/2391_Minimum_Amount_of_Time_to_Collect_Garbage_[Medium].go), [Java](/Algorithms/Java/medium/2391_Minimum_Amount_of_Time_to_Collect_Garbage_[Medium].java)|Medium|
 |2396|Strictly Palindromic Number|[Go](/Algorithms/Go/medium/2396_Strictly_Palindromic_Number_[Medium].go), [Java](/Algorithms/Java/medium/2396_Strictly_Palindromic_Number_[Medium].java)|Medium|
 |2400|Number of Ways to Reach a Position After Exactly k Steps|[Go](/Algorithms/Go/medium/2400_Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps_[Medium].go), [Java](/Algorithms/Java/medium/2400_Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps_[Medium].java)|Medium|
