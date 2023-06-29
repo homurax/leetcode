@@ -1095,3 +1095,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2615|Sum of Distances|[Go](/Algorithms/Go/medium/2615_Sum_of_Distances_[Medium].go), [Java](/Algorithms/Java/medium/2615_Sum_of_Distances_[Medium].java)|Medium|
 |2616|Minimize the Maximum Difference of Pairs|[Go](/Algorithms/Go/medium/2616_Minimize_the_Maximum_Difference_of_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2616_Minimize_the_Maximum_Difference_of_Pairs_[Medium].java)|Medium|
 |2657|Find the Prefix Common Array of Two Arrays|[Go](/Algorithms/Go/medium/2657_Find_the_Prefix_Common_Array_of_Two_Arrays_[Medium].go), [Java](/Algorithms/Java/medium/2657_Find_the_Prefix_Common_Array_of_Two_Arrays_[Medium].java)|Medium|
+|2711|Difference of Number of Distinct Values on Diagonals|[Go](/Algorithms/Go/medium/2711_Difference_of_Number_of_Distinct_Values_on_Diagonals_[Medium].go), [Java](/Algorithms/Java/medium/2711_Difference_of_Number_of_Distinct_Values_on_Diagonals_[Medium].java)|Medium|
