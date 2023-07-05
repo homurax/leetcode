@@ -1039,6 +1039,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
 |2195|Append K Integers With Minimal Sum|[Go](/Algorithms/Go/medium/2195_Append_K_Integers_With_Minimal_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2195_Append_K_Integers_With_Minimal_Sum_[Medium].java)|Medium|
+|2196|Create Binary Tree From Descriptions|[Go](/Algorithms/Go/medium/2196_Create_Binary_Tree_From_Descriptions_[Medium].go), [Java](/Algorithms/Java/medium/2196_Create_Binary_Tree_From_Descriptions_[Medium].java)|Medium|
 |2202|Maximize the Topmost Element After K Moves|[Go](/Algorithms/Go/medium/2202_Maximize_the_Topmost_Element_After_K_Moves_[Medium].go), [Java](/Algorithms/Java/medium/2202_Maximize_the_Topmost_Element_After_K_Moves_[Medium].java)|Medium|
 |2207|Maximize Number of Subsequences in a String|[Go](/Algorithms/Go/medium/2207_Maximize_Number_of_Subsequences_in_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2207_Maximize_Number_of_Subsequences_in_a_String_[Medium].java)|Medium|
 |2208|Minimum Operations to Halve Array Sum|[Go](/Algorithms/Go/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2208_Minimum_Operations_to_Halve_Array_Sum_[Medium].java)|Medium|
