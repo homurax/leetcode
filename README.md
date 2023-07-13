@@ -1036,6 +1036,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2166|Design Bitset|[Go](/Algorithms/Go/medium/2166_Design_Bitset_[Medium].go), [Java](/Algorithms/Java/medium/2166_Design_Bitset_[Medium].java)|Medium|
 |2171|Removing Minimum Number of Magic Beans|[Go](/Algorithms/Go/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].go), [Java](/Algorithms/Java/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].java)|Medium|
 |2181|Merge Nodes in Between Zeros|[Go](/Algorithms/Go/medium/2181_Merge_Nodes_in_Between_Zeros_[Medium].go), [Java](/Algorithms/Java/medium/2181_Merge_Nodes_in_Between_Zeros_[Medium].java)|Medium|
+|2186|Minimum Number of Steps to Make Two Strings Anagram II|[Go](/Algorithms/Go/medium/2186_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II_[Medium].go), [Java](/Algorithms/Java/medium/2186_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II_[Medium].java)|Medium|
 |2187|Minimum Time to Complete Trips|[Go](/Algorithms/Go/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].go), [Java](/Algorithms/Java/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].java)|Medium|
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
