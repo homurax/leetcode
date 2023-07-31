@@ -753,6 +753,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1352|Product of the Last K Numbers|[Java](/Algorithms/Java/medium/1352_Product_of_the_Last_K_Numbers_[Medium].java)|Medium|
 |1353|Maximum Number of Events That Can Be Attended|[Go](/Algorithms/Go/medium/1353_Maximum_Number_of_Events_That_Can_Be_Attended_[Medium].go), [Java](/Algorithms/Java/medium/1353_Maximum_Number_of_Events_That_Can_Be_Attended_[Medium].java)|Medium|
 |1356|Sort Integers by The Number of 1 Bits|[Java](/Algorithms/Java/easy/1356_Sort_Integers_by_The_Number_of_1_Bits_[Easy].java)|Easy|
+|1357|Apply Discount Every n Orders|[Go](/Algorithms/Go/medium/1357_Apply_Discount_Every_n_Orders_[Medium].go), [Java](/Algorithms/Java/medium/1357_Apply_Discount_Every_n_Orders_[Medium].java)|Medium|
 |1358|Number of Substrings Containing All Three Characters|[Java](/Algorithms/Java/medium/1358_Number_of_Substrings_Containing_All_Three_Characters_[Medium].java)|Medium|
 |1360|Number of Days Between Two Dates|[Java](/Algorithms/Java/easy/1360_Number_of_Days_Between_Two_Dates_[Easy].java)|Easy|
 |1361|Validate Binary Tree Nodes|[Go](/Algorithms/Go/medium/1361_Validate_Binary_Tree_Nodes_[Medium].go), [Java](/Algorithms/Java/medium/1361_Validate_Binary_Tree_Nodes_[Medium].java)|Medium|
