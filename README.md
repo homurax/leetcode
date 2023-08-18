@@ -590,6 +590,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |993|Cousins in Binary Tree|[Java](/Algorithms/Java/easy/0993_Cousins_in_Binary_Tree_[Easy].java)|Easy|
 |994|Rotting Oranges|[Java](/Algorithms/Java/easy/0994_Rotting_Oranges_[Easy].java)|Easy|
 |997|Find the Town Judge|[Java](/Algorithms/Java/easy/0997_Find_the_Town_Judge_[Easy].java)|Easy|
+|998|Maximum Binary Tree II|[Go](/Algorithms/Go/medium/0998_Maximum_Binary_Tree_II_[Medium].go), [Java](/Algorithms/Java/medium/0998_Maximum_Binary_Tree_II_[Medium].java)|Medium|
 |999|Available Captures for Rook|[Java](/Algorithms/Java/easy/0999_Available_Captures_for_Rook_[Easy].java)|Easy|
 |1002|Find Common Characters|[Java](/Algorithms/Java/easy/1002_Find_Common_Characters_[Easy].java)|Easy|
 |1004|Max Consecutive Ones III|[Java](/Algorithms/Java/medium/1004_Max_Consecutive_Ones_III_[Medium].java)|Medium|
