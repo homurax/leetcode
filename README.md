@@ -1076,6 +1076,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2336|Smallest Number in Infinite Set|[Java](/Algorithms/Java/medium/2336_Smallest_Number_in_Infinite_Set_[Medium].java)|Medium|
 |2352|Equal Row and Column Pairs|[Go](/Algorithms/Go/medium/2352_Equal_Row_and_Column_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2352_Equal_Row_and_Column_Pairs_[Medium].java)|Medium|
 |2353|Design a Food Rating System|[Go](/Algorithms/Go/medium/2353_Design_a_Food_Rating_System_[Medium].go), [Java](/Algorithms/Java/medium/2353_Design_a_Food_Rating_System_[Medium].java)|Medium|
+|2358|Maximum Number of Groups Entering a Competition|[Go](/Algorithms/Go/medium/2358_Maximum_Number_of_Groups_Entering_a_Competition_[Medium].go), [Java](/Algorithms/Java/medium/2358_Maximum_Number_of_Groups_Entering_a_Competition_[Medium].java)|Medium|
 |2359|Find Closest Node to Given Two Nodes|[Go](/Algorithms/Go/medium/2359_Find_Closest_Node_to_Given_Two_Nodes_[Medium].go), [Java](/Algorithms/Java/medium/2359_Find_Closest_Node_to_Given_Two_Nodes_[Medium].java)|Medium|
 |2364|Count Number of Bad Pairs|[Go](/Algorithms/Go/medium/2364_Count_Number_of_Bad_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2364_Count_Number_of_Bad_Pairs_[Medium].java)|Medium|
 |2370|Longest Ideal Subsequence|[Go](/Algorithms/Go/medium/2370_Longest_Ideal_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2370_Longest_Ideal_Subsequence_[Medium].java)|Medium|
