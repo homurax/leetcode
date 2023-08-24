@@ -368,6 +368,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |599|Minimum Index Sum of Two Lists|[Java](/Algorithms/Java/easy/0599_Minimum_Index_Sum_of_Two_Lists_[Easy].java)|Easy|
 |605|Can Place Flowers|[Java](/Algorithms/Java/easy/0605_Can_Place_Flowers_[Easy].java)|Easy|
 |606|Construct String from Binary Tree|[Java](/Algorithms/Java/easy/0606_Construct_String_from_Binary_Tree_[Easy].java)|Easy|
+|609|Find Duplicate File in System|[Go](/Algorithms/Go/medium/0609_Find_Duplicate_File_in_System_[Medium].go), [Java](/Algorithms/Java/medium/0609_Find_Duplicate_File_in_System_[Medium].java)|Medium|
 |611|Valid Triangle Number|[Java](/Algorithms/Java/medium/0611_Valid_Triangle_Number_[Medium].java)|Medium|
 |617|Merge Two Binary Trees|[Java](/Algorithms/Java/easy/0617_Merge_Two_Binary_Trees_[Easy].java)|Easy|
 |621|Task Scheduler|[Java](/Algorithms/Java/medium/0621_Task_Scheduler_[Medium].java)|Medium|
