@@ -1078,6 +1078,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2326|Spiral Matrix IV|[Go](/Algorithms/Go/medium/2326_Spiral_Matrix_IV_[Medium].go), [Java](/Algorithms/Java/medium/2326_Spiral_Matrix_IV_[Medium].java)|Medium|
 |2333|Minimum Sum of Squared Difference|[Java](/Algorithms/Java/medium/2333_Minimum_Sum_of_Squared_Difference_[Medium].java)|Medium|
 |2336|Smallest Number in Infinite Set|[Java](/Algorithms/Java/medium/2336_Smallest_Number_in_Infinite_Set_[Medium].java)|Medium|
+|2348|Number of Zero-Filled Subarrays|[Go](/Algorithms/Go/medium/2348_Number_of_Zero-Filled_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2348_Number_of_Zero-Filled_Subarrays_[Medium].java)|Medium|
 |2352|Equal Row and Column Pairs|[Go](/Algorithms/Go/medium/2352_Equal_Row_and_Column_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2352_Equal_Row_and_Column_Pairs_[Medium].java)|Medium|
 |2353|Design a Food Rating System|[Go](/Algorithms/Go/medium/2353_Design_a_Food_Rating_System_[Medium].go), [Java](/Algorithms/Java/medium/2353_Design_a_Food_Rating_System_[Medium].java)|Medium|
 |2358|Maximum Number of Groups Entering a Competition|[Go](/Algorithms/Go/medium/2358_Maximum_Number_of_Groups_Entering_a_Competition_[Medium].go), [Java](/Algorithms/Java/medium/2358_Maximum_Number_of_Groups_Entering_a_Competition_[Medium].java)|Medium|
