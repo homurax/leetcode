@@ -1058,6 +1058,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2221|Find Triangular Sum of an Array|[Go](/Algorithms/Go/medium/2221_Find_Triangular_Sum_of_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2221_Find_Triangular_Sum_of_an_Array_[Medium].java)|Medium|
 |2225|Find Players With Zero or One Losses|[Go](/Algorithms/Go/medium/2225_Find_Players_With_Zero_or_One_Losses_[Medium].go), [Java](/Algorithms/Java/medium/2225_Find_Players_With_Zero_or_One_Losses_[Medium].java)|Medium|
 |2226|Maximum Candies Allocated to K Children|[Go](/Algorithms/Go/medium/2226_Maximum_Candies_Allocated_to_K_Children_[Medium].go), [Java](/Algorithms/Java/medium/2226_Maximum_Candies_Allocated_to_K_Children_[Medium].java)|Medium|
+|2232|Minimize Result by Adding Parentheses to Expression|[Go](/Algorithms/Go/medium/2232_Minimize_Result_by_Adding_Parentheses_to_Expression_[Medium].go), [Java](/Algorithms/Java/medium/2232_Minimize_Result_by_Adding_Parentheses_to_Expression_[Medium].java)|Medium|
 |2233|Maximum Product After K Increments|[Go](/Algorithms/Go/medium/2233_Maximum_Product_After_K_Increments_[Medium].go), [Java](/Algorithms/Java/medium/2233_Maximum_Product_After_K_Increments_[Medium].java)|Medium|
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
