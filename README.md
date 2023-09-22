@@ -1044,6 +1044,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2145|Count the Hidden Sequences|[Go](/Algorithms/Go/medium/2145_Count_the_Hidden_Sequences_[Medium].go), [Java](/Algorithms/Java/medium/2145_Count_the_Hidden_Sequences_[Medium].java)|Medium|
 |2149|Rearrange Array Elements by Sign|[Go](/Algorithms/Go/medium/2149_Rearrange_Array_Elements_by_Sign_[Medium].go), [Java](/Algorithms/Java/medium/2149_Rearrange_Array_Elements_by_Sign_[Medium].java)|Medium|
+|2155|All Divisions With the Highest Score of a Binary Array|[Go](/Algorithms/Go/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].go), [Java](/Algorithms/Java/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
 |2161|Partition Array According to Given Pivot|[Go](/Algorithms/Go/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].go), [Java](/Algorithms/Java/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].java)|Medium|
 |2166|Design Bitset|[Go](/Algorithms/Go/medium/2166_Design_Bitset_[Medium].go), [Java](/Algorithms/Java/medium/2166_Design_Bitset_[Medium].java)|Medium|
