@@ -1143,3 +1143,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2785|Sort Vowels in a String|[Go](/Algorithms/Go/medium/2785_Sort_Vowels_in_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2785_Sort_Vowels_in_a_String_[Medium].java)|Medium|
 |2799|Count Complete Subarrays in an Array|[Go](/Algorithms/Go/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].java)|Medium|
 |2807|Insert Greatest Common Divisors in Linked List|[Go](/Algorithms/Go/medium/2807_Insert_Greatest_Common_Divisors_in_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2807_Insert_Greatest_Common_Divisors_in_Linked_List_[Medium].java)|Medium|
+|2900|Longest Unequal Adjacent Groups Subsequence I|[Go](/Algorithms/Go/medium/2900_Longest_Unequal_Adjacent_Groups_Subsequence_I_[Medium].go), [Java](/Algorithms/Java/medium/2900_Longest_Unequal_Adjacent_Groups_Subsequence_I_[Medium].java)|Medium|
