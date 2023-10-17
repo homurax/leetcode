@@ -922,6 +922,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1720|Decode XORed Array|[Go](/Algorithms/Go/easy/1720_Decode_XORed_Array_[Easy].go)|Easy|
 |1721|Swapping Nodes in a Linked List|[Java](/Algorithms/Java/medium/1721_Swapping_Nodes_in_a_Linked_List_[Medium].java)|Medium|
 |1726|Tuple with Same Product|[Java](/Algorithms/Java/medium/1726_Tuple_with_Same_Product_[Medium].java)|Medium|
+|1727|Largest Submatrix With Rearrangements|[Go](/Algorithms/Go/medium/1727_Largest_Submatrix_With_Rearrangements_[Medium].go), [Java](/Algorithms/Java/medium/1727_Largest_Submatrix_With_Rearrangements_[Medium].java)|Medium|
 |1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
 |1738|Find Kth Largest XOR Coordinate Value|[Java](/Algorithms/Java/medium/1738_Find_Kth_Largest_XOR_Coordinate_Value_[Medium].java)|Medium|
 |1743|Restore the Array From Adjacent Pairs|[Java](/Algorithms/Java/medium/1743_Restore_the_Array_From_Adjacent_Pairs_[Medium].java)|Medium|
