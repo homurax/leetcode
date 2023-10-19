@@ -380,6 +380,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |623|Add One Row to Tree|[Java](/Algorithms/Java/medium/0623_Add_One_Row_to_Tree_[Medium].java)|Medium|
 |628|Maximum Product of Three Numbers|[Java](/Algorithms/Java/easy/0628_Maximum_Product_of_Three_Numbers_[Easy].java)|Easy|
 |633|Sum of Square Numbers|[Java](/Algorithms/Java/easy/0633_Sum_of_Square_Numbers_[Easy].java)|Easy|
+|636|Exclusive Time of Functions|[Go](/Algorithms/Go/medium/0636_Exclusive_Time_of_Functions_[Medium].go), [Java](/Algorithms/Java/medium/0636_Exclusive_Time_of_Functions_[Medium].java)|Medium|
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
 |638|Shopping Offers|[Java](/Algorithms/Java/medium/0638_Shopping_Offers_[Medium].java)|Medium|
 |641|Design Circular Deque|[Java](/Algorithms/Java/medium/0641_Design_Circular_Deque_[Medium].java)|Medium|
