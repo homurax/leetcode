@@ -350,6 +350,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |543|Diameter of Binary Tree|[Java](/Algorithms/Java/easy/0543_Diameter_of_Binary_Tree_[Easy].java)|Easy|
 |547|Friend Circles|[Java](/Algorithms/Java/medium/0547_Friend_Circles_[Medium].java)|Medium|
 |551|Student Attendance Record I|[Java](/Algorithms/Java/easy/0551_Student_Attendance_Record_I_[Easy].java)|Easy|
+|553|Optimal Division|[Go](/Algorithms/Go/medium/0553_Optimal_Division_[Medium].go), [Java](/Algorithms/Java/medium/0553_Optimal_Division_[Medium].java)|Medium|
 |554|Brick Wall|[Java](/Algorithms/Java/medium/0554_Brick_Wall_[Medium].java)|Medium|
 |556|Next Greater Element III|[Go](/Algorithms/Go/medium/0556_Next_Greater_Element_III_[Medium].go), [Java](/Algorithms/Java/medium/0556_Next_Greater_Element_III_[Medium].java)|Medium|
 |557|Reverse Words in a String III|[Java](/Algorithms/Java/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
