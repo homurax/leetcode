@@ -401,6 +401,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |661|Image Smoother|[Java](/Algorithms/Java/easy/0661_Image_Smoother_[Easy].java)|Easy|
 |662|Maximum Width of Binary Tree|[Java](/Algorithms/Java/medium/0662_Maximum_Width_of_Binary_Tree_[Medium].java)|Medium|
 |665|Non-decreasing Array|[Java](/Algorithms/Java/easy/0665_Non-decreasing_Array_[Easy].java)|Easy|
+|667|Beautiful Arrangement II|[Go](/Algorithms/Go/medium/0667_Beautiful_Arrangement_II_[Medium].go), [Java](/Algorithms/Java/medium/0667_Beautiful_Arrangement_II_[Medium].java)|Medium|
 |669|Trim a Binary Search Tree|[Java](/Algorithms/Java/easy/0669_Trim_a_Binary_Search_Tree_[Easy].java)|Easy|
 |670|Maximum Swap|[Java](/Algorithms/Java/easy/0670_Maximum_Swap_[Easy].java)|Easy|
 |671|Second Minimum Node In a Binary Tree|[Java](/Algorithms/Java/easy/0671_Second_Minimum_Node_In_a_Binary_Tree_[Easy].java)|Easy|
