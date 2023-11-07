@@ -1131,6 +1131,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2483|Minimum Penalty for a Shop|[Go](/Algorithms/Go/medium/2483_Minimum_Penalty_for_a_Shop_[Medium].go), [Java](/Algorithms/Java/medium/2483_Minimum_Penalty_for_a_Shop_[Medium].java)|Medium|
 |2486|Append Characters to String to Make Subsequence|[Go](/Algorithms/Go/medium/2486_Append_Characters_to_String_to_Make_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2486_Append_Characters_to_String_to_Make_Subsequence_[Medium].java)|Medium|
 |2487|Remove Nodes From Linked List|[Go](/Algorithms/Go/medium/2487_Remove_Nodes_From_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2487_Remove_Nodes_From_Linked_List_[Medium].java)|Medium|
+|2491|Divide Players Into Teams of Equal Skill|[Go](/Algorithms/Go/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].go), [Java](/Algorithms/Java/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].java)|Medium|
 |2498|Frog Jump II|[Go](/Algorithms/Go/medium/2498_Frog_Jump_II_[Medium].go), [Java](/Algorithms/Java/medium/2498_Frog_Jump_II_[Medium].java)|Medium|
 |2517|Maximum Tastiness of Candy Basket|[Go](/Algorithms/Go/medium/2517_Maximum_Tastiness_of_Candy_Basket_[Medium].go), [Java](/Algorithms/Java/medium/2517_Maximum_Tastiness_of_Candy_Basket_[Medium].java)|Medium|
 |2527|Find Xor-Beauty of Array|[Go](/Algorithms/Go/medium/2527_Find_Xor-Beauty_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/2527_Find_Xor-Beauty_of_Array_[Medium].java)|Medium|
