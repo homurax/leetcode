@@ -604,6 +604,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |998|Maximum Binary Tree II|[Go](/Algorithms/Go/medium/0998_Maximum_Binary_Tree_II_[Medium].go), [Java](/Algorithms/Java/medium/0998_Maximum_Binary_Tree_II_[Medium].java)|Medium|
 |999|Available Captures for Rook|[Java](/Algorithms/Java/easy/0999_Available_Captures_for_Rook_[Easy].java)|Easy|
 |1002|Find Common Characters|[Java](/Algorithms/Java/easy/1002_Find_Common_Characters_[Easy].java)|Easy|
+|1003|Check If Word Is Valid After Substitutions|[Go](/Algorithms/Go/medium/1003_Check_If_Word_Is_Valid_After_Substitutions_[Medium].go), [Java](/Algorithms/Java/medium/1003_Check_If_Word_Is_Valid_After_Substitutions_[Medium].java)|Medium|
 |1004|Max Consecutive Ones III|[Java](/Algorithms/Java/medium/1004_Max_Consecutive_Ones_III_[Medium].java)|Medium|
 |1005|Maximize Sum Of Array After K Negations|[Java](/Algorithms/Java/easy/1005_Maximize_Sum_Of_Array_After_K_Negations_[Easy].java)|Easy|
 |1007|Minimum Domino Rotations For Equal Row|[Java](/Algorithms/Java/medium/1007_Minimum_Domino_Rotations_For_Equal_Row_[Medium].java)|Medium|
