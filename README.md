@@ -1150,6 +1150,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2640|Find the Score of All Prefixes of an Array|[Go](/Algorithms/Go/medium/2640_Find_the_Score_of_All_Prefixes_of_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2640_Find_the_Score_of_All_Prefixes_of_an_Array_[Medium].java)|Medium|
 |2641|Cousins in Binary Tree II|[Go](/Algorithms/Go/medium/2641_Cousins_in_Binary_Tree_II_[Medium].go), [Java](/Algorithms/Java/medium/2641_Cousins_in_Binary_Tree_II_[Medium].java)|Medium|
 |2657|Find the Prefix Common Array of Two Arrays|[Go](/Algorithms/Go/medium/2657_Find_the_Prefix_Common_Array_of_Two_Arrays_[Medium].go), [Java](/Algorithms/Java/medium/2657_Find_the_Prefix_Common_Array_of_Two_Arrays_[Medium].java)|Medium|
+|2658|Maximum Number of Fish in a Grid|[Go](/Algorithms/Go/medium/2658_Maximum_Number_of_Fish_in_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/2658_Maximum_Number_of_Fish_in_a_Grid_[Medium].java)|Medium|
 |2679|Sum in a Matrix|[Go](/Algorithms/Go/medium/2679_Sum_in_a_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/2679_Sum_in_a_Matrix_[Medium].java)|Medium|
 |2683|Neighboring Bitwise XOR|[Go](/Algorithms/Go/medium/2683_Neighboring_Bitwise_XOR_[Medium].go), [Java](/Algorithms/Java/medium/2683_Neighboring_Bitwise_XOR_[Medium].java)|Medium|
 |2685|Count the Number of Complete Components|[Go](/Algorithms/Go/medium/2685_Count_the_Number_of_Complete_Components_[Medium].go), [Java](/Algorithms/Java/medium/2685_Count_the_Number_of_Complete_Components_[Medium].java)|Medium|
