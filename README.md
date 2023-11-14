@@ -501,6 +501,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |846|Hand of Straights|[Java](/Algorithms/Java/medium/0846_Hand_of_Straights_[Medium].java)|Medium|
 |848|Shifting Letters|[Java](/Algorithms/Java/easy/0848_Shifting_Letters_[Easy].java)|Easy|
 |849|Maximize Distance to Closest Person|[Java](/Algorithms/Java/easy/0849_Maximize_Distance_to_Closest_Person_[Easy].java)|Easy|
+|851|Loud and Rich|[Go](/Algorithms/Go/medium/0851_Loud_and_Rich_[Medium].go), [Java](/Algorithms/Java/medium/0851_Loud_and_Rich_[Medium].java)|Medium|
 |852|Peak Index in a Mountain Array|[Java](/Algorithms/Java/easy/0852_Peak_Index_in_a_Mountain_Array_[Easy].java)|Easy|
 |853|Car Fleet|[Java](/Algorithms/Java/medium/0853_Car_Fleet_[Medium].java)|Medium|
 |855|Exam Room|[Java](/Algorithms/Java/medium/0855_Exam_Room_[Medium].java)|Medium|
