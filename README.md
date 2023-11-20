@@ -1044,6 +1044,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2100|Find Good Days to Rob the Bank|[Java](/Algorithms/Java/medium/2100_Find_Good_Days_to_Rob_the_Bank_[Medium].java)|Medium|
 |2101|Detonate the Maximum Bombs|[Go](/Algorithms/Go/medium/2101_Detonate_the_Maximum_Bombs_[Medium].go), [Java](/Algorithms/Java/medium/2101_Detonate_the_Maximum_Bombs_[Medium].java)|Medium|
 |2104|Sum of Subarray Ranges|[Go](/Algorithms/Go/medium/2104_Sum_of_Subarray_Ranges_[Medium].go), [Java](/Algorithms/Java/medium/2104_Sum_of_Subarray_Ranges_[Medium].java)|Medium|
+|2110|Number of Smooth Descent Periods of a Stock|[Go](/Algorithms/Go/medium/2110_Number_of_Smooth_Descent_Periods_of_a_Stock_[Medium].go), [Java](/Algorithms/Java/medium/2110_Number_of_Smooth_Descent_Periods_of_a_Stock_[Medium].java)|Medium|
 |2114|Maximum Number of Words Found in Sentences|[Go](/Algorithms/Go/easy/2114_Maximum_Number_of_Words_Found_in_Sentences_[Easy].go)|Easy|
 |2115|Find All Possible Recipes from Given Supplies|[Go](/Algorithms/Go/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].go), [Java](/Algorithms/Java/medium/2115_Find_All_Possible_Recipes_from_Given_Supplies_[Medium].java)|Medium|
 |2116|Check if a Parentheses String Can Be Valid|[Go](/Algorithms/Go/medium/2116_Check_if_a_Parentheses_String_Can_Be_Valid_[Medium].go), [Java](/Algorithms/Java/medium/2116_Check_if_a_Parentheses_String_Can_Be_Valid_[Medium].java)|Medium|
