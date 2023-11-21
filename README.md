@@ -1125,6 +1125,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2405|Optimal Partition of String|[Go](/Algorithms/Go/medium/2405_Optimal_Partition_of_String_[Medium].go), [Java](/Algorithms/Java/medium/2405_Optimal_Partition_of_String_[Medium].java)|Medium|
 |2410|Maximum Matching of Players With Trainers|[Go](/Algorithms/Go/medium/2410_Maximum_Matching_of_Players_With_Trainers_[Medium].go), [Java](/Algorithms/Java/medium/2410_Maximum_Matching_of_Players_With_Trainers_[Medium].java)|Medium|
 |2415|Reverse Odd Levels of Binary Tree|[Go](/Algorithms/Go/medium/2415_Reverse_Odd_Levels_of_Binary_Tree_[Medium].go), [Java](/Algorithms/Java/medium/2415_Reverse_Odd_Levels_of_Binary_Tree_[Medium].java)|Medium|
+|2425|Bitwise XOR of All Pairings|[Go](/Algorithms/Go/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].go), [Java](/Algorithms/Java/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].java)|Medium|
 |2428|Maximum Sum of an Hourglass|[Go](/Algorithms/Go/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].go), [Java](/Algorithms/Java/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].java)|Medium|
 |2433|Find The Original Array of Prefix Xor|[Go](/Algorithms/Go/medium/2433_Find_The_Original_Array_of_Prefix_Xor_[Medium].go), [Java](/Algorithms/Java/medium/2433_Find_The_Original_Array_of_Prefix_Xor_[Medium].java)|Medium|
 |2439|Minimize Maximum of Array|[Go](/Algorithms/Go/medium/2439_Minimize_Maximum_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/2439_Minimize_Maximum_of_Array_[Medium].java)|Medium|
