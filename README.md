@@ -101,6 +101,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |83|Remove Duplicates from Sorted List|[Java](/Algorithms/Java/easy/0083_Remove_Duplicates_from_Sorted_List_[Easy].java)|Easy|
 |86|Partition List|[Java](/Algorithms/Java/medium/0086_Partition_List_[Medium].java)|Medium|
 |88|Merge Sorted Array|[Java](/Algorithms/Java/easy/0088_Merge_Sorted_Array_[Easy].java)|Easy|
+|89|Gray Code|[Go](/Algorithms/Go/medium/0089_Gray_Code_[Medium].go), [Java](/Algorithms/Java/medium/0089_Gray_Code_[Medium].java)|Medium|
 |90|Subsets II|[Java](/Algorithms/Java/medium/0090_Subsets_II_[Medium].java)|Medium|
 |91|Decode Ways|[Go](/Algorithms/Go/medium/0091_Decode_Ways_[Medium].go), [Java](/Algorithms/Java/medium/0091_Decode_Ways_[Medium].java)|Medium|
 |92|Reverse Linked List II|[Java](/Algorithms/Java/medium/0092_Reverse_Linked_List_II_[Medium].java)|Medium|
