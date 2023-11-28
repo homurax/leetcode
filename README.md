@@ -635,6 +635,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1035|Uncrossed Lines|[Java](/Algorithms/Java/medium/1035_Uncrossed_Lines_[Medium].java)|Medium|
 |1037|Valid Boomerang|[Java](/Algorithms/Java/easy/1037_Valid_Boomerang_[Easy].java)|Easy|
 |1038|Binary Search Tree to Greater Sum Tree|[Java](/Algorithms/Java/medium/1038_Binary_Search_Tree_to_Greater_Sum_Tree_[Medium].java)|Medium|
+|1039|Minimum Score Triangulation of Polygon|[Go](/Algorithms/Go/medium/1039_Minimum_Score_Triangulation_of_Polygon_[Medium].go), [Java](/Algorithms/Java/medium/1039_Minimum_Score_Triangulation_of_Polygon_[Medium].java)|Medium|
 |1041|Robot Bounded In Circle|[Java](/Algorithms/Java/easy/1041_Robot_Bounded_In_Circle_[Easy].java)|Easy|
 |1042|Flower Planting With No Adjacent|[Java](/Algorithms/Java/easy/1042_Flower_Planting_With_No_Adjacent_[Easy].java)|Easy|
 |1043|Partition Array for Maximum Sum|[Java](/Algorithms/Java/medium/1043_Partition_Array_for_Maximum_Sum_[Medium].java)|Medium|
