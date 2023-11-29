@@ -474,6 +474,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |795|Number of Subarrays with Bounded Maximum|[Java](/Algorithms/Java/medium/0795_Number_of_Subarrays_with_Bounded_Maximum_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
+|799|Champagne Tower|[Go](/Algorithms/Go/medium/0799_Champagne_Tower_[Medium].go), [Java](/Algorithms/Java/medium/0799_Champagne_Tower_[Medium].java)|Medium|
 |801|Minimum Swaps To Make Sequences Increasing|[Java](/Algorithms/Java/medium/0801_Minimum_Swaps_To_Make_Sequences_Increasing_[Medium].java)|Medium|
 |802|Find Eventual Safe States|[Java](/Algorithms/Java/medium/0802_Find_Eventual_Safe_States_[Medium].java)|Medium|
 |804|Unique Morse Code Words|[Java](/Algorithms/Java/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
