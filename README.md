@@ -1100,6 +1100,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2285|Maximum Total Importance of Roads|[Go](/Algorithms/Go/medium/2285_Maximum_Total_Importance_of_Roads_[Medium].go), [Java](/Algorithms/Java/medium/2285_Maximum_Total_Importance_of_Roads_[Medium].java)|Medium|
 |2289|Steps to Make Array Non-decreasing|[Java](/Algorithms/Java/medium/2289_Steps_to_Make_Array_Non-decreasing_[Medium].java)|Medium|
 |2294|Partition Array Such That Maximum Difference Is K|[Go](/Algorithms/Go/medium/2294_Partition_Array_Such_That_Maximum_Difference_Is_K_[Medium].go), [Java](/Algorithms/Java/medium/2294_Partition_Array_Such_That_Maximum_Difference_Is_K_[Medium].java)|Medium|
+|2295|Replace Elements in an Array|[Go](/Algorithms/Go/medium/2295_Replace_Elements_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2295_Replace_Elements_in_an_Array_[Medium].java)|Medium|
 |2300|Successful Pairs of Spells and Potions|[Go](/Algorithms/Go/medium/2300_Successful_Pairs_of_Spells_and_Potions_[Medium].go), [Java](/Algorithms/Java/medium/2300_Successful_Pairs_of_Spells_and_Potions_[Medium].java)|Medium|
 |2304|Minimum Path Cost in a Grid|[Go](/Algorithms/Go/medium/2304_Minimum_Path_Cost_in_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/2304_Minimum_Path_Cost_in_a_Grid_[Medium].java)|Medium|
 |2305|Fair Distribution of Cookies|[Go](/Algorithms/Go/medium/2305_Fair_Distribution_of_Cookies_[Medium].go), [Java](/Algorithms/Java/medium/2305_Fair_Distribution_of_Cookies_[Medium].java)|Medium|
