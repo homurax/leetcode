@@ -1034,6 +1034,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2049|Count Nodes With the Highest Score|[Java](/Algorithms/Java/medium/2049_Count_Nodes_With_the_Highest_Score_[Medium].java)|Medium|
 |2054|Two Best Non-Overlapping Events|[Java](/Algorithms/Java/medium/2054_Two_Best_Non-Overlapping_Events_[Medium].java)|Medium|
 |2055|Plates Between Candles|[Java](/Algorithms/Java/medium/2055_Plates_Between_Candles_[Medium].java)|Medium|
+|2058|Find the Minimum and Maximum Number of Nodes Between Critical Points|[Go](/Algorithms/Go/medium/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points_[Medium].go), [Java](/Algorithms/Java/medium/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points_[Medium].java)|Medium|
 |2059|Minimum Operations to Convert Number|[Java](/Algorithms/Java/medium/2059_Minimum_Operations_to_Convert_Number_[Medium].java)|Medium|
 |2070|Most Beautiful Item for Each Query|[Java](/Algorithms/Java/medium/2070_Most_Beautiful_Item_for_Each_Query_[Medium].java)|Medium|
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
