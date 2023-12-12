@@ -484,6 +484,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |812|Largest Triangle Area|[Java](/Algorithms/Java/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
 |813|Largest Sum of Averages|[Java](/Algorithms/Java/medium/0813_Largest_Sum_of_Averages_[Medium].java)|Medium|
 |814|Binary Tree Pruning|[Java](/Algorithms/Java/medium/0814_Binary_Tree_Pruning_[Medium].java)|Medium|
+|817|Linked List Components|[Go](/Algorithms/Go/medium/0817_Linked_List_Components_[Medium].go), [Java](/Algorithms/Java/medium/0817_Linked_List_Components_[Medium].java)|Medium|
 |819|Most Common Word|[Java](/Algorithms/Java/easy/0819_Most_Common_Word_[Easy].java)|Easy|
 |820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
