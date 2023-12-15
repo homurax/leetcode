@@ -1161,6 +1161,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2568|Minimum Impossible OR|[Go](/Algorithms/Go/medium/2568_Minimum_Impossible_OR_[Medium].go), [Java](/Algorithms/Java/medium/2568_Minimum_Impossible_OR_[Medium].java)|Medium|
 |2575|Find the Divisibility Array of a String|[Go](/Algorithms/Go/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2575_Find_the_Divisibility_Array_of_a_String_[Medium].java)|Medium|
 |2579|Count Total Number of Colored Cells|[Go](/Algorithms/Go/medium/2579_Count_Total_Number_of_Colored_Cells_[Medium].go), [Java](/Algorithms/Java/medium/2579_Count_Total_Number_of_Colored_Cells_[Medium].java)|Medium|
+|2596|Check Knight Tour Configuration|[Go](/Algorithms/Go/medium/2596_Check_Knight_Tour_Configuration_[Medium].go), [Java](/Algorithms/Java/medium/2596_Check_Knight_Tour_Configuration_[Medium].java)|Medium|
 |2597|The Number of Beautiful Subsets|[Go](/Algorithms/Go/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].go), [Java](/Algorithms/Java/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].java)|Medium|
 |2610|Convert an Array Into a 2D Array With Conditions|[Go](/Algorithms/Go/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].go), [Java](/Algorithms/Java/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].java)|Medium|
 |2615|Sum of Distances|[Go](/Algorithms/Go/medium/2615_Sum_of_Distances_[Medium].go), [Java](/Algorithms/Java/medium/2615_Sum_of_Distances_[Medium].java)|Medium|
