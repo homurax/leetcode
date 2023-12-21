@@ -1038,6 +1038,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2058|Find the Minimum and Maximum Number of Nodes Between Critical Points|[Go](/Algorithms/Go/medium/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points_[Medium].go), [Java](/Algorithms/Java/medium/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points_[Medium].java)|Medium|
 |2059|Minimum Operations to Convert Number|[Java](/Algorithms/Java/medium/2059_Minimum_Operations_to_Convert_Number_[Medium].java)|Medium|
 |2070|Most Beautiful Item for Each Query|[Java](/Algorithms/Java/medium/2070_Most_Beautiful_Item_for_Each_Query_[Medium].java)|Medium|
+|2074|Reverse Nodes in Even Length Groups|[Go](/Algorithms/Go/medium/2074_Reverse_Nodes_in_Even_Length_Groups_[Medium].go), [Java](/Algorithms/Java/medium/2074_Reverse_Nodes_in_Even_Length_Groups_[Medium].java)|Medium|
 |2075|Decode the Slanted Ciphertext|[Java](/Algorithms/Java/medium/2075_Decode_the_Slanted_Ciphertext_[Medium].java)|Medium|
 |2079|Watering Plants|[Go](/Algorithms/Go/medium/2079_Watering_Plants_[Medium].go), [Java](/Algorithms/Java/medium/2079_Watering_Plants_[Medium].java)|Medium|
 |2080|Range Frequency Queries|[Go](/Algorithms/Go/medium/2080_Range_Frequency_Queries_[Medium].go), [Java](/Algorithms/Java/medium/2080_Range_Frequency_Queries_[Medium].java)|Medium|
