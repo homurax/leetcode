@@ -861,6 +861,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1513|Number of Substrings With Only 1s|[Java](/Algorithms/Java/medium/1513_Number_of_Substrings_With_Only_1s_[Medium].java)|Medium|
 |1514|Path with Maximum Probability|[Java](/Algorithms/Java/medium/1514_Path_with_Maximum_Probability_[Medium].java)|Medium|
 |1518|Water Bottles|[Java](/Algorithms/Java/easy/1518_Water_Bottles_[Easy].java)|Easy|
+|1519|Number of Nodes in the Sub-Tree With the Same Label|[Go](/Algorithms/Go/medium/1519_Number_of_Nodes_in_the_Sub-Tree_With_the_Same_Label_[Medium].go), [Java](/Algorithms/Java/medium/1519_Number_of_Nodes_in_the_Sub-Tree_With_the_Same_Label_[Medium].java)|Medium|
 |1523|Count Odd Numbers in an Interval Range|[Java](/Algorithms/Java/easy/1523_Count_Odd_Numbers_in_an_Interval_Range_[Easy].java)|Easy|
 |1524|Number of Sub-arrays With Odd Sum|[Java](/Algorithms/Java/medium/1524_Number_of_Sub-arrays_With_Odd_Sum_[Medium].java)|Medium|
 |1525|Number of Good Ways to Split a String|[Java](/Algorithms/Java/medium/1525_Number_of_Good_Ways_to_Split_a_String_[Medium].java)|Medium|
