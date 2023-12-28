@@ -654,6 +654,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1072|Flip Columns For Maximum Number of Equal Rows|[Java](/Algorithms/Java/medium/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows_[Medium].java)|Medium|
 |1078|Occurrences After Bigram|[Java](/Algorithms/Java/easy/1078_Occurrences_After_Bigram_[Easy].java)|Easy|
 |1079|Letter Tile Possibilities|[Java](/Algorithms/Java/medium/1079_Letter_Tile_Possibilities_[Medium].java)|Medium|
+|1080|Insufficient Nodes in Root to Leaf Paths|[Go](/Algorithms/Go/medium/1080_Insufficient_Nodes_in_Root_to_Leaf_Paths_[Medium].go), [Java](/Algorithms/Java/medium/1080_Insufficient_Nodes_in_Root_to_Leaf_Paths_[Medium].java)|Medium|
 |1081|Smallest Subsequence of Distinct Characters|[Java](/Algorithms/Java/medium/1081_Smallest_Subsequence_of_Distinct_Characters_[Medium].java)|Medium|
 |1089|Duplicate Zeros|[Java](/Algorithms/Java/easy/1089_Duplicate_Zeros_[Easy].java)|Easy|
 |1090|Largest Values From Labels|[Java](/Algorithms/Java/medium/1090_Largest_Values_From_Labels_[Medium].java)|Medium|
