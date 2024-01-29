@@ -437,6 +437,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |714|Best Time to Buy and Sell Stock with Transaction Fee|[Java](/Algorithms/Java/medium/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee_[Medium].java)|Medium|
 |717|1-bit and 2-bit Characters|[Java](/Algorithms/Java/easy/0717_1-bit_and_2-bit_Characters_[Easy].java)|Easy|
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
+|720|Longest Word in Dictionary|[Go](/Algorithms/Go/medium/0720_Longest_Word_in_Dictionary_[Medium].go), [Java](/Algorithms/Java/medium/0720_Longest_Word_in_Dictionary_[Medium].java)|Medium|
 |721|Accounts Merge|[Java](/Algorithms/Java/medium/0721_Accounts_Merge_[Medium].java)|Medium|
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
 |725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
