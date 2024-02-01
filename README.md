@@ -1067,6 +1067,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2126|Destroying Asteroids|[Java](/Algorithms/Java/medium/2126_Destroying_Asteroids_[Medium].java)|Medium|
 |2130|Maximum Twin Sum of a Linked List|[Go](/Algorithms/Go/medium/2130_Maximum_Twin_Sum_of_a_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2130_Maximum_Twin_Sum_of_a_Linked_List_[Medium].java)|Medium|
 |2131|Longest Palindrome by Concatenating Two Letter Words|[Go](/Algorithms/Go/medium/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words_[Medium].go), [Java](/Algorithms/Java/medium/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words_[Medium].java)|Medium|
+|2134|Minimum Swaps to Group All 1's Together II|[Go](/Algorithms/Go/medium/2134_Minimum_Swaps_to_Group_All_1's_Together_II_[Medium].go), [Java](/Algorithms/Java/medium/2134_Minimum_Swaps_to_Group_All_1's_Together_II_[Medium].java)|Medium|
 |2135|Count Words Obtained After Adding a Letter|[Go](/Algorithms/Go/medium/2135_Count_Words_Obtained_After_Adding_a_Letter_[Medium].go), [Java](/Algorithms/Java/medium/2135_Count_Words_Obtained_After_Adding_a_Letter_[Medium].java)|Medium|
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
