@@ -1088,6 +1088,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2186|Minimum Number of Steps to Make Two Strings Anagram II|[Go](/Algorithms/Go/medium/2186_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II_[Medium].go), [Java](/Algorithms/Java/medium/2186_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II_[Medium].java)|Medium|
 |2187|Minimum Time to Complete Trips|[Go](/Algorithms/Go/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].go), [Java](/Algorithms/Java/medium/2187_Minimum_Time_to_Complete_Trips_[Medium].java)|Medium|
 |2191|Sort the Jumbled Numbers|[Go](/Algorithms/Go/medium/2191_Sort_the_Jumbled_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/2191_Sort_the_Jumbled_Numbers_[Medium].java)|Medium|
+|2192|All Ancestors of a Node in a Directed Acyclic Graph|[Java](/Algorithms/Java/medium/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph_[Medium].java)|Medium|
 |2194|Cells in a Range on an Excel Sheet|[Go](/Algorithms/Go/easy/2194_Cells_in_a_Range_on_an_Excel_Sheet_[Easy].go)|Easy|
 |2195|Append K Integers With Minimal Sum|[Go](/Algorithms/Go/medium/2195_Append_K_Integers_With_Minimal_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2195_Append_K_Integers_With_Minimal_Sum_[Medium].java)|Medium|
 |2196|Create Binary Tree From Descriptions|[Go](/Algorithms/Go/medium/2196_Create_Binary_Tree_From_Descriptions_[Medium].go), [Java](/Algorithms/Java/medium/2196_Create_Binary_Tree_From_Descriptions_[Medium].java)|Medium|
