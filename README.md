@@ -586,6 +586,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |961|N-Repeated Element in Size 2N Array|[Java](/Algorithms/Java/easy/0961_N-Repeated_Element_in_Size_2N_Array_[Easy].java)|Easy|
 |962|Maximum Width Ramp|[Java](/Algorithms/Java/medium/0962_Maximum_Width_Ramp_[Medium].java)|Medium|
 |965|Univalued Binary Tree|[Java](/Algorithms/Java/easy/0965_Univalued_Binary_Tree_[Easy].java)|Easy|
+|966|Vowel Spellchecker|[Java](/Algorithms/Java/medium/0966_Vowel_Spellchecker_[Medium].java)|Medium|
 |967|Numbers With Same Consecutive Differences|[Java](/Algorithms/Java/medium/0967_Numbers_With_Same_Consecutive_Differences_[Medium].java)|Medium|
 |970|Powerful Integers|[Java](/Algorithms/Java/easy/0970_Powerful_Integers_[Easy].java)|Easy|
 |971|Flip Binary Tree To Match Preorder Traversal|[Java](/Algorithms/Java/medium/0971_Flip_Binary_Tree_To_Match_Preorder_Traversal_[Medium].java)|Medium|
