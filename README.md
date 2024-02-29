@@ -690,6 +690,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1156|Swap For Longest Repeated Character Substring|[Java](/Algorithms/Java/medium/1156_Swap_For_Longest_Repeated_Character_Substring_[Medium].java)|Medium|
 |1160|Find Words That Can Be Formed by Characters|[Java](/Algorithms/Java/easy/1160_Find_Words_That_Can_Be_Formed_by_Characters_[Easy].java)|Easy|
 |1161|Maximum Level Sum of a Binary Tree|[Java](/Algorithms/Java/medium/1161_Maximum_Level_Sum_of_a_Binary_Tree_[Medium].java)|Medium|
+|1162|As Far from Land as Possible|[Java](/Algorithms/Java/medium/1162_As_Far_from_Land_as_Possible_[Medium].java)|Medium|
 |1170|Compare Strings by Frequency of the Smallest Character|[Java](/Algorithms/Java/easy/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character_[Easy].java)|Easy|
 |1171|Remove Zero Sum Consecutive Nodes from Linked List|[Java](/Algorithms/Java/medium/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List_[Medium].java)|Medium|
 |1177|Can Make Palindrome from Substring|[Go](/Algorithms/Go/medium/1177_Can_Make_Palindrome_from_Substring_[Medium].go), [Java](/Algorithms/Java/medium/1177_Can_Make_Palindrome_from_Substring_[Medium].java)|Medium|
