@@ -280,6 +280,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |417|Pacific Atlantic Water Flow|[Java](/Algorithms/Java/medium/0417_Pacific_Atlantic_Water_Flow_[Medium].java)|Medium|
 |419|Battleships in a Board|[Java](/Algorithms/Java/medium/0419_Battleships_in_a_Board_[Medium].java)|Medium|
 |421|Maximum XOR of Two Numbers in an Array|[Java](/Algorithms/Java/medium/0421_Maximum_XOR_of_Two_Numbers_in_an_Array_[Medium].java)|Medium|
+|423|Reconstruct Original Digits from English|[Go](/Algorithms/Go/medium/0423_Reconstruct_Original_Digits_from_English_[Medium].go), [Java](/Algorithms/Java/medium/0423_Reconstruct_Original_Digits_from_English_[Medium].java)|Medium|
 |424|Longest Repeating Character Replacement|[Java](/Algorithms/Java/medium/0424_Longest_Repeating_Character_Replacement_[Medium].java)|Medium|
 |429|N-ary Tree Level Order Traversal|[Java](/Algorithms/Java/easy/0429_N-ary_Tree_Level_Order_Traversal_[Easy].java)|Easy|
 |430|Flatten a Multilevel Doubly Linked List|[Java](/Algorithms/Java/medium/0430_Flatten_a_Multilevel_Doubly_Linked_List_[Medium].java)|Medium|
