@@ -1211,6 +1211,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2711|Difference of Number of Distinct Values on Diagonals|[Go](/Algorithms/Go/medium/2711_Difference_of_Number_of_Distinct_Values_on_Diagonals_[Medium].go), [Java](/Algorithms/Java/medium/2711_Difference_of_Number_of_Distinct_Values_on_Diagonals_[Medium].java)|Medium|
 |2740|Find the Value of the Partition|[Go](/Algorithms/Go/medium/2740_Find_the_Value_of_the_Partition_[Medium].go), [Java](/Algorithms/Java/medium/2740_Find_the_Value_of_the_Partition_[Medium].java)|Medium|
 |2745|Construct the Longest New String|[Go](/Algorithms/Go/medium/2745_Construct_the_Longest_New_String_[Medium].go), [Java](/Algorithms/Java/medium/2745_Construct_the_Longest_New_String_[Medium].java)|Medium|
+|2766|Relocate Marbles|[Go](/Algorithms/Go/medium/2766_Relocate_Marbles_[Medium].go), [Java](/Algorithms/Java/medium/2766_Relocate_Marbles_[Medium].java)|Medium|
 |2780|Minimum Index of a Valid Split|[Go](/Algorithms/Go/medium/2780_Minimum_Index_of_a_Valid_Split_[Medium].go), [Java](/Algorithms/Java/medium/2780_Minimum_Index_of_a_Valid_Split_[Medium].java)|Medium|
 |2785|Sort Vowels in a String|[Go](/Algorithms/Go/medium/2785_Sort_Vowels_in_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2785_Sort_Vowels_in_a_String_[Medium].java)|Medium|
 |2799|Count Complete Subarrays in an Array|[Go](/Algorithms/Go/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].java)|Medium|
