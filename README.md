@@ -813,6 +813,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1405|Longest Happy String|[Java](/Algorithms/Java/medium/1405_Longest_Happy_String_[Medium].java)|Medium|
 |1408|String Matching in an Array|[Java](/Algorithms/Java/easy/1408_String_Matching_in_an_Array_[Easy].java)|Easy|
 |1409|Queries on a Permutation With Key|[Java](/Algorithms/Java/medium/1409_Queries_on_a_Permutation_With_Key_[Medium].java)|Medium|
+|1410|HTML Entity Parser|[Go](/Algorithms/Go/medium/1410_HTML_Entity_Parser_[Medium].go), [Java](/Algorithms/Java/medium/1410_HTML_Entity_Parser_[Medium].java)|Medium|
 |1413|Minimum Value to Get Positive Step by Step Sum|[Java](/Algorithms/Java/easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum_[Easy].java)|Easy|
 |1414|Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|[Java](/Algorithms/Java/medium/1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K_[Medium].java)|Medium|
 |1415|The k-th Lexicographical String of All Happy Strings of Length n|[Java](/Algorithms/Java/medium/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n_[Medium].java)|Medium|
