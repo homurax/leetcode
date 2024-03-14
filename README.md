@@ -1235,3 +1235,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2952|Minimum Number of Coins to be Added|[Go](/Algorithms/Go/medium/2952_Minimum_Number_of_Coins_to_be_Added_[Medium].go), [Java](/Algorithms/Java/medium/2952_Minimum_Number_of_Coins_to_be_Added_[Medium].java)|Medium|
 |2957|Remove Adjacent Almost-Equal Characters|[Go](/Algorithms/Go/medium/2957_Remove_Adjacent_Almost-Equal_Characters_[Medium].go), [Java](/Algorithms/Java/medium/2957_Remove_Adjacent_Almost-Equal_Characters_[Medium].java)|Medium|
 |2966|Divide Array Into Arrays With Max Difference|[Go](/Algorithms/Go/medium/2966_Divide_Array_Into_Arrays_With_Max_Difference_[Medium].go), [Java](/Algorithms/Java/medium/2966_Divide_Array_Into_Arrays_With_Max_Difference_[Medium].java)|Medium|
+|3011|Find if Array Can Be Sorted|[Go](/Algorithms/Go/medium/3011_Find_if_Array_Can_Be_Sorted_[Medium].go), [Java](/Algorithms/Java/medium/3011_Find_if_Array_Can_Be_Sorted_[Medium].java)|Medium|
