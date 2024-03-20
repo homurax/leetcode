@@ -1183,6 +1183,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2498|Frog Jump II|[Go](/Algorithms/Go/medium/2498_Frog_Jump_II_[Medium].go), [Java](/Algorithms/Java/medium/2498_Frog_Jump_II_[Medium].java)|Medium|
 |2502|Design Memory Allocator|[Go](/Algorithms/Go/medium/2502_Design_Memory_Allocator_[Medium].go), [Java](/Algorithms/Java/medium/2502_Design_Memory_Allocator_[Medium].java)|Medium|
 |2517|Maximum Tastiness of Candy Basket|[Go](/Algorithms/Go/medium/2517_Maximum_Tastiness_of_Candy_Basket_[Medium].go), [Java](/Algorithms/Java/medium/2517_Maximum_Tastiness_of_Candy_Basket_[Medium].java)|Medium|
+|2521|Distinct Prime Factors of Product of Array|[Go](/Algorithms/Go/medium/2521_Distinct_Prime_Factors_of_Product_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/2521_Distinct_Prime_Factors_of_Product_of_Array_[Medium].java)|Medium|
 |2527|Find Xor-Beauty of Array|[Go](/Algorithms/Go/medium/2527_Find_Xor-Beauty_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/2527_Find_Xor-Beauty_of_Array_[Medium].java)|Medium|
 |2531|Make Number of Distinct Characters Equal|[Go](/Algorithms/Go/medium/2531_Make_Number_of_Distinct_Characters_Equal_[Medium].go), [Java](/Algorithms/Java/medium/2531_Make_Number_of_Distinct_Characters_Equal_[Medium].java)|Medium|
 |2541|Minimum Operations to Make Array Equal II|[Go](/Algorithms/Go/medium/2541_Minimum_Operations_to_Make_Array_Equal_II_[Medium].go), [Java](/Algorithms/Java/medium/2541_Minimum_Operations_to_Make_Array_Equal_II_[Medium].java)|Medium|
