@@ -1120,6 +1120,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2256|Minimum Average Difference|[Go](/Algorithms/Go/medium/2256_Minimum_Average_Difference_[Medium].go), [Java](/Algorithms/Java/medium/2256_Minimum_Average_Difference_[Medium].java)|Medium|
 |2257|Count Unguarded Cells in the Grid|[Go](/Algorithms/Go/medium/2257_Count_Unguarded_Cells_in_the_Grid_[Medium].go), [Java](/Algorithms/Java/medium/2257_Count_Unguarded_Cells_in_the_Grid_[Medium].java)|Medium|
 |2260|Minimum Consecutive Cards to Pick Up|[Go](/Algorithms/Go/medium/2260_Minimum_Consecutive_Cards_to_Pick_Up_[Medium].go), [Java](/Algorithms/Java/medium/2260_Minimum_Consecutive_Cards_to_Pick_Up_[Medium].java)|Medium|
+|2261|K Divisible Elements Subarrays|[Go](/Algorithms/Go/medium/2261_K_Divisible_Elements_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2261_K_Divisible_Elements_Subarrays_[Medium].java)|Medium|
 |2265|Count Nodes Equal to Average of Subtree|[Go](/Algorithms/Go/medium/2265_Count_Nodes_Equal_to_Average_of_Subtree_[Medium].go), [Java](/Algorithms/Java/medium/2265_Count_Nodes_Equal_to_Average_of_Subtree_[Medium].java)|Medium|
 |2270|Number of Ways to Split Array|[Go](/Algorithms/Go/medium/2270_Number_of_Ways_to_Split_Array_[Medium].go), [Java](/Algorithms/Java/medium/2270_Number_of_Ways_to_Split_Array_[Medium].java)|Medium|
 |2271|Maximum White Tiles Covered by a Carpet|[Go](/Algorithms/Go/medium/2271_Maximum_White_Tiles_Covered_by_a_Carpet_[Medium].go), [Java](/Algorithms/Java/medium/2271_Maximum_White_Tiles_Covered_by_a_Carpet_[Medium].java)|Medium|
