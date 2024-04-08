@@ -1251,3 +1251,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |3011|Find if Array Can Be Sorted|[Go](/Algorithms/Go/medium/3011_Find_if_Array_Can_Be_Sorted_[Medium].go), [Java](/Algorithms/Java/medium/3011_Find_if_Array_Can_Be_Sorted_[Medium].java)|Medium|
 |3016|Minimum Number of Pushes to Type Word II|[Go](/Algorithms/Go/medium/3016_Minimum_Number_of_Pushes_to_Type_Word_II_[Medium].go), [Java](/Algorithms/Java/medium/3016_Minimum_Number_of_Pushes_to_Type_Word_II_[Medium].java)|Medium|
 |3071|Minimum Operations to Write the Letter Y on a Grid|[Go](/Algorithms/Go/medium/3071_Minimum_Operations_to_Write_the_Letter_Y_on_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/3071_Minimum_Operations_to_Write_the_Letter_Y_on_a_Grid_[Medium].java)|Medium|
+|3100|Water Bottles II|[Go](/Algorithms/Go/medium/3100_Water_Bottles_II_[Medium].go), [Java](/Algorithms/Java/medium/3100_Water_Bottles_II_[Medium].java)|Medium|
