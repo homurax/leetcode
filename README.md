@@ -1257,3 +1257,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |3100|Water Bottles II|[Go](/Algorithms/Go/medium/3100_Water_Bottles_II_[Medium].go), [Java](/Algorithms/Java/medium/3100_Water_Bottles_II_[Medium].java)|Medium|
 |3106|Lexicographically Smallest String After Operations With Constraint|[Go](/Algorithms/Go/medium/3106_Lexicographically_Smallest_String_After_Operations_With_Constraint_[Medium].go), [Java](/Algorithms/Java/medium/3106_Lexicographically_Smallest_String_After_Operations_With_Constraint_[Medium].java)|Medium|
 |3111|Minimum Rectangles to Cover Points|[Go](/Algorithms/Go/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].go), [Java](/Algorithms/Java/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].java)|Medium|
+|3115|Maximum Prime Difference|[Go](/Algorithms/Go/medium/3115_Maximum_Prime_Difference_[Medium].go), [Java](/Algorithms/Java/medium/3115_Maximum_Prime_Difference_[Medium].java)|Medium|
