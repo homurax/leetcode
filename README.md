@@ -358,6 +358,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |554|Brick Wall|[Java](/Algorithms/Java/medium/0554_Brick_Wall_[Medium].java)|Medium|
 |556|Next Greater Element III|[Go](/Algorithms/Go/medium/0556_Next_Greater_Element_III_[Medium].go), [Java](/Algorithms/Java/medium/0556_Next_Greater_Element_III_[Medium].java)|Medium|
 |557|Reverse Words in a String III|[Java](/Algorithms/Java/easy/0557_Reverse_Words_in_a_String_III_[Easy].java)|Easy|
+|558|Logical OR of Two Binary Grids Represented as Quad-Trees|[Java](/Algorithms/Java/medium/0558_Logical_OR_of_Two_Binary_Grids_Represented_as_Quad-Trees_[Medium].java)|Medium|
 |559|Maximum Depth of N-ary Tree|[Java](/Algorithms/Java/easy/0559_Maximum_Depth_of_N-ary_Tree_[Easy].java)|Easy|
 |560|Subarray Sum Equals K|[Java](/Algorithms/Java/medium/0560_Subarray_Sum_Equals_K_[Medium].java)|Medium|
 |561|Array Partition I|[Java](/Algorithms/Java/easy/0561_Array_Partition_I_[Easy].java)|Easy|
