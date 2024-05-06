@@ -1014,6 +1014,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1936|Add Minimum Number of Rungs|[Go](/Algorithms/Go/medium/1936_Add_Minimum_Number_of_Rungs_[Medium].go), [Java](/Algorithms/Java/medium/1936_Add_Minimum_Number_of_Rungs_[Medium].java)|Medium|
 |1937|Maximum Number of Points with Cost|[Java](/Algorithms/Java/medium/1937_Maximum_Number_of_Points_with_Cost_[Medium].java)|Medium|
 |1942|The Number of the Smallest Unoccupied Chair|[Go](/Algorithms/Go/medium/1942_The_Number_of_the_Smallest_Unoccupied_Chair_[Medium].go), [Java](/Algorithms/Java/medium/1942_The_Number_of_the_Smallest_Unoccupied_Chair_[Medium].java)|Medium|
+|1943|Describe the Painting|[Go](/Algorithms/Go/medium/1943_Describe_the_Painting_[Medium].go), [Java](/Algorithms/Java/medium/1943_Describe_the_Painting_[Medium].java)|Medium|
 |1953|Maximum Number of Weeks for Which You Can Work|[Go](/Algorithms/Go/medium/1953_Maximum_Number_of_Weeks_for_Which_You_Can_Work_[Medium].go), [Java](/Algorithms/Java/medium/1953_Maximum_Number_of_Weeks_for_Which_You_Can_Work_[Medium].java)|Medium|
 |1959|Minimum Total Space Wasted With K Resizing Operations|[Java](/Algorithms/Java/medium/1959_Minimum_Total_Space_Wasted_With_K_Resizing_Operations_[Medium].java)|Medium|
 |1962|Remove Stones to Minimize the Total|[Java](/Algorithms/Java/medium/1962_Remove_Stones_to_Minimize_the_Total_[Medium].java)|Medium|
