@@ -251,6 +251,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
 |373|Find K Pairs with Smallest Sums|[Java](/Algorithms/Java/medium/0373_Find_K_Pairs_with_Smallest_Sums_[Medium].java)|Medium|
 |374|Guess Number Higher or Lower|[Java](/Algorithms/Java/easy/0374_Guess_Number_Higher_or_Lower_[Easy].java)|Easy|
+|375|Guess Number Higher or Lower II|[Go](/Algorithms/Go/medium/0375_Guess_Number_Higher_or_Lower_II_[Medium].go), [Java](/Algorithms/Java/medium/0375_Guess_Number_Higher_or_Lower_II_[Medium].java)|Medium|
 |376|Wiggle Subsequence|[Java](/Algorithms/Java/medium/0376_Wiggle_Subsequence_[Medium].java)|Medium|
 |377|Combination Sum IV|[Java](/Algorithms/Java/medium/0377_Combination_Sum_IV_[Medium].java)|Medium|
 |378|Kth Smallest Element in a Sorted Matrix|[Java](/Algorithms/Java/medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix_[Medium].java)|Medium|
