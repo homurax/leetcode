@@ -642,6 +642,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |1030|Matrix Cells in Distance Order|[Java](/Algorithms/Java/easy/1030_Matrix_Cells_in_Distance_Order_[Easy].java)|Easy|
 |1031|Maximum Sum of Two Non-Overlapping Subarrays|[Java](/Algorithms/Java/medium/1031_Maximum_Sum_of_Two_Non-Overlapping_Subarrays_[Medium].java)|Medium|
 |1033|Moving Stones Until Consecutive|[Java](/Algorithms/Java/easy/1033_Moving_Stones_Until_Consecutive_[Easy].java)|Easy|
+|1034|Coloring A Border|[Go](/Algorithms/Go/medium/1034_Coloring_A_Border_[Medium].go), [Java](/Algorithms/Java/medium/1034_Coloring_A_Border_[Medium].java)|Medium|
 |1035|Uncrossed Lines|[Java](/Algorithms/Java/medium/1035_Uncrossed_Lines_[Medium].java)|Medium|
 |1037|Valid Boomerang|[Java](/Algorithms/Java/easy/1037_Valid_Boomerang_[Easy].java)|Easy|
 |1038|Binary Search Tree to Greater Sum Tree|[Java](/Algorithms/Java/medium/1038_Binary_Search_Tree_to_Greater_Sum_Tree_[Medium].java)|Medium|
