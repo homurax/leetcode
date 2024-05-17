@@ -499,6 +499,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
 |826|Most Profit Assigning Work|[Java](/Algorithms/Java/medium/0826_Most_Profit_Assigning_Work_[Medium].java)|Medium|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
+|831|Masking Personal Information|[Go](/Algorithms/Go/medium/0831_Masking_Personal_Information_[Medium].go), [Java](/Algorithms/Java/medium/0831_Masking_Personal_Information_[Medium].java)|Medium|
 |832|Flipping an Image|[Java](/Algorithms/Java/easy/0832_Flipping_an_Image_[Easy].java)|Easy|
 |833|Find And Replace in String|[Java](/Algorithms/Java/medium/0833_Find_And_Replace_in_String_[Medium].java)|Medium|
 |835|Image Overlap|[Go](/Algorithms/Go/medium/0835_Image_Overlap_[Medium].go), [Java](/Algorithms/Java/medium/0835_Image_Overlap_[Medium].java)|Medium|
