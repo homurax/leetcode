@@ -1052,6 +1052,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |2039|The Time When the Network Becomes Idle|[Java](/Algorithms/Java/medium/2039_The_Time_When_the_Network_Becomes_Idle_[Medium].java)|Medium|
 |2043|Simple Bank System|[Go](/Algorithms/Go/medium/2043_Simple_Bank_System_[Medium].go), [Java](/Algorithms/Java/medium/2043_Simple_Bank_System_[Medium].java)|Medium|
 |2044|Count Number of Maximum Bitwise-OR Subsets|[Go](/Algorithms/Go/medium/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets_[Medium].go), [Java](/Algorithms/Java/medium/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets_[Medium].java)|Medium|
+|2048|Next Greater Numerically Balanced Number|[Go](/Algorithms/Go/medium/2048_Next_Greater_Numerically_Balanced_Number_[Medium].go), [Java](/Algorithms/Java/medium/2048_Next_Greater_Numerically_Balanced_Number_[Medium].java)|Medium|
 |2049|Count Nodes With the Highest Score|[Java](/Algorithms/Java/medium/2049_Count_Nodes_With_the_Highest_Score_[Medium].java)|Medium|
 |2054|Two Best Non-Overlapping Events|[Java](/Algorithms/Java/medium/2054_Two_Best_Non-Overlapping_Events_[Medium].java)|Medium|
 |2055|Plates Between Candles|[Java](/Algorithms/Java/medium/2055_Plates_Between_Candles_[Medium].java)|Medium|
