@@ -1281,3 +1281,4 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |3107|Minimum Operations to Make Median of Array Equal to K|[Go](/Algorithms/Go/medium/3107_Minimum_Operations_to_Make_Median_of_Array_Equal_to_K_[Medium].go), [Java](/Algorithms/Java/medium/3107_Minimum_Operations_to_Make_Median_of_Array_Equal_to_K_[Medium].java)|Medium|
 |3111|Minimum Rectangles to Cover Points|[Go](/Algorithms/Go/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].go), [Java](/Algorithms/Java/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].java)|Medium|
 |3115|Maximum Prime Difference|[Go](/Algorithms/Go/medium/3115_Maximum_Prime_Difference_[Medium].go), [Java](/Algorithms/Java/medium/3115_Maximum_Prime_Difference_[Medium].java)|Medium|
+|3148|Maximum Difference Score in a Grid|[Go](/Algorithms/Go/medium/3148_Maximum_Difference_Score_in_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/3148_Maximum_Difference_Score_in_a_Grid_[Medium].java)|Medium|
