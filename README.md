@@ -497,6 +497,7 @@ JDK 版本为 `1.8.0_144`。Python 版本为 `3.8.0`。Go 版本为 `1.17`。
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
 |823|Binary Trees With Factors|[Java](/Algorithms/Java/medium/0823_Binary_Trees_With_Factors_[Medium].java)|Medium|
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
+|825|Friends Of Appropriate Ages|[Go](/Algorithms/Go/medium/0825_Friends_Of_Appropriate_Ages_[Medium].go), [Java](/Algorithms/Java/medium/0825_Friends_Of_Appropriate_Ages_[Medium].java)|Medium|
 |826|Most Profit Assigning Work|[Java](/Algorithms/Java/medium/0826_Most_Profit_Assigning_Work_[Medium].java)|Medium|
 |830|Positions of Large Groups|[Java](/Algorithms/Java/easy/0830_Positions_of_Large_Groups_[Easy].java)|Easy|
 |831|Masking Personal Information|[Go](/Algorithms/Go/medium/0831_Masking_Personal_Information_[Medium].go), [Java](/Algorithms/Java/medium/0831_Masking_Personal_Information_[Medium].java)|Medium|
