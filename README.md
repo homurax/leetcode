@@ -1153,6 +1153,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2326|Spiral Matrix IV|[Go](/Algorithms/Go/medium/2326_Spiral_Matrix_IV_[Medium].go), [Java](/Algorithms/Java/medium/2326_Spiral_Matrix_IV_[Medium].java)|Medium|
 |2333|Minimum Sum of Squared Difference|[Java](/Algorithms/Java/medium/2333_Minimum_Sum_of_Squared_Difference_[Medium].java)|Medium|
 |2336|Smallest Number in Infinite Set|[Java](/Algorithms/Java/medium/2336_Smallest_Number_in_Infinite_Set_[Medium].java)|Medium|
+|2337|Move Pieces to Obtain a String|[Go](/Algorithms/Go/medium/2337_Move_Pieces_to_Obtain_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2337_Move_Pieces_to_Obtain_a_String_[Medium].java)|Medium|
 |2342|Max Sum of a Pair With Equal Sum of Digits|[Go](/Algorithms/Go/medium/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits_[Medium].go), [Java](/Algorithms/Java/medium/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits_[Medium].java)|Medium|
 |2348|Number of Zero-Filled Subarrays|[Go](/Algorithms/Go/medium/2348_Number_of_Zero-Filled_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2348_Number_of_Zero-Filled_Subarrays_[Medium].java)|Medium|
 |2352|Equal Row and Column Pairs|[Go](/Algorithms/Go/medium/2352_Equal_Row_and_Column_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2352_Equal_Row_and_Column_Pairs_[Medium].java)|Medium|
