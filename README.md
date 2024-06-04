@@ -495,6 +495,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |819|Most Common Word|[Java](/Algorithms/Java/easy/0819_Most_Common_Word_[Easy].java)|Easy|
 |820|Short Encoding of Words|[Java](/Algorithms/Java/medium/0820_Short_Encoding_of_Words_[Medium].java)|Medium|
 |821|Shortest Distance to a Character|[Java](/Algorithms/Java/easy/0821_Shortest_Distance_to_a_Character_[Easy].java)|Easy|
+|822|Card Flipping Game|[Go](/Algorithms/Go/medium/0822_Card_Flipping_Game_[Medium].go), [Java](/Algorithms/Java/medium/0822_Card_Flipping_Game_[Medium].java)|Medium|
 |823|Binary Trees With Factors|[Java](/Algorithms/Java/medium/0823_Binary_Trees_With_Factors_[Medium].java)|Medium|
 |824|Goat Latin|[Java](/Algorithms/Java/easy/0824_Goat_Latin_[Easy].java)|Easy|
 |825|Friends Of Appropriate Ages|[Go](/Algorithms/Go/medium/0825_Friends_Of_Appropriate_Ages_[Medium].go), [Java](/Algorithms/Java/medium/0825_Friends_Of_Appropriate_Ages_[Medium].java)|Medium|
