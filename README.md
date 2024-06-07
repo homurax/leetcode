@@ -261,6 +261,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |384|Shuffle an Array|[Java](/Algorithms/Java/medium/0384_Shuffle_an_Array_[Medium].java)|Medium|
 |386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
+|388|Longest Absolute File Path|[Go](/Algorithms/Go/medium/0388_Longest_Absolute_File_Path_[Medium].go), [Java](/Algorithms/Java/medium/0388_Longest_Absolute_File_Path_[Medium].java)|Medium|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
 |392|Is Subsequence|[Java](/Algorithms/Java/easy/0392_Is_Subsequence_[Easy].java)|Easy|
 |394|Decode String|[Java](/Algorithms/Java/medium/0394_Decode_String_[Medium].java)|Medium|
