@@ -1167,6 +1167,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2368|Reachable Nodes With Restrictions|[Go](/Algorithms/Go/medium/2368_Reachable_Nodes_With_Restrictions_[Medium].go), [Java](/Algorithms/Java/medium/2368_Reachable_Nodes_With_Restrictions_[Medium].java)|Medium|
 |2369|Check if There is a Valid Partition For The Array|[Go](/Algorithms/Go/medium/2369_Check_if_There_is_a_Valid_Partition_For_The_Array_[Medium].go), [Java](/Algorithms/Java/medium/2369_Check_if_There_is_a_Valid_Partition_For_The_Array_[Medium].java)|Medium|
 |2370|Longest Ideal Subsequence|[Go](/Algorithms/Go/medium/2370_Longest_Ideal_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2370_Longest_Ideal_Subsequence_[Medium].java)|Medium|
+|2374|Node With Highest Edge Score|[Go](/Algorithms/Go/medium/2374_Node_With_Highest_Edge_Score_[Medium].go), [Java](/Algorithms/Java/medium/2374_Node_With_Highest_Edge_Score_[Medium].java)|Medium|
 |2375|Construct Smallest Number From DI String|[Go](/Algorithms/Go/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].go), [Java](/Algorithms/Java/medium/2375_Construct_Smallest_Number_From_DI_String_[Medium].java)|Medium|
 |2380|Time Needed to Rearrange a Binary String|[Go](/Algorithms/Go/medium/2380_Time_Needed_to_Rearrange_a_Binary_String_[Medium].go), [Java](/Algorithms/Java/medium/2380_Time_Needed_to_Rearrange_a_Binary_String_[Medium].java)|Medium|
 |2381|Shifting Letters II|[Go](/Algorithms/Go/medium/2381_Shifting_Letters_II_[Medium].go), [Java](/Algorithms/Java/medium/2381_Shifting_Letters_II_[Medium].java)|Medium|
