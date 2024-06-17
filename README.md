@@ -758,6 +758,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1306|Jump Game III|[Java](/Algorithms/Java/medium/1306_Jump_Game_III_[Medium].java)|Medium|
 |1309|Decrypt String from Alphabet to Integer Mapping|[Java](/Algorithms/Java/easy/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping_[Easy].java)|Easy|
 |1310|XOR Queries of a Subarray|[Java](/Algorithms/Java/medium/1310_XOR_Queries_of_a_Subarray_[Medium].java)|Medium|
+|1311|Get Watched Videos by Your Friends|[Go](/Algorithms/Go/medium/1311_Get_Watched_Videos_by_Your_Friends_[Medium].go), [Java](/Algorithms/Java/medium/1311_Get_Watched_Videos_by_Your_Friends_[Medium].java)|Medium|
 |1313|Decompress Run-Length Encoded List|[Java](/Algorithms/Java/easy/1313_Decompress_Run-Length_Encoded_List_[Easy].java)|Easy|
 |1314|Matrix Block Sum|[Java](/Algorithms/Java/medium/1314_Matrix_Block_Sum_[Medium].java)|Medium|
 |1315|Sum of Nodes with Even-Valued Grandparent|[Java](/Algorithms/Java/medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent_[Medium].java)|Medium|
