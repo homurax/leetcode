@@ -344,6 +344,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |524|Longest Word in Dictionary through Deleting|[Java](/Algorithms/Java/medium/0524_Longest_Word_in_Dictionary_through_Deleting_[Medium].java)|Medium|
 |525|Contiguous Array|[Java](/Algorithms/Java/medium/0525_Contiguous_Array_[Medium].java)|Medium|
 |526|Beautiful Arrangement|[Java](/Algorithms/Java/medium/0526_Beautiful_Arrangement_[Medium].java)|Medium|
+|528|Random Pick with Weight|[Go](/Algorithms/Go/medium/0528_Random_Pick_with_Weight_[Medium].go), [Java](/Algorithms/Java/medium/0528_Random_Pick_with_Weight_[Medium].java)|Medium|
 |530|Minimum Absolute Difference in BST|[Java](/Algorithms/Java/easy/0530_Minimum_Absolute_Difference_in_BST_[Easy].java)|Easy|
 |532|K-diff Pairs in an Array|[Java](/Algorithms/Java/easy/0532_K-diff_Pairs_in_an_Array_[Easy].java)|Easy|
 |535|Encode and Decode TinyURL|[Go](/Algorithms/Go/medium/0535_Encode_and_Decode_TinyURL_[Medium].go), [Java](/Algorithms/Java/medium/0535_Encode_and_Decode_TinyURL_[Medium].java)|Medium|
