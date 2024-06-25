@@ -631,6 +631,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1011|Capacity To Ship Packages Within D Days|[Java](/Algorithms/Java/medium/1011_Capacity_To_Ship_Packages_Within_D_Days_[Medium].java)|Medium|
 |1013|Partition Array Into Three Parts With Equal Sum|[Java](/Algorithms/Java/easy/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum_[Easy].java)|Easy|
 |1014|Best Sightseeing Pair|[Java](/Algorithms/Java/medium/1014_Best_Sightseeing_Pair_[Medium].java)|Medium|
+|1015|Smallest Integer Divisible by K|[Go](/Algorithms/Go/medium/1015_Smallest_Integer_Divisible_by_K_[Medium].go), [Java](/Algorithms/Java/medium/1015_Smallest_Integer_Divisible_by_K_[Medium].java)|Medium|
 |1016|Binary String With Substrings Representing 1 To N|[Java](/Algorithms/Java/medium/1016_Binary_String_With_Substrings_Representing_1_To_N_[Medium].java)|Medium|
 |1017|Convert to Base -2|[Java](/Algorithms/Java/medium/1017_Convert_to_Base_-2_[Medium].java)|Medium|
 |1018|Binary Prefix Divisible By 5|[Java](/Algorithms/Java/easy/1018_Binary_Prefix_Divisible_By_5_[Easy].java)|Easy|
