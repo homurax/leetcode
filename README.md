@@ -471,6 +471,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |769|Max Chunks To Make Sorted|[Java](/Algorithms/Java/medium/0769_Max_Chunks_To_Make_Sorted_[Medium].java)|Medium|
 |771|Jewels and Stones|[Java](/Algorithms/Java/easy/0771_Jewels_and_Stones_[Easy].java), [Python](/Algorithms/Python/easy/0771_Jewels_and_Stones_[Easy].py)|Easy|
 |775|Global and Local Inversions|[Java](/Algorithms/Java/medium/0775_Global_and_Local_Inversions_[Medium].java)|Medium|
+|779|K-th Symbol in Grammar|[Go](/Algorithms/Go/medium/0779_K-th_Symbol_in_Grammar_[Medium].go), [Java](/Algorithms/Java/medium/0779_K-th_Symbol_in_Grammar_[Medium].java)|Medium|
 |781|Rabbits in Forest|[Java](/Algorithms/Java/medium/0781_Rabbits_in_Forest_[Medium].java)|Medium|
 |783|Minimum Distance Between BST Nodes|[Java](/Algorithms/Java/easy/0783_Minimum_Distance_Between_BST_Nodes_[Easy].java)|Easy|
 |784|Letter Case Permutation|[Java](/Algorithms/Java/easy/0784_Letter_Case_Permutation_[Easy].java)|Easy|
