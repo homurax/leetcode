@@ -190,6 +190,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |219|Contains Duplicate II|[Java](/Algorithms/Java/easy/0219_Contains_Duplicate_II_[Easy].java)|Easy|
 |221|Maximal Square|[Java](/Algorithms/Java/medium/0221_Maximal_Square_[Medium].java)|Medium|
 |222|Count Complete Tree Nodes|[Java](/Algorithms/Java/medium/0222_Count_Complete_Tree_Nodes_[Medium].java)|Medium|
+|223|Rectangle Area|[Go](/Algorithms/Go/medium/0223_Rectangle_Area_[Medium].go), [Java](/Algorithms/Java/medium/0223_Rectangle_Area_[Medium].java)|Medium|
 |225|Implement Stack using Queues|[Java](/Algorithms/Java/easy/0225_Implement_Stack_using_Queues_[Easy].java)|Easy|
 |226|Invert Binary Tree|[Java](/Algorithms/Java/easy/0226_Invert_Binary_Tree_[Easy].java)|Easy|
 |227|Basic Calculator II|[Java](/Algorithms/Java/medium/0227_Basic_Calculator_II_[Medium].java), [Python](/Algorithms/Python/medium/0227_Basic_Calculator_II_[Medium].py)|Medium|
