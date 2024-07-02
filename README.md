@@ -492,6 +492,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |804|Unique Morse Code Words|[Java](/Algorithms/Java/easy/0804_Unique_Morse_Code_Words_[Easy].java)|Easy|
 |806|Number of Lines To Write String|[Java](/Algorithms/Java/easy/0806_Number_of_Lines_To_Write_String_[Easy].java)|Easy|
 |807|Max Increase to Keep City Skyline|[Java](/Algorithms/Java/medium/0807_Max_Increase_to_Keep_City_Skyline_[Medium].java)|Medium|
+|809|Expressive Words|[Go](/Algorithms/Go/medium/0809_Expressive_Words_[Medium].go), [Java](/Algorithms/Java/medium/0809_Expressive_Words_[Medium].java)|Medium|
 |811|Subdomain Visit Count|[Java](/Algorithms/Java/easy/0811_Subdomain_Visit_Count_[Easy].java)|Easy|
 |812|Largest Triangle Area|[Java](/Algorithms/Java/easy/0812_Largest_Triangle_Area_[Easy].java)|Easy|
 |813|Largest Sum of Averages|[Java](/Algorithms/Java/medium/0813_Largest_Sum_of_Averages_[Medium].java)|Medium|
