@@ -915,6 +915,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1594|Maximum Non Negative Product in a Matrix|[Go](/Algorithms/Go/medium/1594_Maximum_Non_Negative_Product_in_a_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/1594_Maximum_Non_Negative_Product_in_a_Matrix_[Medium].java)|Medium|
 |1600|Throne Inheritance|[Go](/Algorithms/Go/medium/1600_Throne_Inheritance_[Medium].go), [Java](/Algorithms/Java/medium/1600_Throne_Inheritance_[Medium].java)|Medium|
 |1603|Design Parking System|[Go](/Algorithms/Go/easy/1603_Design_Parking_System_[Easy].go)|Easy|
+|1604|Alert Using Same Key-Card Three or More Times in a One Hour Period|[Go](/Algorithms/Go/medium/1604_Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period_[Medium].go), [Java](/Algorithms/Java/medium/1604_Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period_[Medium].java)|Medium|
 |1605|Find Valid Matrix Given Row and Column Sums|[Java](/Algorithms/Java/medium/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums_[Medium].java)|Medium|
 |1609|Even Odd Tree|[Java](/Algorithms/Java/medium/1609_Even_Odd_Tree_[Medium].java)|Medium|
 |1615|Maximal Network Rank|[Go](/Algorithms/Go/medium/1615_Maximal_Network_Rank_[Medium].go), [Java](/Algorithms/Java/medium/1615_Maximal_Network_Rank_[Medium].java)|Medium|
