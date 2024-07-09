@@ -1255,6 +1255,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2673|Make Costs of Paths Equal in a Binary Tree|[Go](/Algorithms/Go/medium/2673_Make_Costs_of_Paths_Equal_in_a_Binary_Tree_[Medium].go), [Java](/Algorithms/Java/medium/2673_Make_Costs_of_Paths_Equal_in_a_Binary_Tree_[Medium].java)|Medium|
 |2679|Sum in a Matrix|[Go](/Algorithms/Go/medium/2679_Sum_in_a_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/2679_Sum_in_a_Matrix_[Medium].java)|Medium|
 |2683|Neighboring Bitwise XOR|[Go](/Algorithms/Go/medium/2683_Neighboring_Bitwise_XOR_[Medium].go), [Java](/Algorithms/Java/medium/2683_Neighboring_Bitwise_XOR_[Medium].java)|Medium|
+|2684|Maximum Number of Moves in a Grid|[Go](/Algorithms/Go/medium/2684_Maximum_Number_of_Moves_in_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/2684_Maximum_Number_of_Moves_in_a_Grid_[Medium].java)|Medium|
 |2685|Count the Number of Complete Components|[Go](/Algorithms/Go/medium/2685_Count_the_Number_of_Complete_Components_[Medium].go), [Java](/Algorithms/Java/medium/2685_Count_the_Number_of_Complete_Components_[Medium].java)|Medium|
 |2698|Find the Punishment Number of an Integer|[Go](/Algorithms/Go/medium/2698_Find_the_Punishment_Number_of_an_Integer_[Medium].go), [Java](/Algorithms/Java/medium/2698_Find_the_Punishment_Number_of_an_Integer_[Medium].java)|Medium|
 |2707|Extra Characters in a String|[Go](/Algorithms/Go/medium/2707_Extra_Characters_in_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2707_Extra_Characters_in_a_String_[Medium].java)|Medium|
