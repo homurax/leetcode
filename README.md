@@ -1022,6 +1022,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1915|Number of Wonderful Substrings|[Go](/Algorithms/Go/medium/1915_Number_of_Wonderful_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/1915_Number_of_Wonderful_Substrings_[Medium].java)|Medium|
 |1920|Build Array from Permutation|[Go](/Algorithms/Go/easy/1920_Build_Array_from_Permutation_[Easy].go)|Easy|
 |1921|Eliminate Maximum Number of Monsters|[Go](/Algorithms/Go/medium/1921_Eliminate_Maximum_Number_of_Monsters_[Medium].go), [Java](/Algorithms/Java/medium/1921_Eliminate_Maximum_Number_of_Monsters_[Medium].java)|Medium|
+|1922|Count Good Numbers|[Go](/Algorithms/Go/medium/1922_Count_Good_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/1922_Count_Good_Numbers_[Medium].java)|Medium|
 |1926|Nearest Exit from Entrance in Maze|[Go](/Algorithms/Go/medium/1926_Nearest_Exit_from_Entrance_in_Maze_[Medium].go), [Java](/Algorithms/Java/medium/1926_Nearest_Exit_from_Entrance_in_Maze_[Medium].java)|Medium|
 |1927|Sum Game|[Java](/Algorithms/Java/medium/1927_Sum_Game_[Medium].java)|Medium|
 |1929|Concatenation of Array|[Go](/Algorithms/Go/easy/1929_Concatenation_of_Array_[Easy].go)|Easy|
