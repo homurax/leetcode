@@ -266,6 +266,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |388|Longest Absolute File Path|[Go](/Algorithms/Go/medium/0388_Longest_Absolute_File_Path_[Medium].go), [Java](/Algorithms/Java/medium/0388_Longest_Absolute_File_Path_[Medium].java)|Medium|
 |389|Find the Difference|[Java](/Algorithms/Java/easy/0389_Find_the_Difference_[Easy].java)|Easy|
 |392|Is Subsequence|[Java](/Algorithms/Java/easy/0392_Is_Subsequence_[Easy].java)|Easy|
+|393|UTF-8 Validation|[Go](/Algorithms/Go/medium/0393_UTF-8_Validation_[Medium].go), [Java](/Algorithms/Java/medium/0393_UTF-8_Validation_[Medium].java)|Medium|
 |394|Decode String|[Java](/Algorithms/Java/medium/0394_Decode_String_[Medium].java)|Medium|
 |395|Longest Substring with At Least K Repeating Characters|[Java](/Algorithms/Java/medium/0395_Longest_Substring_with_At_Least_K_Repeating_Characters_[Medium].java)|Medium|
 |396|Rotate Function|[Go](/Algorithms/Go/medium/0396_Rotate_Function_[Medium].go), [Java](/Algorithms/Java/medium/0396_Rotate_Function_[Medium].java)|Medium|
