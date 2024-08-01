@@ -1199,6 +1199,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2424|Longest Uploaded Prefix|[Go](/Algorithms/Go/medium/2424_Longest_Uploaded_Prefix_[Medium].go), [Java](/Algorithms/Java/medium/2424_Longest_Uploaded_Prefix_[Medium].java)|Medium|
 |2425|Bitwise XOR of All Pairings|[Go](/Algorithms/Go/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].go), [Java](/Algorithms/Java/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].java)|Medium|
 |2428|Maximum Sum of an Hourglass|[Go](/Algorithms/Go/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].go), [Java](/Algorithms/Java/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].java)|Medium|
+|2429|Minimize XOR|[Go](/Algorithms/Go/medium/2429_Minimize_XOR_[Medium].go), [Java](/Algorithms/Java/medium/2429_Minimize_XOR_[Medium].java)|Medium|
 |2433|Find The Original Array of Prefix Xor|[Go](/Algorithms/Go/medium/2433_Find_The_Original_Array_of_Prefix_Xor_[Medium].go), [Java](/Algorithms/Java/medium/2433_Find_The_Original_Array_of_Prefix_Xor_[Medium].java)|Medium|
 |2439|Minimize Maximum of Array|[Go](/Algorithms/Go/medium/2439_Minimize_Maximum_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/2439_Minimize_Maximum_of_Array_[Medium].java)|Medium|
 |2442|Count Number of Distinct Integers After Reverse Operations|[Go](/Algorithms/Go/medium/2442_Count_Number_of_Distinct_Integers_After_Reverse_Operations_[Medium].go), [Java](/Algorithms/Java/medium/2442_Count_Number_of_Distinct_Integers_After_Reverse_Operations_[Medium].java)|Medium|
