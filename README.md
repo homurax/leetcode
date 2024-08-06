@@ -379,6 +379,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |583|Delete Operation for Two Strings|[Java](/Algorithms/Java/medium/0583_Delete_Operation_for_Two_Strings_[Medium].java)|Medium|
 |589|N-ary Tree Preorder Traversal|[Java](/Algorithms/Java/easy/0589_N-ary_Tree_Preorder_Traversal_[Easy].java)|Easy|
 |590|N-ary Tree Postorder Traversal|[Java](/Algorithms/Java/easy/0590_N-ary_Tree_Postorder_Traversal_[Easy].java)|Easy|
+|593|Valid Square|[Go](/Algorithms/Go/medium/0593_Valid_Square_[Medium].go), [Java](/Algorithms/Java/medium/0593_Valid_Square_[Medium].java)|Medium|
 |594|Longest Harmonious Subsequence|[Java](/Algorithms/Java/easy/0594_Longest_Harmonious_Subsequence_[Easy].java)|Easy|
 |598|Range Addition II|[Java](/Algorithms/Java/easy/0598_Range_Addition_II_[Easy].java)|Easy|
 |599|Minimum Index Sum of Two Lists|[Java](/Algorithms/Java/easy/0599_Minimum_Index_Sum_of_Two_Lists_[Easy].java)|Easy|
