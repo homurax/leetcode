@@ -1017,6 +1017,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1898|Maximum Number of Removable Characters|[Go](/Algorithms/Go/medium/1898_Maximum_Number_of_Removable_Characters_[Medium].go), [Java](/Algorithms/Java/medium/1898_Maximum_Number_of_Removable_Characters_[Medium].java)|Medium|
 |1899|Merge Triplets to Form Target Triplet|[Java](/Algorithms/Java/medium/1899_Merge_Triplets_to_Form_Target_Triplet_[Medium].java)|Medium|
 |1901|Find a Peak Element II|[Java](/Algorithms/Java/medium/1901_Find_a_Peak_Element_II_[Medium].java)|Medium|
+|1904|The Number of Full Rounds You Have Played|[Go](/Algorithms/Go/medium/1904_The_Number_of_Full_Rounds_You_Have_Played_[Medium].go), [Java](/Algorithms/Java/medium/1904_The_Number_of_Full_Rounds_You_Have_Played_[Medium].java)|Medium|
 |1905|Count Sub Islands|[Go](/Algorithms/Go/medium/1905_Count_Sub_Islands_[Medium].go), [Java](/Algorithms/Java/medium/1905_Count_Sub_Islands_[Medium].java)|Medium|
 |1906|Minimum Absolute Difference Queries|[Go](/Algorithms/Go/medium/1906_Minimum_Absolute_Difference_Queries_[Medium].go), [Java](/Algorithms/Java/medium/1906_Minimum_Absolute_Difference_Queries_[Medium].java)|Medium|
 |1910|Remove All Occurrences of a Substring|[Go](/Algorithms/Go/medium/1910_Remove_All_Occurrences_of_a_Substring_[Medium].go), [Java](/Algorithms/Java/medium/1910_Remove_All_Occurrences_of_a_Substring_[Medium].java)|Medium|
