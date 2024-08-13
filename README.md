@@ -396,6 +396,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |636|Exclusive Time of Functions|[Go](/Algorithms/Go/medium/0636_Exclusive_Time_of_Functions_[Medium].go), [Java](/Algorithms/Java/medium/0636_Exclusive_Time_of_Functions_[Medium].java)|Medium|
 |637|Average of Levels in Binary Tree|[Java](/Algorithms/Java/easy/0637_Average_of_Levels_in_Binary_Tree_[Easy].java)|Easy|
 |638|Shopping Offers|[Java](/Algorithms/Java/medium/0638_Shopping_Offers_[Medium].java)|Medium|
+|640|Solve the Equation|[Go](/Algorithms/Go/medium/0640_Solve_the_Equation_[Medium].go), [Java](/Algorithms/Java/medium/0640_Solve_the_Equation_[Medium].java)|Medium|
 |641|Design Circular Deque|[Java](/Algorithms/Java/medium/0641_Design_Circular_Deque_[Medium].java)|Medium|
 |643|Maximum Average Subarray I|[Java](/Algorithms/Java/easy/0643_Maximum_Average_Subarray_I_[Easy].java)|Easy|
 |645|Set Mismatch|[Java](/Algorithms/Java/easy/0645_Set_Mismatch_[Easy].java)|Easy|
