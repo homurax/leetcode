@@ -1239,6 +1239,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2555|Maximize Win From Two Segments|[Go](/Algorithms/Go/medium/2555_Maximize_Win_From_Two_Segments_[Medium].go), [Java](/Algorithms/Java/medium/2555_Maximize_Win_From_Two_Segments_[Medium].java)|Medium|
 |2556|Disconnect Path in a Binary Matrix by at Most One Flip|[Go](/Algorithms/Go/medium/2556_Disconnect_Path_in_a_Binary_Matrix_by_at_Most_One_Flip_[Medium].go), [Java](/Algorithms/Java/medium/2556_Disconnect_Path_in_a_Binary_Matrix_by_at_Most_One_Flip_[Medium].java)|Medium|
 |2559|Count Vowel Strings in Ranges|[Go](/Algorithms/Go/medium/2559_Count_Vowel_Strings_in_Ranges_[Medium].go), [Java](/Algorithms/Java/medium/2559_Count_Vowel_Strings_in_Ranges_[Medium].java)|Medium|
+|2560|House Robber IV|[Go](/Algorithms/Go/medium/2560_House_Robber_IV_[Medium].go), [Java](/Algorithms/Java/medium/2560_House_Robber_IV_[Medium].java)|Medium|
 |2563|Count the Number of Fair Pairs|[Go](/Algorithms/Go/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/2563_Count_the_Number_of_Fair_Pairs_[Medium].java)|Medium|
 |2567|Minimum Score by Changing Two Elements|[Go](/Algorithms/Go/medium/2567_Minimum_Score_by_Changing_Two_Elements_[Medium].go), [Java](/Algorithms/Java/medium/2567_Minimum_Score_by_Changing_Two_Elements_[Medium].java)|Medium|
 |2568|Minimum Impossible OR|[Go](/Algorithms/Go/medium/2568_Minimum_Impossible_OR_[Medium].go), [Java](/Algorithms/Java/medium/2568_Minimum_Impossible_OR_[Medium].java)|Medium|
