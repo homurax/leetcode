@@ -1108,6 +1108,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2139|Minimum Moves to Reach Target Score|[Java](/Algorithms/Java/medium/2139_Minimum_Moves_to_Reach_Target_Score_[Medium].java)|Medium|
 |2140|Solving Questions With Brainpower|[Go](/Algorithms/Go/medium/2140_Solving_Questions_With_Brainpower_[Medium].go), [Java](/Algorithms/Java/medium/2140_Solving_Questions_With_Brainpower_[Medium].java)|Medium|
 |2145|Count the Hidden Sequences|[Go](/Algorithms/Go/medium/2145_Count_the_Hidden_Sequences_[Medium].go), [Java](/Algorithms/Java/medium/2145_Count_the_Hidden_Sequences_[Medium].java)|Medium|
+|2146|K Highest Ranked Items Within a Price Range|[Go](/Algorithms/Go/medium/2146_K_Highest_Ranked_Items_Within_a_Price_Range_[Medium].go), [Java](/Algorithms/Java/medium/2146_K_Highest_Ranked_Items_Within_a_Price_Range_[Medium].java)|Medium|
 |2149|Rearrange Array Elements by Sign|[Go](/Algorithms/Go/medium/2149_Rearrange_Array_Elements_by_Sign_[Medium].go), [Java](/Algorithms/Java/medium/2149_Rearrange_Array_Elements_by_Sign_[Medium].java)|Medium|
 |2150|Find All Lonely Numbers in the Array|[Go](/Algorithms/Go/medium/2150_Find_All_Lonely_Numbers_in_the_Array_[Medium].go), [Java](/Algorithms/Java/medium/2150_Find_All_Lonely_Numbers_in_the_Array_[Medium].java)|Medium|
 |2155|All Divisions With the Highest Score of a Binary Array|[Go](/Algorithms/Go/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].go), [Java](/Algorithms/Java/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].java)|Medium|
