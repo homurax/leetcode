@@ -1144,6 +1144,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2235|Add Two Integers|[Go](/Algorithms/Go/easy/2235_Add_Two_Integers_[Easy].go)|Easy|
 |2236|Root Equals Sum of Children|[Go](/Algorithms/Go/easy/2236_Root_Equals_Sum_of_Children_[Easy].go)|Easy|
 |2240|Number of Ways to Buy Pens and Pencils|[Go](/Algorithms/Go/medium/2240_Number_of_Ways_to_Buy_Pens_and_Pencils_[Medium].go), [Java](/Algorithms/Java/medium/2240_Number_of_Ways_to_Buy_Pens_and_Pencils_[Medium].java)|Medium|
+|2241|Design an ATM Machine|[Go](/Algorithms/Go/medium/2241_Design_an_ATM_Machine_[Medium].go), [Java](/Algorithms/Java/medium/2241_Design_an_ATM_Machine_[Medium].java)|Medium|
 |2244|Minimum Rounds to Complete All Tasks|[Go](/Algorithms/Go/medium/2244_Minimum_Rounds_to_Complete_All_Tasks_[Medium].go), [Java](/Algorithms/Java/medium/2244_Minimum_Rounds_to_Complete_All_Tasks_[Medium].java)|Medium|
 |2249|Count Lattice Points Inside a Circle|[Go](/Algorithms/Go/medium/2249_Count_Lattice_Points_Inside_a_Circle_[Medium].go), [Java](/Algorithms/Java/medium/2249_Count_Lattice_Points_Inside_a_Circle_[Medium].java)|Medium|
 |2250|Count Number of Rectangles Containing Each Point|[Go](/Algorithms/Go/medium/2250_Count_Number_of_Rectangles_Containing_Each_Point_[Medium].go), [Java](/Algorithms/Java/medium/2250_Count_Number_of_Rectangles_Containing_Each_Point_[Medium].java)|Medium|
