@@ -681,6 +681,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1089|Duplicate Zeros|[Java](/Algorithms/Java/easy/1089_Duplicate_Zeros_[Easy].java)|Easy|
 |1090|Largest Values From Labels|[Java](/Algorithms/Java/medium/1090_Largest_Values_From_Labels_[Medium].java)|Medium|
 |1091|Shortest Path in Binary Matrix|[Go](/Algorithms/Go/medium/1091_Shortest_Path_in_Binary_Matrix_[Medium].go), [Java](/Algorithms/Java/medium/1091_Shortest_Path_in_Binary_Matrix_[Medium].java)|Medium|
+|1093|Statistics from a Large Sample|[Go](/Algorithms/Go/medium/1093_Statistics_from_a_Large_Sample_[Medium].go), [Java](/Algorithms/Java/medium/1093_Statistics_from_a_Large_Sample_[Medium].java)|Medium|
 |1094|Car Pooling|[Java](/Algorithms/Java/medium/1094_Car_Pooling_[Medium].java)|Medium|
 |1103|Distribute Candies to People|[Java](/Algorithms/Java/easy/1103_Distribute_Candies_to_People_[Easy].java)|Easy|
 |1104|Path In Zigzag Labelled Binary Tree|[Java](/Algorithms/Java/easy/1104_Path_In_Zigzag_Labelled_Binary_Tree_[Easy].java)|Easy|
