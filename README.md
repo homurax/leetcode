@@ -1343,6 +1343,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3111|Minimum Rectangles to Cover Points|[Go](/Algorithms/Go/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].go), [Java](/Algorithms/Java/medium/3111_Minimum_Rectangles_to_Cover_Points_[Medium].java)|Medium|
 |3115|Maximum Prime Difference|[Go](/Algorithms/Go/medium/3115_Maximum_Prime_Difference_[Medium].go), [Java](/Algorithms/Java/medium/3115_Maximum_Prime_Difference_[Medium].java)|Medium|
 |3128|Right Triangles|[Go](/Algorithms/Go/medium/3128_Right_Triangles_[Medium].go), [Java](/Algorithms/Java/medium/3128_Right_Triangles_[Medium].java)|Medium|
+|3138|Minimum Length of Anagram Concatenation|[Go](/Algorithms/Go/medium/3138_Minimum_Length_of_Anagram_Concatenation_[Medium].go), [Java](/Algorithms/Java/medium/3138_Minimum_Length_of_Anagram_Concatenation_[Medium].java)|Medium|
 |3148|Maximum Difference Score in a Grid|[Go](/Algorithms/Go/medium/3148_Maximum_Difference_Score_in_a_Grid_[Medium].go), [Java](/Algorithms/Java/medium/3148_Maximum_Difference_Score_in_a_Grid_[Medium].java)|Medium|
 |3153|Sum of Digit Differences of All Pairs|[Go](/Algorithms/Go/medium/3153_Sum_of_Digit_Differences_of_All_Pairs_[Medium].go), [Java](/Algorithms/Java/medium/3153_Sum_of_Digit_Differences_of_All_Pairs_[Medium].java)|Medium|
 |3185|Count Pairs That Form a Complete Day II|[Go](/Algorithms/Go/medium/3185_Count_Pairs_That_Form_a_Complete_Day_II_[Medium].go), [Java](/Algorithms/Java/medium/3185_Count_Pairs_That_Form_a_Complete_Day_II_[Medium].java)|Medium|
