@@ -248,6 +248,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |349|Intersection of Two Arrays|[Java](/Algorithms/Java/easy/0349_Intersection_of_Two_Arrays_[Easy].java)|Easy|
 |350|Intersection of Two Arrays II|[Java](/Algorithms/Java/easy/0350_Intersection_of_Two_Arrays_II_[Easy].java)|Easy|
 |357|Count Numbers with Unique Digits|[Go](/Algorithms/Go/medium/0357_Count_Numbers_with_Unique_Digits_[Medium].go), [Java](/Algorithms/Java/medium/0357_Count_Numbers_with_Unique_Digits_[Medium].java)|Medium|
+|365|Water and Jug Problem|[Go](/Algorithms/Go/medium/0365_Water_and_Jug_Problem_[Medium].go), [Java](/Algorithms/Java/medium/0365_Water_and_Jug_Problem_[Medium].java)|Medium|
 |367|Valid Perfect Square|[Java](/Algorithms/Java/easy/0367_Valid_Perfect_Square_[Easy].java)|Easy|
 |368|Largest Divisible Subset|[Go](/Algorithms/Go/medium/0368_Largest_Divisible_Subset_[Medium].go), [Java](/Algorithms/Java/medium/0368_Largest_Divisible_Subset_[Medium].java)|Medium|
 |371|Sum of Two Integers|[Java](/Algorithms/Java/easy/0371_Sum_of_Two_Integers_[Easy].java)|Easy|
