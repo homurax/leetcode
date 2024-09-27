@@ -1118,6 +1118,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2155|All Divisions With the Highest Score of a Binary Array|[Go](/Algorithms/Go/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].go), [Java](/Algorithms/Java/medium/2155_All_Divisions_With_the_Highest_Score_of_a_Binary_Array_[Medium].java)|Medium|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|[Go](/Algorithms/Go/easy/2160_Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits_[Easy].go)|Easy|
 |2161|Partition Array According to Given Pivot|[Go](/Algorithms/Go/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].go), [Java](/Algorithms/Java/medium/2161_Partition_Array_According_to_Given_Pivot_[Medium].java)|Medium|
+|2162|Minimum Cost to Set Cooking Time|[Go](/Algorithms/Go/medium/2162_Minimum_Cost_to_Set_Cooking_Time_[Medium].go), [Java](/Algorithms/Java/medium/2162_Minimum_Cost_to_Set_Cooking_Time_[Medium].java)|Medium|
 |2165|Smallest Value of the Rearranged Number|[Go](/Algorithms/Go/medium/2165_Smallest_Value_of_the_Rearranged_Number_[Medium].go), [Java](/Algorithms/Java/medium/2165_Smallest_Value_of_the_Rearranged_Number_[Medium].java)|Medium|
 |2166|Design Bitset|[Go](/Algorithms/Go/medium/2166_Design_Bitset_[Medium].go), [Java](/Algorithms/Java/medium/2166_Design_Bitset_[Medium].java)|Medium|
 |2171|Removing Minimum Number of Magic Beans|[Go](/Algorithms/Go/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].go), [Java](/Algorithms/Java/medium/2171_Removing_Minimum_Number_of_Magic_Beans_[Medium].java)|Medium|
