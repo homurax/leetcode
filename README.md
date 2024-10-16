@@ -846,6 +846,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1423|Maximum Points You Can Obtain from Cards|[Java](/Algorithms/Java/medium/1423_Maximum_Points_You_Can_Obtain_from_Cards_[Medium].java)|Medium|
 |1424|Diagonal Traverse II|[Java](/Algorithms/Java/medium/1424_Diagonal_Traverse_II_[Medium].java)|Medium|
 |1431|Kids With the Greatest Number of Candies|[Java](/Algorithms/Java/easy/1431_Kids_With_the_Greatest_Number_of_Candies_[Easy].java)|Easy|
+|1432|Max Difference You Can Get From Changing an Integer|[Go](/Algorithms/Go/medium/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer_[Medium].go), [Java](/Algorithms/Java/medium/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer_[Medium].java)|Medium|
 |1433|Check If a String Can Break Another String|[Java](/Algorithms/Java/medium/1433_Check_If_a_String_Can_Break_Another_String_[Medium].java)|Medium|
 |1436|Destination City|[Java](/Algorithms/Java/easy/1436_Destination_City_[Easy].java)|Easy|
 |1437|Check If All 1's Are at Least Length K Places Away|[Java](/Algorithms/Java/medium/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away_[Medium].java)|Medium|
