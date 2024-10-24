@@ -1371,3 +1371,4 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3185|Count Pairs That Form a Complete Day II|[Go](/Algorithms/Go/medium/3185_Count_Pairs_That_Form_a_Complete_Day_II_[Medium].go), [Java](/Algorithms/Java/medium/3185_Count_Pairs_That_Form_a_Complete_Day_II_[Medium].java)|Medium|
 |3208|Alternating Groups II|[Go](/Algorithms/Go/medium/3208_Alternating_Groups_II_[Medium].go), [Java](/Algorithms/Java/medium/3208_Alternating_Groups_II_[Medium].java)|Medium|
 |3290|Maximum Multiplication Score|[Go](/Algorithms/Go/medium/3290_Maximum_Multiplication_Score_[Medium].go), [Java](/Algorithms/Java/medium/3290_Maximum_Multiplication_Score_[Medium].java)|Medium|
+|3305|Count of Substrings Containing Every Vowel and K Consonants I|[Go](/Algorithms/Go/medium/3305_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_I_[Medium].go), [Java](/Algorithms/Java/medium/3305_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_I_[Medium].java)|Medium|
