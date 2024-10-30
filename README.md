@@ -322,6 +322,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |474|Ones and Zeroes|[Java](/Algorithms/Java/medium/0474_Ones_and_Zeroes_[Medium].java)|Medium|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
+|478|Generate Random Point in a Circle|[Go](/Algorithms/Go/medium/0478_Generate_Random_Point_in_a_Circle_[Medium].go), [Java](/Algorithms/Java/medium/0478_Generate_Random_Point_in_a_Circle_[Medium].java)|Medium|
 |481|Magical String|[Go](/Algorithms/Go/medium/0481_Magical_String_[Medium].go), [Java](/Algorithms/Java/medium/0481_Magical_String_[Medium].java)|Medium|
 |482|License Key Formatting|[Java](/Algorithms/Java/easy/0482_License_Key_Formatting_[Easy].java)|Easy|
 |485|Max Consecutive Ones|[Java](/Algorithms/Java/easy/0485_Max_Consecutive_Ones_[Easy].java)|Easy|
