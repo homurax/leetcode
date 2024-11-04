@@ -331,6 +331,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |492|Construct the Rectangle|[Java](/Algorithms/Java/easy/0492_Construct_the_Rectangle_[Easy].java)|Easy|
 |494|Target Sum|[Java](/Algorithms/Java/medium/0494_Target_Sum_[Medium].java)|Medium|
 |496|Next Greater Element I|[Java](/Algorithms/Java/easy/0496_Next_Greater_Element_I_[Easy].java)|Easy|
+|497|Random Point in Non-overlapping Rectangles|[Go](/Algorithms/Go/medium/0497_Random_Point_in_Non-overlapping_Rectangles_[Medium].go), [Java](/Algorithms/Java/medium/0497_Random_Point_in_Non-overlapping_Rectangles_[Medium].java)|Medium|
 |498|Diagonal Traverse|[Java](/Algorithms/Java/medium/0498_Diagonal_Traverse_[Medium].java)|Medium|
 |500|Keyboard Row|[Java](/Algorithms/Java/easy/0500_Keyboard_Row_[Easy].java)|Easy|
 |501|Find Mode in Binary Search Tree|[Java](/Algorithms/Java/easy/0501_Find_Mode_in_Binary_Search_Tree_[Easy].java)|Easy|
