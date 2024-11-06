@@ -1236,6 +1236,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2487|Remove Nodes From Linked List|[Go](/Algorithms/Go/medium/2487_Remove_Nodes_From_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2487_Remove_Nodes_From_Linked_List_[Medium].java)|Medium|
 |2491|Divide Players Into Teams of Equal Skill|[Go](/Algorithms/Go/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].go), [Java](/Algorithms/Java/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].java)|Medium|
 |2492|Minimum Score of a Path Between Two Cities|[Java](/Algorithms/Java/medium/2492_Minimum_Score_of_a_Path_Between_Two_Cities_[Medium].java), [Java](/Algorithms/Java/medium/2492_Minimum_Score_of_a_Path_Between_Two_Cities_[Medium].java)|Medium|
+|2497|Maximum Star Sum of a Graph|[Go](/Algorithms/Go/medium/2497_Maximum_Star_Sum_of_a_Graph_[Medium].go), [Java](/Algorithms/Java/medium/2497_Maximum_Star_Sum_of_a_Graph_[Medium].java)|Medium|
 |2498|Frog Jump II|[Go](/Algorithms/Go/medium/2498_Frog_Jump_II_[Medium].go), [Java](/Algorithms/Java/medium/2498_Frog_Jump_II_[Medium].java)|Medium|
 |2502|Design Memory Allocator|[Go](/Algorithms/Go/medium/2502_Design_Memory_Allocator_[Medium].go), [Java](/Algorithms/Java/medium/2502_Design_Memory_Allocator_[Medium].java)|Medium|
 |2507|Smallest Value After Replacing With Sum of Prime Factors|[Go](/Algorithms/Go/medium/2507_Smallest_Value_After_Replacing_With_Sum_of_Prime_Factors_[Medium].go), [Java](/Algorithms/Java/medium/2507_Smallest_Value_After_Replacing_With_Sum_of_Prime_Factors_[Medium].java)|Medium|
