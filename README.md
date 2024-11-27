@@ -213,6 +213,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |263|Ugly Number|[Java](/Algorithms/Java/easy/0263_Ugly_Number_[Easy].java)|Easy|
 |264|Ugly Number II|[Java](/Algorithms/Java/medium/0264_Ugly_Number_II_[Medium].java)|Medium|
 |268|Missing Number|[Java](/Algorithms/Java/easy/0268_Missing_Number_[Easy].java)|Easy|
+|274|H-Index|[Go](/Algorithms/Go/medium/0274_H-Index_[Medium].go), [Java](/Algorithms/Java/medium/0274_H-Index_[Medium].java)|Medium|
 |278|First Bad Version|[Java](/Algorithms/Java/easy/0278_First_Bad_Version_[Easy].java)|Easy|
 |279|Perfect Squares|[Java](/Algorithms/Java/medium/0279_Perfect_Squares_[Medium].java)|Medium|
 |283|Move Zeroes|[Java](/Algorithms/Java/easy/0283_Move_Zeroes_[Easy].java)|Easy|
