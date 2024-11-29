@@ -1214,6 +1214,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2414|Length of the Longest Alphabetical Continuous Substring|[Go](/Algorithms/Go/medium/2414_Length_of_the_Longest_Alphabetical_Continuous_Substring_[Medium].go), [Java](/Algorithms/Java/medium/2414_Length_of_the_Longest_Alphabetical_Continuous_Substring_[Medium].java)|Medium|
 |2415|Reverse Odd Levels of Binary Tree|[Go](/Algorithms/Go/medium/2415_Reverse_Odd_Levels_of_Binary_Tree_[Medium].go), [Java](/Algorithms/Java/medium/2415_Reverse_Odd_Levels_of_Binary_Tree_[Medium].java)|Medium|
 |2419|Longest Subarray With Maximum Bitwise AND|[Go](/Algorithms/Go/medium/2419_Longest_Subarray_With_Maximum_Bitwise_AND_[Medium].go), [Java](/Algorithms/Java/medium/2419_Longest_Subarray_With_Maximum_Bitwise_AND_[Medium].java)|Medium|
+|2420|Find All Good Indices|[Go](/Algorithms/Go/medium/2420_Find_All_Good_Indices_[Medium].go), [Java](/Algorithms/Java/medium/2420_Find_All_Good_Indices_[Medium].java)|Medium|
 |2424|Longest Uploaded Prefix|[Go](/Algorithms/Go/medium/2424_Longest_Uploaded_Prefix_[Medium].go), [Java](/Algorithms/Java/medium/2424_Longest_Uploaded_Prefix_[Medium].java)|Medium|
 |2425|Bitwise XOR of All Pairings|[Go](/Algorithms/Go/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].go), [Java](/Algorithms/Java/medium/2425_Bitwise_XOR_of_All_Pairings_[Medium].java)|Medium|
 |2428|Maximum Sum of an Hourglass|[Go](/Algorithms/Go/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].go), [Java](/Algorithms/Java/medium/2428_Maximum_Sum_of_an_Hourglass_[Medium].java)|Medium|
