@@ -265,6 +265,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |382|Linked List Random Node|[Java](/Algorithms/Java/medium/0382_Linked_List_Random_Node_[Medium].java)|Medium|
 |383|Ransom Note|[Java](/Algorithms/Java/easy/0383_Ransom_Note_[Easy].java)|Easy|
 |384|Shuffle an Array|[Java](/Algorithms/Java/medium/0384_Shuffle_an_Array_[Medium].java)|Medium|
+|385|Mini Parser|[Go](/Algorithms/Go/medium/0385_Mini_Parser_[Medium].go), [Java](/Algorithms/Java/medium/0385_Mini_Parser_[Medium].java)|Medium|
 |386|Lexicographical Numbers|[Java](/Algorithms/Java/medium/0386_Lexicographical_Numbers_[Medium].java)|Medium|
 |387|First Unique Character in a String|[Java](/Algorithms/Java/easy/0387_First_Unique_Character_in_a_String_[Easy].java)|Easy|
 |388|Longest Absolute File Path|[Go](/Algorithms/Go/medium/0388_Longest_Absolute_File_Path_[Medium].go), [Java](/Algorithms/Java/medium/0388_Longest_Absolute_File_Path_[Medium].java)|Medium|
