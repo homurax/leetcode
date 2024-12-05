@@ -459,6 +459,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |718|Maximum Length of Repeated Subarray|[Java](/Algorithms/Java/medium/0718_Maximum_Length_of_Repeated_Subarray_[Medium].java)|Medium|
 |720|Longest Word in Dictionary|[Go](/Algorithms/Go/medium/0720_Longest_Word_in_Dictionary_[Medium].go), [Java](/Algorithms/Java/medium/0720_Longest_Word_in_Dictionary_[Medium].java)|Medium|
 |721|Accounts Merge|[Java](/Algorithms/Java/medium/0721_Accounts_Merge_[Medium].java)|Medium|
+|722|Remove Comments|[Go](/Algorithms/Go/medium/0722_Remove_Comments_[Medium].go), [Java](/Algorithms/Java/medium/0722_Remove_Comments_[Medium].java)|Medium|
 |724|Find Pivot Index|[Java](/Algorithms/Java/easy/0724_Find_Pivot_Index_[Easy].java)|Easy|
 |725|Split Linked List in Parts|[Java](/Algorithms/Java/medium/0725_Split_Linked_List_in_Parts_[Medium].java)|Medium|
 |728|Self Dividing Numbers|[Java](/Algorithms/Java/easy/0728_Self_Dividing_Numbers_[Easy].java)|Easy|
