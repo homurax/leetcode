@@ -322,6 +322,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |470|Implement Rand10() Using Rand7()|[Java](/Algorithms/Java/medium/0470_Implement_Rand10()_Using_Rand7()_[Medium].java)|Medium|
 |473|Matchsticks to Square|[Java](/Algorithms/Java/medium/0473_Matchsticks_to_Square_[Medium].java)|Medium|
 |474|Ones and Zeroes|[Java](/Algorithms/Java/medium/0474_Ones_and_Zeroes_[Medium].java)|Medium|
+|475|Heaters|[Go](/Algorithms/Go/medium/0475_Heaters_[Medium].go), [Java](/Algorithms/Java/medium/0475_Heaters_[Medium].java)|Medium|
 |476|Number Complement|[Java](/Algorithms/Java/easy/0476_Number_Complement_[Easy].java)|Easy|
 |477|Total Hamming Distance|[Java](/Algorithms/Java/medium/0477_Total_Hamming_Distance_[Medium].java)|Medium|
 |478|Generate Random Point in a Circle|[Go](/Algorithms/Go/medium/0478_Generate_Random_Point_in_a_Circle_[Medium].go), [Java](/Algorithms/Java/medium/0478_Generate_Random_Point_in_a_Circle_[Medium].java)|Medium|
