@@ -937,6 +937,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1609|Even Odd Tree|[Java](/Algorithms/Java/medium/1609_Even_Odd_Tree_[Medium].java)|Medium|
 |1615|Maximal Network Rank|[Go](/Algorithms/Go/medium/1615_Maximal_Network_Rank_[Medium].go), [Java](/Algorithms/Java/medium/1615_Maximal_Network_Rank_[Medium].java)|Medium|
 |1616|Split Two Strings to Make Palindrome|[Java](/Algorithms/Java/medium/1616_Split_Two_Strings_to_Make_Palindrome_[Medium].java)|Medium|
+|1620|Coordinate With Maximum Network Quality|[Go](/Algorithms/Go/medium/1620_Coordinate_With_Maximum_Network_Quality_[Medium].go), [Java](/Algorithms/Java/medium/1620_Coordinate_With_Maximum_Network_Quality_[Medium].java)|Medium|
 |1626|Best Team With No Conflicts|[Java](/Algorithms/Java/medium/1626_Best_Team_With_No_Conflicts_[Medium].java)|Medium|
 |1630|Arithmetic Subarrays|[Java](/Algorithms/Java/medium/1630_Arithmetic_Subarrays_[Medium].java)|Medium|
 |1631|Path With Minimum Effort|[Java](/Algorithms/Java/medium/1631_Path_With_Minimum_Effort_[Medium].java)|Medium|
