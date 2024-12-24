@@ -1233,6 +1233,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2452|Words Within Two Edits of Dictionary|[Go](/Algorithms/Go/medium/2452_Words_Within_Two_Edits_of_Dictionary_[Medium].go), [Java](/Algorithms/Java/medium/2452_Words_Within_Two_Edits_of_Dictionary_[Medium].java)|Medium|
 |2453|Destroy Sequential Targets|[Go](/Algorithms/Go/medium/2453_Destroy_Sequential_Targets_[Medium].go), [Java](/Algorithms/Java/medium/2453_Destroy_Sequential_Targets_[Medium].java)|Medium|
 |2456|Most Popular Video Creator|[Go](/Algorithms/Go/medium/2456_Most_Popular_Video_Creator_[Medium].go), [Java](/Algorithms/Java/medium/2456_Most_Popular_Video_Creator_[Medium].java)|Medium|
+|2457|Minimum Addition to Make Integer Beautiful|[Go](/Algorithms/Go/medium/2457_Minimum_Addition_to_Make_Integer_Beautiful_[Medium].go), [Java](/Algorithms/Java/medium/2457_Minimum_Addition_to_Make_Integer_Beautiful_[Medium].java)|Medium|
 |2461|Maximum Sum of Distinct Subarrays With Length K|[Go](/Algorithms/Go/medium/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K_[Medium].go), [Java](/Algorithms/Java/medium/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K_[Medium].java)|Medium|
 |2462|Total Cost to Hire K Workers|[Go](/Algorithms/Go/medium/2462_Total_Cost_to_Hire_K_Workers_[Medium].go), [Java](/Algorithms/Java/medium/2462_Total_Cost_to_Hire_K_Workers_[Medium].java)|Medium|
 |2466|Count Ways To Build Good Strings|[Go](/Algorithms/Go/medium/2466_Count_Ways_To_Build_Good_Strings_[Medium].go), [Java](/Algorithms/Java/medium/2466_Count_Ways_To_Build_Good_Strings_[Medium].java)|Medium|
