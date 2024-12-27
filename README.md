@@ -1405,3 +1405,4 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3334|Find the Maximum Factor Score of Array|[Go](/Algorithms/Go/medium/3334_Find_the_Maximum_Factor_Score_of_Array_[Medium].go), [Java](/Algorithms/Java/medium/3334_Find_the_Maximum_Factor_Score_of_Array_[Medium].java)|Medium|
 |3350|Adjacent Increasing Subarrays Detection II|[Go](/Algorithms/Go/medium/3350_Adjacent_Increasing_Subarrays_Detection_II_[Medium].go), [Java](/Algorithms/Java/medium/3350_Adjacent_Increasing_Subarrays_Detection_II_[Medium].java)|Medium|
 |3355|Zero Array Transformation I|[Go](/Algorithms/Go/medium/3355_Zero_Array_Transformation_I_[Medium].go), [Java](/Algorithms/Java/medium/3355_Zero_Array_Transformation_I_[Medium].java)|Medium|
+|3394|Check if Grid can be Cut into Sections|[Go](/Algorithms/Go/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].go), [Java](/Algorithms/Java/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].java)|Medium|
