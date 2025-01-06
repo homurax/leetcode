@@ -980,6 +980,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1727|Largest Submatrix With Rearrangements|[Go](/Algorithms/Go/medium/1727_Largest_Submatrix_With_Rearrangements_[Medium].go), [Java](/Algorithms/Java/medium/1727_Largest_Submatrix_With_Rearrangements_[Medium].java)|Medium|
 |1733|Minimum Number of People to Teach|[Go](/Algorithms/Go/medium/1733_Minimum_Number_of_People_to_Teach_[Medium].go), [Java](/Algorithms/Java/medium/1733_Minimum_Number_of_People_to_Teach_[Medium].java)|Medium|
 |1734|Decode XORed Permutation|[Java](/Algorithms/Java/medium/1734_Decode_XORed_Permutation_[Medium].java)|Medium|
+|1737|Change Minimum Characters to Satisfy One of Three Conditions|[Go](/Algorithms/Go/medium/1737_Change_Minimum_Characters_to_Satisfy_One_of_Three_Conditions_[Medium].go), [Java](/Algorithms/Java/medium/1737_Change_Minimum_Characters_to_Satisfy_One_of_Three_Conditions_[Medium].java)|Medium|
 |1738|Find Kth Largest XOR Coordinate Value|[Java](/Algorithms/Java/medium/1738_Find_Kth_Largest_XOR_Coordinate_Value_[Medium].java)|Medium|
 |1743|Restore the Array From Adjacent Pairs|[Java](/Algorithms/Java/medium/1743_Restore_the_Array_From_Adjacent_Pairs_[Medium].java)|Medium|
 |1749|Maximum Absolute Sum of Any Subarray|[Java](/Algorithms/Java/medium/1749_Maximum_Absolute_Sum_of_Any_Subarray_[Medium].java)|Medium|
