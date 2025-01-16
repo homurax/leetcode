@@ -1290,6 +1290,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2597|The Number of Beautiful Subsets|[Go](/Algorithms/Go/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].go), [Java](/Algorithms/Java/medium/2597_The_Number_of_Beautiful_Subsets_[Medium].java)|Medium|
 |2598|Smallest Missing Non-negative Integer After Operations|[Go](/Algorithms/Go/medium/2598_Smallest_Missing_Non-negative_Integer_After_Operations_[Medium].go), [Java](/Algorithms/Java/medium/2598_Smallest_Missing_Non-negative_Integer_After_Operations_[Medium].java)|Medium|
 |2606|Find the Substring With Maximum Cost|[Go](/Algorithms/Go/medium/2606_Find_the_Substring_With_Maximum_Cost_[Medium].go), [Java](/Algorithms/Java/medium/2606_Find_the_Substring_With_Maximum_Cost_[Medium].java)|Medium|
+|2607|Make K-Subarray Sums Equal|[Go](/Algorithms/Go/medium/2607_Make_K-Subarray_Sums_Equal_[Medium].go), [Java](/Algorithms/Java/medium/2607_Make_K-Subarray_Sums_Equal_[Medium].java)|Medium|
 |2610|Convert an Array Into a 2D Array With Conditions|[Go](/Algorithms/Go/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].go), [Java](/Algorithms/Java/medium/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions_[Medium].java)|Medium|
 |2611|Mice and Cheese|[Go](/Algorithms/Go/medium/2611_Mice_and_Cheese_[Medium].go), [Java](/Algorithms/Java/medium/2611_Mice_and_Cheese_[Medium].java)|Medium|
 |2615|Sum of Distances|[Go](/Algorithms/Go/medium/2615_Sum_of_Distances_[Medium].go), [Java](/Algorithms/Java/medium/2615_Sum_of_Distances_[Medium].java)|Medium|
