@@ -73,6 +73,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |47|Permutations II|[Java](/Algorithms/Java/medium/0047_Permutations_II_[Medium].java)|Medium|
 |48|Rotate Image|[Java](/Algorithms/Java/medium/0048_Rotate_Image_[Medium].java)|Medium|
 |49|Group Anagrams|[Java](/Algorithms/Java/medium/0049_Group_Anagrams_[Medium].java)|Medium|
+|50|Pow(x, n)|[Go](/Algorithms/Go/medium/0050_Pow(x,_n)_[Medium].go), [Java](/Algorithms/Java/medium/0050_Pow(x,_n)_[Medium].java)|Medium|
 |53|Maximum Subarray|[Java](/Algorithms/Java/easy/0053_Maximum_Subarray_[Easy].java)|Easy|
 |54|Spiral Matrix|[Java](/Algorithms/Java/medium/0054_Spiral_Matrix_[Medium].java)|Medium|
 |55|Jump Game|[Java](/Algorithms/Java/medium/0055_Jump_Game_[Medium].java)|Medium|
