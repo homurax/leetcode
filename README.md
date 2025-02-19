@@ -914,6 +914,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1530|Number of Good Leaf Nodes Pairs|[Java](/Algorithms/Java/medium/1530_Number_of_Good_Leaf_Nodes_Pairs_[Medium].java)|Medium|
 |1535|Find the Winner of an Array Game|[Java](/Algorithms/Java/medium/1535_Find_the_Winner_of_an_Array_Game_[Medium].java)|Medium|
 |1536|Minimum Swaps to Arrange a Binary Grid|[Java](/Algorithms/Java/medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid_[Medium].java)|Medium|
+|1540|Can Convert String in K Moves|[Go](/Algorithms/Go/medium/1540_Can_Convert_String_in_K_Moves_[Medium].go), [Java](/Algorithms/Java/medium/1540_Can_Convert_String_in_K_Moves_[Medium].java)|Medium|
 |1541|Minimum Insertions to Balance a Parentheses String|[Java](/Algorithms/Java/medium/1541_Minimum_Insertions_to_Balance_a_Parentheses_String_[Medium].java)|Medium|
 |1545|Find Kth Bit in Nth Binary String|[Java](/Algorithms/Java/medium/1545_Find_Kth_Bit_in_Nth_Binary_String_[Medium].java)|Medium|
 |1546|Maximum Number of Non-Overlapping Subarrays With Sum Equals Target|[Java](/Algorithms/Java/medium/1546_Maximum_Number_of_Non-Overlapping_Subarrays_With_Sum_Equals_Target_[Medium].java)|Medium|
