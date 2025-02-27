@@ -1320,6 +1320,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2712|Minimum Cost to Make All Characters Equal|[Go](/Algorithms/Go/medium/2712_Minimum_Cost_to_Make_All_Characters_Equal_[Medium].go), [Java](/Algorithms/Java/medium/2712_Minimum_Cost_to_Make_All_Characters_Equal_[Medium].java)|Medium|
 |2740|Find the Value of the Partition|[Go](/Algorithms/Go/medium/2740_Find_the_Value_of_the_Partition_[Medium].go), [Java](/Algorithms/Java/medium/2740_Find_the_Value_of_the_Partition_[Medium].java)|Medium|
 |2745|Construct the Longest New String|[Go](/Algorithms/Go/medium/2745_Construct_the_Longest_New_String_[Medium].go), [Java](/Algorithms/Java/medium/2745_Construct_the_Longest_New_String_[Medium].java)|Medium|
+|2761|Prime Pairs With Target Sum|[Go](/Algorithms/Go/medium/2761_Prime_Pairs_With_Target_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2761_Prime_Pairs_With_Target_Sum_[Medium].java)|Medium|
 |2762|Continuous Subarrays|[Go](/Algorithms/Go/medium/2762_Continuous_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2762_Continuous_Subarrays_[Medium].java)|Medium|
 |2766|Relocate Marbles|[Go](/Algorithms/Go/medium/2766_Relocate_Marbles_[Medium].go), [Java](/Algorithms/Java/medium/2766_Relocate_Marbles_[Medium].java)|Medium|
 |2768|Number of Black Blocks|[Go](/Algorithms/Go/medium/2768_Number_of_Black_Blocks_[Medium].go), [Java](/Algorithms/Java/medium/2768_Number_of_Black_Blocks_[Medium].java)|Medium|
