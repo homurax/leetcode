@@ -986,6 +986,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1737|Change Minimum Characters to Satisfy One of Three Conditions|[Go](/Algorithms/Go/medium/1737_Change_Minimum_Characters_to_Satisfy_One_of_Three_Conditions_[Medium].go), [Java](/Algorithms/Java/medium/1737_Change_Minimum_Characters_to_Satisfy_One_of_Three_Conditions_[Medium].java)|Medium|
 |1738|Find Kth Largest XOR Coordinate Value|[Java](/Algorithms/Java/medium/1738_Find_Kth_Largest_XOR_Coordinate_Value_[Medium].java)|Medium|
 |1743|Restore the Array From Adjacent Pairs|[Java](/Algorithms/Java/medium/1743_Restore_the_Array_From_Adjacent_Pairs_[Medium].java)|Medium|
+|1744|Can You Eat Your Favorite Candy on Your Favorite Day|[Go](/Algorithms/Go/medium/1744_Can_You_Eat_Your_Favorite_Candy_on_Your_Favorite_Day_[Medium].go), [Java](/Algorithms/Java/medium/1744_Can_You_Eat_Your_Favorite_Candy_on_Your_Favorite_Day_[Medium].java)|Medium|
 |1749|Maximum Absolute Sum of Any Subarray|[Java](/Algorithms/Java/medium/1749_Maximum_Absolute_Sum_of_Any_Subarray_[Medium].java)|Medium|
 |1750|Minimum Length of String After Deleting Similar Ends|[Java](/Algorithms/Java/medium/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends_[Medium].java)|Medium|
 |1753|Maximum Score From Removing Stones|[Java](/Algorithms/Java/medium/1753_Maximum_Score_From_Removing_Stones_[Medium].java)|Medium|
