@@ -500,6 +500,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |789|Escape The Ghosts|[Java](/Algorithms/Java/medium/0789_Escape_The_Ghosts_[Medium].java)|Medium|
 |791|Custom Sort String|[Java](/Algorithms/Java/medium/0791_Custom_Sort_String_[Medium].java)|Medium|
 |792|Number of Matching Subsequences|[Java](/Algorithms/Java/medium/0792_Number_of_Matching_Subsequences_[Medium].java)|Medium|
+|794|Valid Tic-Tac-Toe State|[Go](/Algorithms/Go/medium/0794_Valid_Tic-Tac-Toe_State_[Medium].go), [Java](/Algorithms/Java/medium/0794_Valid_Tic-Tac-Toe_State_[Medium].java)|Medium|
 |795|Number of Subarrays with Bounded Maximum|[Java](/Algorithms/Java/medium/0795_Number_of_Subarrays_with_Bounded_Maximum_[Medium].java)|Medium|
 |796|Rotate String|[Java](/Algorithms/Java/easy/0796_Rotate_String_[Easy].java)|Easy|
 |797|All Paths From Source to Target|[Java](/Algorithms/Java/medium/0797_All_Paths_From_Source_to_Target_[Medium].java)|Medium|
