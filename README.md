@@ -1444,6 +1444,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3342|Find Minimum Time to Reach Last Room II|[Go](/Algorithms/Go/medium/3342_Find_Minimum_Time_to_Reach_Last_Room_II_[Medium].go), [Java](/Algorithms/Java/medium/3342_Find_Minimum_Time_to_Reach_Last_Room_II_[Medium].java)|Medium|
 |3350|Adjacent Increasing Subarrays Detection II|[Go](/Algorithms/Go/medium/3350_Adjacent_Increasing_Subarrays_Detection_II_[Medium].go), [Java](/Algorithms/Java/medium/3350_Adjacent_Increasing_Subarrays_Detection_II_[Medium].java)|Medium|
 |3355|Zero Array Transformation I|[Go](/Algorithms/Go/medium/3355_Zero_Array_Transformation_I_[Medium].go), [Java](/Algorithms/Java/medium/3355_Zero_Array_Transformation_I_[Medium].java)|Medium|
+|3371|Identify the Largest Outlier in an Array|[Go](/Algorithms/Go/medium/3371_Identify_the_Largest_Outlier_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/3371_Identify_the_Largest_Outlier_in_an_Array_[Medium].java)|Medium|
 |3394|Check if Grid can be Cut into Sections|[Go](/Algorithms/Go/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].go), [Java](/Algorithms/Java/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].java)|Medium|
 |3408|Design Task Manager|[Go](/Algorithms/Go/medium/3408_Design_Task_Manager_[Medium].go), [Java](/Algorithms/Java/medium/3408_Design_Task_Manager_[Medium].java)|Medium|
 |3412|Find Mirror Score of a String|[Go](/Algorithms/Go/medium/3412_Find_Mirror_Score_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/3412_Find_Mirror_Score_of_a_String_[Medium].java)|Medium|
