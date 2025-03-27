@@ -1331,6 +1331,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2762|Continuous Subarrays|[Go](/Algorithms/Go/medium/2762_Continuous_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2762_Continuous_Subarrays_[Medium].java)|Medium|
 |2766|Relocate Marbles|[Go](/Algorithms/Go/medium/2766_Relocate_Marbles_[Medium].go), [Java](/Algorithms/Java/medium/2766_Relocate_Marbles_[Medium].java)|Medium|
 |2768|Number of Black Blocks|[Go](/Algorithms/Go/medium/2768_Number_of_Black_Blocks_[Medium].go), [Java](/Algorithms/Java/medium/2768_Number_of_Black_Blocks_[Medium].java)|Medium|
+|2772|Apply Operations to Make All Array Elements Equal to Zero|[Go](/Algorithms/Go/medium/2772_Apply_Operations_to_Make_All_Array_Elements_Equal_to_Zero_[Medium].go), [Java](/Algorithms/Java/medium/2772_Apply_Operations_to_Make_All_Array_Elements_Equal_to_Zero_[Medium].java)|Medium|
 |2779|Maximum Beauty of an Array After Applying Operation|[Go](/Algorithms/Go/medium/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation_[Medium].go), [Java](/Algorithms/Java/medium/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation_[Medium].java)|Medium|
 |2780|Minimum Index of a Valid Split|[Go](/Algorithms/Go/medium/2780_Minimum_Index_of_a_Valid_Split_[Medium].go), [Java](/Algorithms/Java/medium/2780_Minimum_Index_of_a_Valid_Split_[Medium].java)|Medium|
 |2785|Sort Vowels in a String|[Go](/Algorithms/Go/medium/2785_Sort_Vowels_in_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2785_Sort_Vowels_in_a_String_[Medium].java)|Medium|
