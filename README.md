@@ -1187,6 +1187,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2279|Maximum Bags With Full Capacity of Rocks|[Go](/Algorithms/Go/medium/2279_Maximum_Bags_With_Full_Capacity_of_Rocks_[Medium].go), [Java](/Algorithms/Java/medium/2279_Maximum_Bags_With_Full_Capacity_of_Rocks_[Medium].java)|Medium|
 |2284|Sender With Largest Word Count|[Go](/Algorithms/Go/medium/2284_Sender_With_Largest_Word_Count_[Medium].go), [Java](/Algorithms/Java/medium/2284_Sender_With_Largest_Word_Count_[Medium].java)|Medium|
 |2285|Maximum Total Importance of Roads|[Go](/Algorithms/Go/medium/2285_Maximum_Total_Importance_of_Roads_[Medium].go), [Java](/Algorithms/Java/medium/2285_Maximum_Total_Importance_of_Roads_[Medium].java)|Medium|
+|2288|Apply Discount to Prices|[Go](/Algorithms/Go/medium/2288_Apply_Discount_to_Prices_[Medium].go), [Java](/Algorithms/Java/medium/2288_Apply_Discount_to_Prices_[Medium].java)|Medium|
 |2289|Steps to Make Array Non-decreasing|[Java](/Algorithms/Java/medium/2289_Steps_to_Make_Array_Non-decreasing_[Medium].java)|Medium|
 |2294|Partition Array Such That Maximum Difference Is K|[Go](/Algorithms/Go/medium/2294_Partition_Array_Such_That_Maximum_Difference_Is_K_[Medium].go), [Java](/Algorithms/Java/medium/2294_Partition_Array_Such_That_Maximum_Difference_Is_K_[Medium].java)|Medium|
 |2295|Replace Elements in an Array|[Go](/Algorithms/Go/medium/2295_Replace_Elements_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2295_Replace_Elements_in_an_Array_[Medium].java)|Medium|
