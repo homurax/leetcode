@@ -1459,5 +1459,6 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3394|Check if Grid can be Cut into Sections|[Go](/Algorithms/Go/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].go), [Java](/Algorithms/Java/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].java)|Medium|
 |3408|Design Task Manager|[Go](/Algorithms/Go/medium/3408_Design_Task_Manager_[Medium].go), [Java](/Algorithms/Java/medium/3408_Design_Task_Manager_[Medium].java)|Medium|
 |3412|Find Mirror Score of a String|[Go](/Algorithms/Go/medium/3412_Find_Mirror_Score_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/3412_Find_Mirror_Score_of_a_String_[Medium].java)|Medium|
+|3439|Reschedule Meetings for Maximum Free Time I|[Go](/Algorithms/Go/medium/3439_Reschedule_Meetings_for_Maximum_Free_Time_I_[Medium].go), [Java](/Algorithms/Java/medium/3439_Reschedule_Meetings_for_Maximum_Free_Time_I_[Medium].java)|Medium|
 |3440|Reschedule Meetings for Maximum Free Time II|[Go](/Algorithms/Go/medium/3440_Reschedule_Meetings_for_Maximum_Free_Time_II_[Medium].go), [Java](/Algorithms/Java/medium/3440_Reschedule_Meetings_for_Maximum_Free_Time_II_[Medium].java)|Medium|
 |3457|Eat Pizzas!|[Go](/Algorithms/Go/medium/3457_Eat_Pizzas!_[Medium].go), [Java](/Algorithms/Java/medium/3457_Eat_Pizzas!_[Medium].java)|Medium|
