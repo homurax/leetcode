@@ -1465,5 +1465,6 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3412|Find Mirror Score of a String|[Go](/Algorithms/Go/medium/3412_Find_Mirror_Score_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/3412_Find_Mirror_Score_of_a_String_[Medium].java)|Medium|
 |3439|Reschedule Meetings for Maximum Free Time I|[Go](/Algorithms/Go/medium/3439_Reschedule_Meetings_for_Maximum_Free_Time_I_[Medium].go), [Java](/Algorithms/Java/medium/3439_Reschedule_Meetings_for_Maximum_Free_Time_I_[Medium].java)|Medium|
 |3440|Reschedule Meetings for Maximum Free Time II|[Go](/Algorithms/Go/medium/3440_Reschedule_Meetings_for_Maximum_Free_Time_II_[Medium].go), [Java](/Algorithms/Java/medium/3440_Reschedule_Meetings_for_Maximum_Free_Time_II_[Medium].java)|Medium|
+|3443|Maximum Manhattan Distance After K Changes|[Go](/Algorithms/Go/medium/3443_Maximum_Manhattan_Distance_After_K_Changes_[Medium].go), [Java](/Algorithms/Java/medium/3443_Maximum_Manhattan_Distance_After_K_Changes_[Medium].java)|Medium|
 |3457|Eat Pizzas!|[Go](/Algorithms/Go/medium/3457_Eat_Pizzas!_[Medium].go), [Java](/Algorithms/Java/medium/3457_Eat_Pizzas!_[Medium].java)|Medium|
 |3478|Choose K Elements With Maximum Sum|[Go](/Algorithms/Go/medium/3478_Choose_K_Elements_With_Maximum_Sum_[Medium].go), [Java](/Algorithms/Java/medium/3478_Choose_K_Elements_With_Maximum_Sum_[Medium].java)|Medium|
