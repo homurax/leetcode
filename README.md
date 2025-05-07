@@ -1443,6 +1443,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3202|Find the Maximum Length of Valid Subsequence II|[Go](/Algorithms/Go/medium/3202_Find_the_Maximum_Length_of_Valid_Subsequence_II_[Medium].go), [Java](/Algorithms/Java/medium/3202_Find_the_Maximum_Length_of_Valid_Subsequence_II_[Medium].java)|Medium|
 |3207|Maximum Points After Enemy Battles|[Go](/Algorithms/Go/medium/3207_Maximum_Points_After_Enemy_Battles_[Medium].go), [Java](/Algorithms/Java/medium/3207_Maximum_Points_After_Enemy_Battles_[Medium].java)|Medium|
 |3208|Alternating Groups II|[Go](/Algorithms/Go/medium/3208_Alternating_Groups_II_[Medium].go), [Java](/Algorithms/Java/medium/3208_Alternating_Groups_II_[Medium].java)|Medium|
+|3255|Find the Power of K-Size Subarrays II|[Go](/Algorithms/Go/medium/3255_Find_the_Power_of_K-Size_Subarrays_II_[Medium].go), [Java](/Algorithms/Java/medium/3255_Find_the_Power_of_K-Size_Subarrays_II_[Medium].java)|Medium|
 |3265|Count Almost Equal Pairs I|[Go](/Algorithms/Go/medium/3265_Count_Almost_Equal_Pairs_I_[Medium].go), [Java](/Algorithms/Java/medium/3265_Count_Almost_Equal_Pairs_I_[Medium].java)|Medium|
 |3281|Maximize Score of Numbers in Ranges|[Go](/Algorithms/Go/medium/3281_Maximize_Score_of_Numbers_in_Ranges_[Medium].go), [Java](/Algorithms/Java/medium/3281_Maximize_Score_of_Numbers_in_Ranges_[Medium].java)|Medium|
 |3282|Reach End of Array With Max Score|[Go](/Algorithms/Go/medium/3282_Reach_End_of_Array_With_Max_Score_[Medium].go), [Java](/Algorithms/Java/medium/3282_Reach_End_of_Array_With_Max_Score_[Medium].java)|Medium|
