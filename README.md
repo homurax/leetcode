@@ -1329,6 +1329,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2740|Find the Value of the Partition|[Go](/Algorithms/Go/medium/2740_Find_the_Value_of_the_Partition_[Medium].go), [Java](/Algorithms/Java/medium/2740_Find_the_Value_of_the_Partition_[Medium].java)|Medium|
 |2745|Construct the Longest New String|[Go](/Algorithms/Go/medium/2745_Construct_the_Longest_New_String_[Medium].go), [Java](/Algorithms/Java/medium/2745_Construct_the_Longest_New_String_[Medium].java)|Medium|
 |2747|Count Zero Request Servers|[Go](/Algorithms/Go/medium/2747_Count_Zero_Request_Servers_[Medium].go), [Java](/Algorithms/Java/medium/2747_Count_Zero_Request_Servers_[Medium].java)|Medium|
+|2749|Minimum Operations to Make the Integer Zero|[Go](/Algorithms/Go/medium/2749_Minimum_Operations_to_Make_the_Integer_Zero_[Medium].go), [Java](/Algorithms/Java/medium/2749_Minimum_Operations_to_Make_the_Integer_Zero_[Medium].java)|Medium|
 |2750|Ways to Split Array Into Good Subarrays|[Go](/Algorithms/Go/medium/2750_Ways_to_Split_Array_Into_Good_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2750_Ways_to_Split_Array_Into_Good_Subarrays_[Medium].java)|Medium|
 |2761|Prime Pairs With Target Sum|[Go](/Algorithms/Go/medium/2761_Prime_Pairs_With_Target_Sum_[Medium].go), [Java](/Algorithms/Java/medium/2761_Prime_Pairs_With_Target_Sum_[Medium].java)|Medium|
 |2762|Continuous Subarrays|[Go](/Algorithms/Go/medium/2762_Continuous_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2762_Continuous_Subarrays_[Medium].java)|Medium|
