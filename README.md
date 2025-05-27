@@ -1477,4 +1477,5 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3457|Eat Pizzas!|[Go](/Algorithms/Go/medium/3457_Eat_Pizzas!_[Medium].go), [Java](/Algorithms/Java/medium/3457_Eat_Pizzas!_[Medium].java)|Medium|
 |3478|Choose K Elements With Maximum Sum|[Go](/Algorithms/Go/medium/3478_Choose_K_Elements_With_Maximum_Sum_[Medium].go), [Java](/Algorithms/Java/medium/3478_Choose_K_Elements_With_Maximum_Sum_[Medium].java)|Medium|
 |3488|Closest Equal Element Queries|[Go](/Algorithms/Go/medium/3488_Closest_Equal_Element_Queries_[Medium].go), [Java](/Algorithms/Java/medium/3488_Closest_Equal_Element_Queries_[Medium].java)|Medium|
+|3489|Zero Array Transformation IV|[Go](/Algorithms/Go/medium/3489_Zero_Array_Transformation_IV_[Medium].go), [Java](/Algorithms/Java/medium/3489_Zero_Array_Transformation_IV_[Medium].java)|Medium|
 |3499|Maximize Active Section with Trade I|[Go](/Algorithms/Go/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].go), [Java](/Algorithms/Java/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].java)|Medium|
