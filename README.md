@@ -1088,6 +1088,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2023|Number of Pairs of Strings With Concatenation Equal to Target|[Go](/Algorithms/Go/medium/2023_Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target_[Medium].go), [Java](/Algorithms/Java/medium/2023_Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target_[Medium].java)|Medium|
 |2024|Maximize the Confusion of an Exam|[Java](/Algorithms/Java/medium/2024_Maximize_the_Confusion_of_an_Exam_[Medium].java)|Medium|
 |2028|Find Missing Observations|[Go](/Algorithms/Go/medium/2028_Find_Missing_Observations_[Medium].go), [Java](/Algorithms/Java/medium/2028_Find_Missing_Observations_[Medium].java)|Medium|
+|2029|Stone Game IX|[Go](/Algorithms/Go/medium/2029_Stone_Game_IX_[Medium].go), [Java](/Algorithms/Java/medium/2029_Stone_Game_IX_[Medium].java)|Medium|
 |2033|Minimum Operations to Make a Uni-Value Grid|[Java](/Algorithms/Java/medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid_[Medium].java)|Medium|
 |2034|Stock Price Fluctuation|[Java](/Algorithms/Java/medium/2034_Stock_Price_Fluctuation_[Medium].java)|Medium|
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[Java](/Algorithms/Java/medium/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color_[Medium].java)|Medium|
