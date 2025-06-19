@@ -1199,6 +1199,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2316|Count Unreachable Pairs of Nodes in an Undirected Graph|[Go](/Algorithms/Go/medium/2316_Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph_[Medium].go), [Java](/Algorithms/Java/medium/2316_Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph_[Medium].java)|Medium|
 |2317|Maximum XOR After Operations|[Go](/Algorithms/Go/medium/2317_Maximum_XOR_After_Operations_[Medium].go), [Java](/Algorithms/Java/medium/2317_Maximum_XOR_After_Operations_[Medium].java)|Medium|
 |2326|Spiral Matrix IV|[Go](/Algorithms/Go/medium/2326_Spiral_Matrix_IV_[Medium].go), [Java](/Algorithms/Java/medium/2326_Spiral_Matrix_IV_[Medium].java)|Medium|
+|2332|The Latest Time to Catch a Bus|[Go](/Algorithms/Go/medium/2332_The_Latest_Time_to_Catch_a_Bus_[Medium].go), [Java](/Algorithms/Java/medium/2332_The_Latest_Time_to_Catch_a_Bus_[Medium].java)|Medium|
 |2333|Minimum Sum of Squared Difference|[Java](/Algorithms/Java/medium/2333_Minimum_Sum_of_Squared_Difference_[Medium].java)|Medium|
 |2336|Smallest Number in Infinite Set|[Java](/Algorithms/Java/medium/2336_Smallest_Number_in_Infinite_Set_[Medium].java)|Medium|
 |2337|Move Pieces to Obtain a String|[Go](/Algorithms/Go/medium/2337_Move_Pieces_to_Obtain_a_String_[Medium].go), [Java](/Algorithms/Java/medium/2337_Move_Pieces_to_Obtain_a_String_[Medium].java)|Medium|
