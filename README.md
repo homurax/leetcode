@@ -1260,7 +1260,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2486|Append Characters to String to Make Subsequence|[Go](/Algorithms/Go/medium/2486_Append_Characters_to_String_to_Make_Subsequence_[Medium].go), [Java](/Algorithms/Java/medium/2486_Append_Characters_to_String_to_Make_Subsequence_[Medium].java)|Medium|
 |2487|Remove Nodes From Linked List|[Go](/Algorithms/Go/medium/2487_Remove_Nodes_From_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2487_Remove_Nodes_From_Linked_List_[Medium].java)|Medium|
 |2491|Divide Players Into Teams of Equal Skill|[Go](/Algorithms/Go/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].go), [Java](/Algorithms/Java/medium/2491_Divide_Players_Into_Teams_of_Equal_Skill_[Medium].java)|Medium|
-|2492|Minimum Score of a Path Between Two Cities|[Java](/Algorithms/Java/medium/2492_Minimum_Score_of_a_Path_Between_Two_Cities_[Medium].java), [Java](/Algorithms/Java/medium/2492_Minimum_Score_of_a_Path_Between_Two_Cities_[Medium].java)|Medium|
+|2492|Minimum Score of a Path Between Two Cities|[Java](/Algorithms/Java/medium/2492_Minimum_Score_of_a_Path_Between_Two_Cities_[Medium].java)|Medium|
 |2497|Maximum Star Sum of a Graph|[Go](/Algorithms/Go/medium/2497_Maximum_Star_Sum_of_a_Graph_[Medium].go), [Java](/Algorithms/Java/medium/2497_Maximum_Star_Sum_of_a_Graph_[Medium].java)|Medium|
 |2498|Frog Jump II|[Go](/Algorithms/Go/medium/2498_Frog_Jump_II_[Medium].go), [Java](/Algorithms/Java/medium/2498_Frog_Jump_II_[Medium].java)|Medium|
 |2502|Design Memory Allocator|[Go](/Algorithms/Go/medium/2502_Design_Memory_Allocator_[Medium].go), [Java](/Algorithms/Java/medium/2502_Design_Memory_Allocator_[Medium].java)|Medium|
@@ -1349,6 +1349,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2789|Largest Element in an Array after Merge Operations|[Go](/Algorithms/Go/medium/2789_Largest_Element_in_an_Array_after_Merge_Operations_[Medium].go), [Java](/Algorithms/Java/medium/2789_Largest_Element_in_an_Array_after_Merge_Operations_[Medium].java)|Medium|
 |2799|Count Complete Subarrays in an Array|[Go](/Algorithms/Go/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/2799_Count_Complete_Subarrays_in_an_Array_[Medium].java)|Medium|
 |2807|Insert Greatest Common Divisors in Linked List|[Go](/Algorithms/Go/medium/2807_Insert_Greatest_Common_Divisors_in_Linked_List_[Medium].go), [Java](/Algorithms/Java/medium/2807_Insert_Greatest_Common_Divisors_in_Linked_List_[Medium].java)|Medium|
+|2808|Minimum Seconds to Equalize a Circular Array|[Go](/Algorithms/Go/medium/2808_Minimum_Seconds_to_Equalize_a_Circular_Array_[Medium].go), [Java](/Algorithms/Java/medium/2808_Minimum_Seconds_to_Equalize_a_Circular_Array_[Medium].java)|Medium|
 |2811|Check if it is Possible to Split Array|[Go](/Algorithms/Go/medium/2811_Check_if_it_is_Possible_to_Split_Array_[Medium].go), [Java](/Algorithms/Java/medium/2811_Check_if_it_is_Possible_to_Split_Array_[Medium].java)|Medium|
 |2816|Double a Number Represented as a Linked List|[Java](/Algorithms/Java/medium/2816_Double_a_Number_Represented_as_a_Linked_List_[Medium].java)|Medium|
 |2817|Minimum Absolute Difference Between Elements With Constraint|[Go](/Algorithms/Go/medium/2817_Minimum_Absolute_Difference_Between_Elements_With_Constraint_[Medium].go), [Java](/Algorithms/Java/medium/2817_Minimum_Absolute_Difference_Between_Elements_With_Constraint_[Medium].java)|Medium|
@@ -1473,7 +1474,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3376|Minimum Time to Break Locks I|[Go](/Algorithms/Go/medium/3376_Minimum_Time_to_Break_Locks_I_[Medium].go), [Java](/Algorithms/Java/medium/3376_Minimum_Time_to_Break_Locks_I_[Medium].java)|Medium|
 |3394|Check if Grid can be Cut into Sections|[Go](/Algorithms/Go/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].go), [Java](/Algorithms/Java/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].java)|Medium|
 |3397|Maximum Number of Distinct Elements After Operations|[Go](/Algorithms/Go/medium/3397_Maximum_Number_of_Distinct_Elements_After_Operations_[Medium].go), [Java](/Algorithms/Java/medium/3397_Maximum_Number_of_Distinct_Elements_After_Operations_[Medium].java)|Medium|
-|3404|Count Special Subsequences|[Java](/Algorithms/Java/medium/3404_Count_Special_Subsequences_[Medium].java), [Java](/Algorithms/Java/medium/3404_Count_Special_Subsequences_[Medium].java)|Medium|
+|3404|Count Special Subsequences|[Java](/Algorithms/Java/medium/3404_Count_Special_Subsequences_[Medium].java)|Medium|
 |3408|Design Task Manager|[Go](/Algorithms/Go/medium/3408_Design_Task_Manager_[Medium].go), [Java](/Algorithms/Java/medium/3408_Design_Task_Manager_[Medium].java)|Medium|
 |3412|Find Mirror Score of a String|[Go](/Algorithms/Go/medium/3412_Find_Mirror_Score_of_a_String_[Medium].go), [Java](/Algorithms/Java/medium/3412_Find_Mirror_Score_of_a_String_[Medium].java)|Medium|
 |3433|Count Mentions Per User|[Go](/Algorithms/Go/medium/3433_Count_Mentions_Per_User_[Medium].go), [Java](/Algorithms/Java/medium/3433_Count_Mentions_Per_User_[Medium].java)|Medium|
