@@ -1472,6 +1472,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3355|Zero Array Transformation I|[Go](/Algorithms/Go/medium/3355_Zero_Array_Transformation_I_[Medium].go), [Java](/Algorithms/Java/medium/3355_Zero_Array_Transformation_I_[Medium].java)|Medium|
 |3371|Identify the Largest Outlier in an Array|[Go](/Algorithms/Go/medium/3371_Identify_the_Largest_Outlier_in_an_Array_[Medium].go), [Java](/Algorithms/Java/medium/3371_Identify_the_Largest_Outlier_in_an_Array_[Medium].java)|Medium|
 |3376|Minimum Time to Break Locks I|[Go](/Algorithms/Go/medium/3376_Minimum_Time_to_Break_Locks_I_[Medium].go), [Java](/Algorithms/Java/medium/3376_Minimum_Time_to_Break_Locks_I_[Medium].java)|Medium|
+|3377|Digit Operations to Make Two Integers Equal|[Go](/Algorithms/Go/medium/3377_Digit_Operations_to_Make_Two_Integers_Equal_[Medium].go), [Java](/Algorithms/Java/medium/3377_Digit_Operations_to_Make_Two_Integers_Equal_[Medium].java)|Medium|
 |3394|Check if Grid can be Cut into Sections|[Go](/Algorithms/Go/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].go), [Java](/Algorithms/Java/medium/3394_Check_if_Grid_can_be_Cut_into_Sections_[Medium].java)|Medium|
 |3397|Maximum Number of Distinct Elements After Operations|[Go](/Algorithms/Go/medium/3397_Maximum_Number_of_Distinct_Elements_After_Operations_[Medium].go), [Java](/Algorithms/Java/medium/3397_Maximum_Number_of_Distinct_Elements_After_Operations_[Medium].java)|Medium|
 |3404|Count Special Subsequences|[Java](/Algorithms/Java/medium/3404_Count_Special_Subsequences_[Medium].java)|Medium|
