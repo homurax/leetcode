@@ -550,6 +550,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |861|Score After Flipping Matrix|[Java](/Algorithms/Java/medium/0861_Score_After_Flipping_Matrix_[Medium].java)|Medium|
 |863|All Nodes Distance K in Binary Tree|[Java](/Algorithms/Java/medium/0863_All_Nodes_Distance_K_in_Binary_Tree_[Medium].java)|Medium|
 |865|Smallest Subtree with all the Deepest Nodes|[Java](/Algorithms/Java/medium/0865_Smallest_Subtree_with_all_the_Deepest_Nodes_[Medium].java)|Medium|
+|866|Prime Palindrome|[Go](/Algorithms/Go/medium/0866_Prime_Palindrome_[Medium].go), [Java](/Algorithms/Java/medium/0866_Prime_Palindrome_[Medium].java)|Medium|
 |867|Transpose Matrix|[Java](/Algorithms/Java/easy/0867_Transpose_Matrix_[Easy].java)|Easy|
 |868|Binary Gap|[Java](/Algorithms/Java/easy/0868_Binary_Gap_[Easy].java)|Easy|
 |869|Reordered Power of 2|[Java](/Algorithms/Java/medium/0869_Reordered_Power_of_2_[Medium].java)|Medium|
