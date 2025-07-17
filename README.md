@@ -1495,3 +1495,4 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3499|Maximize Active Section with Trade I|[Go](/Algorithms/Go/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].go), [Java](/Algorithms/Java/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].java)|Medium|
 |3514|Number of Unique XOR Triplets II|[Go](/Algorithms/Go/medium/3514_Number_of_Unique_XOR_Triplets_II_[Medium].go), [Java](/Algorithms/Java/medium/3514_Number_of_Unique_XOR_Triplets_II_[Medium].java)|Medium|
 |3557|Find Maximum Number of Non Intersecting Substrings|[Go](/Algorithms/Go/medium/3557_Find_Maximum_Number_of_Non_Intersecting_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/3557_Find_Maximum_Number_of_Non_Intersecting_Substrings_[Medium].java)|Medium|
+|3588|Find Maximum Area of a Triangle|[Go](/Algorithms/Go/medium/3588_Find_Maximum_Area_of_a_Triangle_[Medium].go), [Java](/Algorithms/Java/medium/3588_Find_Maximum_Area_of_a_Triangle_[Medium].java)|Medium|
