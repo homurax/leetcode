@@ -160,6 +160,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |162|Find Peak Element|[Java](/Algorithms/Java/medium/0162_Find_Peak_Element_[Medium].java)|Medium|
 |164|Maximum Gap|[Go](/Algorithms/Go/medium/0164_Maximum_Gap_[Medium].go), [Java](/Algorithms/Java/medium/0164_Maximum_Gap_[Medium].java)|Medium|
 |165|Compare Version Numbers|[Go](/Algorithms/Go/medium/0165_Compare_Version_Numbers_[Medium].go), [Java](/Algorithms/Java/medium/0165_Compare_Version_Numbers_[Medium].java)|Medium|
+|166|Fraction to Recurring Decimal|[Go](/Algorithms/Go/medium/0166_Fraction_to_Recurring_Decimal_[Medium].go), [Java](/Algorithms/Java/medium/0166_Fraction_to_Recurring_Decimal_[Medium].java)|Medium|
 |167|Two Sum II - Input array is sorted|[Java](/Algorithms/Java/easy/0167_Two_Sum_II_-_Input_array_is_sorted_[Easy].java)|Easy|
 |168|Excel Sheet Column Title|[Java](/Algorithms/Java/easy/0168_Excel_Sheet_Column_Title_[Easy].java)|Easy|
 |169|Majority Element|[Java](/Algorithms/Java/easy/0169_Majority_Element_[Easy].java)|Easy|
