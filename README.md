@@ -1370,6 +1370,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |2845|Count of Interesting Subarrays|[Go](/Algorithms/Go/medium/2845_Count_of_Interesting_Subarrays_[Medium].go), [Java](/Algorithms/Java/medium/2845_Count_of_Interesting_Subarrays_[Medium].java)|Medium|
 |2849|Determine if a Cell Is Reachable at a Given Time|[Go](/Algorithms/Go/medium/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time_[Medium].go), [Java](/Algorithms/Java/medium/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time_[Medium].java)|Medium|
 |2850|Minimum Moves to Spread Stones Over Grid|[Go](/Algorithms/Go/medium/2850_Minimum_Moves_to_Spread_Stones_Over_Grid_[Medium].go), [Java](/Algorithms/Java/medium/2850_Minimum_Moves_to_Spread_Stones_Over_Grid_[Medium].java)|Medium|
+|2856|Minimum Array Length After Pair Removals|[Go](/Algorithms/Go/medium/2856_Minimum_Array_Length_After_Pair_Removals_[Medium].go), [Java](/Algorithms/Java/medium/2856_Minimum_Array_Length_After_Pair_Removals_[Medium].java)|Medium|
 |2857|Count Pairs of Points With Distance k|[Go](/Algorithms/Go/medium/2857_Count_Pairs_of_Points_With_Distance_k_[Medium].go), [Java](/Algorithms/Java/medium/2857_Count_Pairs_of_Points_With_Distance_k_[Medium].java)|Medium|
 |2860|Happy Students|[Go](/Algorithms/Go/medium/2860_Happy_Students_[Medium].go), [Java](/Algorithms/Java/medium/2860_Happy_Students_[Medium].java)|Medium|
 |2861|Maximum Number of Alloys|[Go](/Algorithms/Go/medium/2861_Maximum_Number_of_Alloys_[Medium].go), [Java](/Algorithms/Java/medium/2861_Maximum_Number_of_Alloys_[Medium].java)|Medium|
