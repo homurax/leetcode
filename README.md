@@ -738,6 +738,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |1186|Maximum Subarray Sum with One Deletion|[Java](/Algorithms/Java/medium/1186_Maximum_Subarray_Sum_with_One_Deletion_[Medium].java)|Medium|
 |1189|Maximum Number of Balloons|[Java](/Algorithms/Java/easy/1189_Maximum_Number_of_Balloons_[Easy].java)|Easy|
 |1190|Reverse Substrings Between Each Pair of Parentheses|[Java](/Algorithms/Java/medium/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses_[Medium].java)|Medium|
+|1191|K-Concatenation Maximum Sum|[Go](/Algorithms/Go/medium/1191_K-Concatenation_Maximum_Sum_[Medium].go), [Java](/Algorithms/Java/medium/1191_K-Concatenation_Maximum_Sum_[Medium].java)|Medium|
 |1200|Minimum Absolute Difference|[Java](/Algorithms/Java/easy/1200_Minimum_Absolute_Difference_[Easy].java)|Easy|
 |1201|Ugly Number III|[Go](/Algorithms/Go/medium/1201_Ugly_Number_III_[Medium].go), [Java](/Algorithms/Java/medium/1201_Ugly_Number_III_[Medium].java)|Medium|
 |1202|Smallest String With Swaps|[Java](/Algorithms/Java/medium/1202_Smallest_String_With_Swaps_[Medium].java)|Medium|
