@@ -1504,6 +1504,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3488|Closest Equal Element Queries|[Go](/Algorithms/Go/medium/3488_Closest_Equal_Element_Queries_[Medium].go), [Java](/Algorithms/Java/medium/3488_Closest_Equal_Element_Queries_[Medium].java)|Medium|
 |3489|Zero Array Transformation IV|[Go](/Algorithms/Go/medium/3489_Zero_Array_Transformation_IV_[Medium].go), [Java](/Algorithms/Java/medium/3489_Zero_Array_Transformation_IV_[Medium].java)|Medium|
 |3499|Maximize Active Section with Trade I|[Go](/Algorithms/Go/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].go), [Java](/Algorithms/Java/medium/3499_Maximize_Active_Section_with_Trade_I_[Medium].java)|Medium|
+|3508|Implement Router|[Go](/Algorithms/Go/medium/3508_Implement_Router_[Medium].go), [Java](/Algorithms/Java/medium/3508_Implement_Router_[Medium].java)|Medium|
 |3513|Number of Unique XOR Triplets I|[Go](/Algorithms/Go/medium/3513_Number_of_Unique_XOR_Triplets_I_[Medium].go), [Java](/Algorithms/Java/medium/3513_Number_of_Unique_XOR_Triplets_I_[Medium].java)|Medium|
 |3514|Number of Unique XOR Triplets II|[Go](/Algorithms/Go/medium/3514_Number_of_Unique_XOR_Triplets_II_[Medium].go), [Java](/Algorithms/Java/medium/3514_Number_of_Unique_XOR_Triplets_II_[Medium].java)|Medium|
 |3542|Minimum Operations to Convert All Elements to Zero|[Go](/Algorithms/Go/medium/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero_[Medium].go), [Java](/Algorithms/Java/medium/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero_[Medium].java)|Medium|
