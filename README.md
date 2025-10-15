@@ -43,6 +43,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |5|Longest Palindromic Substring|[Go](/Algorithms/Go/medium/0005_Longest_Palindromic_Substring_[Medium].go), [Java](/Algorithms/Java/medium/0005_Longest_Palindromic_Substring_[Medium].java)|Medium|
 |6|Zigzag Conversion|[Java](/Algorithms/Java/medium/0006_Zigzag_Conversion_[Medium].java)|Medium|
 |7|Reverse Integer|[Java](/Algorithms/Java/easy/0007_Reverse_Integer_[Easy].java)|Easy|
+|8|String to Integer (atoi)|[Java](/Algorithms/Java/medium/0008_String_to_Integer_(atoi)_[Medium].java)|Medium|
 |9|Palindrome Number|[Java](/Algorithms/Java/easy/0009_Palindrome_Number_[Easy].java)|Easy|
 |11|Container With Most Water|[Java](/Algorithms/Java/medium/0011_Container_With_Most_Water_[Medium].java)|Medium|
 |12|Integer to Roman|[Go](/Algorithms/Go/medium/0012_Integer_to_Roman_[Medium].go), [Java](/Algorithms/Java/medium/0012_Integer_to_Roman_[Medium].java)|Medium|
