@@ -61,6 +61,7 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |26|Remove Duplicates from Sorted Array|[Java](/Algorithms/Java/easy/0026_Remove_Duplicates_from_Sorted_Array_[Easy].java)|Easy|
 |27|Remove Element|[Java](/Algorithms/Java/easy/0027_Remove_Element_[Easy].java)|Easy|
 |28|Implement strStr()|[Java](/Algorithms/Java/easy/0028_Implement_strStr()_[Easy].java)|Easy|
+|29|Divide Two Integers|[Java](/Algorithms/Java/medium/0029_Divide_Two_Integers_[Medium].java)|Medium|
 |31|Next Permutation|[Java](/Algorithms/Java/medium/0031_Next_Permutation_[Medium].java)|Medium|
 |33|Search in Rotated Sorted Array|[Java](/Algorithms/Java/medium/0033_Search_in_Rotated_Sorted_Array_[Medium].java)|Medium|
 |34|Find First and Last Position of Element in Sorted Array|[Java](/Algorithms/Java/medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array_[Medium].java)|Medium|
