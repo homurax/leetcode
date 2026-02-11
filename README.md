@@ -1520,3 +1520,4 @@ JDK 版本为 `21.0.3`。Python 版本为 `3.8.10`。Go 版本为 `1.22.3`。
 |3557|Find Maximum Number of Non Intersecting Substrings|[Go](/Algorithms/Go/medium/3557_Find_Maximum_Number_of_Non_Intersecting_Substrings_[Medium].go), [Java](/Algorithms/Java/medium/3557_Find_Maximum_Number_of_Non_Intersecting_Substrings_[Medium].java)|Medium|
 |3588|Find Maximum Area of a Triangle|[Go](/Algorithms/Go/medium/3588_Find_Maximum_Area_of_a_Triangle_[Medium].go), [Java](/Algorithms/Java/medium/3588_Find_Maximum_Area_of_a_Triangle_[Medium].java)|Medium|
 |3660|Jump Game IX|[Go](/Algorithms/Go/medium/3660_Jump_Game_IX_[Medium].go), [Java](/Algorithms/Java/medium/3660_Jump_Game_IX_[Medium].java)|Medium|
+|3760|Maximum Substrings With Distinct Start|[Go](/Algorithms/Go/medium/3760_Maximum_Substrings_With_Distinct_Start_[Medium].go), [Java](/Algorithms/Java/medium/3760_Maximum_Substrings_With_Distinct_Start_[Medium].java)|Medium|
